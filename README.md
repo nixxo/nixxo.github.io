@@ -11,7 +11,7 @@ Installation instructions:
     <li>Go to "Addons".</li>
     <li>In "Addons", choose "Install from zip file". When it asks for the location, select the repository, and install the plugins:
       <ul>
-        <li><a href="plugin.video.skyvideoitalia_0_0_1.zip">plugin.video.skyvideoitalia_0_0_1.zip</a>: Sky video italia (Kodi 19)</li>
+        <li><a href="plugin.video.skyvideoitalia_0.0.1.zip">plugin.video.skyvideoitalia_0.0.1.zip</a>: Sky video italia (Kodi 19)</li>
       </ul>
     </li>
   </ul>
