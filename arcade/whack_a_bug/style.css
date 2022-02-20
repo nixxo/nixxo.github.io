@@ -1,0 +1,31 @@
+:root {
+    --cell-size: 100px;
+    --cell-gutter: 20px;
+}
+
+#grid {
+    width: calc(var(--cell-size) * 3 + var(--cell-gutter) * 2);
+    height: calc(var(--cell-size) * 3 + var(--cell-gutter) * 2);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.cell {
+    width: var(--cell-size);
+    height: var(--cell-size);
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.bug {
+    background-image: url('images/bug.png');
+}
+
+.splat {
+    background-image: url('images/bug-splat.png');
+}

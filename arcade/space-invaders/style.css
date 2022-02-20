@@ -1,0 +1,37 @@
+:root {
+   --cell-size: 40px;
+   --grid-size: 15;
+}
+
+#grid {
+    border: 1px solid white;
+    height: calc(var(--cell-size) * var(--grid-size));
+    width: calc(var(--cell-size) * var(--grid-size));
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: content-box;
+}
+
+#grid > div {
+    height: var(--cell-size);
+    width: var(--cell-size);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.alien {
+    background-image: url('images/alien.png');
+}
+
+.boom {
+    background-image: url('images/boom.png');
+}
+
+.laser {
+    background-image: url('images/laser.png');
+}
+
+.spaceship {
+    background-image: url('images/spaceship.png');
+}

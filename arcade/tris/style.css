@@ -1,0 +1,30 @@
+:root {
+    --cell-size: 100px;
+    --cell-gutter: 20px;
+}
+
+#grid { 
+    width: calc((var(--cell-size) + var(--cell-gutter)) * 3);
+    height: calc((var(--cell-size) + var(--cell-gutter)) * 3);
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+
+}
+
+.cell {
+    height: var(--cell-size);
+    width: var(--cell-size);
+    border: 2px solid white;
+    cursor: pointer;
+    font-size: 80px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+
+}
