@@ -1,405 +1,317 @@
-BEGIN:VCALENDAR
-
-VERSION:2.0
-
-PRODID:ics.py - http://git.io/lLljaA
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: MotoGP\nSession: Race
-
-LOCATION:Lusail International Circuit - Qatar
-
-DTSTART:20220306T150000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:dedab391-8806-47ca-a79e-344d9156d683@deda.org
-
-URL:https://www.motogp.com/en/event/Qatar
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: SHARK HELMETS Grand Prix de France\nClass: MotoGP\nSession: Race
-
-LOCATION:Le Mans - France
-
-DTSTART:20220515T120000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:b73b3a9c-e74d-4d38-ad7c-a665c1621c3e@b73b.org
-
-URL:https://www.motogp.com/en/event/France
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: MotoGP\nSession: Race
-
-LOCATION:Termas de Río Hondo - Argentina
-
-DTSTART:20220403T180000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:6f6b2a60-34e3-4a8d-8567-136cdfe3c94b@6f6b.org
-
-URL:https://www.motogp.com/en/event/Argentina
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220430T122500Z
-
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-
-DTSTART:20220430T121000Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:31c084e3-8487-4d08-9a96-a3be82fd7d65@31c0.org
-
-URL:https://www.motogp.com/en/event/España
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: MotoGP\nSession: Qualifying Nr. 2
-
-DTEND:20220319T074500Z
-
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-
-DTSTART:20220319T073000Z
-
-SUMMARY:[MotoGP] Q2
-
-UID:e289b33d-88a8-40f1-8eea-cc25acd4c9e5@e289.org
-
-URL:https://www.motogp.com/en/event/Indonesia
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Race
-
-LOCATION:Autódromo Internacional do Algarve - Portugal
-
-DTSTART:20220424T130000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:107dceed-2cb2-4d0f-870e-ccc85696a941@107d.org
-
-URL:https://www.motogp.com/en/event/Portugal
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: SHARK HELMETS Grand Prix de France\nClass: MotoGP\nSession: Qualifying Nr. 2
-
-DTEND:20220514T125000Z
-
-LOCATION:Le Mans - France
-
-DTSTART:20220514T123500Z
-
-SUMMARY:[MotoGP] Q2
-
-UID:7dc85b1d-babc-444b-8cea-31c0eb7b050e@7dc8.org
-
-URL:https://www.motogp.com/en/event/France
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220423T132500Z
-
-LOCATION:Autódromo Internacional do Algarve - Portugal
-
-DTSTART:20220423T131000Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:e57f2eee-2db4-4eb9-bf1b-5b4db84dbd3a@e57f.org
-
-URL:https://www.motogp.com/en/event/Portugal
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220319T072000Z
-
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-
-DTSTART:20220319T070500Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:cfbd5133-7fd4-4838-b354-958cca2299d4@cfbd.org
-
-URL:https://www.motogp.com/en/event/Indonesia
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: Qualifying Nr. 2
-
-DTEND:20220528T125000Z
-
-LOCATION:Autodromo Internazionale del Mugello - Italy
-
-DTSTART:20220528T123500Z
-
-SUMMARY:[MotoGP] Q2
-
-UID:68f54baa-2c42-40a9-ace2-637918bc9d09@68f5.org
-
-URL:https://www.motogp.com/en/event/Italy
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: Race
-
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-
-DTSTART:20220501T120000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:7dee89e1-cb6f-4ba7-a7b4-4431fe90027c@7dee.org
-
-URL:https://www.motogp.com/en/event/España
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: MotoGP\nSession: Qualifying Nr. 2
-
-DTEND:20220409T195000Z
-
-LOCATION:Circuit Of The Americas - United States
-
-DTSTART:20220409T193500Z
-
-SUMMARY:[MotoGP] Q2
-
-UID:4ac8dac5-1211-449f-b1c9-69db14b7d7e6@4ac8.org
-
-URL:https://www.motogp.com/en/event/Americas
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Qualifying Nr. 2
-
-DTEND:20220423T135000Z
-
-LOCATION:Autódromo Internacional do Algarve - Portugal
-
-DTSTART:20220423T133500Z
-
-SUMMARY:[MotoGP] Q2
-
-UID:a846e102-32f2-4080-b333-09c70c387306@a846.org
-
-URL:https://www.motogp.com/en/event/Portugal
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: Qualifying Nr. 2
-
-DTEND:20220430T125000Z
-
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-
-DTSTART:20220430T123500Z
-
-SUMMARY:[MotoGP] Q2
-
-UID:8ac119e7-76af-4e53-a6cf-738f9eeee67f@8ac1.org
-
-URL:https://www.motogp.com/en/event/España
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: MotoGP\nSession: Race
-
-LOCATION:Circuit Of The Americas - United States
-
-DTSTART:20220410T190000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:b4d0f19f-9daa-49fd-8334-1a2af6c3345e@b4d0.org
-
-URL:https://www.motogp.com/en/event/Americas
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: MotoGP\nSession: Race
-
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-
-DTSTART:20220320T070000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:f25ff778-7e04-4f08-81f1-4759a39a4727@f25f.org
-
-URL:https://www.motogp.com/en/event/Indonesia
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: MotoGP\nSession: Qualifying Nr. 2
-
-DTEND:20220402T184500Z
-
-LOCATION:Termas de Río Hondo - Argentina
-
-DTSTART:20220402T183000Z
-
-SUMMARY:[MotoGP] Q2
-
-UID:bf793613-435d-4610-b33e-8d30ae67a357@bf79.org
-
-URL:https://www.motogp.com/en/event/Argentina
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: Race
-
-LOCATION:Autodromo Internazionale del Mugello - Italy
-
-DTSTART:20220529T120000Z
-
-SUMMARY:[MotoGP] RAC
-
-UID:bd4f7d02-e050-4c4f-9ab7-73f2eb8d517e@bd4f.org
-
-URL:https://www.motogp.com/en/event/Italy
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220409T192500Z
-
-LOCATION:Circuit Of The Americas - United States
-
-DTSTART:20220409T191000Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:dcac1397-f4cc-4063-8151-e36b546681c5@dcac.org
-
-URL:https://www.motogp.com/en/event/Americas
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220305T151500Z
-
-LOCATION:Lusail International Circuit - Qatar
-
-DTSTART:20220305T150000Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:ffd7ea10-11ed-4e8f-9ce6-eee8ccc80287@ffd7.org
-
-URL:https://www.motogp.com/en/event/Qatar
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220402T182000Z
-
-LOCATION:Termas de Río Hondo - Argentina
-
-DTSTART:20220402T180500Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:9bfaf41a-edcf-4037-aaf4-28188a84dde9@9bfa.org
-
-URL:https://www.motogp.com/en/event/Argentina
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220528T122500Z
-
-LOCATION:Autodromo Internazionale del Mugello - Italy
-
-DTSTART:20220528T121000Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:73a83404-dd73-47a4-9613-13256fa76ca3@73a8.org
-
-URL:https://www.motogp.com/en/event/Italy
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Event: SHARK HELMETS Grand Prix de France\nClass: MotoGP\nSession: Qualifying Nr. 1
-
-DTEND:20220514T122500Z
-
-LOCATION:Le Mans - France
-
-DTSTART:20220514T121000Z
-
-SUMMARY:[MotoGP] Q1
-
-UID:6c8f7829-e769-459a-b742-6b525e25daed@6c8f.org
-
-URL:https://www.motogp.com/en/event/France
-
-END:VEVENT
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0800
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+08:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC-03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC-03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0500
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC-05:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220305T180000
+DTEND;TZID="UTC+03:00":20220305T181500
+SUMMARY:[MotoGP] Q1
+UID:a1c0f120-2d83-43d2-90ab-a003bd477404@a1c0.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: MotoGP\nSession: Qualifying 
+ Nr. 1
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T145519Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220305T182500
+DTEND;TZID="UTC+03:00":20220305T184000
+SUMMARY:[MotoGP] Q2
+UID:019efd9b-6062-43ce-9d8c-07399df4ead9@019e.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: MotoGP\nSession: Qualifying 
+ Nr. 2
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T145519Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220306T180000
+SUMMARY:[MotoGP] RAC
+UID:61237288-1d1d-4dea-8df0-cd456b8ac710@6123.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: MotoGP\nSession: Race
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T145519Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220319T150500
+DTEND;TZID="UTC+08:00":20220319T152000
+SUMMARY:[MotoGP] Q1
+UID:04e558e3-5281-4011-bf78-db3b3d3b6e4e@04e5.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T145520Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220319T153000
+DTEND;TZID="UTC+08:00":20220319T154500
+SUMMARY:[MotoGP] Q2
+UID:0fa0641c-cb89-471b-93bf-a8e6f4a2b361@0fa0.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T145520Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220320T150000
+SUMMARY:[MotoGP] RAC
+UID:bf0ec8e0-7afc-4c60-8bf1-d5824bb7ccfc@bf0e.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ MotoGP\nSession: Race
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T145520Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220402T150500
+DTEND;TZID="UTC-03:00":20220402T152000
+SUMMARY:[MotoGP] Q1
+UID:6a3641bd-a6b0-4da9-816e-042e8b4e35e7@6a36.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T145522Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220402T153000
+DTEND;TZID="UTC-03:00":20220402T154500
+SUMMARY:[MotoGP] Q2
+UID:919d8d39-f242-46dc-99d3-0038a761ea69@919d.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T145522Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220403T150000
+SUMMARY:[MotoGP] RAC
+UID:b850f083-2b6f-402f-9b10-4f8ef215a1c4@b850.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ MotoGP\nSession: Race
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T145522Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220409T141000
+DTEND;TZID="UTC-05:00":20220409T142500
+SUMMARY:[MotoGP] Q1
+UID:1d94d411-5ce3-403c-92d1-6d8bda9a55f6@1d94.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T145523Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220409T143500
+DTEND;TZID="UTC-05:00":20220409T145000
+SUMMARY:[MotoGP] Q2
+UID:270f0d94-d1ed-4399-810f-4e0881970078@270f.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T145523Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220410T140000
+SUMMARY:[MotoGP] RAC
+UID:943107b4-7b82-48c3-80ed-5fd55624818e@9431.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ MotoGP\nSession: Race
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T145523Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220423T141000
+DTEND;TZID="UTC+01:00":20220423T142500
+SUMMARY:[MotoGP] Q1
+UID:370c8772-55f8-49b6-9893-b8749f7d0321@370c.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
+ Qualifying Nr. 1
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T145524Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220423T143500
+DTEND;TZID="UTC+01:00":20220423T145000
+SUMMARY:[MotoGP] Q2
+UID:ebd31ae9-27dd-43cd-81d6-96765e865bf1@ebd3.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
+ Qualifying Nr. 2
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T145524Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220424T140000
+SUMMARY:[MotoGP] RAC
+UID:cee23374-e7c5-43da-9ec2-d5015a9f8584@cee2.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Race
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T145524Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220430T141000
+DTEND;TZID="UTC+02:00":20220430T142500
+SUMMARY:[MotoGP] Q1
+UID:3acb8a0a-3fd7-4149-8622-56ab1c908327@3acb.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: 
+ Qualifying Nr. 1
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T145525Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220430T143500
+DTEND;TZID="UTC+02:00":20220430T145000
+SUMMARY:[MotoGP] Q2
+UID:7f2ea21e-0ef2-49a2-8fcf-6c00b559e601@7f2e.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: 
+ Qualifying Nr. 2
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T145525Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220501T140000
+SUMMARY:[MotoGP] RAC
+UID:f736ca2a-8f16-4d42-9494-fdba81d5da7f@f736.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: 
+ Race
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T145525Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220514T141000
+DTEND;TZID="UTC+02:00":20220514T142500
+SUMMARY:[MotoGP] Q1
+UID:ca3f5f9f-11e3-49d9-8e7b-5ee683ba2d0e@ca3f.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoGP\nSession: 
+ Qualifying Nr. 1
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T145526Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220514T143500
+DTEND;TZID="UTC+02:00":20220514T145000
+SUMMARY:[MotoGP] Q2
+UID:fa637296-81e5-49a0-bd20-899969de1ba1@fa63.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoGP\nSession: 
+ Qualifying Nr. 2
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T145526Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220515T140000
+SUMMARY:[MotoGP] RAC
+UID:ef80d1f9-f4dd-496b-a468-29848d0fdce1@ef80.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoGP\nSession: Race
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T145526Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220528T141000
+DTEND;TZID="UTC+02:00":20220528T142500
+SUMMARY:[MotoGP] Q1
+UID:dafc45b4-e040-423b-978f-10406e0289be@dafc.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: 
+ Qualifying Nr. 1
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T145527Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220528T143500
+DTEND;TZID="UTC+02:00":20220528T145000
+SUMMARY:[MotoGP] Q2
+UID:8d2962e9-6e76-44a3-9c2c-1988e5426334@8d29.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: 
+ Qualifying Nr. 2
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T145527Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220529T140000
+SUMMARY:[MotoGP] RAC
+UID:a502c994-999b-486e-928e-ba5df8abcfe1@a502.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: 
+ Race
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T145527Z
+END:VEVENT
 END:VCALENDAR
