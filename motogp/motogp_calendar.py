@@ -15,8 +15,10 @@ clas_filter_on = True
 def has_data_time(tag):
     return tag.has_attr('data-ini-time') or tag.has_attr('data-end')
 
+
 def str_enc(string):
-    return string.encode('utf-8').decode('cp1252')
+    for s in string.splitlines():
+        yield s.encode('utf-8').decode('cp1252') + '\n'
 
 
 def main():
@@ -101,16 +103,17 @@ def main():
             e.begin = tm.get('data-ini-time')
             e.end = tm.get('data-end')
             cals[clas].events.append(e)
+
             if sess in sess_filter:
                 cals[f'{clas}_filtered'].events.append(e)
 
-        #break
+        # break
         print('')
 
 
     for c in cals:
         with open(f'{c}_2022_calendar.ics', 'w') as my_file:
-            my_file.write(str_enc(cals[c].serialize()))
+            my_file.writelines(str_enc(cals[c].serialize()))
 
 
 main()

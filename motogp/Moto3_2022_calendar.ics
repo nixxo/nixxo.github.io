@@ -1,766 +1,1689 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py 0.8.0-dev - http://git.io/lLljaA
-BEGIN:VTIMEZONE
-TZID:UTC+03:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0300
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-TZNAME:UTC+03:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+08:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0800
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-TZNAME:UTC+08:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC-03:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:-0300
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-TZNAME:UTC-03:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC-05:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:-0500
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-TZNAME:UTC-05:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+01:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0100
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-TZNAME:UTC+01:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+02:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0200
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-TZNAME:UTC+02:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-DTSTART:20220219T100000Z
-DTEND:20220219T111000Z
-SUMMARY:[Moto3] FP1
-UID:0fea402e-7a7d-40cf-a760-f4bde6689dae@0fea.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 1 Session 1
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220219T124000Z
-DTEND:20220219T135000Z
-SUMMARY:[Moto3] FP2
-UID:360378af-5e1b-49f1-ac0c-9f4498d4fc09@3603.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 1 Session 2
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220219T152000Z
-DTEND:20220219T163500Z
-SUMMARY:[Moto3] FP3
-UID:d9fe7b4f-be7e-4c29-a9af-5cbf59f7440c@d9fe.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 1 Session 3
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220220T112000Z
-DTEND:20220220T123000Z
-SUMMARY:[Moto3] FP4
-UID:28ac25bc-1315-44c9-b1ed-194165fbc42d@28ac.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 2 Session 1
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220220T140000Z
-DTEND:20220220T151000Z
-SUMMARY:[Moto3] FP5
-UID:71b8797f-a256-4338-91b7-6b5fe5fe4d31@71b8.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 2 Session 2
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220220T164500Z
-DTEND:20220220T180000Z
-SUMMARY:[Moto3] FP6
-UID:e5500c1e-bae0-472c-a41d-0ca503af6c12@e550.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 2 Session 3
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220221T100000Z
-DTEND:20220221T111000Z
-SUMMARY:[Moto3] FP7
-UID:8ff69943-315d-4326-b45c-358bb0cdf55e@8ff6.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 3 Session 1
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220221T124000Z
-DTEND:20220221T135000Z
-SUMMARY:[Moto3] FP8
-UID:2c183755-645a-4645-9d79-332e496798c3@2c18.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 3 Session 2
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20220221T152000Z
-DTEND:20220221T163500Z
-SUMMARY:[Moto3] FP9
-UID:592aabc1-6791-4550-9519-af73866d0c25@592a.org
-DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
- Moto3\nSession: Day 3 Session 3
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
-DTSTAMP:20220222T145518Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220304T115000
-DTEND;TZID="UTC+03:00":20220304T123000
-SUMMARY:[Moto3] FP1
-UID:3649bab3-ca4d-441e-b536-4ed283f230f1@3649.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Free 
- Practice Nr. 1
-LOCATION:Lusail International Circuit - Qatar
-URL:https://www.motogp.com/en/event/Qatar
-DTSTAMP:20220222T145519Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220304T161000
-DTEND;TZID="UTC+03:00":20220304T165000
-SUMMARY:[Moto3] FP2
-UID:afffa4d8-04f8-465e-9c62-306368c5568e@afff.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Free 
- Practice Nr. 2
-LOCATION:Lusail International Circuit - Qatar
-URL:https://www.motogp.com/en/event/Qatar
-DTSTAMP:20220222T145519Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220305T112500
-DTEND;TZID="UTC+03:00":20220305T120500
-SUMMARY:[Moto3] FP3
-UID:b23ad110-5e6f-40cd-bf55-64477b23514a@b23a.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Free 
- Practice Nr. 3
-LOCATION:Lusail International Circuit - Qatar
-URL:https://www.motogp.com/en/event/Qatar
-DTSTAMP:20220222T145519Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220305T153000
-DTEND;TZID="UTC+03:00":20220305T154500
-SUMMARY:[Moto3] Q1
-UID:da7d8579-8899-44ad-aadd-6e45450ca9f6@da7d.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Qualifying 
- Nr. 1
-LOCATION:Lusail International Circuit - Qatar
-URL:https://www.motogp.com/en/event/Qatar
-DTSTAMP:20220222T145519Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220305T155500
-DTEND;TZID="UTC+03:00":20220305T161000
-SUMMARY:[Moto3] Q2
-UID:24d07029-5097-4f3b-9da4-268e4e85f6ad@24d0.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Qualifying 
- Nr. 2
-LOCATION:Lusail International Circuit - Qatar
-URL:https://www.motogp.com/en/event/Qatar
-DTSTAMP:20220222T145519Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220306T130000
-DTEND;TZID="UTC+03:00":20220306T131000
-SUMMARY:[Moto3] WUP
-UID:05f87682-0189-478f-ae8a-56e9f603780c@05f8.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Warm Up
-LOCATION:Lusail International Circuit - Qatar
-URL:https://www.motogp.com/en/event/Qatar
-DTSTAMP:20220222T145519Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220306T150000
-SUMMARY:[Moto3] RAC
-UID:13b1543e-b167-41b1-94c9-b7d827090fee@13b1.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Race
-LOCATION:Lusail International Circuit - Qatar
-URL:https://www.motogp.com/en/event/Qatar
-DTSTAMP:20220222T145519Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220318T090000
-DTEND;TZID="UTC+08:00":20220318T095000
-SUMMARY:[Moto3] FP1
-UID:c0ec9f3b-09e6-4cf2-b4f5-60f13dd47520@c0ec.org
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- Moto3\nSession: Free Practice Nr. 1
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-URL:https://www.motogp.com/en/event/Indonesia
-DTSTAMP:20220222T145520Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220318T131500
-DTEND;TZID="UTC+08:00":20220318T135500
-SUMMARY:[Moto3] FP2
-UID:459abdf7-d168-444c-8546-2ab9da1ea283@459a.org
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- Moto3\nSession: Free Practice Nr. 2
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-URL:https://www.motogp.com/en/event/Indonesia
-DTSTAMP:20220222T145520Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220319T090000
-DTEND;TZID="UTC+08:00":20220319T094000
-SUMMARY:[Moto3] FP3
-UID:d653bedf-8312-49b2-82a0-64fdb573027e@d653.org
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- Moto3\nSession: Free Practice Nr. 3
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-URL:https://www.motogp.com/en/event/Indonesia
-DTSTAMP:20220222T145520Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220319T123500
-DTEND;TZID="UTC+08:00":20220319T125000
-SUMMARY:[Moto3] Q1
-UID:0e3119bd-b780-4660-9b1c-e486eeef64e6@0e31.org
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- Moto3\nSession: Qualifying Nr. 1
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-URL:https://www.motogp.com/en/event/Indonesia
-DTSTAMP:20220222T145520Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220319T130000
-DTEND;TZID="UTC+08:00":20220319T131500
-SUMMARY:[Moto3] Q2
-UID:1dbb928c-acfa-48de-934d-562ada06184d@1dbb.org
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- Moto3\nSession: Qualifying Nr. 2
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-URL:https://www.motogp.com/en/event/Indonesia
-DTSTAMP:20220222T145520Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220320T100000
-DTEND;TZID="UTC+08:00":20220320T101000
-SUMMARY:[Moto3] WUP
-UID:46d29687-86e1-4209-9358-aae838bf17db@46d2.org
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- Moto3\nSession: Warm Up
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-URL:https://www.motogp.com/en/event/Indonesia
-DTSTAMP:20220222T145520Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220320T120000
-SUMMARY:[Moto3] RAC
-UID:f825f7c4-e14c-4f91-9630-b9539fb83a00@f825.org
-DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- Moto3\nSession: Race
-LOCATION:Pertamina Mandalika Circuit - Indonesia
-URL:https://www.motogp.com/en/event/Indonesia
-DTSTAMP:20220222T145520Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-03:00":20220401T090000
-DTEND;TZID="UTC-03:00":20220401T095000
-SUMMARY:[Moto3] FP1
-UID:7d16edac-603e-4445-887e-07ab6ed14ead@7d16.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- Moto3\nSession: Free Practice Nr. 1
-LOCATION:Termas de Río Hondo - Argentina
-URL:https://www.motogp.com/en/event/Argentina
-DTSTAMP:20220222T145522Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-03:00":20220401T131500
-DTEND;TZID="UTC-03:00":20220401T135500
-SUMMARY:[Moto3] FP2
-UID:02c54650-c231-4655-a017-45ee43eafaf4@02c5.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- Moto3\nSession: Free Practice Nr. 2
-LOCATION:Termas de Río Hondo - Argentina
-URL:https://www.motogp.com/en/event/Argentina
-DTSTAMP:20220222T145522Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-03:00":20220402T090000
-DTEND;TZID="UTC-03:00":20220402T094000
-SUMMARY:[Moto3] FP3
-UID:fcb8613d-0a74-4231-9e54-3dd5c6345a1f@fcb8.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- Moto3\nSession: Free Practice Nr. 3
-LOCATION:Termas de Río Hondo - Argentina
-URL:https://www.motogp.com/en/event/Argentina
-DTSTAMP:20220222T145522Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-03:00":20220402T123500
-DTEND;TZID="UTC-03:00":20220402T125000
-SUMMARY:[Moto3] Q1
-UID:6080ddeb-ed30-46f8-9775-c9aafc2f47c4@6080.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- Moto3\nSession: Qualifying Nr. 1
-LOCATION:Termas de Río Hondo - Argentina
-URL:https://www.motogp.com/en/event/Argentina
-DTSTAMP:20220222T145522Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-03:00":20220402T130000
-DTEND;TZID="UTC-03:00":20220402T131500
-SUMMARY:[Moto3] Q2
-UID:2b67eb8f-8923-4a74-bacc-7a79f9b41180@2b67.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- Moto3\nSession: Qualifying Nr. 2
-LOCATION:Termas de Río Hondo - Argentina
-URL:https://www.motogp.com/en/event/Argentina
-DTSTAMP:20220222T145522Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-03:00":20220403T100000
-DTEND;TZID="UTC-03:00":20220403T101000
-SUMMARY:[Moto3] WUP
-UID:936ad378-ce87-416d-b849-87381838466f@936a.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- Moto3\nSession: Warm Up
-LOCATION:Termas de Río Hondo - Argentina
-URL:https://www.motogp.com/en/event/Argentina
-DTSTAMP:20220222T145522Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-03:00":20220403T120000
-SUMMARY:[Moto3] RAC
-UID:ec21fc9f-0891-46c0-8688-1699a9d6dd66@ec21.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- Moto3\nSession: Race
-LOCATION:Termas de Río Hondo - Argentina
-URL:https://www.motogp.com/en/event/Argentina
-DTSTAMP:20220222T145522Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-05:00":20220408T090000
-DTEND;TZID="UTC-05:00":20220408T094000
-SUMMARY:[Moto3] FP1
-UID:e925f48f-3729-4b62-88ca-7b12383eb381@e925.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
- Moto3\nSession: Free Practice Nr. 1
-LOCATION:Circuit Of The Americas - United States
-URL:https://www.motogp.com/en/event/Americas
-DTSTAMP:20220222T145523Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-05:00":20220408T131500
-DTEND;TZID="UTC-05:00":20220408T135500
-SUMMARY:[Moto3] FP2
-UID:aade7962-0c2c-4a9c-9e03-149226e3741c@aade.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
- Moto3\nSession: Free Practice Nr. 2
-LOCATION:Circuit Of The Americas - United States
-URL:https://www.motogp.com/en/event/Americas
-DTSTAMP:20220222T145523Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-05:00":20220409T090000
-DTEND;TZID="UTC-05:00":20220409T094000
-SUMMARY:[Moto3] FP3
-UID:e464e613-b01b-4123-906a-e32f9aa3659e@e464.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
- Moto3\nSession: Free Practice Nr. 3
-LOCATION:Circuit Of The Americas - United States
-URL:https://www.motogp.com/en/event/Americas
-DTSTAMP:20220222T145523Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-05:00":20220409T123500
-DTEND;TZID="UTC-05:00":20220409T125000
-SUMMARY:[Moto3] Q1
-UID:eecbc995-a21d-4221-bd93-49a75fdaed3e@eecb.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
- Moto3\nSession: Qualifying Nr. 1
-LOCATION:Circuit Of The Americas - United States
-URL:https://www.motogp.com/en/event/Americas
-DTSTAMP:20220222T145523Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-05:00":20220409T130000
-DTEND;TZID="UTC-05:00":20220409T131500
-SUMMARY:[Moto3] Q2
-UID:6fb2b0d0-636d-43a4-a4b0-fd2b7ca93343@6fb2.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
- Moto3\nSession: Qualifying Nr. 2
-LOCATION:Circuit Of The Americas - United States
-URL:https://www.motogp.com/en/event/Americas
-DTSTAMP:20220222T145523Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-05:00":20220410T090000
-DTEND;TZID="UTC-05:00":20220410T091000
-SUMMARY:[Moto3] WUP
-UID:33b50c45-eeb4-4502-a5e6-19627d8088ac@33b5.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
- Moto3\nSession: Warm Up
-LOCATION:Circuit Of The Americas - United States
-URL:https://www.motogp.com/en/event/Americas
-DTSTAMP:20220222T145523Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC-05:00":20220410T110000
-SUMMARY:[Moto3] RAC
-UID:e72b4a43-799f-425e-95b9-8b08d1dd9ee3@e72b.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
- Moto3\nSession: Race
-LOCATION:Circuit Of The Americas - United States
-URL:https://www.motogp.com/en/event/Americas
-DTSTAMP:20220222T145523Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220422T090000
-DTEND;TZID="UTC+01:00":20220422T094000
-SUMMARY:[Moto3] FP1
-UID:297bcd26-6f87-401b-8814-72e1e1aead3f@297b.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Free 
- Practice Nr. 1
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portugal
-DTSTAMP:20220222T145524Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220422T131500
-DTEND;TZID="UTC+01:00":20220422T135500
-SUMMARY:[Moto3] FP2
-UID:e4ca9471-b7c1-409a-a274-c64f3b08d640@e4ca.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Free 
- Practice Nr. 2
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portugal
-DTSTAMP:20220222T145524Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220423T090000
-DTEND;TZID="UTC+01:00":20220423T094000
-SUMMARY:[Moto3] FP3
-UID:a1e3c4b7-555b-43b7-a444-75c62500f21d@a1e3.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Free 
- Practice Nr. 3
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portugal
-DTSTAMP:20220222T145524Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220423T123500
-DTEND;TZID="UTC+01:00":20220423T125000
-SUMMARY:[Moto3] Q1
-UID:44c436a9-61fd-4612-933f-34aaf89d19e1@44c4.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: 
- Qualifying Nr. 1
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portugal
-DTSTAMP:20220222T145524Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220423T130000
-DTEND;TZID="UTC+01:00":20220423T131500
-SUMMARY:[Moto3] Q2
-UID:1c7a470d-13ae-4d16-85c5-10e1942ca5c3@1c7a.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: 
- Qualifying Nr. 2
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portugal
-DTSTAMP:20220222T145524Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220424T090000
-DTEND;TZID="UTC+01:00":20220424T091000
-SUMMARY:[Moto3] WUP
-UID:0594b179-9547-4cde-a668-8d47165554bc@0594.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Warm 
- Up
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portugal
-DTSTAMP:20220222T145524Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220424T110000
-SUMMARY:[Moto3] RAC
-UID:d6c92b80-3ed2-45e1-8fa5-61c950b5406c@d6c9.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Race
-LOCATION:Autódromo Internacional do Algarve - Portugal
-URL:https://www.motogp.com/en/event/Portugal
-DTSTAMP:20220222T145524Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220429T090000
-DTEND;TZID="UTC+02:00":20220429T094000
-SUMMARY:[Moto3] FP1
-UID:461dabc9-16fd-4ce0-b23f-8013efadfd61@461d.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
- Free Practice Nr. 1
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-URL:https://www.motogp.com/en/event/España
-DTSTAMP:20220222T145525Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220429T131500
-DTEND;TZID="UTC+02:00":20220429T135500
-SUMMARY:[Moto3] FP2
-UID:4f053452-e208-4209-b073-23f2761a3a11@4f05.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
- Free Practice Nr. 2
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-URL:https://www.motogp.com/en/event/España
-DTSTAMP:20220222T145525Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220430T090000
-DTEND;TZID="UTC+02:00":20220430T094000
-SUMMARY:[Moto3] FP3
-UID:e53bb3ea-af25-440d-ac01-60bb5b1d07dc@e53b.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
- Free Practice Nr. 3
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-URL:https://www.motogp.com/en/event/España
-DTSTAMP:20220222T145525Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220430T123500
-DTEND;TZID="UTC+02:00":20220430T125000
-SUMMARY:[Moto3] Q1
-UID:a41084b2-8c72-4996-bce5-32956f074e68@a410.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
- Qualifying Nr. 1
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-URL:https://www.motogp.com/en/event/España
-DTSTAMP:20220222T145525Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220430T130000
-DTEND;TZID="UTC+02:00":20220430T131500
-SUMMARY:[Moto3] Q2
-UID:0fad599c-fd09-44ad-a285-df72b904f49f@0fad.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
- Qualifying Nr. 2
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-URL:https://www.motogp.com/en/event/España
-DTSTAMP:20220222T145525Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220501T090000
-DTEND;TZID="UTC+02:00":20220501T091000
-SUMMARY:[Moto3] WUP
-UID:7e35e7e0-d8cc-40af-a422-8d766132d9db@7e35.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
- Warm Up
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-URL:https://www.motogp.com/en/event/España
-DTSTAMP:20220222T145525Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220501T110000
-SUMMARY:[Moto3] RAC
-UID:3f90833f-7973-48af-b85f-e457b8965511@3f90.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
- Race
-LOCATION:Circuito de Jerez - Angel Nieto - Spain
-URL:https://www.motogp.com/en/event/España
-DTSTAMP:20220222T145525Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220513T090000
-DTEND;TZID="UTC+02:00":20220513T094000
-SUMMARY:[Moto3] FP1
-UID:d5f7890a-e8a2-418a-a49b-a50c3ba468b9@d5f7.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Free 
- Practice Nr. 1
-LOCATION:Le Mans - France
-URL:https://www.motogp.com/en/event/Fance
-DTSTAMP:20220222T145526Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220513T131500
-DTEND;TZID="UTC+02:00":20220513T135500
-SUMMARY:[Moto3] FP2
-UID:82c7ee9f-eddb-4401-a3dc-6491934e78ec@82c7.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Free 
- Practice Nr. 2
-LOCATION:Le Mans - France
-URL:https://www.motogp.com/en/event/Fance
-DTSTAMP:20220222T145526Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220514T090000
-DTEND;TZID="UTC+02:00":20220514T094000
-SUMMARY:[Moto3] FP3
-UID:85bfc09c-d0c4-47a3-966b-1be5d65a6a7a@85bf.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Free 
- Practice Nr. 3
-LOCATION:Le Mans - France
-URL:https://www.motogp.com/en/event/Fance
-DTSTAMP:20220222T145526Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220514T123500
-DTEND;TZID="UTC+02:00":20220514T125000
-SUMMARY:[Moto3] Q1
-UID:44e20735-a056-4da5-8885-bd19d19011a8@44e2.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: 
- Qualifying Nr. 1
-LOCATION:Le Mans - France
-URL:https://www.motogp.com/en/event/Fance
-DTSTAMP:20220222T145526Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220514T130000
-DTEND;TZID="UTC+02:00":20220514T131500
-SUMMARY:[Moto3] Q2
-UID:89706b1c-6025-4287-88f7-f7484ac074cd@8970.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: 
- Qualifying Nr. 2
-LOCATION:Le Mans - France
-URL:https://www.motogp.com/en/event/Fance
-DTSTAMP:20220222T145526Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220515T090000
-DTEND;TZID="UTC+02:00":20220515T091000
-SUMMARY:[Moto3] WUP
-UID:70315810-0f4a-4ada-b925-5ce59bfb70e1@7031.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Warm 
- Up
-LOCATION:Le Mans - France
-URL:https://www.motogp.com/en/event/Fance
-DTSTAMP:20220222T145526Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220515T110000
-SUMMARY:[Moto3] RAC
-UID:bc9d96f9-26e6-482d-b249-1875c9841910@bc9d.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Race
-LOCATION:Le Mans - France
-URL:https://www.motogp.com/en/event/Fance
-DTSTAMP:20220222T145526Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220527T090000
-DTEND;TZID="UTC+02:00":20220527T094000
-SUMMARY:[Moto3] FP1
-UID:9253a59a-a900-42f8-bf40-58942d01783d@9253.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Free
-  Practice Nr. 1
-LOCATION:Autodromo Internazionale del Mugello - Italy
-URL:https://www.motogp.com/en/event/Italy
-DTSTAMP:20220222T145527Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220527T131500
-DTEND;TZID="UTC+02:00":20220527T135500
-SUMMARY:[Moto3] FP2
-UID:1cc9fd29-22aa-40fb-b8fe-3118ace58a58@1cc9.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Free
-  Practice Nr. 2
-LOCATION:Autodromo Internazionale del Mugello - Italy
-URL:https://www.motogp.com/en/event/Italy
-DTSTAMP:20220222T145527Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220528T090000
-DTEND;TZID="UTC+02:00":20220528T094000
-SUMMARY:[Moto3] FP3
-UID:0932de04-ad5a-4b80-904f-3d9672febaa2@0932.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Free
-  Practice Nr. 3
-LOCATION:Autodromo Internazionale del Mugello - Italy
-URL:https://www.motogp.com/en/event/Italy
-DTSTAMP:20220222T145527Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220528T123500
-DTEND;TZID="UTC+02:00":20220528T125000
-SUMMARY:[Moto3] Q1
-UID:73b3a51a-c340-424e-b146-bfc14a761316@73b3.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: 
- Qualifying Nr. 1
-LOCATION:Autodromo Internazionale del Mugello - Italy
-URL:https://www.motogp.com/en/event/Italy
-DTSTAMP:20220222T145527Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220528T130000
-DTEND;TZID="UTC+02:00":20220528T131500
-SUMMARY:[Moto3] Q2
-UID:68b479cd-f676-4d31-9acc-efd449eb523b@68b4.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: 
- Qualifying Nr. 2
-LOCATION:Autodromo Internazionale del Mugello - Italy
-URL:https://www.motogp.com/en/event/Italy
-DTSTAMP:20220222T145527Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220529T090000
-DTEND;TZID="UTC+02:00":20220529T091000
-SUMMARY:[Moto3] WUP
-UID:67acfd68-fcd9-4d8d-9ad0-be054920e39e@67ac.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Warm
-  Up
-LOCATION:Autodromo Internazionale del Mugello - Italy
-URL:https://www.motogp.com/en/event/Italy
-DTSTAMP:20220222T145527Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220529T110000
-SUMMARY:[Moto3] RAC
-UID:809e0ade-3d1f-4f6c-97b5-7e349614e054@809e.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Race
-LOCATION:Autodromo Internazionale del Mugello - Italy
-URL:https://www.motogp.com/en/event/Italy
-DTSTAMP:20220222T145527Z
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0800
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+08:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC-03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC-03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0500
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC-05:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+09:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0900
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+09:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+11:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+1100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+11:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20220219T100000Z
+DTEND:20220219T111000Z
+SUMMARY:[Moto3] FP1
+UID:a97087b3-4d55-4743-95c1-ce4092bab310@a970.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 1 Session 1
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T124000Z
+DTEND:20220219T135000Z
+SUMMARY:[Moto3] FP2
+UID:bc492376-d719-4bd0-8eb2-6f1a6cfa8e5a@bc49.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 1 Session 2
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T152000Z
+DTEND:20220219T163500Z
+SUMMARY:[Moto3] FP3
+UID:a8b48c09-4f01-42d5-8e50-bb6b9c02ce22@a8b4.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 1 Session 3
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T112000Z
+DTEND:20220220T123000Z
+SUMMARY:[Moto3] FP4
+UID:58d7ce49-ab62-47ec-be4c-2f08c9aab572@58d7.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 2 Session 1
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T140000Z
+DTEND:20220220T151000Z
+SUMMARY:[Moto3] FP5
+UID:4d363400-df36-4029-b74b-a3c93b2098d9@4d36.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 2 Session 2
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T164500Z
+DTEND:20220220T180000Z
+SUMMARY:[Moto3] FP6
+UID:f99d356c-1805-4505-9836-bb096e0f1a1a@f99d.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 2 Session 3
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220221T100000Z
+DTEND:20220221T111000Z
+SUMMARY:[Moto3] FP7
+UID:b225f90d-6f2a-43e7-9d1d-75b7f9a3088b@b225.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 3 Session 1
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220221T124000Z
+DTEND:20220221T135000Z
+SUMMARY:[Moto3] FP8
+UID:42b8156d-3bd0-4aa7-b552-b9e5afc32ef5@42b8.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 3 Session 2
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220221T152000Z
+DTEND:20220221T163500Z
+SUMMARY:[Moto3] FP9
+UID:2fb26352-ced1-414a-a3e3-2a21963e5c52@2fb2.org
+DESCRIPTION:Event: Portimao Moto2™ & Moto3™ Official Test\nClass: 
+ Moto3\nSession: Day 3 Session 3
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portimao+Moto2+Moto3+Official+Test
+DTSTAMP:20220222T181002Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220304T115000
+DTEND;TZID="UTC+03:00":20220304T123000
+SUMMARY:[Moto3] FP1
+UID:28492e04-95e8-4216-834f-66c07fbce455@2849.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Free 
+ Practice Nr. 1
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220304T161000
+DTEND;TZID="UTC+03:00":20220304T165000
+SUMMARY:[Moto3] FP2
+UID:57643fe9-da0c-4766-865b-44ba0cfd6907@5764.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Free 
+ Practice Nr. 2
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220305T112500
+DTEND;TZID="UTC+03:00":20220305T120500
+SUMMARY:[Moto3] FP3
+UID:df3cc337-6ca4-4590-8cda-6badc31466cf@df3c.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Free 
+ Practice Nr. 3
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220305T153000
+DTEND;TZID="UTC+03:00":20220305T154500
+SUMMARY:[Moto3] Q1
+UID:c74755f2-0085-4603-a3eb-c36cb67da8a5@c747.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Qualifying 
+ Nr. 1
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220305T155500
+DTEND;TZID="UTC+03:00":20220305T161000
+SUMMARY:[Moto3] Q2
+UID:2186c649-2038-4a92-b154-2ff9879c7e86@2186.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Qualifying 
+ Nr. 2
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220306T130000
+DTEND;TZID="UTC+03:00":20220306T131000
+SUMMARY:[Moto3] WUP
+UID:c4c1651f-df39-4646-a3ed-37d226c284e7@c4c1.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Warm Up
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220306T150000
+SUMMARY:[Moto3] RAC
+UID:f2099c55-3efd-4dcf-b86f-ecd344b26936@f209.org
+DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto3\nSession: Race
+LOCATION:Lusail International Circuit - Qatar
+URL:https://www.motogp.com/en/event/Qatar
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220318T090000
+DTEND;TZID="UTC+08:00":20220318T095000
+SUMMARY:[Moto3] FP1
+UID:987d3541-c3d3-491e-87b0-73956f92e596@987d.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220318T131500
+DTEND;TZID="UTC+08:00":20220318T135500
+SUMMARY:[Moto3] FP2
+UID:f3f73c10-923f-4fad-bac4-77051e670890@f3f7.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220319T090000
+DTEND;TZID="UTC+08:00":20220319T094000
+SUMMARY:[Moto3] FP3
+UID:08e1cc6a-193f-4161-8f46-6686e7fe9fc5@08e1.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220319T123500
+DTEND;TZID="UTC+08:00":20220319T125000
+SUMMARY:[Moto3] Q1
+UID:5bab1332-3856-4805-8450-1b17fc845b88@5bab.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220319T130000
+DTEND;TZID="UTC+08:00":20220319T131500
+SUMMARY:[Moto3] Q2
+UID:e55ad531-5b99-47cb-9ccc-8df8fbf0921c@e55a.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220320T100000
+DTEND;TZID="UTC+08:00":20220320T101000
+SUMMARY:[Moto3] WUP
+UID:72221670-29e0-482e-955a-da32f045250a@7222.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20220320T120000
+SUMMARY:[Moto3] RAC
+UID:5708bb2f-73f8-40b2-a7e4-e971ae4f72b6@5708.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Race
+LOCATION:Pertamina Mandalika Circuit - Indonesia
+URL:https://www.motogp.com/en/event/Indonesia
+DTSTAMP:20220222T181004Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220401T090000
+DTEND;TZID="UTC-03:00":20220401T095000
+SUMMARY:[Moto3] FP1
+UID:14032751-f501-489b-b96a-eae8cef09da8@1403.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220401T131500
+DTEND;TZID="UTC-03:00":20220401T135500
+SUMMARY:[Moto3] FP2
+UID:e9456679-b441-408d-ad18-f69172c055b2@e945.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220402T090000
+DTEND;TZID="UTC-03:00":20220402T094000
+SUMMARY:[Moto3] FP3
+UID:c0871788-3223-4af7-86d5-99b7732f52de@c087.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220402T123500
+DTEND;TZID="UTC-03:00":20220402T125000
+SUMMARY:[Moto3] Q1
+UID:1dea6fe9-0e7c-475e-aefb-ff6c29c0f0d0@1dea.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220402T130000
+DTEND;TZID="UTC-03:00":20220402T131500
+SUMMARY:[Moto3] Q2
+UID:6637a482-d18c-4c27-90eb-00fa3fd38edf@6637.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220403T100000
+DTEND;TZID="UTC-03:00":20220403T101000
+SUMMARY:[Moto3] WUP
+UID:1f09d617-0b25-4d4e-8dd1-f71854732937@1f09.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20220403T120000
+SUMMARY:[Moto3] RAC
+UID:4436a283-2370-4cd8-9ecd-1a5ac816eaaa@4436.org
+DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
+ Moto3\nSession: Race
+LOCATION:Termas de Río Hondo - Argentina
+URL:https://www.motogp.com/en/event/Argentina
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220408T090000
+DTEND;TZID="UTC-05:00":20220408T094000
+SUMMARY:[Moto3] FP1
+UID:13cc866b-fc26-4c94-8d75-faaf39efdd10@13cc.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220408T131500
+DTEND;TZID="UTC-05:00":20220408T135500
+SUMMARY:[Moto3] FP2
+UID:b3fd5854-6e80-4e65-849a-a1e24715c979@b3fd.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220409T090000
+DTEND;TZID="UTC-05:00":20220409T094000
+SUMMARY:[Moto3] FP3
+UID:3d0bbee2-28fc-4157-b41f-346511991a9a@3d0b.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220409T123500
+DTEND;TZID="UTC-05:00":20220409T125000
+SUMMARY:[Moto3] Q1
+UID:ddb8b488-50fd-4060-a376-50999cb7a7c5@ddb8.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220409T130000
+DTEND;TZID="UTC-05:00":20220409T131500
+SUMMARY:[Moto3] Q2
+UID:6a749447-2fae-4172-9efa-0a2f580e3cd8@6a74.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220410T090000
+DTEND;TZID="UTC-05:00":20220410T091000
+SUMMARY:[Moto3] WUP
+UID:4e23c9db-5c80-400b-bca6-336fa552c908@4e23.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20220410T110000
+SUMMARY:[Moto3] RAC
+UID:d220cd68-6d17-4691-8832-2cb8eedcb384@d220.org
+DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+ Moto3\nSession: Race
+LOCATION:Circuit Of The Americas - United States
+URL:https://www.motogp.com/en/event/Americas
+DTSTAMP:20220222T181005Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220422T090000
+DTEND;TZID="UTC+01:00":20220422T094000
+SUMMARY:[Moto3] FP1
+UID:e348aef3-29ab-40d1-8c3b-cf837ccc47b1@e348.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Free 
+ Practice Nr. 1
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220422T131500
+DTEND;TZID="UTC+01:00":20220422T135500
+SUMMARY:[Moto3] FP2
+UID:62f69168-f405-4f9a-a561-16cc28107586@62f6.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Free 
+ Practice Nr. 2
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220423T090000
+DTEND;TZID="UTC+01:00":20220423T094000
+SUMMARY:[Moto3] FP3
+UID:15a10be5-7f65-4d21-8c07-9d3a55943913@15a1.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Free 
+ Practice Nr. 3
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220423T123500
+DTEND;TZID="UTC+01:00":20220423T125000
+SUMMARY:[Moto3] Q1
+UID:93c09f66-fec2-4e54-966a-31839233323d@93c0.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220423T130000
+DTEND;TZID="UTC+01:00":20220423T131500
+SUMMARY:[Moto3] Q2
+UID:fe528c2d-20b4-490f-8f1b-5e6f6ade6de0@fe52.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220424T090000
+DTEND;TZID="UTC+01:00":20220424T091000
+SUMMARY:[Moto3] WUP
+UID:2739d880-a4fb-4982-b774-85749de37e55@2739.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Warm 
+ Up
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220424T110000
+SUMMARY:[Moto3] RAC
+UID:16439b0f-3daa-4d82-b54b-240cd27f72b7@1643.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Race
+LOCATION:Autódromo Internacional do Algarve - Portugal
+URL:https://www.motogp.com/en/event/Portugal
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220429T090000
+DTEND;TZID="UTC+02:00":20220429T094000
+SUMMARY:[Moto3] FP1
+UID:36d13260-a322-4589-ac73-a5732e1980a6@36d1.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
+ Free Practice Nr. 1
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220429T131500
+DTEND;TZID="UTC+02:00":20220429T135500
+SUMMARY:[Moto3] FP2
+UID:781845ba-4236-4498-a74e-0faa1d54045a@7818.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
+ Free Practice Nr. 2
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220430T090000
+DTEND;TZID="UTC+02:00":20220430T094000
+SUMMARY:[Moto3] FP3
+UID:b326f39f-36c3-4fc5-9f9b-1d9e574f7966@b326.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
+ Free Practice Nr. 3
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220430T123500
+DTEND;TZID="UTC+02:00":20220430T125000
+SUMMARY:[Moto3] Q1
+UID:439505d1-5654-47f4-87fa-835319f0eb0e@4395.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220430T130000
+DTEND;TZID="UTC+02:00":20220430T131500
+SUMMARY:[Moto3] Q2
+UID:dd8431a3-c343-4df8-a016-5f358d1080f6@dd84.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220501T090000
+DTEND;TZID="UTC+02:00":20220501T091000
+SUMMARY:[Moto3] WUP
+UID:85a27840-a71b-4a8d-84fd-425d32ef498c@85a2.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
+ Warm Up
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220501T110000
+SUMMARY:[Moto3] RAC
+UID:720d4f31-e05d-4f85-bd7a-feecba0b7cc3@720d.org
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: Moto3\nSession: 
+ Race
+LOCATION:Circuito de Jerez - Angel Nieto - Spain
+URL:https://www.motogp.com/en/event/España
+DTSTAMP:20220222T181006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220513T090000
+DTEND;TZID="UTC+02:00":20220513T094000
+SUMMARY:[Moto3] FP1
+UID:df70bec6-f880-4bfa-9833-fb5109640d0d@df70.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Free 
+ Practice Nr. 1
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220513T131500
+DTEND;TZID="UTC+02:00":20220513T135500
+SUMMARY:[Moto3] FP2
+UID:84fd4149-c884-4809-8b6b-5d5cb07b3f02@84fd.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Free 
+ Practice Nr. 2
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220514T090000
+DTEND;TZID="UTC+02:00":20220514T094000
+SUMMARY:[Moto3] FP3
+UID:8297fe06-4cd0-4a92-a710-745cc5bf384b@8297.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Free 
+ Practice Nr. 3
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220514T123500
+DTEND;TZID="UTC+02:00":20220514T125000
+SUMMARY:[Moto3] Q1
+UID:61ebaf96-dc9b-4da7-a342-3ed2ae1bdd32@61eb.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220514T130000
+DTEND;TZID="UTC+02:00":20220514T131500
+SUMMARY:[Moto3] Q2
+UID:516c1d8d-10d1-4d44-aff0-f31f80702224@516c.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220515T090000
+DTEND;TZID="UTC+02:00":20220515T091000
+SUMMARY:[Moto3] WUP
+UID:047796df-e6df-40d0-bb8e-aa698a67ae11@0477.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Warm 
+ Up
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220515T110000
+SUMMARY:[Moto3] RAC
+UID:88d90db8-0e23-4b67-8f98-bbded3b7e63b@88d9.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Race
+LOCATION:Le Mans - France
+URL:https://www.motogp.com/en/event/Fance
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220527T090000
+DTEND;TZID="UTC+02:00":20220527T094000
+SUMMARY:[Moto3] FP1
+UID:62271619-076c-4511-8641-23ad819663a2@6227.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Free
+  Practice Nr. 1
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220527T131500
+DTEND;TZID="UTC+02:00":20220527T135500
+SUMMARY:[Moto3] FP2
+UID:228903a4-e5ec-429f-8afc-4743bd5e48b0@2289.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Free
+  Practice Nr. 2
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220528T090000
+DTEND;TZID="UTC+02:00":20220528T094000
+SUMMARY:[Moto3] FP3
+UID:70b8bc92-f440-447e-8c80-58117e65ee40@70b8.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Free
+  Practice Nr. 3
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220528T123500
+DTEND;TZID="UTC+02:00":20220528T125000
+SUMMARY:[Moto3] Q1
+UID:96230e92-fae3-4cf7-8976-54b15788bc59@9623.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220528T130000
+DTEND;TZID="UTC+02:00":20220528T131500
+SUMMARY:[Moto3] Q2
+UID:88fbc828-e4cc-416f-9148-18f0b9f88dcf@88fb.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220529T090000
+DTEND;TZID="UTC+02:00":20220529T091000
+SUMMARY:[Moto3] WUP
+UID:da6c3222-b46d-48c5-970d-86ab447d2cad@da6c.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Warm
+  Up
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220529T110000
+SUMMARY:[Moto3] RAC
+UID:3d4532a9-4227-4c41-b4ca-5ad7e47b91c1@3d45.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Race
+LOCATION:Autodromo Internazionale del Mugello - Italy
+URL:https://www.motogp.com/en/event/Italy
+DTSTAMP:20220222T181007Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220603T090000
+DTEND;TZID="UTC+02:00":20220603T094000
+SUMMARY:[Moto3] FP1
+UID:b39a7aa2-18c9-48f0-98fc-fc581acf14d2@b39a.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Circuit de Barcelona-Catalunya - Spain
+URL:https://www.motogp.com/en/event/Catalunya
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220603T131500
+DTEND;TZID="UTC+02:00":20220603T135500
+SUMMARY:[Moto3] FP2
+UID:8d4f07f7-2a1b-40e2-a808-b72708f6aff3@8d4f.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Circuit de Barcelona-Catalunya - Spain
+URL:https://www.motogp.com/en/event/Catalunya
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220604T090000
+DTEND;TZID="UTC+02:00":20220604T094000
+SUMMARY:[Moto3] FP3
+UID:ce5a4ec8-e1a5-4446-b1af-242da1467e00@ce5a.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Circuit de Barcelona-Catalunya - Spain
+URL:https://www.motogp.com/en/event/Catalunya
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220604T123500
+DTEND;TZID="UTC+02:00":20220604T125000
+SUMMARY:[Moto3] Q1
+UID:f6e0c128-a8f1-484e-8529-535c66fa90e4@f6e0.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Circuit de Barcelona-Catalunya - Spain
+URL:https://www.motogp.com/en/event/Catalunya
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220604T130000
+DTEND;TZID="UTC+02:00":20220604T131500
+SUMMARY:[Moto3] Q2
+UID:35238100-b49e-400b-9c14-3822f9b671f0@3523.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Circuit de Barcelona-Catalunya - Spain
+URL:https://www.motogp.com/en/event/Catalunya
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220605T090000
+DTEND;TZID="UTC+02:00":20220605T091000
+SUMMARY:[Moto3] WUP
+UID:1015472a-19d4-498e-9019-b4e5ed8edfdb@1015.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Circuit de Barcelona-Catalunya - Spain
+URL:https://www.motogp.com/en/event/Catalunya
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220605T110000
+SUMMARY:[Moto3] RAC
+UID:a0dade1d-8fea-4365-ab5c-2099542d882e@a0da.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Race
+LOCATION:Circuit de Barcelona-Catalunya - Spain
+URL:https://www.motogp.com/en/event/Catalunya
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220617T090000
+DTEND;TZID="UTC+02:00":20220617T094000
+SUMMARY:[Moto3] FP1
+UID:c2e1651c-9d71-4305-99cd-69e6bce9271f@c2e1.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Sachsenring - Germany
+URL:https://www.motogp.com/en/event/Germany
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220617T131500
+DTEND;TZID="UTC+02:00":20220617T135500
+SUMMARY:[Moto3] FP2
+UID:2271c1cb-c605-4101-9de0-9922a60d6465@2271.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Sachsenring - Germany
+URL:https://www.motogp.com/en/event/Germany
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220618T090000
+DTEND;TZID="UTC+02:00":20220618T094000
+SUMMARY:[Moto3] FP3
+UID:b64cecff-8314-45f2-bcb1-755c6c014cbd@b64c.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Sachsenring - Germany
+URL:https://www.motogp.com/en/event/Germany
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220618T123500
+DTEND;TZID="UTC+02:00":20220618T125000
+SUMMARY:[Moto3] Q1
+UID:c6ee7bee-ee4e-4261-8108-0218156e4fd8@c6ee.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Sachsenring - Germany
+URL:https://www.motogp.com/en/event/Germany
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220618T130000
+DTEND;TZID="UTC+02:00":20220618T131500
+SUMMARY:[Moto3] Q2
+UID:2c5ac1c3-14c9-47eb-93d2-0a497fd7f2cb@2c5a.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Sachsenring - Germany
+URL:https://www.motogp.com/en/event/Germany
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220619T090000
+DTEND;TZID="UTC+02:00":20220619T091000
+SUMMARY:[Moto3] WUP
+UID:a90282d2-b17c-46a6-bcfc-516d413a321c@a902.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Sachsenring - Germany
+URL:https://www.motogp.com/en/event/Germany
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220619T110000
+SUMMARY:[Moto3] RAC
+UID:92a239a3-bc61-4981-824f-f98738f2fb7e@92a2.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto3\nSession: Race
+LOCATION:Sachsenring - Germany
+URL:https://www.motogp.com/en/event/Germany
+DTSTAMP:20220222T181008Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220624T090000
+DTEND;TZID="UTC+02:00":20220624T094000
+SUMMARY:[Moto3] FP1
+UID:d97c22d4-0838-480b-9b19-79daeda03178@d97c.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Free Practice Nr.
+  1
+LOCATION:TT Circuit Assen - Netherlands
+URL:https://www.motogp.com/en/event/Netherlands
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220624T131500
+DTEND;TZID="UTC+02:00":20220624T135500
+SUMMARY:[Moto3] FP2
+UID:a70a74ed-7f25-499c-8413-b37a774f6d71@a70a.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Free Practice Nr.
+  2
+LOCATION:TT Circuit Assen - Netherlands
+URL:https://www.motogp.com/en/event/Netherlands
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220625T090000
+DTEND;TZID="UTC+02:00":20220625T094000
+SUMMARY:[Moto3] FP3
+UID:6cbc5bf6-e193-4945-987f-2c83db7b57a0@6cbc.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Free Practice Nr.
+  3
+LOCATION:TT Circuit Assen - Netherlands
+URL:https://www.motogp.com/en/event/Netherlands
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220625T123500
+DTEND;TZID="UTC+02:00":20220625T125000
+SUMMARY:[Moto3] Q1
+UID:d785aa85-7292-4416-9a10-df72d7106e93@d785.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Qualifying Nr. 1
+LOCATION:TT Circuit Assen - Netherlands
+URL:https://www.motogp.com/en/event/Netherlands
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220625T130000
+DTEND;TZID="UTC+02:00":20220625T131500
+SUMMARY:[Moto3] Q2
+UID:48ae90c0-0130-463a-b1e4-5e698e85a516@48ae.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Qualifying Nr. 2
+LOCATION:TT Circuit Assen - Netherlands
+URL:https://www.motogp.com/en/event/Netherlands
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220626T090000
+DTEND;TZID="UTC+02:00":20220626T091000
+SUMMARY:[Moto3] WUP
+UID:d4455aa9-002c-4eab-809a-bdf9441496a8@d445.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Warm Up
+LOCATION:TT Circuit Assen - Netherlands
+URL:https://www.motogp.com/en/event/Netherlands
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220626T110000
+SUMMARY:[Moto3] RAC
+UID:8c13bd3a-15f1-40ec-8d75-324e4670edf2@8c13.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Race
+LOCATION:TT Circuit Assen - Netherlands
+URL:https://www.motogp.com/en/event/Netherlands
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220708T090000
+DTEND;TZID="UTC+03:00":20220708T095000
+SUMMARY:[Moto3] FP1
+UID:1875ca86-ac81-431a-a214-4cba3b7979d1@1875.org
+DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto3\nSession: Free 
+ Practice Nr. 1
+LOCATION:KymiRing - Finland
+URL:https://www.motogp.com/en/event/Finland
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220708T131500
+DTEND;TZID="UTC+03:00":20220708T135500
+SUMMARY:[Moto3] FP2
+UID:2e264210-86e8-4eb5-91e8-5f01288c6a56@2e26.org
+DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto3\nSession: Free 
+ Practice Nr. 2
+LOCATION:KymiRing - Finland
+URL:https://www.motogp.com/en/event/Finland
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220709T090000
+DTEND;TZID="UTC+03:00":20220709T094000
+SUMMARY:[Moto3] FP3
+UID:fd10b31d-9cd6-4224-933d-e9c882ab0ba5@fd10.org
+DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto3\nSession: Free 
+ Practice Nr. 3
+LOCATION:KymiRing - Finland
+URL:https://www.motogp.com/en/event/Finland
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220709T123500
+DTEND;TZID="UTC+03:00":20220709T125000
+SUMMARY:[Moto3] Q1
+UID:8152e999-0081-4447-9ec1-10b8adcd7a43@8152.org
+DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto3\nSession: Qualifying
+  Nr. 1
+LOCATION:KymiRing - Finland
+URL:https://www.motogp.com/en/event/Finland
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220709T130000
+DTEND;TZID="UTC+03:00":20220709T131500
+SUMMARY:[Moto3] Q2
+UID:607ddf8d-89bc-4080-844a-f5063d50b167@607d.org
+DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto3\nSession: Qualifying
+  Nr. 2
+LOCATION:KymiRing - Finland
+URL:https://www.motogp.com/en/event/Finland
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220710T100000
+DTEND;TZID="UTC+03:00":20220710T101000
+SUMMARY:[Moto3] WUP
+UID:dedf62b8-8f86-4799-9de6-4ec872f5e3d6@dedf.org
+DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto3\nSession: Warm Up
+LOCATION:KymiRing - Finland
+URL:https://www.motogp.com/en/event/Finland
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220710T120000
+SUMMARY:[Moto3] RAC
+UID:85b8d92d-f272-4e0a-957f-1581a0b1a5a7@85b8.org
+DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto3\nSession: Race
+LOCATION:KymiRing - Finland
+URL:https://www.motogp.com/en/event/Finland
+DTSTAMP:20220222T181009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220805T090000
+DTEND;TZID="UTC+01:00":20220805T094000
+SUMMARY:[Moto3] FP1
+UID:0bd3006f-a4c0-4cbf-8959-47b5f240a862@0bd3.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Silverstone Circuit - Great Britain
+URL:https://www.motogp.com/en/event/Great+Britain
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220805T131500
+DTEND;TZID="UTC+01:00":20220805T135500
+SUMMARY:[Moto3] FP2
+UID:8a7cda76-4d83-4f23-8892-3ad24bda9836@8a7c.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Silverstone Circuit - Great Britain
+URL:https://www.motogp.com/en/event/Great+Britain
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220806T090000
+DTEND;TZID="UTC+01:00":20220806T094000
+SUMMARY:[Moto3] FP3
+UID:0c977ac9-1a35-40cc-adb1-9f0f12b3623f@0c97.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Silverstone Circuit - Great Britain
+URL:https://www.motogp.com/en/event/Great+Britain
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220806T123500
+DTEND;TZID="UTC+01:00":20220806T125000
+SUMMARY:[Moto3] Q1
+UID:1af78f06-3f07-44ec-8990-1b8f09f56af2@1af7.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Silverstone Circuit - Great Britain
+URL:https://www.motogp.com/en/event/Great+Britain
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220806T130000
+DTEND;TZID="UTC+01:00":20220806T131500
+SUMMARY:[Moto3] Q2
+UID:7172f9d7-95a2-46af-b4ab-c9fd6a81906a@7172.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Silverstone Circuit - Great Britain
+URL:https://www.motogp.com/en/event/Great+Britain
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220807T090000
+DTEND;TZID="UTC+01:00":20220807T091000
+SUMMARY:[Moto3] WUP
+UID:c075d4bb-d62f-4133-82af-bdb15c842e8e@c075.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Silverstone Circuit - Great Britain
+URL:https://www.motogp.com/en/event/Great+Britain
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220807T110000
+SUMMARY:[Moto3] RAC
+UID:c1e3c0eb-0654-4c4f-966e-31fa2da73900@c1e3.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto3\nSession: Race
+LOCATION:Silverstone Circuit - Great Britain
+URL:https://www.motogp.com/en/event/Great+Britain
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220819T090000
+DTEND;TZID="UTC+02:00":20220819T094000
+SUMMARY:[Moto3] FP1
+UID:65630d06-748b-48b6-a60b-af54db6dc577@6563.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Red Bull Ring - Spielberg - Austria
+URL:https://www.motogp.com/en/event/Austria
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220819T131500
+DTEND;TZID="UTC+02:00":20220819T135500
+SUMMARY:[Moto3] FP2
+UID:e48ed2cd-af36-4839-9d40-ad9b1822c923@e48e.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Red Bull Ring - Spielberg - Austria
+URL:https://www.motogp.com/en/event/Austria
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220820T090000
+DTEND;TZID="UTC+02:00":20220820T094000
+SUMMARY:[Moto3] FP3
+UID:154e0e7b-4a65-4e35-b863-628d99a2c1c7@154e.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Red Bull Ring - Spielberg - Austria
+URL:https://www.motogp.com/en/event/Austria
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220820T123500
+DTEND;TZID="UTC+02:00":20220820T125000
+SUMMARY:[Moto3] Q1
+UID:6e2d1e20-7ead-4d18-9a33-e6741a571454@6e2d.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Red Bull Ring - Spielberg - Austria
+URL:https://www.motogp.com/en/event/Austria
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220820T130000
+DTEND;TZID="UTC+02:00":20220820T131500
+SUMMARY:[Moto3] Q2
+UID:29f250f0-dfed-4999-8570-bb336c254575@29f2.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Red Bull Ring - Spielberg - Austria
+URL:https://www.motogp.com/en/event/Austria
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220821T090000
+DTEND;TZID="UTC+02:00":20220821T091000
+SUMMARY:[Moto3] WUP
+UID:36a15666-7a3b-4ce5-afd8-3f17c2dc1edd@36a1.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Red Bull Ring - Spielberg - Austria
+URL:https://www.motogp.com/en/event/Austria
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220821T110000
+SUMMARY:[Moto3] RAC
+UID:cd9017fd-e33a-4d0a-a5c7-2e87cb4f66df@cd90.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Race
+LOCATION:Red Bull Ring - Spielberg - Austria
+URL:https://www.motogp.com/en/event/Austria
+DTSTAMP:20220222T181010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220902T090000
+DTEND;TZID="UTC+02:00":20220902T094000
+SUMMARY:[Moto3] FP1
+UID:6284bf18-3d4c-48cb-925d-877ac70b0d76@6284.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: Moto3\nSession: Free Practice Nr. 1
+LOCATION:Misano World Circuit Marco Simoncelli - Italy
+URL:https://www.motogp.com/en/event/San+Marino
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220902T131500
+DTEND;TZID="UTC+02:00":20220902T135500
+SUMMARY:[Moto3] FP2
+UID:67db1932-8a27-4d11-9555-76593e3765ee@67db.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: Moto3\nSession: Free Practice Nr. 2
+LOCATION:Misano World Circuit Marco Simoncelli - Italy
+URL:https://www.motogp.com/en/event/San+Marino
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220903T090000
+DTEND;TZID="UTC+02:00":20220903T094000
+SUMMARY:[Moto3] FP3
+UID:13a68808-96f8-4514-8854-d748de1c2c61@13a6.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: Moto3\nSession: Free Practice Nr. 3
+LOCATION:Misano World Circuit Marco Simoncelli - Italy
+URL:https://www.motogp.com/en/event/San+Marino
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220903T123500
+DTEND;TZID="UTC+02:00":20220903T125000
+SUMMARY:[Moto3] Q1
+UID:39f0b555-56ce-4f0c-856a-09de6783b266@39f0.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: Moto3\nSession: Qualifying Nr. 1
+LOCATION:Misano World Circuit Marco Simoncelli - Italy
+URL:https://www.motogp.com/en/event/San+Marino
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220903T130000
+DTEND;TZID="UTC+02:00":20220903T131500
+SUMMARY:[Moto3] Q2
+UID:86b343d5-672e-4b88-99fc-3e1f11167cfc@86b3.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: Moto3\nSession: Qualifying Nr. 2
+LOCATION:Misano World Circuit Marco Simoncelli - Italy
+URL:https://www.motogp.com/en/event/San+Marino
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220904T090000
+DTEND;TZID="UTC+02:00":20220904T091000
+SUMMARY:[Moto3] WUP
+UID:c3e84cf7-f63a-4595-a77b-dc57c85a960d@c3e8.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: Moto3\nSession: Warm Up
+LOCATION:Misano World Circuit Marco Simoncelli - Italy
+URL:https://www.motogp.com/en/event/San+Marino
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220904T110000
+SUMMARY:[Moto3] RAC
+UID:f044cf05-31dc-47b5-b9dc-d138ba6ecb14@f044.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: Moto3\nSession: Race
+LOCATION:Misano World Circuit Marco Simoncelli - Italy
+URL:https://www.motogp.com/en/event/San+Marino
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220916T090000
+DTEND;TZID="UTC+02:00":20220916T094000
+SUMMARY:[Moto3] FP1
+UID:54f6209e-c783-4648-af14-2af42b42291e@54f6.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Free 
+ Practice Nr. 1
+LOCATION:MotorLand Aragón - Spain
+URL:https://www.motogp.com/en/event/Aragon
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220916T131500
+DTEND;TZID="UTC+02:00":20220916T135500
+SUMMARY:[Moto3] FP2
+UID:ea55228a-1781-4a69-b54a-3c1c647ec5aa@ea55.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Free 
+ Practice Nr. 2
+LOCATION:MotorLand Aragón - Spain
+URL:https://www.motogp.com/en/event/Aragon
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220917T090000
+DTEND;TZID="UTC+02:00":20220917T094000
+SUMMARY:[Moto3] FP3
+UID:c5010917-c3ef-48e4-a8e0-7661f91538f2@c501.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Free 
+ Practice Nr. 3
+LOCATION:MotorLand Aragón - Spain
+URL:https://www.motogp.com/en/event/Aragon
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220917T123500
+DTEND;TZID="UTC+02:00":20220917T125000
+SUMMARY:[Moto3] Q1
+UID:4c1f9b9a-bbfb-4476-ba6c-f20eaf651762@4c1f.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Qualifying
+  Nr. 1
+LOCATION:MotorLand Aragón - Spain
+URL:https://www.motogp.com/en/event/Aragon
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220917T130000
+DTEND;TZID="UTC+02:00":20220917T131500
+SUMMARY:[Moto3] Q2
+UID:d9a67b2a-e6f0-495c-bf5d-f9fde7e327c6@d9a6.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Qualifying
+  Nr. 2
+LOCATION:MotorLand Aragón - Spain
+URL:https://www.motogp.com/en/event/Aragon
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220918T090000
+DTEND;TZID="UTC+02:00":20220918T091000
+SUMMARY:[Moto3] WUP
+UID:28b492a6-0ea8-40be-8520-55f6dc45b7a1@28b4.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Warm Up
+LOCATION:MotorLand Aragón - Spain
+URL:https://www.motogp.com/en/event/Aragon
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220918T110000
+SUMMARY:[Moto3] RAC
+UID:2dc04b6d-4ed6-40f9-9aff-aaec60137417@2dc0.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Race
+LOCATION:MotorLand Aragón - Spain
+URL:https://www.motogp.com/en/event/Aragon
+DTSTAMP:20220222T181011Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20220923T090000
+DTEND;TZID="UTC+09:00":20220923T095000
+SUMMARY:[Moto3] FP1
+UID:436e4ae6-7b8b-42ff-b39e-7bc4e1ad3147@436e.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: Free 
+ Practice Nr. 1
+LOCATION:Twin Ring Motegi - Japan
+URL:https://www.motogp.com/en/event/JAPAN
+DTSTAMP:20220222T181012Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20220923T131500
+DTEND;TZID="UTC+09:00":20220923T135500
+SUMMARY:[Moto3] FP2
+UID:a555315c-0f72-4c2c-9e62-8df05a291da4@a555.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: Free 
+ Practice Nr. 2
+LOCATION:Twin Ring Motegi - Japan
+URL:https://www.motogp.com/en/event/JAPAN
+DTSTAMP:20220222T181012Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20220924T090000
+DTEND;TZID="UTC+09:00":20220924T094000
+SUMMARY:[Moto3] FP3
+UID:2b67825e-25ea-4c7e-a8b6-3aa6ec7d5bd9@2b67.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: Free 
+ Practice Nr. 3
+LOCATION:Twin Ring Motegi - Japan
+URL:https://www.motogp.com/en/event/JAPAN
+DTSTAMP:20220222T181012Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20220924T123500
+DTEND;TZID="UTC+09:00":20220924T125000
+SUMMARY:[Moto3] Q1
+UID:a4a074c9-c3a2-4542-be4a-0798daac4b43@a4a0.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
+LOCATION:Twin Ring Motegi - Japan
+URL:https://www.motogp.com/en/event/JAPAN
+DTSTAMP:20220222T181012Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20220924T130000
+DTEND;TZID="UTC+09:00":20220924T131500
+SUMMARY:[Moto3] Q2
+UID:89ba810d-2108-44a8-b88e-eb3df04344f2@89ba.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
+LOCATION:Twin Ring Motegi - Japan
+URL:https://www.motogp.com/en/event/JAPAN
+DTSTAMP:20220222T181012Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20220925T100000
+DTEND;TZID="UTC+09:00":20220925T101000
+SUMMARY:[Moto3] WUP
+UID:846c8d73-23f7-440c-b8de-605e66d6b167@846c.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: Warm 
+ Up
+LOCATION:Twin Ring Motegi - Japan
+URL:https://www.motogp.com/en/event/JAPAN
+DTSTAMP:20220222T181012Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20220925T120000
+SUMMARY:[Moto3] RAC
+UID:9b441c4f-4060-417e-82eb-b14b20bbd27f@9b44.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: Race
+LOCATION:Twin Ring Motegi - Japan
+URL:https://www.motogp.com/en/event/JAPAN
+DTSTAMP:20220222T181012Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20221014T090000
+DTEND;TZID="UTC+11:00":20221014T094000
+SUMMARY:[Moto3] FP1
+UID:35df1096-2fd0-4ff4-a012-666e0c1768dc@35df.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
+  Free Practice Nr. 1
+LOCATION:Phillip Island - Australia
+URL:https://www.motogp.com/en/event/Australia
+DTSTAMP:20220222T181013Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20221014T131500
+DTEND;TZID="UTC+11:00":20221014T135500
+SUMMARY:[Moto3] FP2
+UID:d72895cb-a9dd-466f-8af6-3830aa17db4b@d728.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
+  Free Practice Nr. 2
+LOCATION:Phillip Island - Australia
+URL:https://www.motogp.com/en/event/Australia
+DTSTAMP:20220222T181013Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20221015T090000
+DTEND;TZID="UTC+11:00":20221015T094000
+SUMMARY:[Moto3] FP3
+UID:cd775908-d4d3-4bd9-9cba-cad13b3d2926@cd77.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
+  Free Practice Nr. 3
+LOCATION:Phillip Island - Australia
+URL:https://www.motogp.com/en/event/Australia
+DTSTAMP:20220222T181013Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20221015T123500
+DTEND;TZID="UTC+11:00":20221015T125000
+SUMMARY:[Moto3] Q1
+UID:6d283d3f-cb7c-4172-a5e1-e0d1d135931d@6d28.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
+  Qualifying Nr. 1
+LOCATION:Phillip Island - Australia
+URL:https://www.motogp.com/en/event/Australia
+DTSTAMP:20220222T181013Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20221015T130000
+DTEND;TZID="UTC+11:00":20221015T131500
+SUMMARY:[Moto3] Q2
+UID:695588ce-08a4-490d-8375-93a06c4220cb@6955.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
+  Qualifying Nr. 2
+LOCATION:Phillip Island - Australia
+URL:https://www.motogp.com/en/event/Australia
+DTSTAMP:20220222T181013Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20221016T090000
+DTEND;TZID="UTC+11:00":20221016T091000
+SUMMARY:[Moto3] WUP
+UID:b21dfa65-707a-474f-a86b-bb338e53a932@b21d.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
+  Warm Up
+LOCATION:Phillip Island - Australia
+URL:https://www.motogp.com/en/event/Australia
+DTSTAMP:20220222T181013Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20221016T110000
+SUMMARY:[Moto3] RAC
+UID:89e0a3e7-eb08-4841-ba3b-56be8431b6fc@89e0.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
+  Race
+LOCATION:Phillip Island - Australia
+URL:https://www.motogp.com/en/event/Australia
+DTSTAMP:20220222T181013Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221021T090000
+DTEND;TZID="UTC+08:00":20221021T095000
+SUMMARY:[Moto3] FP1
+UID:ae926423-62f4-42a8-9a7e-bfe60e8f0fc5@ae92.org
+DESCRIPTION:Event: Malaysia Motorcycle Grand Prix\nClass: Moto3\nSession: 
+ Free Practice Nr. 1
+LOCATION:Sepang International Circuit - Malaysia
+URL:https://www.motogp.com/en/event/Malaysia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221021T131500
+DTEND;TZID="UTC+08:00":20221021T135500
+SUMMARY:[Moto3] FP2
+UID:a98e6155-54d6-4d45-a5e3-ba26690022b2@a98e.org
+DESCRIPTION:Event: Malaysia Motorcycle Grand Prix\nClass: Moto3\nSession: 
+ Free Practice Nr. 2
+LOCATION:Sepang International Circuit - Malaysia
+URL:https://www.motogp.com/en/event/Malaysia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221022T090000
+DTEND;TZID="UTC+08:00":20221022T094000
+SUMMARY:[Moto3] FP3
+UID:88060609-142b-49b9-b67e-87a95d42f6bd@8806.org
+DESCRIPTION:Event: Malaysia Motorcycle Grand Prix\nClass: Moto3\nSession: 
+ Free Practice Nr. 3
+LOCATION:Sepang International Circuit - Malaysia
+URL:https://www.motogp.com/en/event/Malaysia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221022T123500
+DTEND;TZID="UTC+08:00":20221022T125000
+SUMMARY:[Moto3] Q1
+UID:150da200-cbb5-49e8-9f59-05e9923b880b@150d.org
+DESCRIPTION:Event: Malaysia Motorcycle Grand Prix\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
+LOCATION:Sepang International Circuit - Malaysia
+URL:https://www.motogp.com/en/event/Malaysia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221022T130000
+DTEND;TZID="UTC+08:00":20221022T131500
+SUMMARY:[Moto3] Q2
+UID:157d6cdb-4abd-4152-99ca-b3c887c96861@157d.org
+DESCRIPTION:Event: Malaysia Motorcycle Grand Prix\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
+LOCATION:Sepang International Circuit - Malaysia
+URL:https://www.motogp.com/en/event/Malaysia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221023T100000
+DTEND;TZID="UTC+08:00":20221023T101000
+SUMMARY:[Moto3] WUP
+UID:592ecc04-85ac-48b7-b59b-20455ef620f7@592e.org
+DESCRIPTION:Event: Malaysia Motorcycle Grand Prix\nClass: Moto3\nSession: 
+ Warm Up
+LOCATION:Sepang International Circuit - Malaysia
+URL:https://www.motogp.com/en/event/Malaysia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221023T120000
+SUMMARY:[Moto3] RAC
+UID:3f985473-66bc-4c80-bdba-4e603d42e684@3f98.org
+DESCRIPTION:Event: Malaysia Motorcycle Grand Prix\nClass: Moto3\nSession: 
+ Race
+LOCATION:Sepang International Circuit - Malaysia
+URL:https://www.motogp.com/en/event/Malaysia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221104T090000
+DTEND;TZID="UTC+01:00":20221104T094000
+SUMMARY:[Moto3] FP1
+UID:18223907-79b4-4d7a-b702-363fb146e42d@1822.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto3\nSession: Free Practice Nr. 1
+LOCATION:Circuit Ricardo Tormo - Spain
+URL:https://www.motogp.com/en/event/Valencia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221104T131500
+DTEND;TZID="UTC+01:00":20221104T135500
+SUMMARY:[Moto3] FP2
+UID:39fc4633-8048-4283-b78a-fb009f332417@39fc.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto3\nSession: Free Practice Nr. 2
+LOCATION:Circuit Ricardo Tormo - Spain
+URL:https://www.motogp.com/en/event/Valencia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221105T090000
+DTEND;TZID="UTC+01:00":20221105T094000
+SUMMARY:[Moto3] FP3
+UID:17bb95ae-f6b3-4c86-a9b1-e6a1cce64df8@17bb.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto3\nSession: Free Practice Nr. 3
+LOCATION:Circuit Ricardo Tormo - Spain
+URL:https://www.motogp.com/en/event/Valencia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221105T123500
+DTEND;TZID="UTC+01:00":20221105T125000
+SUMMARY:[Moto3] Q1
+UID:5ba30c5b-a458-46a3-b7b8-e3cee53b20bf@5ba3.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
+LOCATION:Circuit Ricardo Tormo - Spain
+URL:https://www.motogp.com/en/event/Valencia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221105T130000
+DTEND;TZID="UTC+01:00":20221105T131500
+SUMMARY:[Moto3] Q2
+UID:1f843bbb-97de-4b5b-add0-2fb5dc3cdce7@1f84.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
+LOCATION:Circuit Ricardo Tormo - Spain
+URL:https://www.motogp.com/en/event/Valencia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221106T090000
+DTEND;TZID="UTC+01:00":20221106T091000
+SUMMARY:[Moto3] WUP
+UID:b158f76c-e7e4-473e-a001-b790c37eb8ee@b158.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto3\nSession: Warm Up
+LOCATION:Circuit Ricardo Tormo - Spain
+URL:https://www.motogp.com/en/event/Valencia
+DTSTAMP:20220222T181014Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221106T110000
+SUMMARY:[Moto3] RAC
+UID:53f74cde-4498-4d19-a051-dc28d9bce0d1@53f7.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto3\nSession: Race
+LOCATION:Circuit Ricardo Tormo - Spain
+URL:https://www.motogp.com/en/event/Valencia
+DTSTAMP:20220222T181014Z
+END:VEVENT
 END:VCALENDAR
