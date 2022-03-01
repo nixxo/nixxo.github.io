@@ -1,0 +1,919 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC-03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC-03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0800
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+08:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220408T103000
+DTEND;TZID="UTC+02:00":20220408T111500
+SUMMARY:[WorldSBK] FP1
+UID:9f0a24c6-e53e-4d41-8990-ad3e64764ad8@9f0a.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: FP1
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220408T150000
+DTEND;TZID="UTC+02:00":20220408T154500
+SUMMARY:[WorldSBK] FP2
+UID:9a5bccfc-e682-4af7-b72d-7089edf026c7@9a5b.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: FP2
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220409T090000
+DTEND;TZID="UTC+02:00":20220409T093000
+SUMMARY:[WorldSBK] FP3
+UID:b7ab6df2-22d8-4048-b7c7-edb1ea270855@b7ab.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: FP3
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220409T111000
+DTEND;TZID="UTC+02:00":20220409T112500
+SUMMARY:[WorldSBK] Superpole
+UID:34af38b7-2acc-477c-9ac6-53b7ae3d9f62@34af.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220409T140000
+SUMMARY:[WorldSBK] Race 1
+UID:8f0347e3-f8df-4691-a9dc-7a7e631deaa7@8f03.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220410T090000
+DTEND;TZID="UTC+02:00":20220410T091500
+SUMMARY:[WorldSBK] WUP
+UID:bcb0182e-75e0-40d3-a8d5-d406c20054ea@bcb0.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: WUP
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220410T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:5005de02-8f62-472e-a060-c7bc452e0e51@5005.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220410T140000
+SUMMARY:[WorldSBK] Race 2
+UID:d11890ee-3787-440d-bc70-2de34d478467@d118.org
+DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2022
+DTSTAMP:20220301T205739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220422T103000
+DTEND;TZID="UTC+02:00":20220422T111500
+SUMMARY:[WorldSBK] FP1
+UID:8397710d-1494-4aa5-ad4c-147a831c507c@8397.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: FP1
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220422T150000
+DTEND;TZID="UTC+02:00":20220422T154500
+SUMMARY:[WorldSBK] FP2
+UID:1c28bfe5-78d3-49da-8a6e-b08e2dd289f8@1c28.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: FP2
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220423T090000
+DTEND;TZID="UTC+02:00":20220423T093000
+SUMMARY:[WorldSBK] FP3
+UID:9c0458df-b893-455f-b2ed-3f9f61ac3795@9c04.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: FP3
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220423T111000
+DTEND;TZID="UTC+02:00":20220423T112500
+SUMMARY:[WorldSBK] Superpole
+UID:b1a7e8e8-812a-4ae6-a20a-adc527a26332@b1a7.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220423T140000
+SUMMARY:[WorldSBK] Race 1
+UID:d0621239-6462-4f32-9082-ad498f337ee7@d062.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220424T090000
+DTEND;TZID="UTC+02:00":20220424T091500
+SUMMARY:[WorldSBK] WUP
+UID:ed81717a-ab5e-473c-8d21-604c14d90fb3@ed81.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: WUP
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220424T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:871c80cc-30d8-487a-b4a7-0070bfeab0a2@871c.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: Superpole 
+ Race
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220424T151500
+SUMMARY:[WorldSBK] Race 2
+UID:9727718d-9501-44e8-ad87-1ee5c12cb941@9727.org
+DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2022
+DTSTAMP:20220301T205740Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220520T103000
+DTEND;TZID="UTC+01:00":20220520T111500
+SUMMARY:[WorldSBK] FP1
+UID:39bc5762-15d1-47a7-b289-cf7170e61801@39bc.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: FP1
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220520T150000
+DTEND;TZID="UTC+01:00":20220520T154500
+SUMMARY:[WorldSBK] FP2
+UID:4028dee4-50e4-4727-80db-fd7294613246@4028.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: FP2
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220521T090000
+DTEND;TZID="UTC+01:00":20220521T093000
+SUMMARY:[WorldSBK] FP3
+UID:d9ed28de-424f-4da6-a8b2-245f9756b43e@d9ed.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: FP3
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220521T111000
+DTEND;TZID="UTC+01:00":20220521T112500
+SUMMARY:[WorldSBK] Superpole
+UID:6cd0902a-20e3-4de9-bb1e-a809fde98fed@6cd0.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220521T140000
+SUMMARY:[WorldSBK] Race 1
+UID:31820c60-12dd-4516-bbe5-5f956f333b32@3182.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220522T090000
+DTEND;TZID="UTC+01:00":20220522T091500
+SUMMARY:[WorldSBK] WUP
+UID:33a74e96-7337-4d37-9593-382b4c69e7fe@33a7.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: WUP
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220522T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:6eb16c1c-b7e8-4336-9eed-09c98aebf8ea@6eb1.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Superpole Race
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220522T140000
+SUMMARY:[WorldSBK] Race 2
+UID:f14ba34a-d1dd-4a1e-bbf3-253d16daac04@f14b.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2022
+DTSTAMP:20220301T205741Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220610T103000
+DTEND;TZID="UTC+02:00":20220610T111500
+SUMMARY:[WorldSBK] FP1
+UID:14aff207-56e6-4dbf-aff2-e25a1621a644@14af.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ FP1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220610T150000
+DTEND;TZID="UTC+02:00":20220610T154500
+SUMMARY:[WorldSBK] FP2
+UID:013ca877-b193-4d25-8f5c-d6259a8c0f1a@013c.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ FP2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220611T090000
+DTEND;TZID="UTC+02:00":20220611T093000
+SUMMARY:[WorldSBK] FP3
+UID:688ca44a-dc3f-4339-9f21-aeb3cced9b2c@688c.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ FP3
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220611T111000
+DTEND;TZID="UTC+02:00":20220611T112500
+SUMMARY:[WorldSBK] Superpole
+UID:cc71d8b5-bf43-403a-8314-e463130379d0@cc71.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220611T140000
+SUMMARY:[WorldSBK] Race 1
+UID:d3cf0df1-489e-4155-91ba-c5f085f0b79b@d3cf.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220612T090000
+DTEND;TZID="UTC+02:00":20220612T091500
+SUMMARY:[WorldSBK] WUP
+UID:0b5142a1-96f3-4b34-a51f-0ecb3050bd4a@0b51.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ WUP
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220612T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:91a4c5df-b7e3-4a28-8372-0d7146e5e90a@91a4.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220612T140000
+SUMMARY:[WorldSBK] Race 2
+UID:c08592b7-abfe-4ed4-a3b8-2033b0c4a16b@c085.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2022
+DTSTAMP:20220301T205742Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220715T103000
+DTEND;TZID="UTC+01:00":20220715T111500
+SUMMARY:[WorldSBK] FP1
+UID:ae63700b-5885-4ef9-b447-9cef44be9dcf@ae63.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: FP1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220715T150000
+DTEND;TZID="UTC+01:00":20220715T154500
+SUMMARY:[WorldSBK] FP2
+UID:b9762fbe-1dd1-4e95-afd1-7cb4f0f1c8c4@b976.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: FP2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220716T090000
+DTEND;TZID="UTC+01:00":20220716T093000
+SUMMARY:[WorldSBK] FP3
+UID:d1d86a2f-ebb1-4b3a-9763-5d2697623f5b@d1d8.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: FP3
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220716T111000
+DTEND;TZID="UTC+01:00":20220716T112500
+SUMMARY:[WorldSBK] Superpole
+UID:e2b00193-e235-487e-af71-d588feda34ec@e2b0.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220716T140000
+SUMMARY:[WorldSBK] Race 1
+UID:0fc46042-80d7-4281-a162-212d913e5a3c@0fc4.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220717T090000
+DTEND;TZID="UTC+01:00":20220717T091500
+SUMMARY:[WorldSBK] WUP
+UID:68da7f67-3d8d-41be-8e78-84d66f7547ed@68da.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: WUP
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220717T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:a12fdf8c-fe70-4d1c-b159-9baee304ad54@a12f.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20220717T140000
+SUMMARY:[WorldSBK] Race 2
+UID:3456ea46-96ac-45d5-8b59-ef08676d4dc1@3456.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2022
+DTSTAMP:20220301T205743Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220729T103000
+DTEND;TZID="UTC+02:00":20220729T111500
+SUMMARY:[WorldSBK] FP1
+UID:71eb585d-6cea-48a0-8304-bb3a48f841a8@71eb.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: FP1
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220729T150000
+DTEND;TZID="UTC+02:00":20220729T154500
+SUMMARY:[WorldSBK] FP2
+UID:50de8342-83a1-44f3-8700-553dcb6670de@50de.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: FP2
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220730T090000
+DTEND;TZID="UTC+02:00":20220730T093000
+SUMMARY:[WorldSBK] FP3
+UID:be29afad-8729-48d7-ad18-c60d1614fea7@be29.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: FP3
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220730T111000
+DTEND;TZID="UTC+02:00":20220730T112500
+SUMMARY:[WorldSBK] Superpole
+UID:3ece64a4-e701-47f7-b8b0-23b61ce11c49@3ece.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220730T140000
+SUMMARY:[WorldSBK] Race 1
+UID:e161a99f-e1dc-43d7-97fe-804ae2706df2@e161.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220731T090000
+DTEND;TZID="UTC+02:00":20220731T091500
+SUMMARY:[WorldSBK] WUP
+UID:155bdf97-188d-4764-b2b5-4bb53767915d@155b.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: WUP
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220731T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:e9165d24-94ab-471d-954b-17b3803ca748@e916.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole Race
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220731T140000
+SUMMARY:[WorldSBK] Race 2
+UID:3350520f-33a1-474b-8a47-1a98c842c332@3350.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2022
+DTSTAMP:20220301T205744Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220909T103000
+DTEND;TZID="UTC+02:00":20220909T111500
+SUMMARY:[WorldSBK] FP1
+UID:b7616f41-62a5-4508-aee8-8b3df8f04d6d@b761.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: FP1
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220909T150000
+DTEND;TZID="UTC+02:00":20220909T154500
+SUMMARY:[WorldSBK] FP2
+UID:3efbd129-e65c-4d9c-9797-f922169466a9@3efb.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: FP2
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220910T090000
+DTEND;TZID="UTC+02:00":20220910T093000
+SUMMARY:[WorldSBK] FP3
+UID:a111414d-1897-4d59-b9b0-ee4840cd0b6f@a111.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: FP3
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220910T111000
+DTEND;TZID="UTC+02:00":20220910T112500
+SUMMARY:[WorldSBK] Superpole
+UID:c67ec372-d22d-4481-b093-6fcaba9cba60@c67e.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220910T140000
+SUMMARY:[WorldSBK] Race 1
+UID:df34d5de-b347-45f4-ae12-2bbf01d95bc2@df34.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220911T090000
+DTEND;TZID="UTC+02:00":20220911T091500
+SUMMARY:[WorldSBK] WUP
+UID:55227879-a1a4-4bd0-a948-344f6b1affb1@5522.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: WUP
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220911T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:3943e273-1a15-4a8f-bfa6-ae96fb2551f8@3943.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Superpole Race
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220911T140000
+SUMMARY:[WorldSBK] Race 2
+UID:a7292f54-ddf2-41d5-a547-f197b59c3a82@a729.org
+DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2022
+DTSTAMP:20220301T205745Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220923T103000
+DTEND;TZID="UTC+02:00":20220923T111500
+SUMMARY:[WorldSBK] FP1
+UID:dbe9b98f-3547-41dd-89f9-6c6bde88da49@dbe9.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: FP1
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220923T150000
+DTEND;TZID="UTC+02:00":20220923T154500
+SUMMARY:[WorldSBK] FP2
+UID:806baa40-e2db-4af0-8ded-2fcc5f146979@806b.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: FP2
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220924T090000
+DTEND;TZID="UTC+02:00":20220924T093000
+SUMMARY:[WorldSBK] FP3
+UID:c6eac667-ec0c-4b7d-9d79-66616def328e@c6ea.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: FP3
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220924T111000
+DTEND;TZID="UTC+02:00":20220924T112500
+SUMMARY:[WorldSBK] Superpole
+UID:056fafbc-f59c-418f-be2e-ae8e0614df61@056f.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220924T140000
+SUMMARY:[WorldSBK] Race 1
+UID:c55060fb-e3b1-4559-8e3e-8956745867e6@c550.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220925T090000
+DTEND;TZID="UTC+02:00":20220925T091500
+SUMMARY:[WorldSBK] WUP
+UID:35d95ccd-ad34-4feb-8653-683e38affa98@35d9.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: WUP
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220925T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:8ad03d49-7b97-4864-882c-14e06d684f32@8ad0.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Superpole 
+ Race
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20220925T140000
+SUMMARY:[WorldSBK] Race 2
+UID:3fb83a74-bd9c-44e2-8729-67551154c936@3fb8.org
+DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2022
+DTSTAMP:20220301T205748Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221007T103000
+DTEND;TZID="UTC+01:00":20221007T111500
+SUMMARY:[WorldSBK] FP1
+UID:0b6704a5-4659-49c8-9d42-685fcfce138f@0b67.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: FP1
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221007T150000
+DTEND;TZID="UTC+01:00":20221007T154500
+SUMMARY:[WorldSBK] FP2
+UID:eeb29518-f315-4a25-90a0-ae8506b22508@eeb2.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: FP2
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221008T090000
+DTEND;TZID="UTC+01:00":20221008T093000
+SUMMARY:[WorldSBK] FP3
+UID:e282dd74-5393-4856-981e-0af9a7af3302@e282.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: FP3
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221008T111000
+DTEND;TZID="UTC+01:00":20221008T112500
+SUMMARY:[WorldSBK] Superpole
+UID:c72dfa85-766b-4833-a92c-c1975dc1d4fb@c72d.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221008T140000
+SUMMARY:[WorldSBK] Race 1
+UID:ae85333d-505c-4842-9625-ff6f1c0c04e1@ae85.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221009T090000
+DTEND;TZID="UTC+01:00":20221009T091500
+SUMMARY:[WorldSBK] WUP
+UID:4687aab7-28ce-48ed-9ecb-bddde73cdc1f@4687.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: WUP
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221009T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:4a2885d7-529b-4c9b-a0e6-0ec8bdaa2710@4a28.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: Superpole 
+ Race
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20221009T140000
+SUMMARY:[WorldSBK] Race 2
+UID:1a8e62ae-9afa-49d3-863b-6fcc9cfe4d3c@1a8e.org
+DESCRIPTION:Event: Portuguese Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2022
+DTSTAMP:20220301T205749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221021T103000
+DTEND;TZID="UTC-03:00":20221021T111500
+SUMMARY:[WorldSBK] FP1
+UID:035c272d-a820-45d2-9041-2b5bbcaa585e@035c.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: FP1
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221021T150000
+DTEND;TZID="UTC-03:00":20221021T154500
+SUMMARY:[WorldSBK] FP2
+UID:2e1cdf4e-6fbc-4bee-b23a-7f26e4b6839a@2e1c.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: FP2
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221022T100000
+DTEND;TZID="UTC-03:00":20221022T103000
+SUMMARY:[WorldSBK] FP3
+UID:d07137ff-c9db-49ba-9cc6-be64169bba99@d071.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: FP3
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221022T121000
+DTEND;TZID="UTC-03:00":20221022T122500
+SUMMARY:[WorldSBK] Superpole
+UID:8171e1f5-e5b3-4712-ac68-a6e4f22fffa8@8171.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221022T150000
+SUMMARY:[WorldSBK] Race 1
+UID:a4cfe913-2f85-44b0-a196-0576740baf0c@a4cf.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: Race 
+ 1
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221023T100000
+DTEND;TZID="UTC-03:00":20221023T101500
+SUMMARY:[WorldSBK] WUP
+UID:29ad7626-aa61-4bf1-a7f6-f8aea836eb4c@29ad.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: WUP
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221023T120000
+SUMMARY:[WorldSBK] Superpole Race
+UID:deb2d1fc-9131-430c-a32c-99400f9a6c97@deb2.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-03:00":20221023T150000
+SUMMARY:[WorldSBK] Race 2
+UID:ac8d3d37-5bc0-4516-b29a-651daeaa3ed4@ac8d.org
+DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSBK\nSession: Race 
+ 2
+LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
+URL:https://www.worldsbk.com/en/event/ARG/2022
+DTSTAMP:20220301T205750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221111T100000
+DTEND;TZID="UTC+08:00":20221111T104500
+SUMMARY:[WorldSBK] FP1
+UID:0d487688-b1d7-4b99-8ec8-54d5b558efa2@0d48.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: FP1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221111T140000
+DTEND;TZID="UTC+08:00":20221111T144500
+SUMMARY:[WorldSBK] FP2
+UID:3a2bf2ed-a0b7-4071-9dcd-e088800964d5@3a2b.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: FP2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221112T090000
+DTEND;TZID="UTC+08:00":20221112T093000
+SUMMARY:[WorldSBK] FP3
+UID:71495aa6-bfe3-4761-b2a0-7f4398c6b87b@7149.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: FP3
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221112T110000
+DTEND;TZID="UTC+08:00":20221112T111500
+SUMMARY:[WorldSBK] Superpole
+UID:0e8439c2-0534-43fb-9471-e38e2f223cfe@0e84.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221112T140000
+SUMMARY:[WorldSBK] Race 1
+UID:112290d7-e3b0-4a0c-8e1f-d7b072a6f656@1122.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221113T090000
+DTEND;TZID="UTC+08:00":20221113T091500
+SUMMARY:[WorldSBK] WUP
+UID:d47fe937-02fe-485d-82e8-ca02c23cbf2b@d47f.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: WUP
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221113T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:7bd09077-00e9-4bdd-8859-160b487af77a@7bd0.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Superpole 
+ Race
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20221113T140000
+SUMMARY:[WorldSBK] Race 2
+UID:58049c3a-7157-4eaf-b3a6-10c5584cd5c4@5804.org
+DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/MAN/2022
+DTSTAMP:20220301T205751Z
+END:VEVENT
+END:VCALENDAR
