@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 url = 'https://www.motogp.com/en/calendar'
 sess_filter = ['Q1', 'Q2', 'RAC']
-sess_filter_on = True
+sess_exclude = ['VIDEO', 'SHOW', 'PRESS']
 classes = ['Moto3', 'Moto2', 'MotoGP']
 clas_filter = ['Moto3', 'Moto2', 'MotoGP']
 clas_filter_on = True
@@ -44,6 +44,7 @@ def main():
         loc = link.contents[0].strip()
         print(f'Loading {loc}...')
         r = requests.get(link['href'])
+        # r = requests.get('https://www.motogp.com/en/event/Qatar')
 
         if r.status_code != 200:
             print(f'no connection for: {link["href"]}')
@@ -80,7 +81,10 @@ def main():
             sess_full = sess_full.get_text().strip()
             sess = session.find('span', class_='visible-xs')
             sess = sess.get_text().strip()
-            print(f'{clas} {sess}')
+            if sess in sess_exclude:
+                print(f'{clas} {sess} {sess_full} skipped.')
+                continue
+            print(f'{clas} {sess} {sess_full}')
             # Session start/end
             times = session.find_all(has_data_time)
             times = list(dict.fromkeys(times))
