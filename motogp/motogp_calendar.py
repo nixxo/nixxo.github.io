@@ -3,29 +3,83 @@ import datetime
 import requests
 import sys
 from bs4 import BeautifulSoup
+import web_pdb
 
 url = 'https://www.motogp.com/en/calendar'
 sess_filter = ['Q1', 'Q2', 'RAC']
 sess_exclude = ['VIDEO', 'SHOW', 'PRESS']
-classes = ['Moto3', 'Moto2', 'MotoGP']
-clas_filter = ['Moto3', 'Moto2', 'MotoGP']
-clas_filter_on = True
+classes = ['Moto3', 'Moto2', 'MotoGP', 'MotoE']
+cals = {}
+#clas_filter = ['Moto3', 'Moto2', 'MotoGP']
+#clas_filter_on = True
 
 
 def has_data_time(tag):
     return tag.has_attr('data-ini-time') or tag.has_attr('data-end')
 
 
+def enc_str(s):
+    return s.encode('utf-8').decode('cp1252')
+
+
 def str_enc(string):
     for s in string.splitlines():
-        yield s.encode('utf-8').decode('cp1252') + '\n'
+        #yield enc_str(s) + '\n'
+        yield f'{s}\n'
+
+
+#def load_ics(cals):
+#    for c in cals:
+#        f = open(f'{c}_2022_calendar.ics', 'r')
+#        my_file.writelines(str_enc(cals[c].serialize()))
+
+def add_if_new(clas, evt):
+    found = False
+    #web_pdb.set_trace()
+    i = 0
+    for e in cals[clas].events:
+        if (e.summary == evt.summary
+                and e.description == evt.description
+                and e.location == e.location
+                and e.begin == evt.begin
+                and e.end == evt.end):
+            found = True
+            break
+        if e.summary == evt.summary and e.location == evt.location:
+            #web_pdb.set_trace()
+            cals[clas].events[i].description = evt.description
+            # clear end time to avoid errors
+            cals[clas].events[i].end = None
+            cals[clas].events[i].begin = evt.begin
+            if evt.begin != evt.end:
+                cals[clas].events[i].end = evt.end
+            found = True
+            print('UPDATED')
+            break
+        i = i + 1
+    if not found:
+        #web_pdb.set_trace()
+        print('NEW EVENT')
+        cals[clas].events.append(evt)
 
 
 def main():
-    cals = {}
+    #web_pdb.set_trace()
     for c in classes:
-        cals[c] = ics.Calendar()
-        cals[f'{c}_filtered'] = ics.Calendar()
+        try:
+            f = open(f'{c}_2022_calendar.ics', 'r')
+            cals[c] = ics.Calendar(f.read())
+        except:
+            cals[c] = ics.Calendar()
+        finally:
+            f.close()
+        try:
+            f = open(f'{c}_filtered_2022_calendar.ics', 'r')
+            cals[f'{c}_filtered'] = ics.Calendar(f.read())
+        except:
+            cals[f'{c}_filtered'] = ics.Calendar()
+        finally:
+            f.close()
 
     r = requests.get(url)
     print(r.url)
@@ -100,20 +154,21 @@ def main():
                         print(tim.attrs[k])
 
             e = ics.Event()
-            e.summary = f'[{clas}] {sess}'
-            e.description = f'Event: {title}\nClass: {clas}\nSession: {sess_full}'
-            e.location = circuit
+            e.summary = enc_str(f'[{clas}] {sess}')
+            e.description = enc_str(f'Event: {title}\nClass: {clas}\nSession: {sess_full}')
+            e.location = enc_str(circuit)
             e.url = link['href']
             e.begin = tm.get('data-ini-time')
             e.end = tm.get('data-end')
-            cals[clas].events.append(e)
+            add_if_new(clas, e)
+            #cals[clas].events.append(e)
 
             if sess in sess_filter:
-                cals[f'{clas}_filtered'].events.append(e)
+                add_if_new(f'{clas}_filtered', e)
+                #cals[f'{clas}_filtered'].events.append(e)
 
-        # break
+        #break
         print('')
-
 
     for c in cals:
         with open(f'{c}_2022_calendar.ics', 'w') as my_file:

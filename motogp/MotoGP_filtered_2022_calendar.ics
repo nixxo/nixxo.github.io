@@ -8,6 +8,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0300
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+03:00
 END:STANDARD
 END:VTIMEZONE
@@ -18,6 +19,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0800
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+08:00
 END:STANDARD
 END:VTIMEZONE
@@ -28,6 +30,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:-0300
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC-03:00
 END:STANDARD
 END:VTIMEZONE
@@ -38,6 +41,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:-0500
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC-05:00
 END:STANDARD
 END:VTIMEZONE
@@ -58,6 +62,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -68,6 +73,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0900
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+09:00
 END:STANDARD
 END:VTIMEZONE
@@ -78,6 +84,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0700
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+07:00
 END:STANDARD
 END:VTIMEZONE
@@ -88,6 +95,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -159,8 +167,8 @@ DTSTART;TZID="UTC-03:00":20220402T170500
 DTEND;TZID="UTC-03:00":20220402T172000
 SUMMARY:[MotoGP] Q1
 UID:3a4fc89d-1248-4623-9cc7-f10ce3bb47f1@3a4f.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- MotoGP\nSession: Qualifying Nr. 1
+DESCRIPTION:Event: Gran Premio Michelin® de la República 
+ Argentina\nClass: MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Termas de Río Hondo - Argentina
 URL:https://www.motogp.com/en/event/Argentina
 DTSTAMP:20220401T194858Z
@@ -170,8 +178,8 @@ DTSTART;TZID="UTC-03:00":20220402T173000
 DTEND;TZID="UTC-03:00":20220402T174500
 SUMMARY:[MotoGP] Q2
 UID:379d9337-a733-45ee-840b-6c38067ce4ec@379d.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- MotoGP\nSession: Qualifying Nr. 2
+DESCRIPTION:Event: Gran Premio Michelin® de la República 
+ Argentina\nClass: MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Termas de Río Hondo - Argentina
 URL:https://www.motogp.com/en/event/Argentina
 DTSTAMP:20220401T194858Z
@@ -180,8 +188,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20220403T150000
 SUMMARY:[MotoGP] RAC
 UID:61d1c225-1a59-413a-87c5-cbdb54375f7c@61d1.org
-DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: Gran Premio Michelin® de la República 
+ Argentina\nClass: MotoGP\nSession: Race
 LOCATION:Termas de Río Hondo - Argentina
 URL:https://www.motogp.com/en/event/Argentina
 DTSTAMP:20220401T194858Z
@@ -223,8 +231,8 @@ DTSTART;TZID="UTC+01:00":20220423T141000
 DTEND;TZID="UTC+01:00":20220423T142500
 SUMMARY:[MotoGP] Q1
 UID:90b09862-8bdc-40b7-bc58-e9a863826b4a@90b0.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portugal
 URL:https://www.motogp.com/en/event/Portugal
 DTSTAMP:20220401T194901Z
@@ -234,17 +242,18 @@ DTSTART;TZID="UTC+01:00":20220423T143500
 DTEND;TZID="UTC+01:00":20220423T145000
 SUMMARY:[MotoGP] Q2
 UID:46fd9d07-e29b-49fc-8378-da949b2d7a13@46fd.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portugal
 URL:https://www.motogp.com/en/event/Portugal
 DTSTAMP:20220401T194901Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220424T140000
+DTSTART;TZID="UTC+01:00":20220424T130000
 SUMMARY:[MotoGP] RAC
 UID:fdd82536-d1e6-400d-82a6-7fd3265546b0@fdd8.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Race
 LOCATION:Autódromo Internacional do Algarve - Portugal
 URL:https://www.motogp.com/en/event/Portugal
 DTSTAMP:20220401T194901Z
@@ -254,8 +263,8 @@ DTSTART;TZID="UTC+02:00":20220430T141000
 DTEND;TZID="UTC+02:00":20220430T142500
 SUMMARY:[MotoGP] Q1
 UID:d85728a4-18ad-4284-adfe-9b866c1efec1@d857.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession:
+  Qualifying Nr. 1
 LOCATION:Circuito de Jerez - Angel Nieto - Spain
 URL:https://www.motogp.com/en/event/España
 DTSTAMP:20220401T194901Z
@@ -265,8 +274,8 @@ DTSTART;TZID="UTC+02:00":20220430T143500
 DTEND;TZID="UTC+02:00":20220430T145000
 SUMMARY:[MotoGP] Q2
 UID:7ac685f0-0c3e-4e7a-8505-dfada73f277a@7ac6.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession:
+  Qualifying Nr. 2
 LOCATION:Circuito de Jerez - Angel Nieto - Spain
 URL:https://www.motogp.com/en/event/España
 DTSTAMP:20220401T194901Z
@@ -275,8 +284,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220501T140000
 SUMMARY:[MotoGP] RAC
 UID:95017bde-4b6a-4b4a-a47b-545fbaaa2641@9501.org
-DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession: 
- Race
+DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoGP\nSession:
+  Race
 LOCATION:Circuito de Jerez - Angel Nieto - Spain
 URL:https://www.motogp.com/en/event/España
 DTSTAMP:20220401T194901Z
@@ -491,7 +500,7 @@ URL:https://www.motogp.com/en/event/Great+Britain
 DTSTAMP:20220401T194910Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20220807T140000
+DTSTART;TZID="UTC+01:00":20220807T130000
 SUMMARY:[MotoGP] RAC
 UID:f6514ca9-ef0f-497c-a97f-f0ab3333ee39@f651.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
