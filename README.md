@@ -6,11 +6,13 @@ All sessions
 - <a href="motogp/MotoGP_2022_calendar.ics">MotoGP</a>
 - <a href="motogp/Moto2_2022_calendar.ics">Moto2</a>
 - <a href="motogp/Moto3_2022_calendar.ics">Moto3</a>
+- <a href="motogp/MotoE_2022_calendar.ics">MotoE</a>
 
 Qualify + Races Only
 - <a href="motogp/MotoGP_filtered_2022_calendar.ics">MotoGP</a>
 - <a href="motogp/Moto2_filtered_2022_calendar.ics">Moto2</a>
 - <a href="motogp/Moto3_filtered_2022_calendar.ics">Moto3</a>
+- <a href="motogp/MotoE_filtered_2022_calendar.ics">MotoE</a>
 
 
 # WorldSBK 2022 Calendars
