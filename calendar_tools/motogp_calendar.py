@@ -6,7 +6,8 @@ from bs4 import BeautifulSoup
 import calendar_common as cc
 #import web_pdb
 
-url = 'https://www.motogp.com/en/calendar'
+host = 'https://www.motogp.com'
+url = cc.check_url('/en/calendar', host)
 sess_filter = ['Q1', 'Q2', 'RAC']
 sess_exclude = ['VIDEO', 'SHOW', 'PRESS']
 classes = ['Moto3', 'Moto2', 'MotoGP', 'MotoE']
@@ -104,7 +105,7 @@ def main():
                 cc.enc_str(f'[{clas}] {sess}'),
                 cc.enc_str(f'Event: {title}\nClass: {clas}\nSession: {sess_full}'),
                 cc.enc_str(circuit),
-                link['href'],
+                cc.check_url(link['href'], host),
                 tm.get('data-ini-time'),
                 tm.get('data-end'),
             )

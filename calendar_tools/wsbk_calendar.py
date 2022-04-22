@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import calendar_common as cc
 
 host = 'https://www.worldsbk.com'
-url = host + '/en/calendar'
+url = cc.check_url('/en/calendar', host)
 sess_filter = ['Superpole', 'Superpole Race', 'Race', 'Race 1', 'Race 2']
 sess_filter_on = True
 classes = ['R3 bLU cRU Cup', 'WorldSSP300', 'WorldSSP', 'WorldSBK']
@@ -101,6 +101,7 @@ def main():
             clas = clas.strip()
             sess = sess.replace('Video', '')
             sess = sess.replace('Live', '')
+            sess = sess.replace('Timing', '')
             sess = sess.strip()
             if clas not in classes:
                 continue
@@ -124,7 +125,7 @@ def main():
                 cc.enc_str(f'[{clas}] {sess}'),
                 cc.enc_str(f'Event: {title}\nClass: {clas}\nSession: {sess}'),
                 cc.enc_str(circuit),
-                link['href'],
+                cc.check_url(link['href'], host),
                 tm.get('data_ini'),
                 tm.get('data_end'),
             )

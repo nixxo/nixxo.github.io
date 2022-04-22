@@ -20,6 +20,16 @@ def enc_str(s):
     return s
 
 
+def check_url(url, host):
+    if url.startswith('http'):
+        return url
+    if host.endswith('/'):
+        host = host.rstrip('/')
+    if url.startswith('/'):
+        url = url.lstrip('/')
+    return f'{host}/{url}'
+
+
 def create_calendars(output_folder, names, appendix=None):
     #web_pdb.set_trace()
     if appendix:
@@ -66,12 +76,14 @@ def add_if_new(clas, evt):
                 and e.description == evt.description
                 and e.location == e.location
                 and e.begin == evt.begin
-                and e.end == evt.end):
+                and e.end == evt.end
+                and e.url == evt.url):
             found = True
             break
         if e.summary == evt.summary and e.location == evt.location:
             #web_pdb.set_trace()
             cals[clas].events[i].description = evt.description
+            cals[clas].events[i].url = evt.url
             # clear end time to avoid errors
             cals[clas].events[i].end = None
             cals[clas].events[i].begin = evt.begin
