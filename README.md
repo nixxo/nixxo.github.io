@@ -23,8 +23,10 @@ All sessions
 - <a href="wsbk/WorldSBK_2022_calendar.ics">WorldSBK</a>
 - <a href="wsbk/WorldSSP_2022_calendar.ics">WorldSSP</a>
 - <a href="wsbk/WorldSSP300_2022_calendar.ics">WorldSSP300</a>
+- <a href="wsbk/R3 bLU cRU Cup_2022_calendar.ics">R3 bLU cRU Cup</a>
 
 Superpole + Races Only
 - <a href="wsbk/WorldSBK_filtered_2022_calendar.ics">WorldSBK</a>
 - <a href="wsbk/WorldSSP_filtered_2022_calendar.ics">WorldSSP</a>
 - <a href="wsbk/WorldSSP300_filtered_2022_calendar.ics">WorldSSP300</a>
+- <a href="wsbk/R3 bLU cRU Cup_filtered_2022_calendar.ics">R3 bLU cRU Cup</a>

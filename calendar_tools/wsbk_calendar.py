@@ -2,7 +2,7 @@ import datetime
 import requests
 import sys
 from bs4 import BeautifulSoup
-import web_pdb
+#import web_pdb
 
 import calendar_common as cc
 
@@ -10,7 +10,7 @@ host = 'https://www.worldsbk.com'
 url = host + '/en/calendar'
 sess_filter = ['Superpole', 'Superpole Race', 'Race', 'Race 1', 'Race 2']
 sess_filter_on = True
-classes = ['WorldSSP300', 'WorldSSP', 'WorldSBK']
+classes = ['R3 bLU cRU Cup', 'WorldSSP300', 'WorldSSP', 'WorldSBK']
 output_folder = '../wsbk/'
 
 
@@ -99,6 +99,8 @@ def main():
 
             clas, sess = cat.get_text().strip().split('-')
             clas = clas.strip()
+            sess = sess.replace('Video', '')
+            sess = sess.replace('Live', '')
             sess = sess.strip()
             if clas not in classes:
                 continue
