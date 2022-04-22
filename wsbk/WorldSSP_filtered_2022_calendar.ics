@@ -64,7 +64,7 @@ UID:e75831b2-dd07-43ec-a0ee-64503af3b232@e758.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSSP\nSession: 
  Superpole
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220413T165128Z
 END:VEVENT
 BEGIN:VEVENT
@@ -74,7 +74,7 @@ SUMMARY:[WorldSSP] Race
 UID:e6dc3749-dbdd-4669-88b2-d482c9cafcbf@e6dc.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSSP\nSession: Race
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220413T165128Z
 END:VEVENT
 BEGIN:VEVENT
@@ -84,7 +84,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:8578883f-2136-48ca-8b5a-31c7fc91c2ac@8578.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220413T165128Z
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +94,7 @@ SUMMARY:[WorldSSP] Superpole
 UID:725482bf-8db7-4a93-b65a-665bfbaa235e@7254.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220413T165429Z
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ SUMMARY:[WorldSSP] Race
 UID:c1e4928f-f191-4d8e-9413-cca37cad31b9@c1e4.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSSP\nSession: Race
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220413T165429Z
 END:VEVENT
 BEGIN:VEVENT
@@ -112,7 +112,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:f4b3da93-486c-451a-b87c-40dcecf1bde4@f4b3.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220413T165429Z
 END:VEVENT
 BEGIN:VEVENT
@@ -122,7 +122,7 @@ SUMMARY:[WorldSSP] Superpole
 UID:309342cf-df5c-40e9-9743-043bd5d97470@3093.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:Circuito Estoril\, Estoril\, Portugal
-URL:/en/event/EST/2022
+URL:https://www.worldsbk.com/en/event/EST/2022
 DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +131,7 @@ SUMMARY:[WorldSSP] Race
 UID:a0e77d18-5fc7-4fc8-9420-c0d08a7bedb9@a0e7.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSSP\nSession: Race
 LOCATION:Circuito Estoril\, Estoril\, Portugal
-URL:/en/event/EST/2022
+URL:https://www.worldsbk.com/en/event/EST/2022
 DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
@@ -140,7 +140,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:183956a8-2b47-4502-951c-0168063d07b8@1839.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
-URL:/en/event/EST/2022
+URL:https://www.worldsbk.com/en/event/EST/2022
 DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +152,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSSP\nSession:
  Superpole
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
@@ -163,7 +163,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSSP\nSession:
  Race
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
@@ -174,7 +174,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSSP\nSession:
  Race 2
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
@@ -185,7 +185,7 @@ UID:77e3c4c8-0f33-43ae-9e03-5d9a682b8f18@77e3.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSSP\nSession: 
  Superpole
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
-URL:/en/event/GBR/2022
+URL:https://www.worldsbk.com/en/event/GBR/2022
 DTSTAMP:20220413T165432Z
 END:VEVENT
 BEGIN:VEVENT
@@ -194,7 +194,7 @@ SUMMARY:[WorldSSP] Race
 UID:ebec28e6-9297-4a6e-94b3-a479079b78b5@ebec.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSSP\nSession: Race
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
-URL:/en/event/GBR/2022
+URL:https://www.worldsbk.com/en/event/GBR/2022
 DTSTAMP:20220413T165432Z
 END:VEVENT
 BEGIN:VEVENT
@@ -203,7 +203,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:caf0853d-660d-43ab-9572-6fedbf3cd096@caf0.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
-URL:/en/event/GBR/2022
+URL:https://www.worldsbk.com/en/event/GBR/2022
 DTSTAMP:20220413T165432Z
 END:VEVENT
 BEGIN:VEVENT
@@ -213,7 +213,7 @@ SUMMARY:[WorldSSP] Superpole
 UID:e074929d-c1b9-486d-81a2-a630e9d6f821@e074.org
 DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
 END:VEVENT
 BEGIN:VEVENT
@@ -222,7 +222,7 @@ SUMMARY:[WorldSSP] Race
 UID:2b1e1618-0c24-4ce8-b836-622d870102d6@2b1e.org
 DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Race
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
 END:VEVENT
 BEGIN:VEVENT
@@ -231,7 +231,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:8293211b-1056-4950-95a2-9c1cb101e93f@8293.org
 DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
 END:VEVENT
 BEGIN:VEVENT
@@ -241,7 +241,7 @@ SUMMARY:[WorldSSP] Superpole
 UID:4033c739-9f8d-4656-96c1-8ec3f94a70d7@4033.org
 DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +250,7 @@ SUMMARY:[WorldSSP] Race
 UID:07c83c5c-1f9e-484c-820e-82936d41a13e@07c8.org
 DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Race
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
 END:VEVENT
 BEGIN:VEVENT
@@ -259,7 +259,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:fe8fa284-9b0c-4ff4-bbf8-06d7f39a6ff5@fe8f.org
 DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
 END:VEVENT
 BEGIN:VEVENT
@@ -269,7 +269,7 @@ SUMMARY:[WorldSSP] Superpole
 UID:7c86e53b-a4b1-4cf7-8157-1857a1c99180@7c86.org
 DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
-URL:/en/event/CAT/2022
+URL:https://www.worldsbk.com/en/event/CAT/2022
 DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
@@ -278,7 +278,7 @@ SUMMARY:[WorldSSP] Race
 UID:ca69542c-ccea-43c3-b52e-8966519e8602@ca69.org
 DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP\nSession: Race
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
-URL:/en/event/CAT/2022
+URL:https://www.worldsbk.com/en/event/CAT/2022
 DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
@@ -287,7 +287,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:374aa4a7-5938-42bd-ac1e-ec2e0d187f86@374a.org
 DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
-URL:/en/event/CAT/2022
+URL:https://www.worldsbk.com/en/event/CAT/2022
 DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
@@ -298,7 +298,7 @@ UID:16ca3431-853d-4f86-8b01-ea3d4ee71f56@16ca.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: 
  Superpole
 LOCATION:Algarve International Circuit\, PortimÃ£o\, Portugal
-URL:/en/event/POR/2022
+URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
@@ -307,7 +307,7 @@ SUMMARY:[WorldSSP] Race
 UID:8bac3bc0-7b9a-4495-b06a-893c7b958385@8bac.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: Race
 LOCATION:Algarve International Circuit\, PortimÃ£o\, Portugal
-URL:/en/event/POR/2022
+URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
@@ -317,7 +317,7 @@ UID:5e378c22-131f-4645-90a0-f8b85256a26c@5e37.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: Race
   2
 LOCATION:Algarve International Circuit\, PortimÃ£o\, Portugal
-URL:/en/event/POR/2022
+URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
@@ -328,7 +328,7 @@ UID:8684a9de-3ff6-4d51-9f69-532e43421d6b@8684.org
 DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSSP\nSession: 
  Superpole
 LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
-URL:/en/event/ARG/2022
+URL:https://www.worldsbk.com/en/event/ARG/2022
 DTSTAMP:20220413T165437Z
 END:VEVENT
 BEGIN:VEVENT
@@ -337,7 +337,7 @@ SUMMARY:[WorldSSP] Race
 UID:0a14dc09-15bf-41ba-be27-34cfcf6ac530@0a14.org
 DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSSP\nSession: Race
 LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
-URL:/en/event/ARG/2022
+URL:https://www.worldsbk.com/en/event/ARG/2022
 DTSTAMP:20220413T165437Z
 END:VEVENT
 BEGIN:VEVENT
@@ -347,7 +347,7 @@ UID:acd73cc6-5038-4a55-9917-be2ccb52c57e@acd7.org
 DESCRIPTION:Event: Motul Argentinean Round\nClass: WorldSSP\nSession: Race 
  2
 LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
-URL:/en/event/ARG/2022
+URL:https://www.worldsbk.com/en/event/ARG/2022
 DTSTAMP:20220413T165437Z
 END:VEVENT
 BEGIN:VEVENT
@@ -357,7 +357,7 @@ SUMMARY:[WorldSSP] Superpole
 UID:04e0175d-be9e-4135-9179-e0c0f5613449@04e0.org
 DESCRIPTION:Event: Indonesian Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:
-URL:/en/event/MAN/2022
+URL:https://www.worldsbk.com/en/event/MAN/2022
 DTSTAMP:20220413T165438Z
 END:VEVENT
 BEGIN:VEVENT
@@ -366,7 +366,7 @@ SUMMARY:[WorldSSP] Race
 UID:12032f23-5dcb-4f09-9fc1-3a15d93ec87d@1203.org
 DESCRIPTION:Event: Indonesian Round\nClass: WorldSSP\nSession: Race
 LOCATION:
-URL:/en/event/MAN/2022
+URL:https://www.worldsbk.com/en/event/MAN/2022
 DTSTAMP:20220413T165438Z
 END:VEVENT
 BEGIN:VEVENT
@@ -375,7 +375,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:d2881bf6-edb5-4942-b5a8-c871728efdc0@d288.org
 DESCRIPTION:Event: Indonesian Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:
-URL:/en/event/MAN/2022
+URL:https://www.worldsbk.com/en/event/MAN/2022
 DTSTAMP:20220413T165438Z
 END:VEVENT
 BEGIN:VEVENT
@@ -385,7 +385,7 @@ SUMMARY:[WorldSSP] Superpole
 UID:3e54af5f-f523-4ea1-9498-f41734907282@3e54.org
 DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
-URL:/en/event/AUS/2022
+URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -394,7 +394,7 @@ SUMMARY:[WorldSSP] Race
 UID:1930e097-255e-42ee-ae5a-93a05216367a@1930.org
 DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Race
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
-URL:/en/event/AUS/2022
+URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -403,7 +403,7 @@ SUMMARY:[WorldSSP] Race 2
 UID:c73c2a8f-1bff-4d7a-b70e-7efcfcb6e49a@c73c.org
 DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
-URL:/en/event/AUS/2022
+URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
 END:VEVENT
 END:VCALENDAR

@@ -31,7 +31,7 @@ UID:d10bb404-f935-4f7e-95e2-a6d91e346878@d10b.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSSP300\nSession: 
  Superpole
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220413T165128Z
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ UID:ee6d8520-769c-41c7-a247-3b6fa9d1e10e@ee6d.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSSP300\nSession: Race
   1
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220413T165128Z
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ UID:bce8e8bb-ba35-4207-a654-78221040cedc@bce8.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: WorldSSP300\nSession: Race
   2
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220413T165129Z
 END:VEVENT
 BEGIN:VEVENT
@@ -64,7 +64,7 @@ UID:66f96f82-6e66-4171-96d0-180175ce7b48@66f9.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSSP300\nSession: 
  Superpole
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220413T165429Z
 END:VEVENT
 BEGIN:VEVENT
@@ -73,7 +73,7 @@ SUMMARY:[WorldSSP300] Race 1
 UID:5ae1fd9d-24b9-4f01-a109-1b14b536ca1f@5ae1.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSSP300\nSession: Race 1
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220413T165429Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ SUMMARY:[WorldSSP300] Race 2
 UID:50a92c54-7376-40df-b558-6677c520e989@50a9.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: WorldSSP300\nSession: Race 2
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220413T165429Z
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +92,7 @@ SUMMARY:[WorldSSP300] Superpole
 UID:7b8315c8-cc1d-4f27-bbdb-9354f40aaef4@7b83.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSSP300\nSession: Superpole
 LOCATION:Circuito Estoril\, Estoril\, Portugal
-URL:/en/event/EST/2022
+URL:https://www.worldsbk.com/en/event/EST/2022
 DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
@@ -101,7 +101,7 @@ SUMMARY:[WorldSSP300] Race 1
 UID:4c91ca6e-1eb2-4015-a06d-ba419fb73a3e@4c91.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSSP300\nSession: Race 1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
-URL:/en/event/EST/2022
+URL:https://www.worldsbk.com/en/event/EST/2022
 DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +110,7 @@ SUMMARY:[WorldSSP300] Race 2
 UID:f128a362-ec2a-48db-ab6c-dc7f57835a4f@f128.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSSP300\nSession: Race 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
-URL:/en/event/EST/2022
+URL:https://www.worldsbk.com/en/event/EST/2022
 DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
@@ -122,7 +122,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass:
  WorldSSP300\nSession: Superpole
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +133,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass:
  WorldSSP300\nSession: Race 1
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
@@ -144,7 +144,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass:
  WorldSSP300\nSession: Race 2
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
@@ -154,7 +154,7 @@ SUMMARY:[WorldSSP300] Superpole
 UID:c0a57b08-831f-4b6f-898d-b98602ec8131@c0a5.org
 DESCRIPTION:Event: Czech Round\nClass: WorldSSP300\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
 END:VEVENT
 BEGIN:VEVENT
@@ -163,7 +163,7 @@ SUMMARY:[WorldSSP300] Race 1
 UID:9d712204-1e93-4e4e-b8e1-fc202cfaec48@9d71.org
 DESCRIPTION:Event: Czech Round\nClass: WorldSSP300\nSession: Race 1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
 END:VEVENT
 BEGIN:VEVENT
@@ -172,7 +172,7 @@ SUMMARY:[WorldSSP300] Race 2
 UID:f016fffc-d4e6-4445-a41c-000ceb126f61@f016.org
 DESCRIPTION:Event: Czech Round\nClass: WorldSSP300\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
 END:VEVENT
 BEGIN:VEVENT
@@ -182,7 +182,7 @@ SUMMARY:[WorldSSP300] Superpole
 UID:a53b00f0-8428-4842-bee3-09c3ad734aad@a53b.org
 DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
 END:VEVENT
 BEGIN:VEVENT
@@ -191,7 +191,7 @@ SUMMARY:[WorldSSP300] Race 1
 UID:fc191460-c531-4eb3-a461-e8bd2919d6d1@fc19.org
 DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: Race 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
 END:VEVENT
 BEGIN:VEVENT
@@ -200,7 +200,7 @@ SUMMARY:[WorldSSP300] Race 2
 UID:9bdd27e1-5978-4852-a940-03e0294b777d@9bdd.org
 DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
 END:VEVENT
 BEGIN:VEVENT
@@ -210,7 +210,7 @@ SUMMARY:[WorldSSP300] Superpole
 UID:95877ae2-1b6e-4b1e-9fec-0e694ec2fecc@9587.org
 DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP300\nSession: Superpole
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
-URL:/en/event/CAT/2022
+URL:https://www.worldsbk.com/en/event/CAT/2022
 DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
@@ -219,7 +219,7 @@ SUMMARY:[WorldSSP300] Race 1
 UID:157228d0-93ab-485a-8880-a42ffce30a30@1572.org
 DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP300\nSession: Race 1
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
-URL:/en/event/CAT/2022
+URL:https://www.worldsbk.com/en/event/CAT/2022
 DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
@@ -228,7 +228,7 @@ SUMMARY:[WorldSSP300] Race 2
 UID:5397e16a-c202-4d71-bdc7-a18fbb9a606f@5397.org
 DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP300\nSession: Race 2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
-URL:/en/event/CAT/2022
+URL:https://www.worldsbk.com/en/event/CAT/2022
 DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
@@ -239,7 +239,7 @@ UID:d0ee92af-ebee-412b-b8f3-31dba9b08620@d0ee.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP300\nSession: 
  Superpole
 LOCATION:Algarve International Circuit\, PortimÃ£o\, Portugal
-URL:/en/event/POR/2022
+URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
@@ -249,7 +249,7 @@ UID:1fec859f-9eee-43fe-9ef5-75c693577e05@1fec.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP300\nSession: 
  Race 1
 LOCATION:Algarve International Circuit\, PortimÃ£o\, Portugal
-URL:/en/event/POR/2022
+URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
@@ -259,7 +259,7 @@ UID:88ec9219-f11c-402d-bf6d-e9e6c15c210b@88ec.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP300\nSession: 
  Race 2
 LOCATION:Algarve International Circuit\, PortimÃ£o\, Portugal
-URL:/en/event/POR/2022
+URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 END:VCALENDAR

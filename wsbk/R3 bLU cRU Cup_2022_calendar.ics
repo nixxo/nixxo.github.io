@@ -8,6 +8,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -18,6 +19,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -29,7 +31,7 @@ UID:fea468ae-f0e7-46db-b7fd-b4d2bd50033f@fea4.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: R3 bLU cRU Cup\nSession: 
  FP1
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
@@ -40,7 +42,7 @@ UID:94bfaebc-ddfd-4c78-8204-4bfae7284517@94bf.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: R3 bLU cRU Cup\nSession: 
  Superpole
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +53,7 @@ UID:552fcb86-6c53-4d4b-98b4-f8f4e4ea6060@552f.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: R3 bLU cRU Cup\nSession: 
  Race
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
@@ -62,17 +64,17 @@ UID:ceeeaeea-cb94-4e0d-84f6-84c3bf61a448@ceee.org
 DESCRIPTION:Event: Pirelli  Aragon Round\nClass: R3 bLU cRU Cup\nSession: 
  Race 2
 LOCATION:MotorLand Aragon\, Teruel\, Spain
-URL:/en/event/ARA/2022
+URL:https://www.worldsbk.com/en/event/ARA/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220422T090000
-DTEND;TZID="UTC+02:00":20220422T093000
+DTEND;TZID="UTC+02:00":20220422T093200
 SUMMARY:[R3 bLU cRU Cup] FP1
 UID:08035312-c9a5-4b8e-8e8c-b2cc3b77baac@0803.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: R3 bLU cRU Cup\nSession: FP1
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83,7 +85,7 @@ UID:bc0c1c26-20b9-4f0b-928a-acb7b7d4dbed@bc0c.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: R3 bLU cRU Cup\nSession: 
  Superpole
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +94,7 @@ SUMMARY:[R3 bLU cRU Cup] Race
 UID:f5b241b1-d2eb-46cf-9638-2a7dc3eb8be1@f5b2.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: R3 bLU cRU Cup\nSession: Race
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
@@ -102,7 +104,7 @@ UID:a335f30d-878c-446c-8d2a-6a5e309241cf@a335.org
 DESCRIPTION:Event: Motul Dutch Round\nClass: R3 bLU cRU Cup\nSession: Race 
  2
 LOCATION:TT Assen Circuit\, The Netherlands
-URL:/en/event/NED/2022
+URL:https://www.worldsbk.com/en/event/NED/2022
 DTSTAMP:20220422T065737Z
 END:VEVENT
 BEGIN:VEVENT
@@ -114,7 +116,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU
  Cup\nSession: FP1
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220422T065739Z
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +128,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU
  Cup\nSession: Superpole
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220422T065739Z
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +139,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU
  Cup\nSession: Race
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220422T065739Z
 END:VEVENT
 BEGIN:VEVENT
@@ -148,7 +150,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU
  Cup\nSession: Race 2
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
-URL:/en/event/ITA/2022
+URL:https://www.worldsbk.com/en/event/ITA/2022
 DTSTAMP:20220422T065739Z
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +161,7 @@ UID:a7a37c95-f732-43aa-892b-89e259c1f16a@a7a3.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
  FP1
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
-URL:/en/event/GBR/2022
+URL:https://www.worldsbk.com/en/event/GBR/2022
 DTSTAMP:20220422T065740Z
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +172,7 @@ UID:e2373d65-471c-40f1-9a11-65ca7933bc3f@e237.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
  Superpole
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
-URL:/en/event/GBR/2022
+URL:https://www.worldsbk.com/en/event/GBR/2022
 DTSTAMP:20220422T065740Z
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +182,7 @@ UID:83f61e2a-ddd3-4063-aa93-9c76085abf23@83f6.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
  Race
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
-URL:/en/event/GBR/2022
+URL:https://www.worldsbk.com/en/event/GBR/2022
 DTSTAMP:20220422T065740Z
 END:VEVENT
 BEGIN:VEVENT
@@ -190,7 +192,7 @@ UID:dcc6eb8d-1b0f-4e7a-bf3c-f39bc940e245@dcc6.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
  Race 2
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
-URL:/en/event/GBR/2022
+URL:https://www.worldsbk.com/en/event/GBR/2022
 DTSTAMP:20220422T065740Z
 END:VEVENT
 BEGIN:VEVENT
@@ -200,7 +202,7 @@ SUMMARY:[R3 bLU cRU Cup] FP1
 UID:2809bf9e-1a27-40a3-b939-1a42baf78b60@2809.org
 DESCRIPTION:Event: Czech Round\nClass: R3 bLU cRU Cup\nSession: FP1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220422T065741Z
 END:VEVENT
 BEGIN:VEVENT
@@ -210,7 +212,7 @@ SUMMARY:[R3 bLU cRU Cup] Superpole
 UID:8111d19f-1988-4c07-9864-69465ea36062@8111.org
 DESCRIPTION:Event: Czech Round\nClass: R3 bLU cRU Cup\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220422T065741Z
 END:VEVENT
 BEGIN:VEVENT
@@ -219,7 +221,7 @@ SUMMARY:[R3 bLU cRU Cup] Race
 UID:fdb9337d-1ad4-4d65-b8d6-1429c6de036c@fdb9.org
 DESCRIPTION:Event: Czech Round\nClass: R3 bLU cRU Cup\nSession: Race
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220422T065741Z
 END:VEVENT
 BEGIN:VEVENT
@@ -228,7 +230,7 @@ SUMMARY:[R3 bLU cRU Cup] Race 2
 UID:77379e79-5379-4b0d-aeaa-eca4fd5d4741@7737.org
 DESCRIPTION:Event: Czech Round\nClass: R3 bLU cRU Cup\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
-URL:/en/event/CZE/2022
+URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220422T065741Z
 END:VEVENT
 BEGIN:VEVENT
@@ -238,7 +240,7 @@ SUMMARY:[R3 bLU cRU Cup] FP1
 UID:eba4691d-862b-4d7a-99e3-2aadb205e7ca@eba4.org
 DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: FP1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z
 END:VEVENT
 BEGIN:VEVENT
@@ -248,7 +250,7 @@ SUMMARY:[R3 bLU cRU Cup] Superpole
 UID:e752a5cf-e324-42ff-9aeb-a933a2afae5d@e752.org
 DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z
 END:VEVENT
 BEGIN:VEVENT
@@ -257,7 +259,7 @@ SUMMARY:[R3 bLU cRU Cup] Race
 UID:d52bae0b-70e7-4922-833e-6bf76ac68908@d52b.org
 DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: Race
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z
 END:VEVENT
 BEGIN:VEVENT
@@ -266,7 +268,7 @@ SUMMARY:[R3 bLU cRU Cup] Race 2
 UID:5207a407-34c1-475a-a4e4-29ce8645acab@5207.org
 DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
-URL:/en/event/FRA/2022
+URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z
 END:VEVENT
 END:VCALENDAR
