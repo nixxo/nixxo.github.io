@@ -74,7 +74,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0900
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+09:00
 END:STANDARD
 END:VTIMEZONE
@@ -96,7 +95,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -1036,7 +1034,7 @@ UID:8913be25-afd1-4b71-b10f-987bb0feab53@8913.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: Free 
  Practice Nr. 1
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1047,7 +1045,7 @@ UID:435af2db-5d27-4ffc-a703-7812411c4884@435a.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: Free 
  Practice Nr. 2
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1058,7 +1056,7 @@ UID:68f3ce99-54a0-4d13-8599-92fc91ca5bfc@68f3.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: Free 
  Practice Nr. 3
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1069,7 +1067,7 @@ UID:949aa588-e764-40bc-81fd-1efeb93a0040@949a.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: Free 
  Practice Nr. 4
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1080,7 +1078,7 @@ UID:d6e3bc8e-047c-4ef9-812c-0fffbf6fcc9c@d6e3.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: 
  Qualifying Nr. 1
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1091,7 +1089,7 @@ UID:5ad73b52-a22b-4a47-a3b0-8513b94aff84@5ad7.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: 
  Qualifying Nr. 2
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1101,7 +1099,7 @@ SUMMARY:[MotoGP] WUP
 UID:908ec6e1-ae25-4249-8556-49086d51264f@908e.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: Warm Up
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1110,7 +1108,7 @@ SUMMARY:[MotoGP] RAC
 UID:a793b1ee-923f-4a81-9a81-ec03ec5be2b0@a793.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoGP\nSession: Race
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1467,7 +1465,7 @@ UID:2c2a660f-324d-4108-a827-eda3b630f9b4@2c2a.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Free 
  Practice Nr. 1
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1478,7 +1476,7 @@ UID:8f28423b-4eee-4302-a2fd-8fe9e22adf99@8f28.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Free 
  Practice Nr. 2
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1489,7 +1487,7 @@ UID:06f8d59b-1949-4588-90a0-193d1fb97016@06f8.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Free 
  Practice Nr. 3
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1500,7 +1498,7 @@ UID:74d5587b-6472-4976-a620-b4b8f9793cb9@74d5.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Free 
  Practice Nr. 4
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1511,7 +1509,7 @@ UID:4d0bccc9-09e2-4d38-9229-d7314b3fe984@4d0b.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: 
  Qualifying Nr. 1
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1522,7 +1520,7 @@ UID:61364d7f-e09d-495d-b953-52ab326f997a@6136.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: 
  Qualifying Nr. 2
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,7 +1531,7 @@ UID:339b6d69-fd80-441b-b915-960931aa83c5@339b.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Warm 
  Up
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1542,7 +1540,7 @@ SUMMARY:[MotoGP] RAC
 UID:f90a1203-bf61-4bb8-bf3d-dd2eca8fb12a@f90a.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Race
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1638,7 +1636,7 @@ UID:62e30227-53d4-4585-b450-f6f92ba2c225@62e3.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1649,7 +1647,7 @@ UID:3a9c44c3-2e32-4ef3-b9c3-3a094af7a363@3a9c.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1660,7 +1658,7 @@ UID:25c88f0c-e22e-4e00-9103-ad3816203372@25c8.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Free Practice Nr. 3
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1671,7 +1669,7 @@ UID:6a85bf52-8e8b-405c-ab52-878a68285d1c@6a85.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Free Practice Nr. 4
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1682,7 +1680,7 @@ UID:89045a25-b189-44b0-b2df-3ea5ffe0c3db@8904.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1693,7 +1691,7 @@ UID:f1182111-7be9-47a6-8290-e97ceaa44a83@f118.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1704,7 +1702,7 @@ UID:30806929-a3e8-4089-9f13-bfbf192cf552@3080.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Warm Up
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1714,7 +1712,7 @@ UID:d487cee2-5636-4a88-b033-f2de9a11913b@d487.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Race
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1725,7 +1723,7 @@ UID:e32c884a-4644-4023-a783-7e0efc19de3f@e32c.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Free Practice Nr. 1
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1736,7 +1734,7 @@ UID:a76746cf-d7c3-4120-a31a-f92581b1b8a9@a767.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Free Practice Nr. 2
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1747,7 +1745,7 @@ UID:d827c0fa-b80d-4664-af1f-608010454f71@d827.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Free Practice Nr. 3
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1758,7 +1756,7 @@ UID:92b9c0f4-7259-4b84-a55d-c89e140a3ec8@92b9.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Free Practice Nr. 4
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1769,7 +1767,7 @@ UID:e29c8394-2f0a-4240-9feb-f3db421d499c@e29c.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Qualifying Nr. 1
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1780,7 +1778,7 @@ UID:0f295740-c2fe-453a-ba69-53da76d65314@0f29.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Qualifying Nr. 2
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1791,7 +1789,7 @@ UID:d4d1b84c-e9bc-4cf7-a4db-be0f2e7a62e7@d4d1.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Warm Up
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1801,7 +1799,7 @@ UID:d68c5edc-4380-42e4-93df-53e7bdd773cb@d68c.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Race
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT

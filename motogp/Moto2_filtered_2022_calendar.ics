@@ -74,7 +74,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0900
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+09:00
 END:STANDARD
 END:VTIMEZONE
@@ -96,7 +95,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -254,7 +252,7 @@ DTSTART;TZID="UTC+01:00":20220424T143000
 SUMMARY:[Moto2] RAC
 UID:73affa1c-da42-47af-9cff-5b0edd873558@73af.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
- Moto2\nSession: Race
+ Moto2\nSession: Race PART 1
 LOCATION:Autódromo Internacional do Algarve - Portugal
 URL:https://www.motogp.com/en/event/Portugal
 DTSTAMP:20220413T172156Z
@@ -455,7 +453,7 @@ UID:18a2ddf4-368f-4c53-b4df-5a36b4edebbb@18a2.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto2\nSession: Qualifying
   Nr. 1
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -466,7 +464,7 @@ UID:bf6c0d28-32f2-450f-9013-cdce4f48557f@bf6c.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto2\nSession: Qualifying
   Nr. 2
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -475,7 +473,7 @@ SUMMARY:[Moto2] RAC
 UID:5f014e9a-5efc-4f6f-add4-46650b8931ea@5f01.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto2\nSession: Race
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -613,7 +611,7 @@ UID:8ce95756-1a97-4e47-84ac-b41ba95a287e@8ce9.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto2\nSession: 
  Qualifying Nr. 1
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -624,7 +622,7 @@ UID:a5fd8c6d-4cad-4fa5-a99c-25a20d9f073e@a5fd.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto2\nSession: 
  Qualifying Nr. 2
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -633,7 +631,7 @@ SUMMARY:[Moto2] RAC
 UID:87612bdd-dd58-4442-ae35-825b796359a9@8761.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto2\nSession: Race
 LOCATION:Mobility Resort Motegi - Japan
-URL:https://www.motogp.com/en/event/JAPAN
+URL:https://www.motogp.com/en/event/Japan
 DTSTAMP:20220413T172210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -675,7 +673,7 @@ UID:21ebf813-3bde-4ffe-95bb-21142795492b@21eb.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
   Qualifying Nr. 1
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -686,7 +684,7 @@ UID:8a3db115-597f-4cea-ab83-7850435e02e7@8a3d.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
   Qualifying Nr. 2
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -696,7 +694,7 @@ UID:a90b19be-603d-4873-b288-470afa2c5eb0@a90b.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
   Race
 LOCATION:Phillip Island - Australia
-URL:https://www.motogp.com/en/event/AUSTRALIA
+URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
 END:VEVENT
 BEGIN:VEVENT
@@ -707,7 +705,7 @@ UID:1b606383-cde0-4482-96f6-77f8b1a359c6@1b60.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto2\nSession: 
  Qualifying Nr. 1
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -718,7 +716,7 @@ UID:e00710d5-bf2c-49f8-8350-e9f9b08afc2f@e007.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto2\nSession: 
  Qualifying Nr. 2
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT
@@ -728,7 +726,7 @@ UID:0fa1b699-0ec5-471f-b2e6-35a1954372d0@0fa1.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto2\nSession: 
  Race
 LOCATION:Sepang International Circuit - Malaysia
-URL:https://www.motogp.com/en/event/MALAYSIA
+URL:https://www.motogp.com/en/event/Malaysia
 DTSTAMP:20220413T172215Z
 END:VEVENT
 BEGIN:VEVENT

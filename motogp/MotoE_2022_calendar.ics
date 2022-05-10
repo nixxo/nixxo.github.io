@@ -19,7 +19,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0300
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+03:00
 END:STANDARD
 END:VTIMEZONE
@@ -58,7 +57,7 @@ DTSTAMP:20220413T172158Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220429T171000
-DTEND;TZID="UTC+02:00":20220429T172000
+DTEND;TZID="UTC+02:00":20220429T173000
 SUMMARY:[MotoE] Q2
 UID:f2712f95-13ed-487e-a503-31c8d5d7033c@f271.org
 DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoE\nSession: 
@@ -68,7 +67,7 @@ URL:https://www.motogp.com/en/event/Espa�a
 DTSTAMP:20220413T172158Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220430T161500
+DTSTART;TZID="UTC+02:00":20220430T162500
 SUMMARY:[MotoE] RAC1
 UID:ab6bafd3-1e45-4b3c-bc1c-8e1239bd8664@ab6b.org
 DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoE\nSession: 
@@ -132,7 +131,7 @@ URL:https://www.motogp.com/en/event/France
 DTSTAMP:20220413T172159Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220514T161500
+DTSTART;TZID="UTC+02:00":20220514T162500
 SUMMARY:[MotoE] RAC1
 UID:6faeeb2e-4c00-491f-a806-1c29d28a8604@6fae.org
 DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: Race 
@@ -283,7 +282,7 @@ UID:bd63eeb9-fab5-4eed-9b4a-5fd80c577fa5@bd63.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Free 
  Practice Nr. 1
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -294,7 +293,7 @@ UID:65383247-a403-4b5b-ac58-abc803c0c679@6538.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Free 
  Practice Nr. 2
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -305,7 +304,7 @@ UID:b663b753-85a4-401b-9fd9-e38e200fcde9@b663.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Qualifying
   Nr. 1
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -316,7 +315,7 @@ UID:5e3ed5e7-a8e7-430b-896c-9b9dc8006147@5e3e.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Qualifying
   Nr. 2
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -325,7 +324,7 @@ SUMMARY:[MotoE] RAC1
 UID:4bbecad6-f90e-4b54-b22a-67e7ffae1e59@4bbe.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Race Nr.1
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -334,7 +333,7 @@ SUMMARY:[MotoE] RAC2
 UID:1890a674-aeac-4848-b20c-21269f6ea136@1890.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Race Nr.2
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT

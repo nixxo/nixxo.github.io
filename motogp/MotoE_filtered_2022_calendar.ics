@@ -19,7 +19,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0300
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+03:00
 END:STANDARD
 END:VTIMEZONE
@@ -36,7 +35,7 @@ DTSTAMP:20220413T172158Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220429T171000
-DTEND;TZID="UTC+02:00":20220429T172000
+DTEND;TZID="UTC+02:00":20220429T173000
 SUMMARY:[MotoE] Q2
 UID:f2712f95-13ed-487e-a503-31c8d5d7033c@f271.org
 DESCRIPTION:Event: Gran Premio Red Bull de España\nClass: MotoE\nSession: 
@@ -117,7 +116,7 @@ UID:b663b753-85a4-401b-9fd9-e38e200fcde9@b663.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Qualifying
   Nr. 1
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
@@ -128,7 +127,7 @@ UID:5e3ed5e7-a8e7-430b-896c-9b9dc8006147@5e3e.org
 DESCRIPTION:Event: Grand Prix of Finland\nClass: MotoE\nSession: Qualifying
   Nr. 2
 LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/finland
+URL:https://www.motogp.com/en/event/Finland
 DTSTAMP:20220413T172204Z
 END:VEVENT
 BEGIN:VEVENT
