@@ -159,7 +159,8 @@ DTSTART;TZID="UTC+02:00":20220729T133000
 DTEND;TZID="UTC+02:00":20220729T140000
 SUMMARY:[R3 bLU cRU Cup] Superpole
 UID:8111d19f-1988-4c07-9864-69465ea36062@8111.org
-DESCRIPTION:Event: Czech Round\nClass: R3 bLU cRU Cup\nSession: Superpole
+DESCRIPTION:Event: Prosecco DOC Czech Round\nClass: R3 bLU cRU 
+ Cup\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220422T065741Z
@@ -168,7 +169,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220730T114500
 SUMMARY:[R3 bLU cRU Cup] Race 1
 UID:fdb9337d-1ad4-4d65-b8d6-1429c6de036c@fdb9.org
-DESCRIPTION:Event: Czech Round\nClass: R3 bLU cRU Cup\nSession: Race 1
+DESCRIPTION:Event: Prosecco DOC Czech Round\nClass: R3 bLU cRU 
+ Cup\nSession: Race 1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220422T065741Z
@@ -177,7 +179,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220730T161500
 SUMMARY:[R3 bLU cRU Cup] Race 2
 UID:77379e79-5379-4b0d-aeaa-eca4fd5d4741@7737.org
-DESCRIPTION:Event: Czech Round\nClass: R3 bLU cRU Cup\nSession: Race 2
+DESCRIPTION:Event: Prosecco DOC Czech Round\nClass: R3 bLU cRU 
+ Cup\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220422T065741Z

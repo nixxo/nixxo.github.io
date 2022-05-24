@@ -19,7 +19,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -41,7 +40,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0800
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+08:00
 END:STANDARD
 END:VTIMEZONE
@@ -141,7 +139,7 @@ DTSTAMP:20220413T165429Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20220521T111000
-DTEND;TZID="UTC+01:00":20220521T112500
+DTEND;TZID="UTC+01:00":20220521T112800
 SUMMARY:[WorldSBK] Superpole
 UID:cabc25b2-19c1-4b8f-961b-ab989c49ee3a@cabc.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Superpole
@@ -151,6 +149,7 @@ DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20220521T140000
+DTEND;TZID="UTC+01:00":20220521T144000
 SUMMARY:[WorldSBK] Race 1
 UID:69a9b233-2d67-4fbf-a503-1212ae623711@69a9.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 1
@@ -160,6 +159,7 @@ DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20220522T110000
+DTEND;TZID="UTC+01:00":20220522T112000
 SUMMARY:[WorldSBK] Superpole Race
 UID:2840ded8-fb52-4704-8bdc-32f50b4e9d27@2840.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Superpole Race
@@ -169,6 +169,7 @@ DTSTAMP:20220413T165430Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20220522T140000
+DTEND;TZID="UTC+01:00":20220522T143800
 SUMMARY:[WorldSBK] Race 2
 UID:85455eba-f022-4d81-b067-6de7c0f47695@8545.org
 DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 2
@@ -265,7 +266,8 @@ DTSTART;TZID="UTC+02:00":20220730T111000
 DTEND;TZID="UTC+02:00":20220730T112500
 SUMMARY:[WorldSBK] Superpole
 UID:0ab863a3-67b9-433a-a7b5-3e7e73a6e990@0ab8.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Prosecco DOC Czech Round\nClass: WorldSBK\nSession: 
+ Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
@@ -274,7 +276,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220730T140000
 SUMMARY:[WorldSBK] Race 1
 UID:f4fd84ad-e769-498f-bd12-73997227b6f6@f4fd.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Prosecco DOC Czech Round\nClass: WorldSBK\nSession: Race
+  1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
@@ -283,7 +286,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220731T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:78fd73a4-a80a-4a9b-ae90-5359071cbc09@78fd.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole Race
+DESCRIPTION:Event: Prosecco DOC Czech Round\nClass: WorldSBK\nSession: 
+ Superpole Race
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
@@ -292,7 +296,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220731T140000
 SUMMARY:[WorldSBK] Race 2
 UID:3c07104f-2550-4cc9-9399-291c82b3432e@3c07.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Prosecco DOC Czech Round\nClass: WorldSBK\nSession: Race
+  2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2022
 DTSTAMP:20220413T165433Z
@@ -459,7 +464,8 @@ DTSTART;TZID="UTC+08:00":20221112T110000
 DTEND;TZID="UTC+08:00":20221112T111500
 SUMMARY:[WorldSBK] Superpole
 UID:1539c5f2-b6a1-4e89-a54b-56e732ae351d@1539.org
-DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Pirelli Indonesian Round\nClass: WorldSBK\nSession: 
+ Superpole
 LOCATION:
 URL:https://www.worldsbk.com/en/event/MAN/2022
 DTSTAMP:20220413T165438Z
@@ -468,7 +474,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20221112T140000
 SUMMARY:[WorldSBK] Race 1
 UID:5203cdd0-2fa6-42a7-aa66-083e4c10e340@5203.org
-DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Pirelli Indonesian Round\nClass: WorldSBK\nSession: Race
+  1
 LOCATION:
 URL:https://www.worldsbk.com/en/event/MAN/2022
 DTSTAMP:20220413T165438Z
@@ -477,8 +484,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20221113T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:b3c9979c-49a2-4250-b8e5-768546e132a8@b3c9.org
-DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Superpole 
- Race
+DESCRIPTION:Event: Pirelli Indonesian Round\nClass: WorldSBK\nSession: 
+ Superpole Race
 LOCATION:
 URL:https://www.worldsbk.com/en/event/MAN/2022
 DTSTAMP:20220413T165438Z
@@ -487,7 +494,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20221113T140000
 SUMMARY:[WorldSBK] Race 2
 UID:3a76631e-063f-47ac-98de-dc3fc78cc930@3a76.org
-DESCRIPTION:Event: Indonesian Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Pirelli Indonesian Round\nClass: WorldSBK\nSession: Race
+  2
 LOCATION:
 URL:https://www.worldsbk.com/en/event/MAN/2022
 DTSTAMP:20220413T165438Z
