@@ -96,7 +96,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -335,7 +334,7 @@ DTSTAMP:20220413T172200Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220528T143500
-DTEND;TZID="UTC+02:00":20220528T145000
+DTEND;TZID="UTC+02:00":20220528T150000
 SUMMARY:[MotoGP] Q2
 UID:09d94162-31a4-4734-a151-e962066cc48f@09d9.org
 DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: 
@@ -579,8 +578,8 @@ DTSTART;TZID="UTC+02:00":20220917T141000
 DTEND;TZID="UTC+02:00":20220917T142500
 SUMMARY:[MotoGP] Q1
 UID:9bd808bf-13be-4246-9308-b492db6ba880@9bd8.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: MotoGP\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -590,8 +589,8 @@ DTSTART;TZID="UTC+02:00":20220917T143500
 DTEND;TZID="UTC+02:00":20220917T145000
 SUMMARY:[MotoGP] Q2
 UID:cbe54f45-5def-478a-bd80-44c516d26063@cbe5.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: MotoGP\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -600,7 +599,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220918T140000
 SUMMARY:[MotoGP] RAC
 UID:2fd96e0f-5712-4c70-a80b-4077188bcb40@2fd9.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ MotoGP\nSession: Race
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -672,7 +672,7 @@ DTSTART;TZID="UTC+11:00":20221015T141000
 DTEND;TZID="UTC+11:00":20221015T142500
 SUMMARY:[MotoGP] Q1
 UID:89045a25-b189-44b0-b2df-3ea5ffe0c3db@8904.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
@@ -683,7 +683,7 @@ DTSTART;TZID="UTC+11:00":20221015T143500
 DTEND;TZID="UTC+11:00":20221015T145000
 SUMMARY:[MotoGP] Q2
 UID:f1182111-7be9-47a6-8290-e97ceaa44a83@f118.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221016T140000
 SUMMARY:[MotoGP] RAC
 UID:d487cee2-5636-4a88-b033-f2de9a11913b@d487.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: 
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
  MotoGP\nSession: Race
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia

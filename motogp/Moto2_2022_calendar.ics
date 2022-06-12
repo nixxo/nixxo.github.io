@@ -96,7 +96,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -652,8 +651,8 @@ URL:https://www.motogp.com/en/event/Italy
 DTSTAMP:20220413T172200Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220528T151000
-DTEND;TZID="UTC+02:00":20220528T152500
+DTSTART;TZID="UTC+02:00":20220528T151500
+DTEND;TZID="UTC+02:00":20220528T153000
 SUMMARY:[Moto2] Q1
 UID:25618094-1dd1-46b1-9de7-1838ae51ca2b@2561.org
 DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: 
@@ -663,8 +662,8 @@ URL:https://www.motogp.com/en/event/Italy
 DTSTAMP:20220413T172200Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20220528T153500
-DTEND;TZID="UTC+02:00":20220528T155000
+DTSTART;TZID="UTC+02:00":20220528T154000
+DTEND;TZID="UTC+02:00":20220528T155500
 SUMMARY:[Moto2] Q2
 UID:5e5f4a9c-66fd-4c40-85d0-13bda93b8062@5e5f.org
 DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: 
@@ -1225,8 +1224,8 @@ DTSTART;TZID="UTC+02:00":20220916T105500
 DTEND;TZID="UTC+02:00":20220916T113500
 SUMMARY:[Moto2] FP1
 UID:b94b8dce-a2ef-4fb4-a807-f6e82521f366@b94b.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Free 
- Practice Nr. 1
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ Moto2\nSession: Free Practice Nr. 1
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -1236,8 +1235,8 @@ DTSTART;TZID="UTC+02:00":20220916T151000
 DTEND;TZID="UTC+02:00":20220916T155000
 SUMMARY:[Moto2] FP2
 UID:8c42cf12-038c-41b5-801e-2fe377f6d65f@8c42.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Free 
- Practice Nr. 2
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ Moto2\nSession: Free Practice Nr. 2
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -1247,8 +1246,8 @@ DTSTART;TZID="UTC+02:00":20220917T105500
 DTEND;TZID="UTC+02:00":20220917T113500
 SUMMARY:[Moto2] FP3
 UID:91459d40-d304-4f2c-94aa-c56b7c8764e8@9145.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Free 
- Practice Nr. 3
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ Moto2\nSession: Free Practice Nr. 3
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -1258,8 +1257,8 @@ DTSTART;TZID="UTC+02:00":20220917T151000
 DTEND;TZID="UTC+02:00":20220917T152500
 SUMMARY:[Moto2] Q1
 UID:ae1afc09-260e-41cb-954e-3e0d8b1c11a5@ae1a.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -1269,8 +1268,8 @@ DTSTART;TZID="UTC+02:00":20220917T153500
 DTEND;TZID="UTC+02:00":20220917T155000
 SUMMARY:[Moto2] Q2
 UID:9aa840a6-0200-4306-bee2-4d584c913520@9aa8.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -1280,7 +1279,8 @@ DTSTART;TZID="UTC+02:00":20220918T092000
 DTEND;TZID="UTC+02:00":20220918T093000
 SUMMARY:[Moto2] WUP
 UID:7cf94962-99d5-42f7-b12e-9e8d9f3682b1@7cf9.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Warm Up
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ Moto2\nSession: Warm Up
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -1289,7 +1289,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220918T122000
 SUMMARY:[Moto2] RAC
 UID:af7a7da7-2f07-47c9-a360-50af2cca5810@af7a.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio Animoca Brands de Aragón\nClass: 
+ Moto2\nSession: Race
 LOCATION:MotorLand Aragón - Spain
 URL:https://www.motogp.com/en/event/Aragon
 DTSTAMP:20220413T172209Z
@@ -1448,8 +1449,8 @@ DTSTART;TZID="UTC+11:00":20221014T105500
 DTEND;TZID="UTC+11:00":20221014T113500
 SUMMARY:[Moto2] FP1
 UID:91e90642-2251-4bbf-a455-a6a0ce74a2b3@91e9.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Free Practice Nr. 1
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Free Practice Nr. 1
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
@@ -1459,8 +1460,8 @@ DTSTART;TZID="UTC+11:00":20221014T151000
 DTEND;TZID="UTC+11:00":20221014T155000
 SUMMARY:[Moto2] FP2
 UID:c7367694-9a7f-4fe5-8587-a21e812f3740@c736.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Free Practice Nr. 2
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Free Practice Nr. 2
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
@@ -1470,8 +1471,8 @@ DTSTART;TZID="UTC+11:00":20221015T105500
 DTEND;TZID="UTC+11:00":20221015T113500
 SUMMARY:[Moto2] FP3
 UID:38d5545e-e1a7-4351-a058-836da055d2d4@38d5.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Free Practice Nr. 3
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Free Practice Nr. 3
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
@@ -1481,8 +1482,8 @@ DTSTART;TZID="UTC+11:00":20221015T151000
 DTEND;TZID="UTC+11:00":20221015T152500
 SUMMARY:[Moto2] Q1
 UID:21ebf813-3bde-4ffe-95bb-21142795492b@21eb.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Qualifying Nr. 1
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
@@ -1492,8 +1493,8 @@ DTSTART;TZID="UTC+11:00":20221015T153500
 DTEND;TZID="UTC+11:00":20221015T155000
 SUMMARY:[Moto2] Q2
 UID:8a3db115-597f-4cea-ab83-7850435e02e7@8a3d.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Qualifying Nr. 2
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
@@ -1503,8 +1504,8 @@ DTSTART;TZID="UTC+11:00":20221016T092000
 DTEND;TZID="UTC+11:00":20221016T093000
 SUMMARY:[Moto2] WUP
 UID:87d96efb-864f-4161-b2e0-26a527b27032@87d9.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Warm Up
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Warm Up
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
@@ -1513,8 +1514,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221016T122000
 SUMMARY:[Moto2] RAC
 UID:a90b19be-603d-4873-b288-470afa2c5eb0@a90b.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Race
+DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Race
 LOCATION:Phillip Island - Australia
 URL:https://www.motogp.com/en/event/Australia
 DTSTAMP:20220413T172214Z
