@@ -247,7 +247,8 @@ DTSTART;TZID="UTC+02:00":20220909T090000
 DTEND;TZID="UTC+02:00":20220909T093000
 SUMMARY:[R3 bLU cRU Cup] FP1
 UID:eba4691d-862b-4d7a-99e3-2aadb205e7ca@eba4.org
-DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: FP1
+DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession: 
+ FP1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z
@@ -257,7 +258,8 @@ DTSTART;TZID="UTC+02:00":20220909T133000
 DTEND;TZID="UTC+02:00":20220909T140000
 SUMMARY:[R3 bLU cRU Cup] Superpole
 UID:e752a5cf-e324-42ff-9aeb-a933a2afae5d@e752.org
-DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: Superpole
+DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession: 
+ Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z
@@ -266,7 +268,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220910T114500
 SUMMARY:[R3 bLU cRU Cup] Race 1
 UID:d52bae0b-70e7-4922-833e-6bf76ac68908@d52b.org
-DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: Race 1
+DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z
@@ -275,7 +278,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220910T161500
 SUMMARY:[R3 bLU cRU Cup] Race 2
 UID:5207a407-34c1-475a-a4e4-29ce8645acab@5207.org
-DESCRIPTION:Event: French Round\nClass: R3 bLU cRU Cup\nSession: Race 2
+DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220422T065742Z

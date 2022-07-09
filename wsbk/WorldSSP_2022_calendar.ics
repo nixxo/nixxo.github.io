@@ -432,7 +432,7 @@ DTSTART;TZID="UTC+02:00":20220909T112500
 DTEND;TZID="UTC+02:00":20220909T121000
 SUMMARY:[WorldSSP] FP1
 UID:95e05e0b-3972-46a4-bd7c-89a123a1d364@95e0.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: FP1
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP\nSession: FP1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -442,7 +442,7 @@ DTSTART;TZID="UTC+02:00":20220909T160000
 DTEND;TZID="UTC+02:00":20220909T164500
 SUMMARY:[WorldSSP] FP2
 UID:6ee823fb-c99d-4d1b-8d9c-f1dde92a14b9@6ee8.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: FP2
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP\nSession: FP2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -452,7 +452,8 @@ DTSTART;TZID="UTC+02:00":20220910T102500
 DTEND;TZID="UTC+02:00":20220910T104500
 SUMMARY:[WorldSSP] Superpole
 UID:4033c739-9f8d-4656-96c1-8ec3f94a70d7@4033.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP\nSession: 
+ Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -461,7 +462,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220910T151500
 SUMMARY:[WorldSSP] Race 1
 UID:07c83c5c-1f9e-484c-820e-82936d41a13e@07c8.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP\nSession: Race 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -470,7 +471,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220911T092500
 SUMMARY:[WorldSSP] WUP
 UID:67e5e5de-7104-4595-8092-fd049481b549@67e5.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: WUP
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP\nSession: WUP
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -479,7 +480,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220911T123000
 SUMMARY:[WorldSSP] Race 2
 UID:fe8fa284-9b0c-4ff4-bbf8-06d7f39a6ff5@fe8f.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z

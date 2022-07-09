@@ -217,6 +217,7 @@ DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220612T151500
+DTEND;TZID="UTC+02:00":20220612T155000
 SUMMARY:[WorldSBK] Race 2
 UID:f25f6c77-f1da-47b0-92e4-455c899c20b9@f25f.org
 DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
@@ -311,7 +312,8 @@ DTSTART;TZID="UTC+02:00":20220910T111000
 DTEND;TZID="UTC+02:00":20220910T112500
 SUMMARY:[WorldSBK] Superpole
 UID:5e94fe55-6651-451d-a3a8-2387b3844a88@5e94.org
-DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession: 
+ Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -320,7 +322,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220910T140000
 SUMMARY:[WorldSBK] Race 1
 UID:3f8797a2-6b12-4a2f-a956-65f3f602476a@3f87.org
-DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -329,7 +331,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220911T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:fa19ae49-84c5-4340-9330-8a85b155c8b8@fa19.org
-DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Superpole Race
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession: 
+ Superpole Race
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -338,7 +341,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220911T140000
 SUMMARY:[WorldSBK] Race 2
 UID:86c82e6f-d6cc-4f18-ad8d-c86965e2badc@86c8.org
-DESCRIPTION:Event: French Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z

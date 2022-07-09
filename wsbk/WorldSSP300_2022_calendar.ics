@@ -269,6 +269,7 @@ DTSTAMP:20220413T165431Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220612T140000
+DTEND;TZID="UTC+02:00":20220612T143200
 SUMMARY:[WorldSSP300] Race 2
 UID:0d0d075b-71dd-4fe0-b491-d0a067449c84@0d0d.org
 DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: 
@@ -347,7 +348,7 @@ DTSTART;TZID="UTC+02:00":20220909T094500
 DTEND;TZID="UTC+02:00":20220909T101500
 SUMMARY:[WorldSSP300] FP1
 UID:6761b573-6aad-40f0-b83d-8297f545dd59@6761.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: FP1
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP300\nSession: FP1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -357,7 +358,7 @@ DTSTART;TZID="UTC+02:00":20220909T141500
 DTEND;TZID="UTC+02:00":20220909T144500
 SUMMARY:[WorldSSP300] FP2
 UID:24d6d34d-09ea-4b75-8b08-1932c33ac747@24d6.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: FP2
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP300\nSession: FP2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -367,7 +368,8 @@ DTSTART;TZID="UTC+02:00":20220910T094500
 DTEND;TZID="UTC+02:00":20220910T100500
 SUMMARY:[WorldSSP300] Superpole
 UID:a53b00f0-8428-4842-bee3-09c3ad734aad@a53b.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: Superpole
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP300\nSession: 
+ Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -376,7 +378,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220910T124000
 SUMMARY:[WorldSSP300] Race 1
 UID:fc191460-c531-4eb3-a461-e8bd2919d6d1@fc19.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: Race 1
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP300\nSession: Race 
+ 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -386,7 +389,7 @@ DTSTART;TZID="UTC+02:00":20220911T095000
 DTEND;TZID="UTC+02:00":20220911T100500
 SUMMARY:[WorldSSP300] WUP
 UID:96082cf0-bc28-4ab7-aed1-98ededb412b8@9608.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: WUP
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP300\nSession: WUP
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
@@ -395,7 +398,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220911T151500
 SUMMARY:[WorldSSP300] Race 2
 UID:9bdd27e1-5978-4852-a940-03e0294b777d@9bdd.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP300\nSession: Race 2
+DESCRIPTION:Event: Pirelli French Round\nClass: WorldSSP300\nSession: Race 
+ 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2022
 DTSTAMP:20220413T165434Z
