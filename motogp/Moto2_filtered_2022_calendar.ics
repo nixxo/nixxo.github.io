@@ -85,7 +85,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0700
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+07:00
 END:STANDARD
 END:VTIMEZONE
@@ -96,6 +95,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -447,37 +447,6 @@ URL:https://www.motogp.com/en/event/Netherlands
 DTSTAMP:20220413T172203Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220709T133000
-DTEND;TZID="UTC+03:00":20220709T134500
-SUMMARY:[Moto2] Q1
-UID:18a2ddf4-368f-4c53-b4df-5a36b4edebbb@18a2.org
-DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto2\nSession: Qualifying
-  Nr. 1
-LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/Finland
-DTSTAMP:20220413T172204Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220709T135500
-DTEND;TZID="UTC+03:00":20220709T141000
-SUMMARY:[Moto2] Q2
-UID:bf6c0d28-32f2-450f-9013-cdce4f48557f@bf6c.org
-DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto2\nSession: Qualifying
-  Nr. 2
-LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/Finland
-DTSTAMP:20220413T172204Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+03:00":20220710T132000
-SUMMARY:[Moto2] RAC
-UID:5f014e9a-5efc-4f6f-add4-46650b8931ea@5f01.org
-DESCRIPTION:Event: Grand Prix of Finland\nClass: Moto2\nSession: Race
-LOCATION:KymiRing - Finland
-URL:https://www.motogp.com/en/event/Finland
-DTSTAMP:20220413T172204Z
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20220806T151000
 DTEND;TZID="UTC+01:00":20220806T152500
 SUMMARY:[Moto2] Q1
@@ -641,8 +610,8 @@ DTSTART;TZID="UTC+07:00":20221001T133000
 DTEND;TZID="UTC+07:00":20221001T134500
 SUMMARY:[Moto2] Q1
 UID:bb03758a-5512-4298-aadb-b09cbed95752@bb03.org
-DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto2\nSession: Qualifying 
- Nr. 1
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: 
+ Qualifying Nr. 1
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
@@ -652,8 +621,8 @@ DTSTART;TZID="UTC+07:00":20221001T135500
 DTEND;TZID="UTC+07:00":20221001T141000
 SUMMARY:[Moto2] Q2
 UID:c16b15ac-d6c3-4515-b71c-67f783ae863d@c16b.org
-DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto2\nSession: Qualifying 
- Nr. 2
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: 
+ Qualifying Nr. 2
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
@@ -662,7 +631,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20221002T132000
 SUMMARY:[Moto2] RAC
 UID:522477b1-4203-4fa3-b5c3-4e10ba01f885@5224.org
-DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: Race
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
