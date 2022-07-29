@@ -41,7 +41,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:-0500
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC-05:00
 END:STANDARD
 END:VTIMEZONE
@@ -199,7 +198,7 @@ DTSTART;TZID="UTC-05:00":20220409T123500
 DTEND;TZID="UTC-05:00":20220409T125000
 SUMMARY:[Moto2] Q1
 UID:bdd5943d-63b2-4bd8-890a-58db07d05444@bdd5.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto2\nSession: Qualifying Nr. 1
 LOCATION:Circuit of The Americas - United States
 URL:https://www.motogp.com/en/event/Americas
@@ -210,7 +209,7 @@ DTSTART;TZID="UTC-05:00":20220409T130000
 DTEND;TZID="UTC-05:00":20220409T131500
 SUMMARY:[Moto2] Q2
 UID:6e22f5bb-6555-4f38-8b97-06be9c721ebf@6e22.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto2\nSession: Qualifying Nr. 2
 LOCATION:Circuit of The Americas - United States
 URL:https://www.motogp.com/en/event/Americas
@@ -220,7 +219,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20220410T112000
 SUMMARY:[Moto2] RAC
 UID:3b2bd650-e301-4bbf-ad85-436c6ab096ff@3b2b.org
-DESCRIPTION:Event: Red Bull Grand Prix of the Americas\nClass: 
+DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto2\nSession: Race
 LOCATION:Circuit of The Americas - United States
 URL:https://www.motogp.com/en/event/Americas
@@ -295,7 +294,7 @@ DTSTART;TZID="UTC+02:00":20220514T151000
 DTEND;TZID="UTC+02:00":20220514T152500
 SUMMARY:[Moto2] Q1
 UID:6f5eabe2-b381-4bdf-8dd9-c07e356b2f76@6f5e.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: Moto2\nSession: 
  Qualifying Nr. 1
 LOCATION:Le Mans - France
 URL:https://www.motogp.com/en/event/France
@@ -306,7 +305,7 @@ DTSTART;TZID="UTC+02:00":20220514T153500
 DTEND;TZID="UTC+02:00":20220514T155000
 SUMMARY:[Moto2] Q2
 UID:dd9daabb-3f9c-4a4b-9f2d-e52c6fd2677c@dd9d.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: Moto2\nSession: 
  Qualifying Nr. 2
 LOCATION:Le Mans - France
 URL:https://www.motogp.com/en/event/France
@@ -316,7 +315,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220515T123000
 SUMMARY:[Moto2] RAC
 UID:214f7391-2583-4e5b-b8f1-698c6d9d9174@214f.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: Moto2\nSession: Race
 LOCATION:Le Mans - France
 URL:https://www.motogp.com/en/event/France
 DTSTAMP:20220413T172159Z
@@ -326,7 +325,7 @@ DTSTART;TZID="UTC+02:00":20220528T151500
 DTEND;TZID="UTC+02:00":20220528T153000
 SUMMARY:[Moto2] Q1
 UID:25618094-1dd1-46b1-9de7-1838ae51ca2b@2561.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: Moto2\nSession: 
  Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Italy
 URL:https://www.motogp.com/en/event/Italy
@@ -337,7 +336,7 @@ DTSTART;TZID="UTC+02:00":20220528T154000
 DTEND;TZID="UTC+02:00":20220528T155500
 SUMMARY:[Moto2] Q2
 UID:5e5f4a9c-66fd-4c40-85d0-13bda93b8062@5e5f.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: Moto2\nSession: 
  Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Italy
 URL:https://www.motogp.com/en/event/Italy
@@ -347,8 +346,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220529T122000
 SUMMARY:[Moto2] RAC
 UID:644dbec2-9eb3-4e32-b4bd-6e221b06b7b1@644d.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: 
- Race
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: Moto2\nSession: Race
 LOCATION:Autodromo Internazionale del Mugello - Italy
 URL:https://www.motogp.com/en/event/Italy
 DTSTAMP:20220413T172200Z
@@ -483,7 +481,7 @@ DTSTART;TZID="UTC+02:00":20220820T151000
 DTEND;TZID="UTC+02:00":20220820T152500
 SUMMARY:[Moto2] Q1
 UID:8f81d211-1741-4d8b-b117-d5b728b22568@8f81.org
-DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
  Moto2\nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Austria
 URL:https://www.motogp.com/en/event/Austria
@@ -494,7 +492,7 @@ DTSTART;TZID="UTC+02:00":20220820T153500
 DTEND;TZID="UTC+02:00":20220820T155000
 SUMMARY:[Moto2] Q2
 UID:d67d6229-ab5e-4699-95f0-30c795da26a1@d67d.org
-DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
  Moto2\nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Austria
 URL:https://www.motogp.com/en/event/Austria
@@ -504,7 +502,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220821T122000
 SUMMARY:[Moto2] RAC
 UID:05e5e622-24bf-40ab-ac28-eddbc6951166@05e5.org
-DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
  Moto2\nSession: Race
 LOCATION:Red Bull Ring - Spielberg - Austria
 URL:https://www.motogp.com/en/event/Austria
@@ -610,8 +608,8 @@ DTSTART;TZID="UTC+07:00":20221001T133000
 DTEND;TZID="UTC+07:00":20221001T134500
 SUMMARY:[Moto2] Q1
 UID:bb03758a-5512-4298-aadb-b09cbed95752@bb03.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto2\nSession: Qualifying 
+ Nr. 1
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
@@ -621,8 +619,8 @@ DTSTART;TZID="UTC+07:00":20221001T135500
 DTEND;TZID="UTC+07:00":20221001T141000
 SUMMARY:[Moto2] Q2
 UID:c16b15ac-d6c3-4515-b71c-67f783ae863d@c16b.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto2\nSession: Qualifying 
+ Nr. 2
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
@@ -631,7 +629,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20221002T132000
 SUMMARY:[Moto2] RAC
 UID:522477b1-4203-4fa3-b5c3-4e10ba01f885@5224.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto2\nSession: Race
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
