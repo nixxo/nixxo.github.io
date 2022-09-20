@@ -1,6 +1,7 @@
-import ics
-import web_pdb
 import os
+from ics import Calendar, Event
+#from var_dump import var_dump
+#import web_pdb
 
 cals = {}
 ext = '.ics'
@@ -31,7 +32,6 @@ def check_url(url, host):
 
 
 def create_calendars(output_folder, names, appendix=None):
-    #web_pdb.set_trace()
     if appendix:
         appendix = '_' + appendix
     if not output_folder.endswith('/'):
@@ -41,10 +41,10 @@ def create_calendars(output_folder, names, appendix=None):
         try:
             fn = os.path.realpath(os.path.join(cwd, output_folder, f'{name}{appendix}{ext}'))
             f = open(fn, 'r')
-            cals[name] = ics.Calendar(f.read())
+            cals[name] = Calendar(f.read())
             f.close()
         except:
-            cals[name] = ics.Calendar()
+            cals[name] = Calendar()
 
 
 def write_calendars(output_folder, appendix=None):
@@ -57,7 +57,7 @@ def write_calendars(output_folder, appendix=None):
 
 
 def create_event(summary, description, location, url, begin, end):
-    e = ics.Event()
+    e = Event()
     e.summary = summary
     e.description = description
     e.location = location
