@@ -19,7 +19,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0800
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+08:00
 END:STANDARD
 END:VTIMEZONE
@@ -41,6 +40,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:-0500
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC-05:00
 END:STANDARD
 END:VTIMEZONE
@@ -84,6 +84,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0700
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+07:00
 END:STANDARD
 END:VTIMEZONE
@@ -173,8 +174,8 @@ URL:https://www.motogp.com/en/event/Qatar
 DTSTAMP:20220413T172152Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220318T095000
-DTEND;TZID="UTC+08:00":20220318T103000
+DTSTART;TZID="UTC+08:00":20220318T015000
+DTEND;TZID="UTC+08:00":20220318T023000
 SUMMARY:[Moto2] FP1
 UID:d4e383e0-9a9e-40ae-bd64-fb3ccba42cad@d4e3.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
@@ -184,8 +185,8 @@ URL:https://www.motogp.com/en/event/Indonesia
 DTSTAMP:20220413T172153Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220318T140500
-DTEND;TZID="UTC+08:00":20220318T144500
+DTSTART;TZID="UTC+08:00":20220318T060500
+DTEND;TZID="UTC+08:00":20220318T064500
 SUMMARY:[Moto2] FP2
 UID:1b6de67a-4147-4a22-9984-4a9c1e243e26@1b6d.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
@@ -195,8 +196,8 @@ URL:https://www.motogp.com/en/event/Indonesia
 DTSTAMP:20220413T172153Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220319T095000
-DTEND;TZID="UTC+08:00":20220319T103000
+DTSTART;TZID="UTC+08:00":20220319T015000
+DTEND;TZID="UTC+08:00":20220319T023000
 SUMMARY:[Moto2] FP3
 UID:e65d2838-b689-4b3d-a495-e4203db70a05@e65d.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
@@ -206,8 +207,8 @@ URL:https://www.motogp.com/en/event/Indonesia
 DTSTAMP:20220413T172153Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220319T132500
-DTEND;TZID="UTC+08:00":20220319T134000
+DTSTART;TZID="UTC+08:00":20220319T052500
+DTEND;TZID="UTC+08:00":20220319T054000
 SUMMARY:[Moto2] Q1
 UID:777e7c99-f5d5-4831-9deb-fa805a6db45d@777e.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
@@ -217,8 +218,8 @@ URL:https://www.motogp.com/en/event/Indonesia
 DTSTAMP:20220413T172153Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220319T135000
-DTEND;TZID="UTC+08:00":20220319T140500
+DTSTART;TZID="UTC+08:00":20220319T055000
+DTEND;TZID="UTC+08:00":20220319T060500
 SUMMARY:[Moto2] Q2
 UID:d011ad9a-627b-4b8b-b840-fcafe709fffd@d011.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
@@ -228,8 +229,8 @@ URL:https://www.motogp.com/en/event/Indonesia
 DTSTAMP:20220413T172153Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220320T102000
-DTEND;TZID="UTC+08:00":20220320T103000
+DTSTART;TZID="UTC+08:00":20220320T022000
+DTEND;TZID="UTC+08:00":20220320T023000
 SUMMARY:[Moto2] WUP
 UID:86e63491-03d5-4655-beb3-c5bf7c7853f7@86e6.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
@@ -239,7 +240,7 @@ URL:https://www.motogp.com/en/event/Indonesia
 DTSTAMP:20220413T172153Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20220320T132000
+DTSTART;TZID="UTC+08:00":20220320T052000
 SUMMARY:[Moto2] RAC
 UID:86c54967-4d82-42f5-bbc4-b061b2b934a4@86c5.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
@@ -1072,7 +1073,7 @@ DTSTART;TZID="UTC+02:00":20220902T105500
 DTEND;TZID="UTC+02:00":20220902T113500
 SUMMARY:[Moto2] FP1
 UID:8d30767a-40cb-4c7c-b5d2-940830d360ac@8d30.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Free Practice Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
@@ -1083,7 +1084,7 @@ DTSTART;TZID="UTC+02:00":20220902T151000
 DTEND;TZID="UTC+02:00":20220902T155000
 SUMMARY:[Moto2] FP2
 UID:b49898d8-f39b-4b61-aff2-59a67906c332@b498.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Free Practice Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
@@ -1094,7 +1095,7 @@ DTSTART;TZID="UTC+02:00":20220903T105500
 DTEND;TZID="UTC+02:00":20220903T113500
 SUMMARY:[Moto2] FP3
 UID:263690ce-2d65-47d0-a358-96d74aa570b0@2636.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Free Practice Nr. 3
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
@@ -1105,7 +1106,7 @@ DTSTART;TZID="UTC+02:00":20220903T151000
 DTEND;TZID="UTC+02:00":20220903T152500
 SUMMARY:[Moto2] Q1
 UID:1abcfdd0-e9e1-4c46-8d6f-482110100b42@1abc.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
@@ -1116,7 +1117,7 @@ DTSTART;TZID="UTC+02:00":20220903T153500
 DTEND;TZID="UTC+02:00":20220903T155000
 SUMMARY:[Moto2] Q2
 UID:a7f62513-ec06-4a20-9309-05119f42450b@a7f6.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
@@ -1127,7 +1128,7 @@ DTSTART;TZID="UTC+02:00":20220904T092000
 DTEND;TZID="UTC+02:00":20220904T093000
 SUMMARY:[Moto2] WUP
 UID:8c338859-ce01-4a41-8a6d-e1346837db58@8c33.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Warm Up
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
@@ -1137,7 +1138,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20220904T122000
 SUMMARY:[Moto2] RAC
 UID:78e538c0-f225-4ef8-b379-6d221f1f6e7b@78e5.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino

@@ -125,7 +125,7 @@ DTSTART;TZID="UTC+02:00":20220902T165000
 DTEND;TZID="UTC+02:00":20220902T170000
 SUMMARY:[MotoE] Q1
 UID:384278f3-e417-4048-ad1d-bdc19dbaefb4@3842.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
@@ -136,7 +136,7 @@ DTSTART;TZID="UTC+02:00":20220902T171000
 DTEND;TZID="UTC+02:00":20220902T172000
 SUMMARY:[MotoE] Q2
 UID:7cb43e45-940f-4ef8-b35b-75e0f09c37c1@7cb4.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Gryfyn di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Italy
 URL:https://www.motogp.com/en/event/San+Marino
