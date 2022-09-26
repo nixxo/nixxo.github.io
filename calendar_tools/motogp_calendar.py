@@ -64,7 +64,6 @@ def main():
         for circuit_info in circuit_infos:
             circuit += f'{circuit_info.get_text().strip()} - '
         circuit = circuit.strip(' - ')
-        #print(pickle.dumps(circuit))
         print(circuit)
 
         #sessions

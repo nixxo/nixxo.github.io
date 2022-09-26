@@ -18,24 +18,9 @@ def has_data_time(tag):
     return tag.has_attr('data_ini') or tag.has_attr('data_end')
 
 
-def str_split(string):
-    for s in string.splitlines():
-        yield s + '\n'
-
-
-def str_enc(s):
-    print(s)
-    try:
-        s = s.encode('utf-8')
-        print(s)
-        s = s.decode('cp1252')
-    except:
-        s = s.encode('utf-8').decode('utf-8')
-        print(s)
-    return s
-
-
 def main():
+
+    # generate calendar names
     names = []
     for c in classes:
         names.append(c)
@@ -50,22 +35,26 @@ def main():
         print('no connection')
         sys.exit()
 
+    # parse calendar webpage
     page = BeautifulSoup(r.text, "html.parser")
 
+    # extract events
     events = page.find_all('a', class_='track-link')
 
     print(f'Found {len(events)} events in the calendar.')
     for link in events or []:
         loc = link.find('h2').get_text().strip()
         print(f'Loading {loc}...')
-        lnk = host + link['href']
-        #lnk = 'https://www.worldsbk.com/en/event/ITA/2022'
+
+        # get single event webpage
+        lnk = cc.check_url(link['href'], host)
         r = requests.get(lnk)
 
         if r.status_code != 200:
             print(f'no connection for: {link["href"]}')
             continue
 
+        # parse event webpage
         page = BeautifulSoup(r.text, "html.parser")
 
         # event name
