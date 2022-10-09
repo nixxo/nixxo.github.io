@@ -52,7 +52,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -726,7 +725,7 @@ DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221007T103000
-DTEND;TZID="UTC+01:00":20221007T111500
+DTEND;TZID="UTC+01:00":20221007T111700
 SUMMARY:[WorldSBK] FP1
 UID:cdaffa95-71a3-4c0c-91f4-107276d1dfc0@cdaf.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: FP1
@@ -736,7 +735,7 @@ DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221007T150000
-DTEND;TZID="UTC+01:00":20221007T154500
+DTEND;TZID="UTC+01:00":20221007T155400
 SUMMARY:[WorldSBK] FP2
 UID:38c56662-c510-4430-a079-79a4dcba9881@38c5.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: FP2
@@ -746,7 +745,7 @@ DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221008T090000
-DTEND;TZID="UTC+01:00":20221008T093000
+DTEND;TZID="UTC+01:00":20221008T093400
 SUMMARY:[WorldSBK] FP3
 UID:bd0a9160-5eab-462c-823b-ed4f455fced1@bd0a.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: FP3
@@ -756,7 +755,7 @@ DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221008T111000
-DTEND;TZID="UTC+01:00":20221008T112500
+DTEND;TZID="UTC+01:00":20221008T112900
 SUMMARY:[WorldSBK] Superpole
 UID:c9508eea-c433-4449-97d2-0350e2151368@c950.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: 
@@ -766,7 +765,8 @@ URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20221008T140000
+DTSTART;TZID="UTC+01:00":20221008T151500
+DTEND;TZID="UTC+01:00":20221008T154200
 SUMMARY:[WorldSBK] Race 1
 UID:548e068a-80c0-49f4-bc6f-e5fa20d4320a@548e.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: Race
@@ -972,7 +972,8 @@ DTSTART;TZID="UTC+11:00":20221118T113000
 DTEND;TZID="UTC+11:00":20221118T121500
 SUMMARY:[WorldSBK] FP1
 UID:a7ae2a6c-c53e-4b65-a008-2cbcb2a48157@a7ae.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: FP1
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: FP1
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -982,7 +983,8 @@ DTSTART;TZID="UTC+11:00":20221118T160000
 DTEND;TZID="UTC+11:00":20221118T164500
 SUMMARY:[WorldSBK] FP2
 UID:a078b151-63b0-416e-bee9-843ac92e817b@a078.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: FP2
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: FP2
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -992,7 +994,8 @@ DTSTART;TZID="UTC+11:00":20221119T105000
 DTEND;TZID="UTC+11:00":20221119T112000
 SUMMARY:[WorldSBK] FP3
 UID:372bd617-d761-4d5a-8192-5336b46e1e25@372b.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: FP3
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: FP3
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -1002,7 +1005,8 @@ DTSTART;TZID="UTC+11:00":20221119T131000
 DTEND;TZID="UTC+11:00":20221119T132500
 SUMMARY:[WorldSBK] Superpole
 UID:ab97e65a-6bc1-44a4-a69e-655965915370@ab97.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Superpole
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -1011,7 +1015,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221119T160000
 SUMMARY:[WorldSBK] Race 1
 UID:6ae3ce4d-6d6c-49ed-abae-7429143194ef@6ae3.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Race 1
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -1021,7 +1026,8 @@ DTSTART;TZID="UTC+11:00":20221120T103000
 DTEND;TZID="UTC+11:00":20221120T104500
 SUMMARY:[WorldSBK] WUP
 UID:0d5f0b8f-b3fb-4e99-bf08-cf3a7f1d767a@0d5f.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: WUP
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: WUP
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -1030,8 +1036,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221120T130000
 SUMMARY:[WorldSBK] Superpole Race
 UID:91722013-01ad-4ffd-8e88-0edd1dfe2ebb@9172.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: Superpole 
- Race
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Superpole Race
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -1040,7 +1046,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221120T160000
 SUMMARY:[WorldSBK] Race 2
 UID:057bbe85-2b3f-43b5-a66e-df91be4e2e28@057b.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Race 2
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z

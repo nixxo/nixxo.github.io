@@ -52,7 +52,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -556,7 +555,7 @@ DTSTAMP:20220413T165435Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221007T112500
-DTEND;TZID="UTC+01:00":20221007T121000
+DTEND;TZID="UTC+01:00":20221007T121200
 SUMMARY:[WorldSSP] FP1
 UID:a4514aa4-276f-4040-aa89-8728d17c6908@a451.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: FP1
@@ -566,7 +565,7 @@ DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221007T160000
-DTEND;TZID="UTC+01:00":20221007T164500
+DTEND;TZID="UTC+01:00":20221007T164700
 SUMMARY:[WorldSSP] FP2
 UID:95b48eb8-3859-45b9-8b9e-8798a333c0ed@95b4.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: FP2
@@ -576,7 +575,7 @@ DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221008T102500
-DTEND;TZID="UTC+01:00":20221008T104500
+DTEND;TZID="UTC+01:00":20221008T104900
 SUMMARY:[WorldSSP] Superpole
 UID:16ca3431-853d-4f86-8b01-ea3d4ee71f56@16ca.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: 
@@ -586,7 +585,8 @@ URL:https://www.worldsbk.com/en/event/POR/2022
 DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20221008T151500
+DTSTART;TZID="UTC+01:00":20221008T162000
+DTEND;TZID="UTC+01:00":20221008T164500
 SUMMARY:[WorldSSP] Race 1
 UID:8bac3bc0-7b9a-4495-b06a-893c7b958385@8bac.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: Race
@@ -597,6 +597,7 @@ DTSTAMP:20220413T165436Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20221009T092500
+DTEND;TZID="UTC+01:00":20221009T094000
 SUMMARY:[WorldSSP] WUP
 UID:d12cb26b-3d5f-457b-9921-96bdebd5e8e2@d12c.org
 DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: WUP
@@ -739,7 +740,8 @@ DTSTART;TZID="UTC+11:00":20221118T103000
 DTEND;TZID="UTC+11:00":20221118T111500
 SUMMARY:[WorldSSP] FP1
 UID:7437a3f0-6752-447a-adb3-a68128f92fbd@7437.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: FP1
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: FP1
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -749,7 +751,8 @@ DTSTART;TZID="UTC+11:00":20221118T150000
 DTEND;TZID="UTC+11:00":20221118T154500
 SUMMARY:[WorldSSP] FP2
 UID:c1b5eb8e-f151-4eee-bfa8-9c3cfb0937cf@c1b5.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: FP2
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: FP2
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -759,7 +762,8 @@ DTSTART;TZID="UTC+11:00":20221119T122500
 DTEND;TZID="UTC+11:00":20221119T124500
 SUMMARY:[WorldSSP] Superpole
 UID:3e54af5f-f523-4ea1-9498-f41734907282@3e54.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: Superpole
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -768,7 +772,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221119T143000
 SUMMARY:[WorldSSP] Race 1
 UID:1930e097-255e-42ee-ae5a-93a05216367a@1930.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: Race 1
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -777,7 +782,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221120T105500
 SUMMARY:[WorldSSP] WUP
 UID:472915a9-931e-42d2-bbe7-3a2be247f423@4729.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: WUP
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: WUP
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
@@ -786,7 +792,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20221120T143000
 SUMMARY:[WorldSSP] Race 2
 UID:c73c2a8f-1bff-4d7a-b70e-7efcfcb6e49a@c73c.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: Race 2
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2022
 DTSTAMP:20220413T165439Z
