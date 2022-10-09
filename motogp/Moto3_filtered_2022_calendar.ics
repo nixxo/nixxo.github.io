@@ -85,7 +85,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0700
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+07:00
 END:STANDARD
 END:VTIMEZONE
@@ -610,8 +609,8 @@ DTSTART;TZID="UTC+07:00":20221001T123500
 DTEND;TZID="UTC+07:00":20221001T125000
 SUMMARY:[Moto3] Q1
 UID:e3a30f5f-0408-413d-817f-62114f165224@e3a3.org
-DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto3\nSession: Qualifying 
- Nr. 1
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
@@ -621,8 +620,8 @@ DTSTART;TZID="UTC+07:00":20221001T130000
 DTEND;TZID="UTC+07:00":20221001T131500
 SUMMARY:[Moto3] Q2
 UID:29d491be-9b8a-4db7-8827-80203d480048@29d4.org
-DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto3\nSession: Qualifying 
- Nr. 2
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
@@ -631,7 +630,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20221002T120000
 SUMMARY:[Moto3] RAC
 UID:28425084-17da-4bcb-9940-9c7139c063e6@2842.org
-DESCRIPTION:Event: Thailand Grand Prix\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Race
 LOCATION:Chang International Circuit - Thailand
 URL:https://www.motogp.com/en/event/Thailand
 DTSTAMP:20220413T172212Z
