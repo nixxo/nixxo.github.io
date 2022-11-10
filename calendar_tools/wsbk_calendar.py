@@ -44,6 +44,11 @@ def main():
     print(f'Found {len(events)} events in the calendar.')
     for link in events or []:
         loc = link.find('h2').get_text().strip()
+
+        # skip non-event link
+        if 'Provisional' in loc:
+            continue
+
         print(f'Loading {loc}...')
 
         # get single event webpage
