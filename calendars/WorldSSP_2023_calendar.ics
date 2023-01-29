@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+11:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+1100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
+TZNAME:UTC+11:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230224T103000
+DTEND;TZID="UTC+11:00":20230224T111500
+SUMMARY:[WorldSSP] FP1
+UID:0f994d9c-257e-45f8-ba8e-e5f3128d8d66@0f99.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: FP1
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230224T150000
+DTEND;TZID="UTC+11:00":20230224T154500
+SUMMARY:[WorldSSP] FP2
+UID:f49b72df-54c4-4d2c-987a-68ddd1b9fed0@f49b.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: FP2
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230225T122500
+DTEND;TZID="UTC+11:00":20230225T124500
+SUMMARY:[WorldSSP] Superpole
+UID:7f41ada6-3cad-4744-9eb3-873cbf4ef9a0@7f41.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: Superpole
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230225T143000
+SUMMARY:[WorldSSP] Race 1
+UID:2aa71291-8e29-4563-ae50-063187473c57@2aa7.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: Race 1
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230226T105500
+DTEND;TZID="UTC+11:00":20230226T111000
+SUMMARY:[WorldSSP] WUP
+UID:0db4c82d-3880-4e6e-8ebd-46ef52153038@0db4.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: WUP
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230226T143000
+SUMMARY:[WorldSSP] Race 2
+UID:5d8548be-9b23-41a0-9421-b0448e2d918a@5d85.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSSP\nSession: Race 2
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+END:VCALENDAR
