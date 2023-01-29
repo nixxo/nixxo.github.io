@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+11:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+1100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
+TZNAME:UTC+11:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230225T131000
+DTEND;TZID="UTC+11:00":20230225T132500
+SUMMARY:[WorldSBK] Superpole
+UID:af5643dd-e815-44b8-8c96-ccc68f8f4c0d@af56.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Superpole
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230225T160000
+SUMMARY:[WorldSBK] Race 1
+UID:d2c8eab3-4c83-4b75-b553-a0b1393f393b@d2c8.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Race 1
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230226T130000
+SUMMARY:[WorldSBK] Superpole Race
+UID:7a5f2043-34a6-4233-9ad8-f8350de177c6@7a5f.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Superpole Race
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20230226T160000
+SUMMARY:[WorldSBK] Race 2
+UID:4a49e56d-d7b5-48de-a039-a9312107e974@4a49.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Race 2
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2023
+DTSTAMP:20230128T215850Z
+END:VEVENT
+END:VCALENDAR
