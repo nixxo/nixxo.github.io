@@ -20,13 +20,13 @@ Qualify + Races Only
 ICS files extracted from <a href="https://www.worldsbk.com/en/calendar">https://www.worldsbk.com/en/calendar</a>
 
 All sessions
-- <a href="WorldSBK_2023_calendar.ics">WorldSBK</a>
-- <a href="WorldSSP_2023_calendar.ics">WorldSSP</a>
-- <a href="WorldSSP300_2023_calendar.ics">WorldSSP300</a>
-- <a href="R3 bLU cRU Cup_2023_calendar.ics">R3 bLU cRU Cup</a>
+- <a href="wsbk/2023/WorldSBK_2023_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2023/WorldSSP_2023_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2023/WorldSSP300_2023_calendar.ics">WorldSSP300</a>
+- <a href="wsbk/2023/R3 bLU cRU Cup_2023_calendar.ics">R3 bLU cRU Cup</a>
 
 Superpole + Races Only
-- <a href="WorldSBK_filtered_2023_calendar.ics">WorldSBK</a>
-- <a href="WorldSSP_filtered_2023_calendar.ics">WorldSSP</a>
-- <a href="WorldSSP300_filtered_2023_calendar.ics">WorldSSP300</a>
-- <a href="R3 bLU cRU Cup_filtered_2023_calendar.ics">R3 bLU cRU Cup</a>
+- <a href="wsbk/2023/WorldSBK_filtered_2023_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2023/WorldSSP_filtered_2023_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2023/WorldSSP300_filtered_2023_calendar.ics">WorldSSP300</a>
+- <a href="wsbk/2023/R3 bLU cRU Cup_filtered_2023_calendar.ics">R3 bLU cRU Cup</a>
