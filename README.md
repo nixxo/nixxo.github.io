@@ -1,3 +1,11 @@
+# NEW 2023 Calendars AVAILABLE AT <a href="http://nixxo.github.io/calendars/">nixxo.github.io/calendars</a>
+
+
+
+2022 CALENDARS are available as archive, they are no longer updated.
+
+
+
 # MotoGP 2022 Calendars
 
 ICS files extracted from <a href="https://www.motogp.com/en/calendar">https://www.motogp.com/en/calendar</a>
