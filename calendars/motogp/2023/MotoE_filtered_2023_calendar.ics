@@ -16,130 +16,195 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230512T170000
 DTEND;TZID="UTC+02:00":20230512T171000
 SUMMARY:[MotoE] Q1
-UID:dd6b0225-582f-4969-815d-b25192c5a64c@dd6b.org
+UID:2eb814f0-9ad3-4adc-9984-58d2ec6a019f@2eb8.org
 DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: 
  Qualifying Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230512T172000
 DTEND;TZID="UTC+02:00":20230512T173000
 SUMMARY:[MotoE] Q2
-UID:c3b37d87-52cb-4412-bc6f-56db283eaa7c@c3b3.org
+UID:fb4e9f69-476b-4a2a-b5da-cbcc879f5e6c@fb4e.org
 DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: 
  Qualifying Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230513T121000
+DTEND;TZID="UTC+02:00":20230513T121000
+SUMMARY:[MotoE] RAC1
+UID:0e8d92fb-ff07-4c0a-9173-5c98e6e7b2c2@0e8d.org
+DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: Race 
+ Nr.1
+LOCATION:Le Mans - Le Mans
+URL:https://www.motogp.com/en/calendar/2023/event/France
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230609T170000
 DTEND;TZID="UTC+02:00":20230609T171000
 SUMMARY:[MotoE] Q1
-UID:e9403871-d768-4dd3-af66-b75c8dc206e7@e940.org
+UID:bcb0725e-85b3-48bf-bc33-66bf8a996df6@bcb0.org
 DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: 
  Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230609T172000
 DTEND;TZID="UTC+02:00":20230609T173000
 SUMMARY:[MotoE] Q2
-UID:fd139b44-70f3-42c9-99bd-52dcf2461efa@fd13.org
+UID:97f849a9-03a2-4f8b-9efc-8468ad9813fc@97f8.org
 DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: 
  Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230610T121000
+DTEND;TZID="UTC+02:00":20230610T121000
+SUMMARY:[MotoE] RAC1
+UID:6cf3fde6-3864-447a-a1a4-c48acadc0ac6@6cf3.org
+DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: Race
+  Nr.1
+LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
+URL:https://www.motogp.com/en/calendar/2023/event/Italy
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230623T170000
 DTEND;TZID="UTC+02:00":20230623T171000
 SUMMARY:[MotoE] Q1
-UID:a511f553-1836-49ac-af31-0e63297ca7be@a511.org
+UID:3d0eab25-f314-474f-8a96-cb60f4cbaa51@3d0e.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Qualifying Nr. 1
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230623T172000
 DTEND;TZID="UTC+02:00":20230623T173000
 SUMMARY:[MotoE] Q2
-UID:dfc4d19c-092d-497d-afdc-2cf1596137f2@dfc4.org
+UID:afa88315-8d38-42a8-8794-2bb7442d5026@afa8.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Qualifying Nr. 2
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230624T121000
+DTEND;TZID="UTC+02:00":20230624T121000
+SUMMARY:[MotoE] RAC1
+UID:2e1dbb9e-8688-482f-9ab1-d2ad4eed2d76@2e1d.org
+DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.1
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230818T170000
 DTEND;TZID="UTC+02:00":20230818T171000
 SUMMARY:[MotoE] Q1
-UID:1e42fd78-ef41-4995-904b-5627f4cdc03f@1e42.org
+UID:5d6e755f-2ae7-44df-b21d-dc88052c55ce@5d6e.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230818T172000
 DTEND;TZID="UTC+02:00":20230818T173000
 SUMMARY:[MotoE] Q2
-UID:043acef7-9898-4b9d-9849-ef11da571da5@043a.org
+UID:18f475b4-8865-45cd-8bd3-53c2c5c54369@18f4.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230819T121000
+DTEND;TZID="UTC+02:00":20230819T121000
+SUMMARY:[MotoE] RAC1
+UID:776ace51-b2fa-415d-884d-3178ddc5455d@776a.org
+DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+ MotoE\nSession: Race Nr.1
+LOCATION:Red Bull Ring - Spielberg - Spielberg
+URL:https://www.motogp.com/en/calendar/2023/event/Austria
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230901T161500
 DTEND;TZID="UTC+02:00":20230901T162500
 SUMMARY:[MotoE] Q1
-UID:b0b011fd-9789-4995-bcd1-efa613c563a3@b0b0.org
+UID:6f3d6350-1203-4069-915a-e42459457edd@6f3d.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Qualifying Nr. 1
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230901T163500
 DTEND;TZID="UTC+02:00":20230901T164500
 SUMMARY:[MotoE] Q2
-UID:261d0eaa-29cd-4625-b789-c777df37105b@261d.org
+UID:e0dbaf0c-7830-4b30-bde8-f14b28b31b90@e0db.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Qualifying Nr. 2
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230902T121000
+DTEND;TZID="UTC+02:00":20230902T121000
+SUMMARY:[MotoE] RAC1
+UID:3b2958e8-0833-4039-845f-e3209ed9d24e@3b29.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ MotoE\nSession: Race Nr.1
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230908T170000
 DTEND;TZID="UTC+02:00":20230908T171000
 SUMMARY:[MotoE] Q1
-UID:553d1e20-1b83-4998-bcbf-01dfa664d51f@553d.org
+UID:2ac5f1ee-1101-42c3-a76a-b3ef9479d1b5@2ac5.org
 DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230908T172000
 DTEND;TZID="UTC+02:00":20230908T173000
 SUMMARY:[MotoE] Q2
-UID:519f78d9-407e-49b6-bff5-55e5d7cf349c@519f.org
+UID:0955f635-c644-4d8d-9444-b110fffe4316@0955.org
 DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230208T205717Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230909T121000
+DTEND;TZID="UTC+02:00":20230909T121000
+SUMMARY:[MotoE] RAC1
+UID:96a16b68-78be-4db0-8e3b-1d57d754a22a@96a1.org
+DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+ Rimini\nClass: MotoE\nSession: Race Nr.1
+LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
+URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+DTSTAMP:20230208T205717Z
 END:VEVENT
 END:VCALENDAR
