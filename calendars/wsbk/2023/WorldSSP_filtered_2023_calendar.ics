@@ -384,4 +384,32 @@ LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
 URL:https://www.worldsbk.com/en/event/ARG/2023
 DTSTAMP:20230201T202138Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230715T102500
+DTEND;TZID="UTC+02:00":20230715T104500
+SUMMARY:[WorldSSP] Superpole
+UID:b14f63ba-2fb1-4b25-8e35-6e76bebc028f@b14f.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Superpole
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230715T151500
+SUMMARY:[WorldSSP] Race 1
+UID:109a1d2f-5caf-4393-ba6d-4e097d8ec143@109a.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 1
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230716T123000
+SUMMARY:[WorldSSP] Race 2
+UID:28cd477a-6493-4dbc-bee2-24db50ad31e1@28cd.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 2
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
 END:VCALENDAR

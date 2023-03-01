@@ -737,4 +737,62 @@ LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2023
 DTSTAMP:20230225T154950Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230714T112500
+DTEND;TZID="UTC+02:00":20230714T121000
+SUMMARY:[WorldSSP] FP1
+UID:9f25c2b6-71f5-4cea-9053-0298d0be3780@9f25.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: FP1
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230714T160000
+DTEND;TZID="UTC+02:00":20230714T164500
+SUMMARY:[WorldSSP] FP2
+UID:232a7857-4940-4d57-82b3-60b0ba9ccf6d@232a.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: FP2
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230715T102500
+DTEND;TZID="UTC+02:00":20230715T104500
+SUMMARY:[WorldSSP] Superpole
+UID:b14f63ba-2fb1-4b25-8e35-6e76bebc028f@b14f.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Superpole
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230715T151500
+SUMMARY:[WorldSSP] Race 1
+UID:109a1d2f-5caf-4393-ba6d-4e097d8ec143@109a.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 1
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230716T092500
+DTEND;TZID="UTC+02:00":20230716T094000
+SUMMARY:[WorldSSP] WUP
+UID:a5c642d8-278d-4652-8d72-3564de5e6c64@a5c6.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: WUP
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230716T123000
+SUMMARY:[WorldSSP] Race 2
+UID:28cd477a-6493-4dbc-bee2-24db50ad31e1@28cd.org
+DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 2
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230301T193034Z
+END:VEVENT
 END:VCALENDAR
