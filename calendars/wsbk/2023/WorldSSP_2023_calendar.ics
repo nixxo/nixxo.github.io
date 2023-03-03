@@ -19,7 +19,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0800
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+08:00
 END:STANDARD
 END:VTIMEZONE
@@ -124,7 +123,7 @@ DTSTAMP:20230128T215850Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230303T090000
-DTEND;TZID="UTC+08:00":20230303T094500
+DTEND;TZID="UTC+08:00":20230303T095700
 SUMMARY:[WorldSSP] FP1
 UID:01a7d3aa-f981-4250-a783-284a67591b02@01a7.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSSP\nSession: FP1
@@ -134,7 +133,7 @@ DTSTAMP:20230201T202125Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230303T120000
-DTEND;TZID="UTC+08:00":20230303T124500
+DTEND;TZID="UTC+08:00":20230303T124800
 SUMMARY:[WorldSSP] FP2
 UID:632a50c7-0386-4d74-8b0c-f14979400492@632a.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSSP\nSession: FP2
@@ -431,7 +430,7 @@ DTSTART;TZID="UTC+02:00":20230728T112500
 DTEND;TZID="UTC+02:00":20230728T121000
 SUMMARY:[WorldSSP] FP1
 UID:04604162-f9d8-4cb4-b766-4750285a4bed@0460.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: FP1
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: FP1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -441,7 +440,7 @@ DTSTART;TZID="UTC+02:00":20230728T160000
 DTEND;TZID="UTC+02:00":20230728T164500
 SUMMARY:[WorldSSP] FP2
 UID:bdab0876-349e-4344-97ce-9e744fbe04f7@bdab.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: FP2
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: FP2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -451,7 +450,7 @@ DTSTART;TZID="UTC+02:00":20230729T102500
 DTEND;TZID="UTC+02:00":20230729T104500
 SUMMARY:[WorldSSP] Superpole
 UID:031e3735-3beb-49c8-b09d-7218ae8dfffc@031e.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -460,7 +459,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230729T151500
 SUMMARY:[WorldSSP] Race 1
 UID:f324849c-a809-409c-a946-59c783a70acf@f324.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: Race 1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -470,7 +469,7 @@ DTSTART;TZID="UTC+02:00":20230730T092500
 DTEND;TZID="UTC+02:00":20230730T094000
 SUMMARY:[WorldSSP] WUP
 UID:041a5f08-e58c-4dc4-93e9-75601fd3f3e7@041a.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: WUP
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: WUP
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -479,7 +478,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230730T123000
 SUMMARY:[WorldSSP] Race 2
 UID:cf75bfcc-63a6-4afc-8f73-b674b6c8a71f@cf75.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -742,7 +741,7 @@ DTSTART;TZID="UTC+02:00":20230714T112500
 DTEND;TZID="UTC+02:00":20230714T121000
 SUMMARY:[WorldSSP] FP1
 UID:9f25c2b6-71f5-4cea-9053-0298d0be3780@9f25.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: FP1
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: FP1
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -752,7 +751,7 @@ DTSTART;TZID="UTC+02:00":20230714T160000
 DTEND;TZID="UTC+02:00":20230714T164500
 SUMMARY:[WorldSSP] FP2
 UID:232a7857-4940-4d57-82b3-60b0ba9ccf6d@232a.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: FP2
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: FP2
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -762,7 +761,8 @@ DTSTART;TZID="UTC+02:00":20230715T102500
 DTEND;TZID="UTC+02:00":20230715T104500
 SUMMARY:[WorldSSP] Superpole
 UID:b14f63ba-2fb1-4b25-8e35-6e76bebc028f@b14f.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: 
+ Superpole
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -771,7 +771,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230715T151500
 SUMMARY:[WorldSSP] Race 1
 UID:109a1d2f-5caf-4393-ba6d-4e097d8ec143@109a.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: Race 
+ 1
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -781,7 +782,7 @@ DTSTART;TZID="UTC+02:00":20230716T092500
 DTEND;TZID="UTC+02:00":20230716T094000
 SUMMARY:[WorldSSP] WUP
 UID:a5c642d8-278d-4652-8d72-3564de5e6c64@a5c6.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: WUP
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: WUP
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -790,7 +791,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230716T123000
 SUMMARY:[WorldSSP] Race 2
 UID:28cd477a-6493-4dbc-bee2-24db50ad31e1@28cd.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: Race 
+ 2
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z

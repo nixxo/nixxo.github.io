@@ -242,7 +242,7 @@ DTSTART;TZID="UTC+02:00":20230729T102500
 DTEND;TZID="UTC+02:00":20230729T104500
 SUMMARY:[WorldSSP] Superpole
 UID:031e3735-3beb-49c8-b09d-7218ae8dfffc@031e.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230729T151500
 SUMMARY:[WorldSSP] Race 1
 UID:f324849c-a809-409c-a946-59c783a70acf@f324.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: Race 1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230730T123000
 SUMMARY:[WorldSSP] Race 2
 UID:cf75bfcc-63a6-4afc-8f73-b674b6c8a71f@cf75.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSSP\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -389,7 +389,8 @@ DTSTART;TZID="UTC+02:00":20230715T102500
 DTEND;TZID="UTC+02:00":20230715T104500
 SUMMARY:[WorldSSP] Superpole
 UID:b14f63ba-2fb1-4b25-8e35-6e76bebc028f@b14f.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: 
+ Superpole
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -398,7 +399,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230715T151500
 SUMMARY:[WorldSSP] Race 1
 UID:109a1d2f-5caf-4393-ba6d-4e097d8ec143@109a.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: Race 
+ 1
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -407,7 +409,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230716T123000
 SUMMARY:[WorldSSP] Race 2
 UID:28cd477a-6493-4dbc-bee2-24db50ad31e1@28cd.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSSP\nSession: Race 
+ 2
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z

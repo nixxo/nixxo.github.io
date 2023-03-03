@@ -19,7 +19,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0800
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+08:00
 END:STANDARD
 END:VTIMEZONE
@@ -146,7 +145,7 @@ DTSTAMP:20230128T215850Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230303T100000
-DTEND;TZID="UTC+08:00":20230303T104500
+DTEND;TZID="UTC+08:00":20230303T105200
 SUMMARY:[WorldSBK] FP1
 UID:f0a27f92-f412-47ef-9184-12537925fd88@f0a2.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSBK\nSession: FP1
@@ -156,7 +155,7 @@ DTSTAMP:20230201T202125Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230303T130000
-DTEND;TZID="UTC+08:00":20230303T134500
+DTEND;TZID="UTC+08:00":20230303T134700
 SUMMARY:[WorldSBK] FP2
 UID:e1f8248b-adcb-4af7-bbad-9333d2f7e88e@e1f8.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSBK\nSession: FP2
@@ -556,7 +555,7 @@ DTSTART;TZID="UTC+02:00":20230728T103000
 DTEND;TZID="UTC+02:00":20230728T111500
 SUMMARY:[WorldSBK] FP1
 UID:d9af18de-3fae-4094-953b-5f1e7dcd83ee@d9af.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: FP1
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: FP1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -566,7 +565,7 @@ DTSTART;TZID="UTC+02:00":20230728T150000
 DTEND;TZID="UTC+02:00":20230728T154500
 SUMMARY:[WorldSBK] FP2
 UID:09973440-bcc2-4a66-a96e-2290f4cbfa8e@0997.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: FP2
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: FP2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -576,7 +575,7 @@ DTSTART;TZID="UTC+02:00":20230729T090000
 DTEND;TZID="UTC+02:00":20230729T093000
 SUMMARY:[WorldSBK] FP3
 UID:a5c4f175-ba76-40d9-bcb6-f1030a802003@a5c4.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: FP3
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: FP3
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -586,7 +585,7 @@ DTSTART;TZID="UTC+02:00":20230729T111000
 DTEND;TZID="UTC+02:00":20230729T112500
 SUMMARY:[WorldSBK] Superpole
 UID:36420148-c012-4517-8777-189862c43b22@3642.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -595,7 +594,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230729T140000
 SUMMARY:[WorldSBK] Race 1
 UID:1e2e155f-a81c-4a22-8581-60bf50294704@1e2e.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -605,7 +604,7 @@ DTSTART;TZID="UTC+02:00":20230730T090000
 DTEND;TZID="UTC+02:00":20230730T091500
 SUMMARY:[WorldSBK] WUP
 UID:8038f7c0-3c4d-4aa1-8381-c372040aa5be@8038.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: WUP
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: WUP
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -614,7 +613,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230730T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:a0a86221-86ea-4e9c-964d-7f0e3b0be146@a0a8.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole Race
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Superpole
+  Race
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -623,7 +623,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230730T140000
 SUMMARY:[WorldSBK] Race 2
 UID:e0cfab38-7f8c-467c-9171-0aef7bbbe50a@e0cf.org
-DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
 DTSTAMP:20230201T202132Z
@@ -956,7 +956,7 @@ DTSTART;TZID="UTC+02:00":20230714T103000
 DTEND;TZID="UTC+02:00":20230714T111500
 SUMMARY:[WorldSBK] FP1
 UID:9edb6406-bf96-4c77-92d1-44ee06541bc7@9edb.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: FP1
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: FP1
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -966,7 +966,7 @@ DTSTART;TZID="UTC+02:00":20230714T150000
 DTEND;TZID="UTC+02:00":20230714T154500
 SUMMARY:[WorldSBK] FP2
 UID:bf987d36-9c7e-464f-af24-50e6b398eb1b@bf98.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: FP2
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: FP2
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -976,7 +976,7 @@ DTSTART;TZID="UTC+02:00":20230715T090000
 DTEND;TZID="UTC+02:00":20230715T093000
 SUMMARY:[WorldSBK] FP3
 UID:88e7e679-7923-4b31-9b6f-a79a41bb808c@88e7.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: FP3
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: FP3
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -986,7 +986,8 @@ DTSTART;TZID="UTC+02:00":20230715T111000
 DTEND;TZID="UTC+02:00":20230715T112500
 SUMMARY:[WorldSBK] Superpole
 UID:e3e397f3-2a1c-482c-aa74-6500268289ef@e3e3.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: 
+ Superpole
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -995,7 +996,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230715T140000
 SUMMARY:[WorldSBK] Race 1
 UID:9a5b8087-500b-4a7e-808e-939c1e1d9654@9a5b.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: Race 
+ 1
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -1005,7 +1007,7 @@ DTSTART;TZID="UTC+02:00":20230716T090000
 DTEND;TZID="UTC+02:00":20230716T091500
 SUMMARY:[WorldSBK] WUP
 UID:ccb1d548-f2a0-47e9-9d0d-7f0c416424ae@ccb1.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: WUP
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: WUP
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -1014,7 +1016,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230716T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:dc8efc07-9136-4a35-82a0-e90cd7937c26@dc8e.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: Superpole Race
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: 
+ Superpole Race
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
@@ -1023,7 +1026,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230716T140000
 SUMMARY:[WorldSBK] Race 2
 UID:fe6d054d-e8a8-42cb-b00a-9ff7d69b7438@fe6d.org
-DESCRIPTION:Event: Italian Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: Race 
+ 2
 LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
 URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230301T193034Z
