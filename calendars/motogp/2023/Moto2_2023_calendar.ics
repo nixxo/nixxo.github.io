@@ -40,7 +40,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -117,7 +116,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0300
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+03:00
 END:STANDARD
 END:VTIMEZONE
@@ -126,7 +124,7 @@ DTSTART:20230324T095000Z
 DTEND:20230324T103000Z
 SUMMARY:[Moto2] P1
 UID:3b23e87a-d91e-4a3e-952a-3b995c69e44b@3b23.org
-DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
   Practice Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -137,7 +135,7 @@ DTSTART:20230324T140500Z
 DTEND:20230324T144500Z
 SUMMARY:[Moto2] P2
 UID:ca690f96-4d9b-435e-ac12-2089a3dbf758@ca69.org
-DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
   Practice Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -148,7 +146,7 @@ DTSTART:20230325T092500Z
 DTEND:20230325T095500Z
 SUMMARY:[Moto2] P3
 UID:5a08aff1-1ff9-4d31-9cc5-d5241a12e7d6@5a08.org
-DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
   Practice Nr. 3
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -159,7 +157,7 @@ DTSTART:20230325T134500Z
 DTEND:20230325T140000Z
 SUMMARY:[Moto2] Q1
 UID:f42c7dbf-81bc-4cde-abda-2f734cf693f7@f42c.org
-DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
   Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -170,7 +168,7 @@ DTSTART:20230325T141000Z
 DTEND:20230325T142500Z
 SUMMARY:[Moto2] Q2
 UID:bc09cfd7-a4e8-4fa7-ae42-d38c6dcb53d5@bc09.org
-DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
   Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -180,7 +178,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230326T121500
 SUMMARY:[Moto2] RAC
 UID:2814ce69-c7a8-46dd-9a2b-a8479004c0e0@2814.org
-DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
   Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -323,8 +321,8 @@ DTSTART;TZID="UTC+02:00":20230428T095000
 DTEND;TZID="UTC+02:00":20230428T103000
 SUMMARY:[Moto2] P1
 UID:0641cc2c-7341-4972-bfd7-7c4edb1bb9a1@0641.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Practice 
- Nr. 1
+DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
+ Moto2\nSession: Practice Nr. 1
 LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20230201T200949Z
@@ -334,8 +332,8 @@ DTSTART;TZID="UTC+02:00":20230428T140500
 DTEND;TZID="UTC+02:00":20230428T144500
 SUMMARY:[Moto2] P2
 UID:34a5bcd3-afad-4346-87e1-3bee6943620b@34a5.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Practice 
- Nr. 2
+DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
+ Moto2\nSession: Practice Nr. 2
 LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20230201T200949Z
@@ -345,8 +343,8 @@ DTSTART;TZID="UTC+02:00":20230429T092500
 DTEND;TZID="UTC+02:00":20230429T095500
 SUMMARY:[Moto2] P3
 UID:f28d5ce6-6f3c-4771-b07b-6ae363000d2d@f28d.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Practice 
- Nr. 3
+DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
+ Moto2\nSession: Practice Nr. 3
 LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20230201T200949Z
@@ -356,8 +354,8 @@ DTSTART;TZID="UTC+02:00":20230429T134500
 DTEND;TZID="UTC+02:00":20230429T140000
 SUMMARY:[Moto2] Q1
 UID:bc314156-795d-4d31-835f-9447d18a8d74@bc31.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Qualifying
-  Nr. 1
+DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
 LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20230201T200949Z
@@ -367,18 +365,18 @@ DTSTART;TZID="UTC+02:00":20230429T141000
 DTEND;TZID="UTC+02:00":20230429T142500
 SUMMARY:[Moto2] Q2
 UID:020b7a48-f312-41eb-b9ac-8147c7158061@020b.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Qualifying
-  Nr. 2
+DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
 LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20230201T200949Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230430T131500
-DTEND;TZID="UTC+02:00":20230430T131500
 SUMMARY:[Moto2] RAC
 UID:6c8db245-0f16-48d6-8cf0-ef0412d6eb3d@6c8d.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
+ Moto2\nSession: Race
 LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20230201T200949Z
@@ -1364,8 +1362,8 @@ DTSTART;TZID="UTC+03:00":20231117T145000
 DTEND;TZID="UTC+03:00":20231117T153000
 SUMMARY:[Moto2] P1
 UID:f4d7b590-ec7a-45d8-90b6-75111a934e2a@f4d7.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto2\nSession: Practice Nr.
-  1
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Practice Nr. 1
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
 DTSTAMP:20230201T200949Z
@@ -1375,8 +1373,8 @@ DTSTART;TZID="UTC+03:00":20231117T190500
 DTEND;TZID="UTC+03:00":20231117T194500
 SUMMARY:[Moto2] P2
 UID:4bbb785f-0ade-46a2-bfbe-274a926b2161@4bbb.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto2\nSession: Practice Nr.
-  2
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Practice Nr. 2
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
 DTSTAMP:20230201T200949Z
@@ -1386,8 +1384,8 @@ DTSTART;TZID="UTC+03:00":20231118T141500
 DTEND;TZID="UTC+03:00":20231118T144500
 SUMMARY:[Moto2] P3
 UID:7d133a13-70cc-4c15-8e0b-d9b3f3299530@7d13.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto2\nSession: Practice Nr.
-  3
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Practice Nr. 3
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
 DTSTAMP:20230201T200949Z
@@ -1397,8 +1395,8 @@ DTSTART;TZID="UTC+03:00":20231118T184500
 DTEND;TZID="UTC+03:00":20231118T190000
 SUMMARY:[Moto2] Q1
 UID:3fc22246-871c-4472-9b26-3ef2b3ebd341@3fc2.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto2\nSession: Qualifying 
- Nr. 1
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
 DTSTAMP:20230201T200949Z
@@ -1408,18 +1406,18 @@ DTSTART;TZID="UTC+03:00":20231118T191000
 DTEND;TZID="UTC+03:00":20231118T192500
 SUMMARY:[Moto2] Q2
 UID:dbff9880-51de-4999-9a01-7997fd6ddbd8@dbff.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto2\nSession: Qualifying 
- Nr. 2
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
 DTSTAMP:20230201T200949Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231119T181500
-DTEND;TZID="UTC+03:00":20231119T181500
 SUMMARY:[Moto2] RAC
 UID:24eb87ea-201a-4c26-b978-884dedcd6fc3@24eb.org
-DESCRIPTION:Event: Grand Prix of Qatar\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Race
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
 DTSTAMP:20230201T200949Z
