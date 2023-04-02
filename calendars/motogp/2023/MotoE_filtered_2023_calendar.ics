@@ -190,7 +190,7 @@ DTSTART;TZID="UTC+02:00":20230908T170000
 DTEND;TZID="UTC+02:00":20230908T171000
 SUMMARY:[MotoE] Q1
 UID:2ac5f1ee-1101-42c3-a76a-b3ef9479d1b5@2ac5.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -201,7 +201,7 @@ DTSTART;TZID="UTC+02:00":20230908T172000
 DTEND;TZID="UTC+02:00":20230908T173000
 SUMMARY:[MotoE] Q2
 UID:0955f635-c644-4d8d-9444-b110fffe4316@0955.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -209,10 +209,9 @@ DTSTAMP:20230208T205717Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T121000
-DTEND;TZID="UTC+02:00":20230909T121000
 SUMMARY:[MotoE] RAC1
 UID:96a16b68-78be-4db0-8e3b-1d57d754a22a@96a1.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Race Nr.1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -362,10 +361,9 @@ DTSTAMP:20230218T124451Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T161000
-DTEND;TZID="UTC+02:00":20230909T161000
 SUMMARY:[MotoE] RAC2
 UID:ddd72d97-05a1-478b-ab08-325df5f0a85a@ddd7.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Race Nr.2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino

@@ -8,6 +8,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -40,6 +41,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -116,6 +118,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0300
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+03:00
 END:STANDARD
 END:VTIMEZONE
@@ -904,7 +907,7 @@ DTSTART;TZID="UTC+02:00":20230908T095000
 DTEND;TZID="UTC+02:00":20230908T103000
 SUMMARY:[Moto2] P1
 UID:38c4931a-d88b-44f7-80f8-407251b9c531@38c4.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Practice Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -915,7 +918,7 @@ DTSTART;TZID="UTC+02:00":20230908T140500
 DTEND;TZID="UTC+02:00":20230908T144500
 SUMMARY:[Moto2] P2
 UID:d9837c58-4219-48d8-b5f7-1fdad674b93b@d983.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Practice Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -926,7 +929,7 @@ DTSTART;TZID="UTC+02:00":20230909T092500
 DTEND;TZID="UTC+02:00":20230909T095500
 SUMMARY:[Moto2] P3
 UID:23fa501f-2f83-449f-b573-7e6872fd3172@23fa.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Practice Nr. 3
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -937,7 +940,7 @@ DTSTART;TZID="UTC+02:00":20230909T134500
 DTEND;TZID="UTC+02:00":20230909T140000
 SUMMARY:[Moto2] Q1
 UID:6c5f5c9a-d7a7-450a-ba99-6fe4e89dc370@6c5f.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -948,7 +951,7 @@ DTSTART;TZID="UTC+02:00":20230909T141000
 DTEND;TZID="UTC+02:00":20230909T142500
 SUMMARY:[Moto2] Q2
 UID:1bbab93a-53e2-465c-a880-921c919892e0@1bba.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -956,10 +959,9 @@ DTSTAMP:20230201T200949Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230910T121500
-DTEND;TZID="UTC+02:00":20230910T121500
 SUMMARY:[Moto2] RAC
 UID:d93d419d-137c-4757-abe9-92188133137c@d93d.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto2\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino

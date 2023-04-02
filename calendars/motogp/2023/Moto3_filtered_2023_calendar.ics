@@ -8,6 +8,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -40,6 +41,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -116,6 +118,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0300
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+03:00
 END:STANDARD
 END:VTIMEZONE
@@ -511,7 +514,7 @@ DTSTART;TZID="UTC+02:00":20230909T125000
 DTEND;TZID="UTC+02:00":20230909T130500
 SUMMARY:[Moto3] Q1
 UID:59c900df-dea7-4eff-a849-1e614cf39336@59c9.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto3\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -522,7 +525,7 @@ DTSTART;TZID="UTC+02:00":20230909T131500
 DTEND;TZID="UTC+02:00":20230909T133000
 SUMMARY:[Moto3] Q2
 UID:07845c56-a2de-4dcd-82f8-e6231e0648d2@0784.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto3\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
@@ -530,10 +533,9 @@ DTSTAMP:20230201T200949Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230910T110000
-DTEND;TZID="UTC+02:00":20230910T110000
 SUMMARY:[Moto3] RAC
 UID:2947a95d-4b40-45bf-9af2-9227ff464f05@2947.org
-DESCRIPTION:Event: Gran Premio di San Marino e della Riviera di 
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: Moto3\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
