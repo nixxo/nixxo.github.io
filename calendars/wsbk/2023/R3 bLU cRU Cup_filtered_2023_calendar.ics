@@ -1,4 +1,172 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230421T170000
+SUMMARY:[R3 bLU cRU Cup] Superpole
+UID:f2555d94-990f-4338-82db-054059db4751@f255.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 bLU cRU Cup\nSession: 
+ Superpole
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2023
+DTSTAMP:20230408T214834Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230422T114500
+SUMMARY:[R3 bLU cRU Cup] Race 1
+UID:8d57ca02-f4a7-41f9-ac9b-c30207f05689@8d57.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 1
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2023
+DTSTAMP:20230408T214834Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230422T161500
+SUMMARY:[R3 bLU cRU Cup] Race 2
+UID:8eb4bccf-9817-4068-af14-7af2730839c4@8eb4.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 2
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2023
+DTSTAMP:20230408T214834Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230505T133000
+SUMMARY:[R3 bLU cRU Cup] Superpole
+UID:6b6fc827-5583-4975-9602-9b87fb417e47@6b6f.org
+DESCRIPTION:Event: Catalunya Round\nClass: R3 bLU cRU Cup\nSession: 
+ Superpole
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2023
+DTSTAMP:20230408T214835Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230506T114500
+SUMMARY:[R3 bLU cRU Cup] Race 1
+UID:12799eb5-f835-432f-a030-c387bcbc9270@1279.org
+DESCRIPTION:Event: Catalunya Round\nClass: R3 bLU cRU Cup\nSession: Race 1
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2023
+DTSTAMP:20230408T214835Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230506T161500
+SUMMARY:[R3 bLU cRU Cup] Race 2
+UID:8336725f-949d-4654-a1af-64a842b7c708@8336.org
+DESCRIPTION:Event: Catalunya Round\nClass: R3 bLU cRU Cup\nSession: Race 2
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2023
+DTSTAMP:20230408T214835Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20230630T133000
+SUMMARY:[R3 bLU cRU Cup] Superpole
+UID:167099cc-5ac8-4737-81aa-cf3755f9331c@1670.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
+ Superpole
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2023
+DTSTAMP:20230408T214840Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20230701T114500
+SUMMARY:[R3 bLU cRU Cup] Race 1
+UID:4d211a36-56be-4b9e-bbd3-d1d5f9c751b1@4d21.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2023
+DTSTAMP:20230408T214840Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20230701T171500
+SUMMARY:[R3 bLU cRU Cup] Race 2
+UID:e4f7f533-766b-430e-ade6-29272ea068d9@e4f7.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2023
+DTSTAMP:20230408T214840Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230602T133000
+SUMMARY:[R3 bLU cRU Cup] Superpole
+UID:9b7afc39-7378-4882-9525-88adb20b5024@9b7a.org
+DESCRIPTION:Event: Prometeon Italian Round\nClass: R3 bLU cRU Cup\nSession:
+  Superpole
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230408T214841Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230603T114500
+SUMMARY:[R3 bLU cRU Cup] Race 1
+UID:05573de1-2078-4620-a271-5223a36da790@0557.org
+DESCRIPTION:Event: Prometeon Italian Round\nClass: R3 bLU cRU Cup\nSession:
+  Race 1
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230408T214841Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230603T161500
+SUMMARY:[R3 bLU cRU Cup] Race 2
+UID:9786e50f-2fe8-4a89-83df-003fbe8b4b8a@9786.org
+DESCRIPTION:Event: Prometeon Italian Round\nClass: R3 bLU cRU Cup\nSession:
+  Race 2
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230408T214841Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230908T133000
+SUMMARY:[R3 bLU cRU Cup] Superpole
+UID:7b8b116d-7a32-4fea-87ba-c96fbf0f1646@7b8b.org
+DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession: 
+ Superpole
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2023
+DTSTAMP:20230408T214844Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230909T114500
+SUMMARY:[R3 bLU cRU Cup] Race 1
+UID:4759311c-1cc1-4fe3-87c5-f65da7f8f873@4759.org
+DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 1
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2023
+DTSTAMP:20230408T214844Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230909T161500
+SUMMARY:[R3 bLU cRU Cup] Race 2
+UID:ef95917d-b695-4c35-b39c-7122974fd5bf@ef95.org
+DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession: 
+ Race 2
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2023
+DTSTAMP:20230408T214844Z
+END:VEVENT
 END:VCALENDAR
