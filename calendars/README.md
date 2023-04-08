@@ -14,6 +14,12 @@ Qualify + Races Only
 - <a href="motogp/2023/Moto3_filtered_2023_calendar.ics">Moto3</a>
 - <a href="motogp/2023/MotoE_filtered_2023_calendar.ics">MotoE</a>
 
+Races Only
+- <a href="motogp/2023/MotoGP_sprint-and-race_2023_calendar.ics">MotoGP</a>
+- <a href="motogp/2023/Moto2_sprint-and-race_2023_calendar.ics">Moto2</a>
+- <a href="motogp/2023/Moto3_sprint-and-race_2023_calendar.ics">Moto3</a>
+- <a href="motogp/2023/MotoE_sprint-and-race_2023_calendar.ics">MotoE</a>
+
 
 # WorldSBK 2023 Calendars
 
