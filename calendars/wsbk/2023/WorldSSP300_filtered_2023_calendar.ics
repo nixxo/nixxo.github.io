@@ -56,7 +56,8 @@ DTSTART;TZID="UTC+02:00":20230506T094500
 DTEND;TZID="UTC+02:00":20230506T100500
 SUMMARY:[WorldSSP300] Superpole
 UID:243ea513-6cee-4f07-9b6b-1d4752cc18a7@243e.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP300\nSession: Superpole
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: 
+ WorldSSP300\nSession: Superpole
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -65,7 +66,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230506T124000
 SUMMARY:[WorldSSP300] Race 1
 UID:7d424bd3-2295-434c-bb86-c9b3dd8ad277@7d42.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP300\nSession: Race 1
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: 
+ WorldSSP300\nSession: Race 1
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -74,7 +76,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230507T151500
 SUMMARY:[WorldSSP300] Race 2
 UID:51d8efe2-4267-4bd6-8cc4-201455460a30@51d8.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSSP300\nSession: Race 2
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: 
+ WorldSSP300\nSession: Race 2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z

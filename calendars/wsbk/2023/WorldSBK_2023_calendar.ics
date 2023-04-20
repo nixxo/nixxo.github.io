@@ -309,7 +309,8 @@ DTSTART;TZID="UTC+02:00":20230505T103000
 DTEND;TZID="UTC+02:00":20230505T111500
 SUMMARY:[WorldSBK] FP1
 UID:05fc0d95-e2ea-47c4-8ad2-206c71bdc532@05fc.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: FP1
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ FP1
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -319,7 +320,8 @@ DTSTART;TZID="UTC+02:00":20230505T150000
 DTEND;TZID="UTC+02:00":20230505T154500
 SUMMARY:[WorldSBK] FP2
 UID:94f010a2-8fd0-4c13-a86c-417f0bcadee9@94f0.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: FP2
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ FP2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -329,7 +331,8 @@ DTSTART;TZID="UTC+02:00":20230506T090000
 DTEND;TZID="UTC+02:00":20230506T093000
 SUMMARY:[WorldSBK] FP3
 UID:21ef0b71-9729-49c0-b9ef-9a97bb03b953@21ef.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: FP3
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ FP3
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -339,7 +342,8 @@ DTSTART;TZID="UTC+02:00":20230506T111000
 DTEND;TZID="UTC+02:00":20230506T112500
 SUMMARY:[WorldSBK] Superpole
 UID:cd4b0e98-382e-4163-822e-a937c6e30cae@cd4b.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ Superpole
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -348,7 +352,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230506T140000
 SUMMARY:[WorldSBK] Race 1
 UID:fd13cfbf-783a-4e8b-b937-8d745a9b6c96@fd13.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ Race 1
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -358,7 +363,8 @@ DTSTART;TZID="UTC+02:00":20230507T090000
 DTEND;TZID="UTC+02:00":20230507T091500
 SUMMARY:[WorldSBK] WUP
 UID:c170044f-6149-473b-abde-1cc57cb5a8a1@c170.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: WUP
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ WUP
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -367,8 +373,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230507T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:9bd2e597-ab85-4caa-8f10-c90546293d4a@9bd2.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Superpole 
- Race
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ Superpole Race
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
@@ -377,7 +383,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230507T140000
 SUMMARY:[WorldSBK] Race 2
 UID:a66b3f70-dddf-474e-9073-99dd0ccc5634@a66b.org
-DESCRIPTION:Event: Catalunya Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
+ Race 2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230201T202128Z
