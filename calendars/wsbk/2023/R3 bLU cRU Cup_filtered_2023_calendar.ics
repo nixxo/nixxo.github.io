@@ -57,8 +57,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230505T133000
 SUMMARY:[R3 bLU cRU Cup] Superpole
 UID:6b6fc827-5583-4975-9602-9b87fb417e47@6b6f.org
-DESCRIPTION:Event: Catalunya Round\nClass: R3 bLU cRU Cup\nSession: 
- Superpole
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: R3 bLU cRU 
+ Cup\nSession: Superpole
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230408T214835Z
@@ -67,7 +67,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230506T114500
 SUMMARY:[R3 bLU cRU Cup] Race 1
 UID:12799eb5-f835-432f-a030-c387bcbc9270@1279.org
-DESCRIPTION:Event: Catalunya Round\nClass: R3 bLU cRU Cup\nSession: Race 1
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: R3 bLU cRU 
+ Cup\nSession: Race 1
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230408T214835Z
@@ -76,7 +77,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230506T161500
 SUMMARY:[R3 bLU cRU Cup] Race 2
 UID:8336725f-949d-4654-a1af-64a842b7c708@8336.org
-DESCRIPTION:Event: Catalunya Round\nClass: R3 bLU cRU Cup\nSession: Race 2
+DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: R3 bLU cRU 
+ Cup\nSession: Race 2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
 DTSTAMP:20230408T214835Z
@@ -112,7 +114,7 @@ URL:https://www.worldsbk.com/en/event/GBR/2023
 DTSTAMP:20230408T214840Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230602T133000
+DTSTART;TZID="UTC+02:00":20230714T133000
 SUMMARY:[R3 bLU cRU Cup] Superpole
 UID:9b7afc39-7378-4882-9525-88adb20b5024@9b7a.org
 DESCRIPTION:Event: Prometeon Italian Round\nClass: R3 bLU cRU Cup\nSession:
@@ -122,7 +124,7 @@ URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230408T214841Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230603T114500
+DTSTART;TZID="UTC+02:00":20230715T114500
 SUMMARY:[R3 bLU cRU Cup] Race 1
 UID:05573de1-2078-4620-a271-5223a36da790@0557.org
 DESCRIPTION:Event: Prometeon Italian Round\nClass: R3 bLU cRU Cup\nSession:
@@ -132,7 +134,7 @@ URL:https://www.worldsbk.com/en/event/ITA1/2023
 DTSTAMP:20230408T214841Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230603T161500
+DTSTART;TZID="UTC+02:00":20230715T161500
 SUMMARY:[R3 bLU cRU Cup] Race 2
 UID:9786e50f-2fe8-4a89-83df-003fbe8b4b8a@9786.org
 DESCRIPTION:Event: Prometeon Italian Round\nClass: R3 bLU cRU Cup\nSession:
@@ -170,5 +172,38 @@ DESCRIPTION:Event: Pirelli French Round\nClass: R3 bLU cRU Cup\nSession:
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2023
 DTSTAMP:20230408T214844Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230602T133000
+SUMMARY:[R3 bLU cRU Cup] Superpole
+UID:ce5b1eef-6bf9-47d3-9dd6-911d93571ab0@ce5b.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
+ Cup\nSession: Superpole
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2023
+DTSTAMP:20230420T201016Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230603T114500
+SUMMARY:[R3 bLU cRU Cup] Race 1
+UID:c115a3ae-0969-403f-a4d1-67a3d2ce4d80@c115.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
+ Cup\nSession: Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2023
+DTSTAMP:20230420T201016Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230603T161500
+SUMMARY:[R3 bLU cRU Cup] Race 2
+UID:5769c65f-14be-44d0-86e8-6d6492d12a55@5769.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
+ Cup\nSession: Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2023
+DTSTAMP:20230420T201016Z
 END:VEVENT
 END:VCALENDAR
