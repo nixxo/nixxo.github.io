@@ -46,17 +46,6 @@ TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:UTC+06:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0600
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
-TZNAME:UTC+06:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC+05:30
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
@@ -130,7 +119,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185120Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230326T140000
@@ -140,7 +129,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass:
  MotoGP\nSession: Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185120Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230401T150000
@@ -150,7 +139,7 @@ DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230402T140000
@@ -160,7 +149,7 @@ DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass:
  MotoGP\nSession: Race
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230415T150000
@@ -170,7 +159,7 @@ DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230416T140000
@@ -180,7 +169,7 @@ DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass:
  MotoGP\nSession: Race
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230429T150000
@@ -190,7 +179,7 @@ DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230430T150000
@@ -200,7 +189,7 @@ DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass:
  MotoGP\nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T150000
@@ -210,7 +199,7 @@ DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoGP\nSession:
  Tissot Sprint
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230514T140000
@@ -219,7 +208,7 @@ UID:3727afe9-1b39-4515-91a2-989778ac8848@3727.org
 DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoGP\nSession: Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T150000
@@ -229,7 +218,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession:
  Tissot Sprint
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230611T140000
@@ -239,7 +228,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession:
  Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230617T150000
@@ -249,7 +238,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230618T140000
@@ -259,7 +248,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  MotoGP\nSession: Race
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230624T150000
@@ -268,7 +257,7 @@ UID:2f8d9620-4964-4fda-8cc1-1aa7c5de875a@2f8d.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoGP\nSession: Tissot Sprint
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230625T140000
@@ -277,26 +266,7 @@ UID:fac85a48-4327-4d9f-ab15-62e994e54c97@fac8.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoGP\nSession: Race
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230408T213704Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230708T160000
-SUMMARY:[MotoGP] SPR
-UID:bd108dc6-a619-4105-96da-ecc696867e33@bd10.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: MotoGP\nSession: Tissot
-  Sprint
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230408T213704Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230709T150000
-SUMMARY:[MotoGP] RAC
-UID:1f1911fa-6f33-4f81-bc2e-00a0dd83d5b8@1f19.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: MotoGP\nSession: Race
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T150000
@@ -306,7 +276,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230806T130000
@@ -316,7 +286,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  MotoGP\nSession: Race
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T150000
@@ -326,7 +296,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230820T140000
@@ -336,7 +306,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  MotoGP\nSession: Race
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230902T150000
@@ -346,7 +316,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230903T140000
@@ -356,7 +326,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  MotoGP\nSession: Race
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T150000
@@ -366,7 +336,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: MotoGP\nSession: Tissot Sprint
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230910T140000
@@ -376,7 +346,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: MotoGP\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230923T150000
@@ -386,7 +356,7 @@ DESCRIPTION:Event: Grand Prix of India\nClass: MotoGP\nSession: Tissot
  Sprint
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230924T140000
@@ -395,7 +365,7 @@ UID:ebf7819b-0067-47d3-b339-4060c8882742@ebf7.org
 DESCRIPTION:Event: Grand Prix of India\nClass: MotoGP\nSession: Race
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230930T150000
@@ -405,7 +375,7 @@ DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession:
  Tissot Sprint
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20231001T150000
@@ -414,7 +384,7 @@ UID:05b2dd1b-f6df-4a19-a03e-b6688883f3bd@05b2.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Race
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231014T150000
@@ -424,7 +394,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231015T140000
@@ -434,7 +404,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  MotoGP\nSession: Race
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231021T150000
@@ -444,7 +414,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231022T140000
@@ -454,7 +424,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  MotoGP\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231028T150000
@@ -464,7 +434,7 @@ DESCRIPTION:Event: OR Thailand Grand Prix\nClass: MotoGP\nSession: Tissot
  Sprint
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231029T140000
@@ -473,7 +443,7 @@ UID:77eec04b-d943-4ca5-b5c9-08a4b7c956b2@77ee.org
 DESCRIPTION:Event: OR Thailand Grand Prix\nClass: MotoGP\nSession: Race
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231111T150000
@@ -483,7 +453,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Tissot Sprint
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231112T140000
@@ -493,7 +463,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
   Race
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231118T200000
@@ -503,7 +473,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231119T200000
@@ -513,7 +483,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  MotoGP\nSession: Race
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231125T150000
@@ -523,7 +493,7 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  MotoGP\nSession: Tissot Sprint
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231126T150000
@@ -533,6 +503,6 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  MotoGP\nSession: Race
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T185121Z
 END:VEVENT
 END:VCALENDAR

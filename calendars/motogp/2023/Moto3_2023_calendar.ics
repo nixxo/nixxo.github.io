@@ -46,17 +46,6 @@ TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:UTC+06:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0600
-DTSTART:19700101T000000
-RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
-TZNAME:UTC+06:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC+05:30
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
@@ -131,7 +120,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto3\nSession:
   Practice Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20230324T131500Z
@@ -142,7 +131,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto3\nSession:
   Practice Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20230325T084000Z
@@ -153,7 +142,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto3\nSession:
   Practice Nr. 3
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20230325T125000Z
@@ -164,7 +153,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto3\nSession:
   Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20230325T131500Z
@@ -175,7 +164,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto3\nSession:
   Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230326T110000
@@ -185,7 +174,7 @@ DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto3\nSession:
   Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230331T090000
@@ -196,7 +185,7 @@ DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230331T131500
@@ -207,7 +196,7 @@ DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230401T084000
@@ -218,7 +207,7 @@ DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230401T125000
@@ -229,7 +218,7 @@ DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230401T131500
@@ -240,18 +229,17 @@ DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20230402T110000
-DTEND;TZID="UTC-03:00":20230402T110000
 SUMMARY:[Moto3] RAC
 UID:326c24d7-b59b-486e-ac0d-9f22a29d7423@326c.org
 DESCRIPTION:Event: Gran Premio Michelin® de la República Argentina\nClass: 
  Moto3\nSession: Race
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2023/event/Argentina
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230414T090000
@@ -262,7 +250,7 @@ DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230414T131500
@@ -273,7 +261,7 @@ DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230415T084000
@@ -284,7 +272,7 @@ DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230415T125000
@@ -295,7 +283,7 @@ DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230415T131500
@@ -306,18 +294,17 @@ DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20230416T110000
-DTEND;TZID="UTC-05:00":20230416T110000
 SUMMARY:[Moto3] RAC
 UID:39123c38-af04-4d80-b8fa-b1f58b7817d6@3912.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto3\nSession: Race
 LOCATION:Circuit of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/United States
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230428T090000
@@ -326,9 +313,9 @@ SUMMARY:[Moto3] P1
 UID:793b1576-53e0-4dfc-8278-72fe25eae7a1@793b.org
 DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
  Moto3\nSession: Practice Nr. 1
-LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230428T131500
@@ -337,9 +324,9 @@ SUMMARY:[Moto3] P2
 UID:3c442432-f0b1-4a97-8273-04baa4086c41@3c44.org
 DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
  Moto3\nSession: Practice Nr. 2
-LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230429T084000
@@ -348,9 +335,9 @@ SUMMARY:[Moto3] P3
 UID:dd11488a-d973-4e6e-aa05-607b7099e070@dd11.org
 DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
  Moto3\nSession: Practice Nr. 3
-LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230429T125000
@@ -359,9 +346,9 @@ SUMMARY:[Moto3] Q1
 UID:97db191b-fc14-48b5-b727-7a9f1d25da01@97db.org
 DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
  Moto3\nSession: Qualifying Nr. 1
-LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230429T131500
@@ -370,9 +357,9 @@ SUMMARY:[Moto3] Q2
 UID:3db76d5b-952d-4e89-8597-cccc1f42f818@3db7.org
 DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
  Moto3\nSession: Qualifying Nr. 2
-LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230430T120000
@@ -380,9 +367,9 @@ SUMMARY:[Moto3] RAC
 UID:d24275d2-5d7e-4463-9cea-089b7a1076a8@d242.org
 DESCRIPTION:Event: Gran Premio MotoGP™ Guru by Gryfyn de España\nClass: 
  Moto3\nSession: Race
-LOCATION:Circuito de Jerez - Angel Nieto - Jerez de la Frontera
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230512T090000
@@ -393,7 +380,7 @@ DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession:
  Practice Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230512T131500
@@ -404,7 +391,7 @@ DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession:
  Practice Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T084000
@@ -415,7 +402,7 @@ DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession:
  Practice Nr. 3
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T125000
@@ -426,7 +413,7 @@ DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession:
  Qualifying Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T131500
@@ -437,7 +424,7 @@ DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession:
  Qualifying Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230514T110000
@@ -446,7 +433,7 @@ UID:df8ffcdc-020e-49ee-9077-11089fadf2d0@df8f.org
 DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto3\nSession: Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230609T090000
@@ -457,7 +444,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession:
  Practice Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230609T131500
@@ -468,7 +455,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession:
  Practice Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T084000
@@ -479,7 +466,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession:
  Practice Nr. 3
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T125000
@@ -490,7 +477,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession:
  Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T131500
@@ -501,7 +488,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession:
  Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230611T110000
@@ -510,7 +497,7 @@ UID:c8ffa25b-fe8a-4471-918e-159753d2df36@c8ff.org
 DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto3\nSession: Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230616T090000
@@ -521,7 +508,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230616T131500
@@ -532,7 +519,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230617T084000
@@ -543,7 +530,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230617T125000
@@ -554,7 +541,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230617T131500
@@ -565,7 +552,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230618T110000
@@ -575,7 +562,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  Moto3\nSession: Race
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230623T090000
@@ -585,7 +572,7 @@ UID:ee499234-2ae1-486c-a36c-88590563a637@ee49.org
 DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Practice Nr. 1
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230623T131500
@@ -595,7 +582,7 @@ UID:ee1d505a-2038-4c18-96d7-6e647c50f979@ee1d.org
 DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Practice Nr. 2
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230624T084000
@@ -605,7 +592,7 @@ UID:09d61076-340c-4be1-95ad-176fac3dfcd8@09d6.org
 DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Practice Nr. 3
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230624T125000
@@ -615,7 +602,7 @@ UID:7f390b04-0ed4-4ced-a0f6-a5d5f739b842@7f39.org
 DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Qualifying Nr. 1
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230624T131500
@@ -625,7 +612,7 @@ UID:e47cffc2-77d6-4793-aa17-869bae6c32cd@e47c.org
 DESCRIPTION:Event: Motul TT Assen\nClass: Moto3\nSession: Qualifying Nr. 2
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230625T110000
@@ -637,70 +624,6 @@ URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
 DTSTAMP:20230201T200949Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230707T090000
-DTEND;TZID="UTC+06:00":20230707T095000
-SUMMARY:[Moto3] P1
-UID:bc25558e-df1e-4c96-b32c-0e970dc3b043@bc25.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Practice Nr. 1
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230201T200949Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230707T131500
-DTEND;TZID="UTC+06:00":20230707T140500
-SUMMARY:[Moto3] P2
-UID:6ded2f8e-026c-4461-bf8e-ad2453ce877f@6ded.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Practice Nr. 2
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230201T200949Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230708T094000
-DTEND;TZID="UTC+06:00":20230708T101000
-SUMMARY:[Moto3] P3
-UID:0f2bbf94-fcbc-46ce-b99e-72c0dd82a6cb@0f2b.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Practice Nr. 3
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230201T200949Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230708T135000
-DTEND;TZID="UTC+06:00":20230708T140500
-SUMMARY:[Moto3] Q1
-UID:b8b329c7-810b-4970-ab02-19895c55413f@b8b3.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Qualifying Nr. 1
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230201T200949Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230708T141500
-DTEND;TZID="UTC+06:00":20230708T143000
-SUMMARY:[Moto3] Q2
-UID:42424563-6d91-4b2c-9f63-bd5922078835@4242.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Qualifying Nr. 2
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230201T200949Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20230709T120000
-SUMMARY:[Moto3] RAC
-UID:71b876b3-7465-4e92-86f2-5fe7cd1d4b08@71b8.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: Race
-LOCATION:Sokol International Racetrack - 
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20230201T200949Z
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230804T090000
 DTEND;TZID="UTC+01:00":20230804T093500
 SUMMARY:[Moto3] P1
@@ -709,7 +632,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230804T131500
@@ -720,7 +643,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T084000
@@ -731,7 +654,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T125000
@@ -742,7 +665,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T131500
@@ -753,7 +676,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230806T110000
@@ -763,7 +686,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  Moto3\nSession: Race
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230818T090000
@@ -774,7 +697,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230818T131500
@@ -785,7 +708,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T084000
@@ -796,7 +719,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T125000
@@ -807,7 +730,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T131500
@@ -818,7 +741,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230820T110000
@@ -828,7 +751,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  Moto3\nSession: Race
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230901T090000
@@ -839,7 +762,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230901T131500
@@ -850,7 +773,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230902T084000
@@ -861,7 +784,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230902T125000
@@ -872,7 +795,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230902T131500
@@ -883,7 +806,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230903T110000
@@ -893,7 +816,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  Moto3\nSession: Race
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230908T090000
@@ -904,7 +827,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: Moto3\nSession: Practice Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230908T131500
@@ -915,7 +838,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: Moto3\nSession: Practice Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T084000
@@ -926,7 +849,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: Moto3\nSession: Practice Nr. 3
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T125000
@@ -937,7 +860,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: Moto3\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T131500
@@ -948,7 +871,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: Moto3\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230910T110000
@@ -958,7 +881,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: Moto3\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230922T090000
@@ -969,7 +892,7 @@ DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Practice Nr.
   1
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230922T131500
@@ -980,7 +903,7 @@ DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Practice Nr.
   2
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230923T084000
@@ -991,7 +914,7 @@ DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Practice Nr.
   3
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230923T125000
@@ -1002,7 +925,7 @@ DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Qualifying
  Nr. 1
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230923T131500
@@ -1013,7 +936,7 @@ DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Qualifying
  Nr. 2
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+05:30":20230924T110000
@@ -1022,7 +945,7 @@ UID:87b953a8-2fc7-4bd4-ae1d-6f7bdc745a8f@87b9.org
 DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Race
 LOCATION:Buddh International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230929T090000
@@ -1033,7 +956,7 @@ DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession:
  Practice Nr. 1
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230929T131500
@@ -1044,7 +967,7 @@ DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession:
  Practice Nr. 2
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230930T084000
@@ -1055,7 +978,7 @@ DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession:
  Practice Nr. 3
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230930T125000
@@ -1066,7 +989,7 @@ DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession:
  Qualifying Nr. 1
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230930T131500
@@ -1077,7 +1000,7 @@ DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession:
  Qualifying Nr. 2
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20231001T120000
@@ -1086,7 +1009,7 @@ UID:28c69438-c70c-415a-9964-2d5bc9886053@28c6.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto3\nSession: Race
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231013T090000
@@ -1097,7 +1020,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231013T131500
@@ -1108,7 +1031,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231014T084000
@@ -1119,7 +1042,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231014T125000
@@ -1130,7 +1053,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231014T131500
@@ -1141,7 +1064,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231015T110000
@@ -1151,7 +1074,7 @@ DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass:
  Moto3\nSession: Race
 LOCATION:Mandalika International Street Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231020T090000
@@ -1162,7 +1085,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231020T131500
@@ -1173,7 +1096,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231021T084000
@@ -1184,7 +1107,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231021T125000
@@ -1195,7 +1118,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231021T131500
@@ -1206,7 +1129,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231022T110000
@@ -1216,7 +1139,7 @@ DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass:
  Moto3\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231027T090000
@@ -1227,7 +1150,7 @@ DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Practice
  Nr. 1
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231027T131500
@@ -1238,7 +1161,7 @@ DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Practice
  Nr. 2
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231028T084000
@@ -1249,7 +1172,7 @@ DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Practice
  Nr. 3
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231028T125000
@@ -1260,7 +1183,7 @@ DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession:
  Qualifying Nr. 1
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231028T131500
@@ -1271,7 +1194,7 @@ DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession:
  Qualifying Nr. 2
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231029T110000
@@ -1280,7 +1203,7 @@ UID:b2e43f29-30b5-4674-8c73-885cd2176785@b2e4.org
 DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Race
 LOCATION:Chang International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231110T090000
@@ -1291,7 +1214,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto3\nSession:
  Practice Nr. 1
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231110T131500
@@ -1302,7 +1225,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto3\nSession:
  Practice Nr. 2
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231111T084000
@@ -1313,7 +1236,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto3\nSession:
  Practice Nr. 3
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231111T125000
@@ -1324,7 +1247,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto3\nSession:
  Qualifying Nr. 1
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231111T131500
@@ -1335,7 +1258,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto3\nSession:
  Qualifying Nr. 2
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231112T110000
@@ -1345,7 +1268,7 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto3\nSession:
  Race
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231117T140000
@@ -1356,7 +1279,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231117T181500
@@ -1367,7 +1290,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231118T133000
@@ -1378,7 +1301,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231118T175000
@@ -1389,7 +1312,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231118T181500
@@ -1400,7 +1323,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231119T170000
@@ -1410,7 +1333,7 @@ DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass:
  Moto3\nSession: Race
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231124T090000
@@ -1421,7 +1344,7 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  Moto3\nSession: Practice Nr. 1
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231124T131500
@@ -1432,7 +1355,7 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  Moto3\nSession: Practice Nr. 2
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231125T084000
@@ -1443,7 +1366,7 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  Moto3\nSession: Practice Nr. 3
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231125T125000
@@ -1454,7 +1377,7 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231125T131500
@@ -1465,7 +1388,7 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231126T120000
@@ -1475,6 +1398,6 @@ DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass:
  Moto3\nSession: Race
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230201T200949Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 END:VCALENDAR

@@ -25,13 +25,14 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T121000
+DTEND;TZID="UTC+02:00":20230513T123500
 SUMMARY:[MotoE] RAC1
 UID:22130c60-3122-4769-9ce9-71a29befc811@2213.org
 DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: Race 
  Nr.1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T161000
@@ -41,7 +42,7 @@ DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: Race
  Nr.2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
-DTSTAMP:20230408T213703Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T121000
@@ -51,7 +52,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: Race
   Nr.1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T161000
@@ -61,7 +62,7 @@ DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: Race
   Nr.2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230617T121000
@@ -71,7 +72,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  MotoE\nSession: Race Nr.1
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230617T161000
@@ -81,7 +82,7 @@ DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass:
  MotoE\nSession: Race Nr.2
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2023/event/Germany
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230624T121000
@@ -90,7 +91,7 @@ UID:568d42fa-73f6-4d29-aae4-d381be46247f@568d.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.1
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230624T161000
@@ -99,7 +100,7 @@ UID:761171a5-3ded-4dfe-b151-d12f8e6e298d@7611.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.2
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T121000
@@ -109,7 +110,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  MotoE\nSession: Race Nr.1
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T161000
@@ -119,7 +120,7 @@ DESCRIPTION:Event: Monster Energy British Grand Prix\nClass:
  MotoE\nSession: Race Nr.2
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T121000
@@ -129,7 +130,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  MotoE\nSession: Race Nr.1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T161000
@@ -139,7 +140,7 @@ DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass:
  MotoE\nSession: Race Nr.2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230902T121000
@@ -149,7 +150,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  MotoE\nSession: Race Nr.1
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230902T161000
@@ -159,7 +160,7 @@ DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass:
  MotoE\nSession: Race Nr.2
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T121000
@@ -169,7 +170,7 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: MotoE\nSession: Race Nr.1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T161000
@@ -179,6 +180,6 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
  Rimini\nClass: MotoE\nSession: Race Nr.2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
-DTSTAMP:20230408T213704Z
+DTSTAMP:20230513T091856Z
 END:VEVENT
 END:VCALENDAR
