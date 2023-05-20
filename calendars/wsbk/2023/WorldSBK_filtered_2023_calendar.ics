@@ -30,6 +30,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -64,7 +65,7 @@ DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass:
  WorldSBK\nSession: Superpole
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2023
-DTSTAMP:20230128T215850Z
+DTSTAMP:20230520T064319Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20230225T160000
@@ -75,7 +76,7 @@ DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass:
  WorldSBK\nSession: Race 1
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2023
-DTSTAMP:20230128T215850Z
+DTSTAMP:20230520T064319Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20230226T130000
@@ -86,7 +87,7 @@ DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass:
  WorldSBK\nSession: Superpole Race
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2023
-DTSTAMP:20230128T215850Z
+DTSTAMP:20230520T064319Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20230226T160000
@@ -97,7 +98,7 @@ DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass:
  WorldSBK\nSession: Race 2
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2023
-DTSTAMP:20230128T215850Z
+DTSTAMP:20230520T064319Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230304T104000
@@ -106,9 +107,9 @@ SUMMARY:[WorldSBK] Superpole
 UID:c7c356a9-00f6-4cc6-b235-0d472928f8b5@c7c3.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSBK\nSession: 
  Superpole
-LOCATION:
+LOCATION:Pertamina Mandalika International Street Circuit\, Indonesia
 URL:https://www.worldsbk.com/en/event/MAN/2023
-DTSTAMP:20230201T202125Z
+DTSTAMP:20230520T064320Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230304T133000
@@ -116,9 +117,9 @@ DTEND;TZID="UTC+08:00":20230304T140600
 SUMMARY:[WorldSBK] Race 1
 UID:0d689421-7ecb-42ed-a9b9-a44ad3799853@0d68.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSBK\nSession: Race 1
-LOCATION:
+LOCATION:Pertamina Mandalika International Street Circuit\, Indonesia
 URL:https://www.worldsbk.com/en/event/MAN/2023
-DTSTAMP:20230201T202125Z
+DTSTAMP:20230520T064320Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230305T103000
@@ -127,9 +128,9 @@ SUMMARY:[WorldSBK] Superpole Race
 UID:8d6b2c82-122e-4286-b0fe-4494d54e236f@8d6b.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSBK\nSession: 
  Superpole Race
-LOCATION:
+LOCATION:Pertamina Mandalika International Street Circuit\, Indonesia
 URL:https://www.worldsbk.com/en/event/MAN/2023
-DTSTAMP:20230201T202125Z
+DTSTAMP:20230520T064320Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20230305T133000
@@ -137,9 +138,9 @@ DTEND;TZID="UTC+08:00":20230305T134600
 SUMMARY:[WorldSBK] Race 2
 UID:65a31948-1761-4c6e-b0aa-dba9d34c18ee@65a3.org
 DESCRIPTION:Event: Motul Indonesian Round\nClass: WorldSBK\nSession: Race 2
-LOCATION:
+LOCATION:Pertamina Mandalika International Street Circuit\, Indonesia
 URL:https://www.worldsbk.com/en/event/MAN/2023
-DTSTAMP:20230201T202125Z
+DTSTAMP:20230520T064320Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230422T111000
@@ -149,7 +150,7 @@ UID:d33c5bbc-dae3-422b-85e9-a74d0ba8db8c@d33c.org
 DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Superpole
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2023
-DTSTAMP:20230201T202126Z
+DTSTAMP:20230520T064321Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230422T140000
@@ -159,7 +160,7 @@ UID:0577ef64-d11f-4cfc-b934-4ed812e31f54@0577.org
 DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2023
-DTSTAMP:20230201T202126Z
+DTSTAMP:20230520T064321Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230423T110000
@@ -170,7 +171,7 @@ DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Superpole
   Race
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2023
-DTSTAMP:20230201T202126Z
+DTSTAMP:20230520T064321Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230423T140000
@@ -180,48 +181,51 @@ UID:b4fd1c8b-5873-46b4-b13f-9bb4fa1afa8e@b4fd.org
 DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2023
-DTSTAMP:20230201T202126Z
+DTSTAMP:20230520T064321Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230506T111000
-DTEND;TZID="UTC+02:00":20230506T112500
+DTEND;TZID="UTC+02:00":20230506T114200
 SUMMARY:[WorldSBK] Superpole
 UID:cd4b0e98-382e-4163-822e-a937c6e30cae@cd4b.org
 DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
  Superpole
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
-DTSTAMP:20230201T202128Z
+DTSTAMP:20230520T064322Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230506T140000
+DTEND;TZID="UTC+02:00":20230506T140900
 SUMMARY:[WorldSBK] Race 1
 UID:fd13cfbf-783a-4e8b-b937-8d745a9b6c96@fd13.org
 DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
  Race 1
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
-DTSTAMP:20230201T202128Z
+DTSTAMP:20230520T064322Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230507T110000
+DTEND;TZID="UTC+02:00":20230507T112700
 SUMMARY:[WorldSBK] Superpole Race
 UID:9bd2e597-ab85-4caa-8f10-c90546293d4a@9bd2.org
 DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
  Superpole Race
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
-DTSTAMP:20230201T202128Z
+DTSTAMP:20230520T064322Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230507T140000
+DTEND;TZID="UTC+02:00":20230507T143800
 SUMMARY:[WorldSBK] Race 2
 UID:a66b3f70-dddf-474e-9073-99dd0ccc5634@a66b.org
 DESCRIPTION:Event: Prosecco DOC Catalunya Round\nClass: WorldSBK\nSession: 
  Race 2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2023
-DTSTAMP:20230201T202128Z
+DTSTAMP:20230520T064322Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230603T111000
@@ -233,7 +237,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession:
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2023
-DTSTAMP:20230201T202129Z
+DTSTAMP:20230520T064324Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230603T140000
@@ -244,7 +248,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession:
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2023
-DTSTAMP:20230201T202129Z
+DTSTAMP:20230520T064324Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230604T110000
@@ -255,7 +259,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession:
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2023
-DTSTAMP:20230201T202129Z
+DTSTAMP:20230520T064324Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230604T140000
@@ -266,7 +270,7 @@ DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession:
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2023
-DTSTAMP:20230201T202129Z
+DTSTAMP:20230520T064324Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230701T111000
@@ -277,7 +281,7 @@ DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession:
  Superpole
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
-DTSTAMP:20230201T202131Z
+DTSTAMP:20230520T064325Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230701T140000
@@ -286,7 +290,7 @@ UID:3cdbad52-ba64-462f-8b52-f92ff376a386@3cdb.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
-DTSTAMP:20230201T202131Z
+DTSTAMP:20230520T064325Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230702T130000
@@ -296,7 +300,7 @@ DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession:
  Superpole Race
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
-DTSTAMP:20230201T202131Z
+DTSTAMP:20230520T064325Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230702T160000
@@ -305,7 +309,48 @@ UID:0c22595c-7a41-46ca-aabb-ed00ab960080@0c22.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
-DTSTAMP:20230201T202131Z
+DTSTAMP:20230520T064325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230715T111000
+DTEND;TZID="UTC+02:00":20230715T112500
+SUMMARY:[WorldSBK] Superpole
+UID:46f8c20e-cd9a-400b-acb2-c5be68bb948a@46f8.org
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230520T064326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230715T140000
+SUMMARY:[WorldSBK] Race 1
+UID:5b1151a8-acb5-41c3-aade-e3dabf2f3caf@5b11.org
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: Race 
+ 1
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230520T064326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230716T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:56002ff8-6040-4149-a811-67c4d4dbc21e@5600.org
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230520T064326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20230716T140000
+SUMMARY:[WorldSBK] Race 2
+UID:57f38d8d-74d8-45eb-b8c8-9dd903720ad2@57f3.org
+DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: Race 
+ 2
+LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
+URL:https://www.worldsbk.com/en/event/ITA1/2023
+DTSTAMP:20230520T064326Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230729T111000
@@ -315,7 +360,7 @@ UID:36420148-c012-4517-8777-189862c43b22@3642.org
 DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
-DTSTAMP:20230201T202132Z
+DTSTAMP:20230520T064327Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230729T140000
@@ -324,7 +369,7 @@ UID:1e2e155f-a81c-4a22-8581-60bf50294704@1e2e.org
 DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
-DTSTAMP:20230201T202132Z
+DTSTAMP:20230520T064327Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230730T110000
@@ -334,7 +379,7 @@ DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Superpole
   Race
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
-DTSTAMP:20230201T202132Z
+DTSTAMP:20230520T064327Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230730T140000
@@ -343,7 +388,7 @@ UID:e0cfab38-7f8c-467c-9171-0aef7bbbe50a@e0cf.org
 DESCRIPTION:Event: Acerbis Czech Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2023
-DTSTAMP:20230201T202132Z
+DTSTAMP:20230520T064327Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T111000
@@ -354,7 +399,7 @@ DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession:
  Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2023
-DTSTAMP:20230201T202134Z
+DTSTAMP:20230520T064329Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230909T140000
@@ -363,7 +408,7 @@ UID:18bc4974-286f-436b-bb90-707a57082ffa@18bc.org
 DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2023
-DTSTAMP:20230201T202134Z
+DTSTAMP:20230520T064329Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230910T110000
@@ -373,7 +418,7 @@ DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession:
  Superpole Race
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2023
-DTSTAMP:20230201T202134Z
+DTSTAMP:20230520T064329Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230910T151500
@@ -382,7 +427,7 @@ UID:7c9d91b4-4fd6-429b-8680-78e583c61ef7@7c9d.org
 DESCRIPTION:Event: Pirelli French Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2023
-DTSTAMP:20230201T202134Z
+DTSTAMP:20230520T064329Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230923T111000
@@ -392,7 +437,7 @@ UID:ac567626-ebf3-4080-97db-edab94501a72@ac56.org
 DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Superpole
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2023
-DTSTAMP:20230201T202135Z
+DTSTAMP:20230520T064330Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230923T140000
@@ -401,7 +446,7 @@ UID:22db2d10-e378-4cbd-a60f-29226d9c04b2@22db.org
 DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2023
-DTSTAMP:20230201T202135Z
+DTSTAMP:20230520T064330Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230924T110000
@@ -411,7 +456,7 @@ DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Superpole
   Race
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2023
-DTSTAMP:20230201T202135Z
+DTSTAMP:20230520T064330Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230924T140000
@@ -420,7 +465,7 @@ UID:d64f2589-ceff-4244-b7b6-eccd53aeaf7f@d64f.org
 DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2023
-DTSTAMP:20230201T202135Z
+DTSTAMP:20230520T064330Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230930T111000
@@ -431,17 +476,7 @@ DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession:
  Superpole
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2023
-DTSTAMP:20230201T202137Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20230930T140000
-SUMMARY:[WorldSBK] Race 1
-UID:eae433c9-2424-4fb6-9f70-54e95bced57e@eae4.org
-DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: Race
-  1
-LOCATION:Algarve International Circuit\, Portimão\, Portugal
-URL:https://www.worldsbk.com/en/event/POR/2023
-DTSTAMP:20230201T202137Z
+DTSTAMP:20230520T064331Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231001T110000
@@ -451,7 +486,7 @@ DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession:
  Superpole Race
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2023
-DTSTAMP:20230201T202137Z
+DTSTAMP:20230520T064331Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231001T140000
@@ -461,7 +496,7 @@ DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: Race
   2
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2023
-DTSTAMP:20230201T202137Z
+DTSTAMP:20230520T064331Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20231014T121000
@@ -472,7 +507,7 @@ DESCRIPTION:Event: Prometeon Argentinean Round\nClass: WorldSBK\nSession:
  Superpole
 LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
 URL:https://www.worldsbk.com/en/event/ARG/2023
-DTSTAMP:20230201T202138Z
+DTSTAMP:20230520T064333Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20231014T150000
@@ -482,7 +517,7 @@ DESCRIPTION:Event: Prometeon Argentinean Round\nClass: WorldSBK\nSession:
  Race 1
 LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
 URL:https://www.worldsbk.com/en/event/ARG/2023
-DTSTAMP:20230201T202138Z
+DTSTAMP:20230520T064333Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20231015T120000
@@ -492,7 +527,7 @@ DESCRIPTION:Event: Prometeon Argentinean Round\nClass: WorldSBK\nSession:
  Superpole Race
 LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
 URL:https://www.worldsbk.com/en/event/ARG/2023
-DTSTAMP:20230201T202138Z
+DTSTAMP:20230520T064333Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20231015T150000
@@ -502,47 +537,6 @@ DESCRIPTION:Event: Prometeon Argentinean Round\nClass: WorldSBK\nSession:
  Race 2
 LOCATION:Circuito San Juan Villicum\, San Juan\, Argentina
 URL:https://www.worldsbk.com/en/event/ARG/2023
-DTSTAMP:20230201T202138Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230715T111000
-DTEND;TZID="UTC+02:00":20230715T112500
-SUMMARY:[WorldSBK] Superpole
-UID:e3e397f3-2a1c-482c-aa74-6500268289ef@e3e3.org
-DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: 
- Superpole
-LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
-URL:https://www.worldsbk.com/en/event/ITA1/2023
-DTSTAMP:20230301T193034Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230715T140000
-SUMMARY:[WorldSBK] Race 1
-UID:9a5b8087-500b-4a7e-808e-939c1e1d9654@9a5b.org
-DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: Race 
- 1
-LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
-URL:https://www.worldsbk.com/en/event/ITA1/2023
-DTSTAMP:20230301T193034Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230716T110000
-SUMMARY:[WorldSBK] Superpole Race
-UID:dc8efc07-9136-4a35-82a0-e90cd7937c26@dc8e.org
-DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: 
- Superpole Race
-LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
-URL:https://www.worldsbk.com/en/event/ITA1/2023
-DTSTAMP:20230301T193034Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230716T140000
-SUMMARY:[WorldSBK] Race 2
-UID:fe6d054d-e8a8-42cb-b00a-9ff7d69b7438@fe6d.org
-DESCRIPTION:Event: Prometeon Italian Round\nClass: WorldSBK\nSession: Race 
- 2
-LOCATION:Autodromo Internazionale Enzo e Dino Ferrari\, Imola\, Italy
-URL:https://www.worldsbk.com/en/event/ITA1/2023
-DTSTAMP:20230301T193034Z
+DTSTAMP:20230520T064333Z
 END:VEVENT
 END:VCALENDAR
