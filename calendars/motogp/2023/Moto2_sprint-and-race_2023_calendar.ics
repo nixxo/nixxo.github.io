@@ -260,8 +260,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231022T121500
 SUMMARY:[Moto2] RAC
 UID:9dc9c107-ecce-4d33-a16b-1fd9a2b73ccc@9dc9.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto2\nSession: Race
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto2\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z

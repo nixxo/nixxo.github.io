@@ -1081,8 +1081,8 @@ DTSTART;TZID="UTC+11:00":20231020T095000
 DTEND;TZID="UTC+11:00":20231020T103000
 SUMMARY:[Moto2] P1
 UID:842fb8cc-1749-4f40-a3d6-69eea6737086@842f.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto2\nSession: Practice Nr. 1
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto2\nSession: Practice Nr. 1
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z
@@ -1092,8 +1092,8 @@ DTSTART;TZID="UTC+11:00":20231020T140500
 DTEND;TZID="UTC+11:00":20231020T144500
 SUMMARY:[Moto2] P2
 UID:bce35a6a-a8fb-489c-8c2a-f4d9434bb0f0@bce3.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto2\nSession: Practice Nr. 2
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto2\nSession: Practice Nr. 2
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z
@@ -1103,8 +1103,8 @@ DTSTART;TZID="UTC+11:00":20231021T092500
 DTEND;TZID="UTC+11:00":20231021T095500
 SUMMARY:[Moto2] P3
 UID:bfb5c788-3f5e-412c-8982-f84f29c1c6cb@bfb5.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto2\nSession: Practice Nr. 3
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto2\nSession: Practice Nr. 3
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z
@@ -1114,8 +1114,8 @@ DTSTART;TZID="UTC+11:00":20231021T134500
 DTEND;TZID="UTC+11:00":20231021T140000
 SUMMARY:[Moto2] Q1
 UID:5114f87b-bf4d-490a-95ab-ec8c871557ca@5114.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto2\nSession: Qualifying Nr. 1
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto2\nSession: Qualifying Nr. 1
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z
@@ -1125,8 +1125,8 @@ DTSTART;TZID="UTC+11:00":20231021T141000
 DTEND;TZID="UTC+11:00":20231021T142500
 SUMMARY:[Moto2] Q2
 UID:9c2a8519-2114-4150-ae32-a750ec336b56@9c2a.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto2\nSession: Qualifying Nr. 2
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto2\nSession: Qualifying Nr. 2
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z
@@ -1135,8 +1135,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231022T121500
 SUMMARY:[Moto2] RAC
 UID:92fcc408-2bd3-40bc-88fb-59b4aab97b8b@92fc.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto2\nSession: Race
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto2\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z

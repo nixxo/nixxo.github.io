@@ -260,8 +260,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231022T110000
 SUMMARY:[Moto3] RAC
 UID:1c53bda5-8505-4353-aa77-7e9e11caaf58@1c53.org
-DESCRIPTION:Event: Animoca Brands Australian Motorcycle Grand Prix\nClass: 
- Moto3\nSession: Race
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto3\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T094524Z
