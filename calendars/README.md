@@ -29,10 +29,10 @@ All sessions
 - <a href="wsbk/2023/WorldSBK_2023_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2023/WorldSSP_2023_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2023/WorldSSP300_2023_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2023/R3 bLU cRU Cup_2023_calendar.ics">R3 bLU cRU Cup</a>
+- <a href="wsbk/2023/R3 bLU cRU Champ_2023_calendar.ics">R3 bLU cRU Champ</a>
 
 Superpole + Races Only
 - <a href="wsbk/2023/WorldSBK_filtered_2023_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2023/WorldSSP_filtered_2023_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2023/WorldSSP300_filtered_2023_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2023/R3 bLU cRU Cup_filtered_2023_calendar.ics">R3 bLU cRU Cup</a>
+- <a href="wsbk/2023/R3 bLU cRU Champ_filtered_2023_calendar.ics">R3 bLU cRU Champ</a>
