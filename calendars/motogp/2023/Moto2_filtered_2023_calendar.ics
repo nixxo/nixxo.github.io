@@ -8,7 +8,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -116,7 +115,7 @@ DTSTART:20230325T134500Z
 DTEND:20230325T140000Z
 SUMMARY:[Moto2] Q1
 UID:f42c7dbf-81bc-4cde-abda-2f734cf693f7@f42c.org
-DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
   Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -127,7 +126,7 @@ DTSTART:20230325T141000Z
 DTEND:20230325T142500Z
 SUMMARY:[Moto2] Q2
 UID:bc09cfd7-a4e8-4fa7-ae42-d38c6dcb53d5@bc09.org
-DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
   Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -137,7 +136,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230326T121500
 SUMMARY:[Moto2] RAC
 UID:2814ce69-c7a8-46dd-9a2b-a8479004c0e0@2814.org
-DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
   Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -244,7 +243,7 @@ DTSTART;TZID="UTC+02:00":20230513T134500
 DTEND;TZID="UTC+02:00":20230513T140000
 SUMMARY:[Moto2] Q1
 UID:91113c9e-379d-4bbd-a39c-61a1df325117@9111.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: Moto2\nSession: 
  Qualifying Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -255,7 +254,7 @@ DTSTART;TZID="UTC+02:00":20230513T141000
 DTEND;TZID="UTC+02:00":20230513T142500
 SUMMARY:[Moto2] Q2
 UID:acd21e17-38b7-4296-93b9-750cf6f2fb95@acd2.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: Moto2\nSession: 
  Qualifying Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -265,7 +264,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230514T121500
 SUMMARY:[Moto2] RAC
 UID:d51f06b2-fd3b-44c3-81b9-2422b55f4bfc@d51f.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: Moto2\nSession: Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20230513T091855Z
@@ -275,7 +274,7 @@ DTSTART;TZID="UTC+02:00":20230610T134500
 DTEND;TZID="UTC+02:00":20230610T140000
 SUMMARY:[Moto2] Q1
 UID:275ef08e-aa2a-474b-9093-623622ebcc94@275e.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: Moto2\nSession: 
  Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -286,7 +285,7 @@ DTSTART;TZID="UTC+02:00":20230610T141000
 DTEND;TZID="UTC+02:00":20230610T142500
 SUMMARY:[Moto2] Q2
 UID:825c07df-deb9-4d68-8a6c-64d2ab03abd4@825c.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: Moto2\nSession: 
  Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -296,7 +295,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230611T121500
 SUMMARY:[Moto2] RAC
 UID:dbf52002-078d-4305-8578-c92f59a24dd5@dbf5.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: Moto2\nSession: Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20230513T091855Z

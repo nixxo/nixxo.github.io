@@ -8,7 +8,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -28,7 +27,7 @@ DTSTART;TZID="UTC+02:00":20230512T083000
 DTEND;TZID="UTC+02:00":20230512T084500
 SUMMARY:[MotoE] P1
 UID:2316c138-0f5f-41d4-876d-c3801d527a1c@2316.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoE\nSession: 
  Practice Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -39,7 +38,7 @@ DTSTART;TZID="UTC+02:00":20230512T123500
 DTEND;TZID="UTC+02:00":20230512T125000
 SUMMARY:[MotoE] P2
 UID:f73b60a3-5acd-4a83-be3f-ef5922c5d8d1@f73b.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoE\nSession: 
  Practice Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -50,7 +49,7 @@ DTSTART;TZID="UTC+02:00":20230512T170000
 DTEND;TZID="UTC+02:00":20230512T171000
 SUMMARY:[MotoE] Q1
 UID:2eb814f0-9ad3-4adc-9984-58d2ec6a019f@2eb8.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoE\nSession: 
  Qualifying Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -61,7 +60,7 @@ DTSTART;TZID="UTC+02:00":20230512T172000
 DTEND;TZID="UTC+02:00":20230512T173000
 SUMMARY:[MotoE] Q2
 UID:fb4e9f69-476b-4a2a-b5da-cbcc879f5e6c@fb4e.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoE\nSession: 
  Qualifying Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -72,7 +71,7 @@ DTSTART;TZID="UTC+02:00":20230513T121000
 DTEND;TZID="UTC+02:00":20230513T123500
 SUMMARY:[MotoE] RAC1
 UID:0e8d92fb-ff07-4c0a-9173-5c98e6e7b2c2@0e8d.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: Race 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoE\nSession: Race 
  Nr.1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -82,7 +81,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T161000
 SUMMARY:[MotoE] RAC2
 UID:0c876071-91dc-4d8d-ae26-0e04263e7f80@0c87.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoE\nSession: Race 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoE\nSession: Race 
  Nr.2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -93,7 +92,7 @@ DTSTART;TZID="UTC+02:00":20230609T082500
 DTEND;TZID="UTC+02:00":20230609T084500
 SUMMARY:[MotoE] P1
 UID:7aee2112-5f57-45f4-b5fc-798d12d01108@7aee.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoE\nSession: 
  Practice Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -104,7 +103,7 @@ DTSTART;TZID="UTC+02:00":20230609T122500
 DTEND;TZID="UTC+02:00":20230609T124500
 SUMMARY:[MotoE] P2
 UID:ce0e31f2-2dbb-4827-9134-8f67e78b19a0@ce0e.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoE\nSession: 
  Practice Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -115,7 +114,7 @@ DTSTART;TZID="UTC+02:00":20230609T170000
 DTEND;TZID="UTC+02:00":20230609T171000
 SUMMARY:[MotoE] Q1
 UID:bcb0725e-85b3-48bf-bc33-66bf8a996df6@bcb0.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoE\nSession: 
  Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -126,17 +125,17 @@ DTSTART;TZID="UTC+02:00":20230609T172000
 DTEND;TZID="UTC+02:00":20230609T173000
 SUMMARY:[MotoE] Q2
 UID:97f849a9-03a2-4f8b-9efc-8468ad9813fc@97f8.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoE\nSession: 
  Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230610T121000
+DTSTART;TZID="UTC+02:00":20230610T121500
 SUMMARY:[MotoE] RAC1
 UID:6cf3fde6-3864-447a-a1a4-c48acadc0ac6@6cf3.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: Race
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoE\nSession: Race
   Nr.1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -146,7 +145,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T161000
 SUMMARY:[MotoE] RAC2
 UID:64da5fd9-83cb-4c44-a1e4-5730bd7bf640@64da.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoE\nSession: Race
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoE\nSession: Race
   Nr.2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -197,7 +196,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Germany
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230617T121000
+DTSTART;TZID="UTC+02:00":20230617T121500
 SUMMARY:[MotoE] RAC1
 UID:ea771a1f-4e35-4bf5-8508-4ab986bf1f0d@ea77.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
@@ -257,7 +256,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230624T121000
+DTSTART;TZID="UTC+02:00":20230624T121500
 SUMMARY:[MotoE] RAC1
 UID:2e1dbb9e-8688-482f-9ab1-d2ad4eed2d76@2e1d.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.1
@@ -319,7 +318,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20230805T121000
+DTSTART;TZID="UTC+01:00":20230805T121500
 SUMMARY:[MotoE] RAC1
 UID:0c515813-5b4b-4daa-860d-720661a22cf0@0c51.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
@@ -383,7 +382,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Austria
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230819T121000
+DTSTART;TZID="UTC+02:00":20230819T121500
 SUMMARY:[MotoE] RAC1
 UID:776ace51-b2fa-415d-884d-3178ddc5455d@776a.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
@@ -447,7 +446,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230902T121000
+DTSTART;TZID="UTC+02:00":20230902T121500
 SUMMARY:[MotoE] RAC1
 UID:3b2958e8-0833-4039-845f-e3209ed9d24e@3b29.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
@@ -511,7 +510,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/San Marino
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230909T121000
+DTSTART;TZID="UTC+02:00":20230909T121500
 SUMMARY:[MotoE] RAC1
 UID:96a16b68-78be-4db0-8e3b-1d57d754a22a@96a1.org
 DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 

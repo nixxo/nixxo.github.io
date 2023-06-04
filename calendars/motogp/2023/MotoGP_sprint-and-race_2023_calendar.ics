@@ -8,7 +8,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -115,7 +114,7 @@ BEGIN:VEVENT
 DTSTART:20230325T150000Z
 SUMMARY:[MotoGP] SPR
 UID:127494f7-664b-42ae-bb25-1179c477f769@1274.org
-DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: 
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
  MotoGP\nSession: Tissot Sprint
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -125,7 +124,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230326T140000
 SUMMARY:[MotoGP] RAC
 UID:db6feb4f-520c-4b6e-b22c-dd77fc85553b@db6f.org
-DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: 
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
  MotoGP\nSession: Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -195,7 +194,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230513T150000
 SUMMARY:[MotoGP] SPR
 UID:8abc9917-12a8-4551-9870-5a782924e970@8abc.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoGP\nSession: 
  Tissot Sprint
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
@@ -205,7 +204,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230514T140000
 SUMMARY:[MotoGP] RAC
 UID:3727afe9-1b39-4515-91a2-989778ac8848@3727.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: MotoGP\nSession: Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20230513T185121Z
@@ -214,7 +213,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230610T150000
 SUMMARY:[MotoGP] SPR
 UID:6515d2d7-cc8d-4d32-a5dc-09ef6f4270f0@6515.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoGP\nSession: 
  Tissot Sprint
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
@@ -224,7 +223,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230611T140000
 SUMMARY:[MotoGP] RAC
 UID:01a16fad-9adb-4e44-b175-420cdf9a6231@01a1.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: MotoGP\nSession: 
  Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy

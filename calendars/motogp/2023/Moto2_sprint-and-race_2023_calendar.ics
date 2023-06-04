@@ -8,7 +8,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -115,7 +114,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230326T121500
 SUMMARY:[Moto2] RAC
 UID:e854c858-d6ba-4d3c-91ec-e5e2513b0230@e854.org
-DESCRIPTION:Event: Grande Prémio TISSOT de Portugal\nClass: Moto2\nSession:
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
   Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
@@ -155,7 +154,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230514T121500
 SUMMARY:[Moto2] RAC
 UID:b53005ea-4613-4bdb-9090-acacd34207a2@b530.org
-DESCRIPTION:Event: SHARK Grand Prix de France\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Shark Grand Prix de France\nClass: Moto2\nSession: Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20230513T091855Z
@@ -164,7 +163,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230611T121500
 SUMMARY:[Moto2] RAC
 UID:3a87cfa8-4fce-4387-b9f4-51bc89fc0d4c@3a87.org
-DESCRIPTION:Event: Gran Premio d’Italia Oakley\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio d'Italia Oakley\nClass: Moto2\nSession: Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20230513T091855Z
