@@ -26,7 +26,8 @@ DTSTART;TZID="UTC+02:00":20230421T122500
 DTEND;TZID="UTC+02:00":20230421T130800
 SUMMARY:[R3 bLU cRU Champ] FP1
 UID:f2555d94-990f-4338-82db-054059db4751@f255.org
-DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 bLU cRU Cup\nSession: FP1
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 bLU cRU Champ\nSession: 
+ FP1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2023
 DTSTAMP:20230520T064750Z
@@ -110,6 +111,7 @@ DTSTAMP:20230520T064752Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230602T090000
+DTEND;TZID="UTC+02:00":20230602T093200
 SUMMARY:[R3 bLU cRU Champ] FP1
 UID:354853d6-177b-494a-9013-46cd675cd3f1@3548.org
 DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
@@ -121,6 +123,7 @@ DTSTAMP:20230520T064753Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230602T133000
+DTEND;TZID="UTC+02:00":20230602T140300
 SUMMARY:[R3 bLU cRU Champ] Superpole
 UID:44521fd9-4db2-4e93-bc83-ea55dd12f4bf@4452.org
 DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
@@ -132,6 +135,7 @@ DTSTAMP:20230520T064753Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230603T114500
+DTEND;TZID="UTC+02:00":20230603T121500
 SUMMARY:[R3 bLU cRU Champ] Race 1
 UID:932a9012-8da2-44b4-a45a-c26480538632@932a.org
 DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
@@ -143,6 +147,7 @@ DTSTAMP:20230520T064753Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230603T161500
+DTEND;TZID="UTC+02:00":20230603T164100
 SUMMARY:[R3 bLU cRU Champ] Race 2
 UID:276fa4a6-b0ea-4d08-8620-b486eab7a7a3@276f.org
 DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
@@ -157,7 +162,7 @@ DTSTART;TZID="UTC+01:00":20230630T090000
 SUMMARY:[R3 bLU cRU Champ] FP1
 UID:a3e13a8b-4edc-4305-944c-ac1712b1d473@a3e1.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Champ\nSession:
- FP1
+  FP1
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
 DTSTAMP:20230520T064754Z
@@ -167,7 +172,7 @@ DTSTART;TZID="UTC+01:00":20230630T133000
 SUMMARY:[R3 bLU cRU Champ] Superpole
 UID:fce8f000-c5bd-45ff-86bd-4f27982c1963@fce8.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Champ\nSession:
- Superpole
+  Superpole
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
 DTSTAMP:20230520T064754Z
@@ -177,7 +182,7 @@ DTSTART;TZID="UTC+01:00":20230701T114500
 SUMMARY:[R3 bLU cRU Champ] Race 1
 UID:e3aab72d-7a77-4ce0-b711-d69bd536df2c@e3aa.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Champ\nSession:
- Race 1
+  Race 1
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
 DTSTAMP:20230520T064754Z
@@ -187,7 +192,7 @@ DTSTART;TZID="UTC+01:00":20230701T161500
 SUMMARY:[R3 bLU cRU Champ] Race 2
 UID:bbfdeb01-6983-4f97-8f4b-383e161418d2@bbfd.org
 DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Champ\nSession:
- Race 2
+  Race 2
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2023
 DTSTAMP:20230520T064754Z
