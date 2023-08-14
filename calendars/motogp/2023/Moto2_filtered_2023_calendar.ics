@@ -8,6 +8,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -29,7 +30,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:-0500
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC-05:00
 END:STANDARD
 END:VTIMEZONE
@@ -182,7 +182,7 @@ UID:61705a92-102d-4cf5-a141-6c86b24b9557@6170.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto2\nSession: Qualifying Nr. 1
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -193,7 +193,7 @@ UID:c91f5cb7-fcc2-4dde-b5b8-c8a13f1304f5@c91f.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto2\nSession: Qualifying Nr. 2
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -203,7 +203,7 @@ UID:8c046e1b-3ade-42ed-94bc-a069bb9ffc62@8c04.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto2\nSession: Race
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -324,6 +324,7 @@ DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230618T121500
+DTEND;TZID="UTC+02:00":20230618T125500
 SUMMARY:[Moto2] RAC
 UID:b0d8afeb-5e14-4bcd-adaa-be9067f4f21c@b0d8.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
@@ -385,6 +386,7 @@ DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230806T143000
+DTEND;TZID="UTC+01:00":20230806T151000
 SUMMARY:[Moto2] RAC
 UID:f186c1e1-1546-4317-9879-573f66441a8d@f186.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
@@ -417,6 +419,7 @@ DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230820T121500
+DTEND;TZID="UTC+02:00":20230820T125500
 SUMMARY:[Moto2] RAC
 UID:ac133f81-edef-4144-975e-989bb2bf352a@ac13.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
@@ -512,7 +515,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/India
 DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20230924T121500
+DTSTART;TZID="UTC+05:30":20230924T134500
 SUMMARY:[Moto2] RAC
 UID:ad37e49a-c4f2-48d9-b7bf-c7402654285d@ad37.org
 DESCRIPTION:Event: Grand Prix of India\nClass: Moto2\nSession: Race

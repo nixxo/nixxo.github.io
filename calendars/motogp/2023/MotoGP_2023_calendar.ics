@@ -8,6 +8,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -29,7 +30,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:-0500
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC-05:00
 END:STANDARD
 END:VTIMEZONE
@@ -290,7 +290,7 @@ UID:b7b78fe2-0c2b-47bc-8e61-6038eccdfe30@b7b7.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Practice Nr. 1
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -301,7 +301,7 @@ UID:159176c2-66c3-4cce-983d-5891b2a54cfc@1591.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Practice Nr. 2
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -312,7 +312,7 @@ UID:1cef6050-04e4-4472-8e5e-62d5877aa9dd@1cef.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Free Practice
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -323,7 +323,7 @@ UID:fed3ad80-702b-4c61-b1d9-44b6ee99bdee@fed3.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -334,7 +334,7 @@ UID:d4ae7e6f-b0ff-4ca4-92b6-8ce94e0a43e7@d4ae.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -344,7 +344,7 @@ UID:5697c3ef-239e-43c8-a5b6-9815427f62ca@5697.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Tissot Sprint
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -355,7 +355,7 @@ UID:ed9244f2-5e42-4484-bf24-a92de60492b6@ed92.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Warm Up
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -365,7 +365,7 @@ UID:0391b62b-e577-474e-8362-2a0179199c53@0391.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  MotoGP\nSession: Race
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
@@ -637,8 +637,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Germany
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20230616T150000
-DTEND;TZID="UTC+02:00":20230616T160000
+DTSTART;TZID="UTC+02:00":20230616T151000
+DTEND;TZID="UTC+02:00":20230616T161000
 SUMMARY:[MotoGP] P2
 UID:c424288e-939b-432c-a432-b9bad76006f8@c424.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
@@ -682,6 +682,7 @@ DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230617T150000
+DTEND;TZID="UTC+02:00":20230617T154000
 SUMMARY:[MotoGP] SPR
 UID:35f8598f-abbe-45b4-8d5b-a0adbf977478@35f8.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
@@ -703,6 +704,7 @@ DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230618T140000
+DTEND;TZID="UTC+02:00":20230618T145000
 SUMMARY:[MotoGP] RAC
 UID:771c6979-4e61-4fde-a567-60901dddaf0e@771c.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
@@ -792,35 +794,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230804T104500
 DTEND;TZID="UTC+01:00":20230804T113000
-SUMMARY:[MotoGP] P1
-UID:ff76e478-347d-4de3-8eaf-9b3ff0af1d7c@ff76.org
+SUMMARY:[MotoGP] FP1
+UID:e3ca2829-142c-416b-bbf7-e0c7682acd9d@e3ca.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
- MotoGP\nSession: Practice Nr. 1
+ MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230513T185121Z
+DTSTAMP:20230814T205926Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230804T150000
 DTEND;TZID="UTC+01:00":20230804T160000
-SUMMARY:[MotoGP] P2
-UID:3884e09b-1dbd-4942-b340-55950cabd5b4@3884.org
+SUMMARY:[MotoGP] PR
+UID:11d83488-59c7-4c60-8eb5-2b9235545e80@11d8.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
- MotoGP\nSession: Practice Nr. 2
+ MotoGP\nSession: Practice
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230513T185121Z
+DTSTAMP:20230814T205926Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T101000
 DTEND;TZID="UTC+01:00":20230805T104000
-SUMMARY:[MotoGP] FP
-UID:b564f121-cb0d-4a7e-be9e-9afae59ecc25@b564.org
+SUMMARY:[MotoGP] FP2
+UID:07093922-a782-410d-af64-227a35ac62a5@0709.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
- MotoGP\nSession: Free Practice
+ MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
-DTSTAMP:20230513T185121Z
+DTSTAMP:20230814T205926Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T105000
@@ -846,6 +848,7 @@ DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230805T150000
+DTEND;TZID="UTC+01:00":20230805T152500
 SUMMARY:[MotoGP] SPR
 UID:6ffb8f5a-807b-4cd9-9491-f96eac21d676@6ffb.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
@@ -867,6 +870,7 @@ DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20230806T130000
+DTEND;TZID="UTC+01:00":20230806T135000
 SUMMARY:[MotoGP] RAC
 UID:4bafb2f1-807a-46b3-b01b-3bf4f2cb9ac1@4baf.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
@@ -878,35 +882,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230818T104500
 DTEND;TZID="UTC+02:00":20230818T113000
-SUMMARY:[MotoGP] P1
-UID:9e1ca45b-78fe-4e36-916b-ade514fda1f5@9e1c.org
+SUMMARY:[MotoGP] FP1
+UID:07688f9a-bb00-4058-af45-34080ffd087f@0768.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
- MotoGP\nSession: Practice Nr. 1
+ MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230513T185121Z
+DTSTAMP:20230814T205927Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230818T150000
 DTEND;TZID="UTC+02:00":20230818T160000
-SUMMARY:[MotoGP] P2
-UID:73c5d9fb-f4ef-4722-b2b9-1304332e9407@73c5.org
+SUMMARY:[MotoGP] PR
+UID:0c33b4f2-d0da-471d-aeb5-badf3f846076@0c33.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
- MotoGP\nSession: Practice Nr. 2
+ MotoGP\nSession: Practice
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230513T185121Z
+DTSTAMP:20230814T205927Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T101000
 DTEND;TZID="UTC+02:00":20230819T104000
-SUMMARY:[MotoGP] FP
-UID:65b65a9b-db66-4408-81a8-3be13381acbc@65b6.org
+SUMMARY:[MotoGP] FP2
+UID:452b682f-0a03-475c-b680-8f63efaf2273@452b.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
- MotoGP\nSession: Free Practice
+ MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
-DTSTAMP:20230513T185121Z
+DTSTAMP:20230814T205927Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T105000
@@ -932,6 +936,7 @@ DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230819T150000
+DTEND;TZID="UTC+02:00":20230819T152500
 SUMMARY:[MotoGP] SPR
 UID:9ca1fb8a-febd-4a0a-bf46-500f23527956@9ca1.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
@@ -953,6 +958,7 @@ DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230820T140000
+DTEND;TZID="UTC+02:00":20230820T145000
 SUMMARY:[MotoGP] RAC
 UID:5e6f3297-35a5-42ca-b11d-7cb2c4e98024@5e6f.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
@@ -1199,8 +1205,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/India
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20230924T094500
-DTEND;TZID="UTC+05:30":20230924T095500
+DTSTART;TZID="UTC+05:30":20230924T111500
+DTEND;TZID="UTC+05:30":20230924T112500
 SUMMARY:[MotoGP] WUP
 UID:448c95b8-fed9-4f69-8868-c22e6a3821cb@448c.org
 DESCRIPTION:Event: Grand Prix of India\nClass: MotoGP\nSession: Warm Up
@@ -1209,7 +1215,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/India
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20230924T140000
+DTSTART;TZID="UTC+05:30":20230924T153000
 SUMMARY:[MotoGP] RAC
 UID:b86ee61c-0d03-44d7-9067-a1d6210938c9@b86e.org
 DESCRIPTION:Event: Grand Prix of India\nClass: MotoGP\nSession: Race

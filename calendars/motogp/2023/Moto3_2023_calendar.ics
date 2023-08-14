@@ -8,6 +8,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -29,7 +30,6 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:-0500
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
-RDATE:19700101T000000
 TZNAME:UTC-05:00
 END:STANDARD
 END:VTIMEZONE
@@ -248,7 +248,7 @@ UID:09d13642-d327-4ba1-a9fe-374c54ebd269@09d1.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto3\nSession: Practice Nr. 1
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -259,7 +259,7 @@ UID:953b9351-d8d9-41f6-9162-1007c34de93a@953b.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto3\nSession: Practice Nr. 2
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -270,7 +270,7 @@ UID:084aa5b7-e98f-4ffd-ab53-ca20e221c091@084a.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto3\nSession: Practice Nr. 3
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +281,7 @@ UID:2b036128-bbe6-40d6-a456-ffbf403e379e@2b03.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto3\nSession: Qualifying Nr. 1
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -292,7 +292,7 @@ UID:10a893bb-c22c-4512-ae5e-469e6aecbd93@10a8.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto3\nSession: Qualifying Nr. 2
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -302,7 +302,7 @@ UID:39123c38-af04-4d80-b8fa-b1f58b7817d6@3912.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
  Moto3\nSession: Race
 LOCATION:Circuit of The Americas - Austin
-URL:https://www.motogp.com/en/calendar/2023/event/United States
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -555,6 +555,7 @@ DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230618T110000
+DTEND;TZID="UTC+02:00":20230618T115500
 SUMMARY:[Moto3] RAC
 UID:fca3ca23-b4ab-42f9-ac9d-7b2d2de9b631@fca3.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
@@ -678,7 +679,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
 DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20230806T110000
+DTSTART;TZID="UTC+01:00":20230806T111500
+DTEND;TZID="UTC+01:00":20230806T115000
 SUMMARY:[Moto3] RAC
 UID:c8ecb4a7-5fdc-4c7d-8a80-ff231cd59e5b@c8ec.org
 DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
@@ -744,6 +746,7 @@ DTSTAMP:20230513T091855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20230820T110000
+DTEND;TZID="UTC+02:00":20230820T113500
 SUMMARY:[Moto3] RAC
 UID:9ca52e60-008e-4306-95f1-e45fb1d4803e@9ca5.org
 DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
@@ -938,7 +941,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/India
 DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20230924T110000
+DTSTART;TZID="UTC+05:30":20230924T123000
 SUMMARY:[Moto3] RAC
 UID:87b953a8-2fc7-4bd4-ae1d-6f7bdc745a8f@87b9.org
 DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Race
