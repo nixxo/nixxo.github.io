@@ -1241,35 +1241,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230929T104500
 DTEND;TZID="UTC+09:00":20230929T113000
-SUMMARY:[MotoGP] P1
-UID:a8f141aa-3bd9-4bbc-82a8-8aba3fd92363@a8f1.org
-DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: 
+SUMMARY:[MotoGP] FP1
+UID:75acccfe-55d1-40a1-8527-528926ca7bb0@75ac.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Free 
  Practice Nr. 1
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230929T150000
-DTEND;TZID="UTC+09:00":20230929T160000
-SUMMARY:[MotoGP] P2
-UID:028d2b46-69f6-4b53-8640-27d1ccf41791@028d.org
+DTEND;TZID="UTC+09:00":20230929T161000
+SUMMARY:[MotoGP] PR
+UID:8aa626d3-32bd-4821-9f35-a00be7a6052a@8aa6.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: 
- Practice Nr. 2
+ Practice
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230930T101000
 DTEND;TZID="UTC+09:00":20230930T104000
-SUMMARY:[MotoGP] FP
-UID:6e03da58-9a0b-43ba-b84c-6cee88a7a4e2@6e03.org
+SUMMARY:[MotoGP] FP2
+UID:7f3ec60c-aecc-41c2-af9d-a5acd091abce@7f3e.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Free 
- Practice
+ Practice Nr. 2
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2023/event/Japan
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20230930T105000
@@ -1317,7 +1317,7 @@ DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20231001T150000
-DTEND;TZID="UTC+09:00":20231001T155000
+DTEND;TZID="UTC+09:00":20231001T162000
 SUMMARY:[MotoGP] RAC
 UID:123f6d4b-f100-41ed-81a9-09bd0be0bc06@123f.org
 DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: MotoGP\nSession: Race
@@ -1328,35 +1328,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231013T104500
 DTEND;TZID="UTC+08:00":20231013T113000
-SUMMARY:[MotoGP] P1
-UID:eca5a38c-b528-47a1-a13e-bcbde0dca73d@eca5.org
+SUMMARY:[MotoGP] FP1
+UID:f6f0b3b3-7986-4f15-8105-5008c7733d52@f6f0.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- MotoGP\nSession: Practice Nr. 1
-LOCATION:Mandalika International Street Circuit - 
+ MotoGP\nSession: Free Practice Nr. 1
+LOCATION:Pertamina Mandalika International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231013T150000
 DTEND;TZID="UTC+08:00":20231013T160000
-SUMMARY:[MotoGP] P2
-UID:dd3d1378-9ce9-4e22-8498-001006ab7b4c@dd3d.org
+SUMMARY:[MotoGP] PR
+UID:5dc2b8cc-8ada-4c4d-be12-7fe8d11e3fc3@5dc2.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- MotoGP\nSession: Practice Nr. 2
-LOCATION:Mandalika International Street Circuit - 
+ MotoGP\nSession: Practice
+LOCATION:Pertamina Mandalika International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231014T101000
 DTEND;TZID="UTC+08:00":20231014T104000
-SUMMARY:[MotoGP] FP
-UID:d8d05e84-18e1-435d-9b63-11b6211df80f@d8d0.org
+SUMMARY:[MotoGP] FP2
+UID:218855ad-85be-4392-a4a8-2b2f7332e8dc@2188.org
 DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
- MotoGP\nSession: Free Practice
-LOCATION:Mandalika International Street Circuit - 
+ MotoGP\nSession: Free Practice Nr. 2
+LOCATION:Pertamina Mandalika International Circuit - 
 URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231014T105000
@@ -1416,35 +1416,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231020T104500
 DTEND;TZID="UTC+11:00":20231020T113000
-SUMMARY:[MotoGP] P1
-UID:942d7a4c-3018-4f4a-9869-9f0d3ec5faa4@942d.org
+SUMMARY:[MotoGP] FP1
+UID:4d936705-9fee-4578-9717-07882c9818c1@4d93.org
 DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
- Prix\nClass: MotoGP\nSession: Practice Nr. 1
+ Prix\nClass: MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231020T150000
 DTEND;TZID="UTC+11:00":20231020T160000
-SUMMARY:[MotoGP] P2
-UID:1ed678c8-3f5a-4f17-8076-22b8af2808ec@1ed6.org
+SUMMARY:[MotoGP] PR
+UID:8c0812fc-3b58-46d8-9e4d-b548376fdccd@8c08.org
 DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
- Prix\nClass: MotoGP\nSession: Practice Nr. 2
+ Prix\nClass: MotoGP\nSession: Practice
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231021T101000
 DTEND;TZID="UTC+11:00":20231021T104000
-SUMMARY:[MotoGP] FP
-UID:c85f1544-4462-4bea-b12b-c5ddfb9d477f@c85f.org
+SUMMARY:[MotoGP] FP2
+UID:260a83db-d597-4b24-988e-0ee7bd3fa799@260a.org
 DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
- Prix\nClass: MotoGP\nSession: Free Practice
+ Prix\nClass: MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20231021T105000
@@ -1504,35 +1504,34 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231027T104500
 DTEND;TZID="UTC+07:00":20231027T113000
-SUMMARY:[MotoGP] P1
-UID:0bd84eae-e32c-425e-9479-da2b81394e9c@0bd8.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: MotoGP\nSession: Practice
-  Nr. 1
-LOCATION:Chang International Circuit - 
+SUMMARY:[MotoGP] FP1
+UID:0d8ce5b7-df9e-4ef5-8f33-4283c2e3510c@0d8c.org
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: MotoGP\nSession: Free 
+ Practice Nr. 1
+LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231027T150000
 DTEND;TZID="UTC+07:00":20231027T160000
-SUMMARY:[MotoGP] P2
-UID:f808b094-4955-46e6-86c2-0a26cb902118@f808.org
+SUMMARY:[MotoGP] PR
+UID:98b09f6a-ce26-4504-a38f-878e10a04335@98b0.org
 DESCRIPTION:Event: OR Thailand Grand Prix\nClass: MotoGP\nSession: Practice
-  Nr. 2
-LOCATION:Chang International Circuit - 
+LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231028T101000
 DTEND;TZID="UTC+07:00":20231028T104000
-SUMMARY:[MotoGP] FP
-UID:38d7746a-d74c-4d68-91c6-0ebe95433bfd@38d7.org
+SUMMARY:[MotoGP] FP2
+UID:65cc04d5-8218-4dd5-8f72-32c82234cb71@65cc.org
 DESCRIPTION:Event: OR Thailand Grand Prix\nClass: MotoGP\nSession: Free 
- Practice
-LOCATION:Chang International Circuit - 
+ Practice Nr. 2
+LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191047Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20231028T105000
@@ -1590,35 +1589,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231110T104500
 DTEND;TZID="UTC+08:00":20231110T113000
-SUMMARY:[MotoGP] P1
-UID:1ea9606f-5241-4883-a9db-f19ac0a9f927@1ea9.org
+SUMMARY:[MotoGP] FP1
+UID:ff12a79e-c6ce-46a6-8edd-d5ade2ed5afe@ff12.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
-  Practice Nr. 1
+  Free Practice Nr. 1
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231110T150000
 DTEND;TZID="UTC+08:00":20231110T160000
-SUMMARY:[MotoGP] P2
-UID:9f2dc723-c2bf-4acd-a342-b529cd3e7609@9f2d.org
+SUMMARY:[MotoGP] PR
+UID:c3d9f154-53c9-4204-9360-aeaa2c213173@c3d9.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
-  Practice Nr. 2
+  Practice
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231111T101000
 DTEND;TZID="UTC+08:00":20231111T104000
-SUMMARY:[MotoGP] FP
-UID:1c4e2abd-39fc-4b7a-b6a0-61488b5a1559@1c4e.org
+SUMMARY:[MotoGP] FP2
+UID:2536239a-2c84-459a-a1cf-f7374b5d0903@2536.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
-  Free Practice
+  Free Practice Nr. 2
 LOCATION:Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20231111T105000
@@ -1678,35 +1677,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231117T154500
 DTEND;TZID="UTC+03:00":20231117T163000
-SUMMARY:[MotoGP] P1
-UID:48c7b63b-8c50-4cc2-a2a2-c600eeb65bcd@48c7.org
+SUMMARY:[MotoGP] FP1
+UID:f7167cf3-cb89-4920-b822-705a865c50d2@f716.org
 DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
- MotoGP\nSession: Practice Nr. 1
+ MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231117T200000
 DTEND;TZID="UTC+03:00":20231117T210000
-SUMMARY:[MotoGP] P2
-UID:65622d3e-9ede-4f4f-8bb4-80dff3c1be45@6562.org
+SUMMARY:[MotoGP] PR
+UID:988e8f6f-15d6-4230-9fee-a297ef4678ff@988e.org
 DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
- MotoGP\nSession: Practice Nr. 2
+ MotoGP\nSession: Practice
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231118T150000
 DTEND;TZID="UTC+03:00":20231118T153000
-SUMMARY:[MotoGP] FP
-UID:37477fab-54b1-457c-a780-1958f546a537@3747.org
+SUMMARY:[MotoGP] FP2
+UID:7ba43630-ac51-40ba-84df-c7224f0b1191@7ba4.org
 DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
- MotoGP\nSession: Free Practice
+ MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20231118T154000
@@ -1766,35 +1765,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231124T104500
 DTEND;TZID="UTC+01:00":20231124T113000
-SUMMARY:[MotoGP] P1
-UID:b5161def-16b2-4cc6-9d68-45ee1e9a50c3@b516.org
+SUMMARY:[MotoGP] FP1
+UID:af6c46f7-e939-4053-b4dc-312519d69904@af6c.org
 DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- MotoGP\nSession: Practice Nr. 1
+ MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231124T150000
 DTEND;TZID="UTC+01:00":20231124T160000
-SUMMARY:[MotoGP] P2
-UID:e06fea3d-e857-4653-b4e6-923fb55f4778@e06f.org
+SUMMARY:[MotoGP] PR
+UID:ace8f86a-ca4c-4dc0-90c0-fe8db1f7f186@ace8.org
 DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- MotoGP\nSession: Practice Nr. 2
+ MotoGP\nSession: Practice
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231125T101000
 DTEND;TZID="UTC+01:00":20231125T104000
-SUMMARY:[MotoGP] FP
-UID:ef9f3696-34dd-4ada-829d-d966d58cc585@ef9f.org
+SUMMARY:[MotoGP] FP2
+UID:e1338a01-a2bd-4b9a-9ae8-8c35de9e86c8@e133.org
 DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- MotoGP\nSession: Free Practice
+ MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2023/event/Valencia
-DTSTAMP:20230513T185121Z
+DTSTAMP:20231009T191048Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20231125T105000
