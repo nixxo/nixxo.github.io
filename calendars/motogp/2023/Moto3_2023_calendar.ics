@@ -1141,8 +1141,19 @@ URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20230513T091856Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+11:00":20231022T110000
-DTEND;TZID="UTC+11:00":20231022T113500
+DTSTART;TZID="UTC+11:00":20231022T082000
+DTEND;TZID="UTC+11:00":20231022T083000
+SUMMARY:[Moto3] WUP
+UID:3dc2cabc-4bf4-4afa-aa64-ece4b988ebed@3dc2.org
+DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
+ Prix\nClass: Moto3\nSession: Warm Up
+LOCATION:Phillip Island - 
+URL:https://www.motogp.com/en/calendar/2023/event/Australia
+DTSTAMP:20231021T164006Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20231022T100000
+DTEND;TZID="UTC+11:00":20231022T103500
 SUMMARY:[Moto3] RAC
 UID:5ec1e541-8fc8-4a1b-abb2-cd4013eda33c@5ec1.org
 DESCRIPTION:Event: MotoGP™ Guru by Gryfyn Australian Motorcycle Grand 
