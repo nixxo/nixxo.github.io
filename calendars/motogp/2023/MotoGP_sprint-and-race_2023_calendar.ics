@@ -297,7 +297,7 @@ DTSTART;TZID="UTC+02:00":20230819T150000
 DTEND;TZID="UTC+02:00":20230819T152500
 SUMMARY:[MotoGP] SPR
 UID:88921228-f2b1-4258-bbcb-affeeff9fae8@8892.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoGP\nSession: Tissot Sprint
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
@@ -308,7 +308,7 @@ DTSTART;TZID="UTC+02:00":20230820T140000
 DTEND;TZID="UTC+02:00":20230820T145000
 SUMMARY:[MotoGP] RAC
 UID:cbc52a95-7c2c-49e7-b9a3-34276302b039@cbc5.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoGP\nSession: Race
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria

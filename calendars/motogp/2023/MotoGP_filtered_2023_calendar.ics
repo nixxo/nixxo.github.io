@@ -493,7 +493,7 @@ DTSTART;TZID="UTC+02:00":20230819T105000
 DTEND;TZID="UTC+02:00":20230819T110500
 SUMMARY:[MotoGP] Q1
 UID:e41ef734-43fd-4b6d-9f5c-5289e1cd85be@e41e.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
@@ -504,7 +504,7 @@ DTSTART;TZID="UTC+02:00":20230819T111500
 DTEND;TZID="UTC+02:00":20230819T113000
 SUMMARY:[MotoGP] Q2
 UID:681db317-36cb-4b8c-abb4-60fc72f5b416@681d.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
@@ -515,7 +515,7 @@ DTSTART;TZID="UTC+02:00":20230819T150000
 DTEND;TZID="UTC+02:00":20230819T152500
 SUMMARY:[MotoGP] SPR
 UID:9ca1fb8a-febd-4a0a-bf46-500f23527956@9ca1.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoGP\nSession: Tissot Sprint
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
@@ -526,7 +526,7 @@ DTSTART;TZID="UTC+02:00":20230820T140000
 DTEND;TZID="UTC+02:00":20230820T145000
 SUMMARY:[MotoGP] RAC
 UID:5e6f3297-35a5-42ca-b11d-7cb2c4e98024@5e6f.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoGP\nSession: Race
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
@@ -828,8 +828,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Thailand
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20231111T105000
-DTEND;TZID="UTC+08:00":20231111T110500
+DTSTART;TZID="UTC+08:00":20231111T112500
+DTEND;TZID="UTC+08:00":20231111T114000
 SUMMARY:[MotoGP] Q1
 UID:8c23c912-c7a0-4cb2-9783-4df624a865a3@8c23.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:
@@ -839,8 +839,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
 DTSTAMP:20230513T185121Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+08:00":20231111T111500
-DTEND;TZID="UTC+08:00":20231111T113000
+DTSTART;TZID="UTC+08:00":20231111T115000
+DTEND;TZID="UTC+08:00":20231111T120500
 SUMMARY:[MotoGP] Q2
 UID:ad7566b1-21d7-4ba5-bf56-56a15c2fe869@ad75.org
 DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: MotoGP\nSession:

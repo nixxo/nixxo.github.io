@@ -134,7 +134,7 @@ DTSTART;TZID="UTC+02:00":20230819T121500
 DTEND;TZID="UTC+02:00":20230819T123000
 SUMMARY:[MotoE] RAC1
 UID:187523b9-28be-4053-ad50-150782461bac@1875.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Race Nr.1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
@@ -145,7 +145,7 @@ DTSTART;TZID="UTC+02:00":20230819T161000
 DTEND;TZID="UTC+02:00":20230819T163000
 SUMMARY:[MotoE] RAC2
 UID:ca3a24d3-6f57-443b-a03a-8b2a202f85ef@ca3a.org
-DESCRIPTION:Event: CryptoDATA Motorrad Grand Prix von Österreich\nClass: 
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Race Nr.2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2023/event/Austria
