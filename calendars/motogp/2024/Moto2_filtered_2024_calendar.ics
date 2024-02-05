@@ -1,0 +1,764 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0500
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC-05:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+06:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0600
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+06:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+05:30
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+05:30
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0800
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+08:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+09:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0900
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+09:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+11:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+1100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+11:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+07:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0700
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+07:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20240309T174500
+DTEND;TZID="UTC+03:00":20240309T180000
+SUMMARY:[Moto2] Q1
+UID:7396ded4-3074-4a9c-be10-a80a9a556592@7396.org
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Lusail International Circuit - Doha
+URL:https://www.motogp.com/en/calendar/2023/event/Qatar
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20240309T181000
+DTEND;TZID="UTC+03:00":20240309T182500
+SUMMARY:[Moto2] Q2
+UID:db46de98-08ab-4c79-a647-fc685f0097dd@db46.org
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Lusail International Circuit - Doha
+URL:https://www.motogp.com/en/calendar/2023/event/Qatar
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20240310T181500
+SUMMARY:[Moto2] RAC
+UID:13995d4c-89d6-4e50-94f8-72882340cc69@1399.org
+DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto2\nSession: Race
+LOCATION:Lusail International Circuit - Doha
+URL:https://www.motogp.com/en/calendar/2023/event/Qatar
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T134500Z
+DTEND:20240323T140000Z
+SUMMARY:[Moto2] Q1
+UID:c80c61e6-7a51-4378-8e5d-f6add380464c@c80c.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto2\nSession: 
+ Qualifying Nr. 1
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T141000Z
+DTEND:20240323T142500Z
+SUMMARY:[Moto2] Q2
+UID:d98e6e2f-d60f-477f-8ab0-f9b55b3e8f8a@d98e.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto2\nSession: 
+ Qualifying Nr. 2
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T121500Z
+SUMMARY:[Moto2] RAC
+UID:267d4ebb-048d-485b-b24a-c1eba751921d@267d.org
+DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto2\nSession: Race
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20240413T134500
+DTEND;TZID="UTC-05:00":20240413T140000
+SUMMARY:[Moto2] Q1
+UID:71c3172c-54c0-48b4-92c4-cfe45ed3ac20@71c3.org
+DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Circuit Of The Americas - Austin
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20240413T141000
+DTEND;TZID="UTC-05:00":20240413T142500
+SUMMARY:[Moto2] Q2
+UID:5d5a4031-acc5-4da7-a365-c23fdedd24a4@5d5a.org
+DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Circuit Of The Americas - Austin
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC-05:00":20240414T121500
+SUMMARY:[Moto2] RAC
+UID:f00e0165-65d1-47a3-9f8e-200efcc67764@f00e.org
+DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
+ Moto2\nSession: Race
+LOCATION:Circuit Of The Americas - Austin
+URL:https://www.motogp.com/en/calendar/2023/event/Americas
+DTSTAMP:20240205T210721Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240427T134500
+DTEND;TZID="UTC+02:00":20240427T140000
+SUMMARY:[Moto2] Q1
+UID:ebb4e4f5-bf80-4287-9c27-68fd457e0776@ebb4.org
+DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Qualifying
+  Nr. 1
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
+URL:https://www.motogp.com/en/calendar/2023/event/España
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240427T141000
+DTEND;TZID="UTC+02:00":20240427T142500
+SUMMARY:[Moto2] Q2
+UID:f69ac3a5-1513-4bf2-85d7-551805ac3e7d@f69a.org
+DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Qualifying
+  Nr. 2
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
+URL:https://www.motogp.com/en/calendar/2023/event/España
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240428T121500
+SUMMARY:[Moto2] RAC
+UID:e496fc7e-e837-42a3-b056-64a239d80f2d@e496.org
+DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Race
+LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
+URL:https://www.motogp.com/en/calendar/2023/event/España
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240511T134500
+DTEND;TZID="UTC+02:00":20240511T140000
+SUMMARY:[Moto2] Q1
+UID:76d52d57-b55a-4afb-b8b8-1a8102b7b98b@76d5.org
+DESCRIPTION:Event: Grand Prix de France\nClass: Moto2\nSession: Qualifying 
+ Nr. 1
+LOCATION:Le Mans - Le Mans
+URL:https://www.motogp.com/en/calendar/2023/event/France
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240511T141000
+DTEND;TZID="UTC+02:00":20240511T142500
+SUMMARY:[Moto2] Q2
+UID:86623cd3-1a16-48fb-a8d0-86f0bba4aa0e@8662.org
+DESCRIPTION:Event: Grand Prix de France\nClass: Moto2\nSession: Qualifying 
+ Nr. 2
+LOCATION:Le Mans - Le Mans
+URL:https://www.motogp.com/en/calendar/2023/event/France
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240512T121500
+SUMMARY:[Moto2] RAC
+UID:7f122c80-6dc2-4f85-a91e-3372bdc82b5b@7f12.org
+DESCRIPTION:Event: Grand Prix de France\nClass: Moto2\nSession: Race
+LOCATION:Le Mans - Le Mans
+URL:https://www.motogp.com/en/calendar/2023/event/France
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240525T134500
+DTEND;TZID="UTC+02:00":20240525T140000
+SUMMARY:[Moto2] Q1
+UID:2d691a39-177b-4801-8117-2b11dd4a472e@2d69.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240525T141000
+DTEND;TZID="UTC+02:00":20240525T142500
+SUMMARY:[Moto2] Q2
+UID:94c6021a-e706-475b-a1dc-1dccf9478538@94c6.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240526T121500
+SUMMARY:[Moto2] RAC
+UID:55d5c419-7756-47b3-82e4-34b0ccd09bfe@55d5.org
+DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto2\nSession: Race
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240601T134500
+DTEND;TZID="UTC+02:00":20240601T140000
+SUMMARY:[Moto2] Q1
+UID:53871414-9a23-46ba-93d3-ae748c9cbb16@5387.org
+DESCRIPTION:Event: Gran Premio d'Italia\nClass: Moto2\nSession: Qualifying 
+ Nr. 1
+LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
+URL:https://www.motogp.com/en/calendar/2023/event/Italy
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240601T141000
+DTEND;TZID="UTC+02:00":20240601T142500
+SUMMARY:[Moto2] Q2
+UID:3468e32d-abbd-4aa7-a4f2-022177c3a4ae@3468.org
+DESCRIPTION:Event: Gran Premio d'Italia\nClass: Moto2\nSession: Qualifying 
+ Nr. 2
+LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
+URL:https://www.motogp.com/en/calendar/2023/event/Italy
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240602T121500
+SUMMARY:[Moto2] RAC
+UID:737a1e55-a41f-4723-86c6-3020a2ad7299@737a.org
+DESCRIPTION:Event: Gran Premio d'Italia\nClass: Moto2\nSession: Race
+LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
+URL:https://www.motogp.com/en/calendar/2023/event/Italy
+DTSTAMP:20240205T210722Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+06:00":20240615T134500
+DTEND;TZID="UTC+06:00":20240615T140000
+SUMMARY:[Moto2] Q1
+UID:136a9bda-596d-4f7b-9b28-b8ab96e860d1@136a.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto2\nSession: 
+ Qualifying Nr. 1
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+06:00":20240615T141000
+DTEND;TZID="UTC+06:00":20240615T142500
+SUMMARY:[Moto2] Q2
+UID:a58509cf-0cf8-4ec1-9d59-78c174f9cbf1@a585.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto2\nSession: 
+ Qualifying Nr. 2
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+06:00":20240616T121500
+SUMMARY:[Moto2] RAC
+UID:46459b2e-1270-445e-8ab0-bb633497ac16@4645.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto2\nSession: Race
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240629T134500
+DTEND;TZID="UTC+02:00":20240629T140000
+SUMMARY:[Moto2] Q1
+UID:a9ac1ea6-21e0-4af8-86ce-d397b1f833e8@a9ac.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto2\nSession: Qualifying Nr. 1
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240629T141000
+DTEND;TZID="UTC+02:00":20240629T142500
+SUMMARY:[Moto2] Q2
+UID:e18b68e9-2eb1-4cdc-b5ea-e310cdeaa230@e18b.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto2\nSession: Qualifying Nr. 2
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240630T121500
+SUMMARY:[Moto2] RAC
+UID:e1b57fc3-ddc2-4aad-833b-ac39d6bbd5ee@e1b5.org
+DESCRIPTION:Event: Motul TT Assen\nClass: Moto2\nSession: Race
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240706T134500
+DTEND;TZID="UTC+02:00":20240706T140000
+SUMMARY:[Moto2] Q1
+UID:c8b7a336-489f-4efa-961a-b63febae5f36@c8b7.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Sachsenring - Oberlungwitz
+URL:https://www.motogp.com/en/calendar/2023/event/Germany
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240706T141000
+DTEND;TZID="UTC+02:00":20240706T142500
+SUMMARY:[Moto2] Q2
+UID:17f60211-325c-4a13-ae34-6bdf5756a0df@17f6.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Sachsenring - Oberlungwitz
+URL:https://www.motogp.com/en/calendar/2023/event/Germany
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240707T121500
+SUMMARY:[Moto2] RAC
+UID:546ca377-c042-4a92-a392-bafa6edcbf9a@546c.org
+DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
+ Moto2\nSession: Race
+LOCATION:Sachsenring - Oberlungwitz
+URL:https://www.motogp.com/en/calendar/2023/event/Germany
+DTSTAMP:20240205T210723Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240803T134500
+DTEND;TZID="UTC+01:00":20240803T140000
+SUMMARY:[Moto2] Q1
+UID:840b2238-2625-4bd0-b669-d4540152538a@840b.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Silverstone Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
+DTSTAMP:20240205T210724Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240803T141000
+DTEND;TZID="UTC+01:00":20240803T142500
+SUMMARY:[Moto2] Q2
+UID:d1a9d458-3f53-476c-a1ef-2c4d63571816@d1a9.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Silverstone Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
+DTSTAMP:20240205T210724Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240804T143000
+SUMMARY:[Moto2] RAC
+UID:f14bbc09-8c42-47aa-9225-b4f223bf4344@f14b.org
+DESCRIPTION:Event: Monster Energy British Grand Prix\nClass: 
+ Moto2\nSession: Race
+LOCATION:Silverstone Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/Great Britain
+DTSTAMP:20240205T210724Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240817T134500
+DTEND;TZID="UTC+02:00":20240817T140000
+SUMMARY:[Moto2] Q1
+UID:c18cc581-f85f-485a-a446-38b3ac76375f@c18c.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Red Bull Ring - Spielberg - Spielberg
+URL:https://www.motogp.com/en/calendar/2023/event/Austria
+DTSTAMP:20240205T210724Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240817T141000
+DTEND;TZID="UTC+02:00":20240817T142500
+SUMMARY:[Moto2] Q2
+UID:95044913-a789-4e90-9697-37ea71549ef3@9504.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Red Bull Ring - Spielberg - Spielberg
+URL:https://www.motogp.com/en/calendar/2023/event/Austria
+DTSTAMP:20240205T210724Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240818T121500
+SUMMARY:[Moto2] RAC
+UID:1fda0dc8-cebb-47e2-ba64-d92345a657eb@1fda.org
+DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
+ Moto2\nSession: Race
+LOCATION:Red Bull Ring - Spielberg - Spielberg
+URL:https://www.motogp.com/en/calendar/2023/event/Austria
+DTSTAMP:20240205T210724Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240831T134500
+DTEND;TZID="UTC+02:00":20240831T140000
+SUMMARY:[Moto2] Q1
+UID:9caf2593-0b0b-4457-b09a-4c5b89139654@9caf.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Qualifying
+  Nr. 1
+LOCATION:MotorLand Aragón - 
+URL:https://www.motogp.com/en/calendar/2023/event/Spain
+DTSTAMP:20240205T210725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240831T141000
+DTEND;TZID="UTC+02:00":20240831T142500
+SUMMARY:[Moto2] Q2
+UID:4c64b4dc-cf57-4037-9fd4-fbc3a62c4517@4c64.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Qualifying
+  Nr. 2
+LOCATION:MotorLand Aragón - 
+URL:https://www.motogp.com/en/calendar/2023/event/Spain
+DTSTAMP:20240205T210725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240901T121500
+SUMMARY:[Moto2] RAC
+UID:4fbdb04c-43b4-451f-8454-8b1d87937d80@4fbd.org
+DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Race
+LOCATION:MotorLand Aragón - 
+URL:https://www.motogp.com/en/calendar/2023/event/Spain
+DTSTAMP:20240205T210725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240907T134500
+DTEND;TZID="UTC+02:00":20240907T140000
+SUMMARY:[Moto2] Q1
+UID:7ece25ee-58e5-4d12-ba7c-825e6219f790@7ece.org
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
+ Rimini\nClass: Moto2\nSession: Qualifying Nr. 1
+LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
+URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+DTSTAMP:20240205T210725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240907T141000
+DTEND;TZID="UTC+02:00":20240907T142500
+SUMMARY:[Moto2] Q2
+UID:6ad8e8aa-5e99-4904-b284-03220ca65635@6ad8.org
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
+ Rimini\nClass: Moto2\nSession: Qualifying Nr. 2
+LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
+URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+DTSTAMP:20240205T210725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240908T121500
+SUMMARY:[Moto2] RAC
+UID:e2808e80-b652-49c9-b83d-c0d3bacdefec@e280.org
+DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
+ Rimini\nClass: Moto2\nSession: Race
+LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
+URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+DTSTAMP:20240205T210725Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+05:30":20240921T141500
+DTEND;TZID="UTC+05:30":20240921T143000
+SUMMARY:[Moto2] Q1
+UID:bc146a12-c0ca-4b0d-ae9b-48f67c10e63a@bc14.org
+DESCRIPTION:Event: Grand Prix of India\nClass: Moto2\nSession: Qualifying 
+ Nr. 1
+LOCATION:Buddh International Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/India
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+05:30":20240921T144000
+DTEND;TZID="UTC+05:30":20240921T145500
+SUMMARY:[Moto2] Q2
+UID:e07fa438-db48-4226-9ffc-4fdf3f6043ea@e07f.org
+DESCRIPTION:Event: Grand Prix of India\nClass: Moto2\nSession: Qualifying 
+ Nr. 2
+LOCATION:Buddh International Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/India
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+05:30":20240922T134500
+SUMMARY:[Moto2] RAC
+UID:2c4e5026-e631-44d9-b464-720abe3f700f@2c4e.org
+DESCRIPTION:Event: Grand Prix of India\nClass: Moto2\nSession: Race
+LOCATION:Buddh International Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/India
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20240928T134500
+DTEND;TZID="UTC+08:00":20240928T140000
+SUMMARY:[Moto2] Q1
+UID:d01a3fb4-a3bb-4b5f-af76-372db935900d@d01a.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Pertamina Mandalika Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20240928T141000
+DTEND;TZID="UTC+08:00":20240928T142500
+SUMMARY:[Moto2] Q2
+UID:ee646567-de3b-4080-9896-943613fc8504@ee64.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Pertamina Mandalika Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20240929T131500
+SUMMARY:[Moto2] RAC
+UID:97c50eb8-73fa-44f8-bf92-39ccce5e1f0a@97c5.org
+DESCRIPTION:Event: Pertamina Grand Prix of Indonesia\nClass: 
+ Moto2\nSession: Race
+LOCATION:Pertamina Mandalika Circuit - 
+URL:https://www.motogp.com/en/calendar/2023/event/Indonesia
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20241005T134500
+DTEND;TZID="UTC+09:00":20241005T140000
+SUMMARY:[Moto2] Q1
+UID:bf162260-6150-47ef-baf9-2d8f8e9f7bcd@bf16.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto2\nSession: 
+ Qualifying Nr. 1
+LOCATION:Mobility Resort Motegi - Motegi
+URL:https://www.motogp.com/en/calendar/2023/event/Japan
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20241005T141000
+DTEND;TZID="UTC+09:00":20241005T142500
+SUMMARY:[Moto2] Q2
+UID:d1b40175-645c-4e70-a3ca-75ea934d64c1@d1b4.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto2\nSession: 
+ Qualifying Nr. 2
+LOCATION:Mobility Resort Motegi - Motegi
+URL:https://www.motogp.com/en/calendar/2023/event/Japan
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+09:00":20241006T121500
+SUMMARY:[Moto2] RAC
+UID:a8f2f394-4a45-482a-bcab-2966a9fba07d@a8f2.org
+DESCRIPTION:Event: Motul Grand Prix of Japan\nClass: Moto2\nSession: Race
+LOCATION:Mobility Resort Motegi - Motegi
+URL:https://www.motogp.com/en/calendar/2023/event/Japan
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20241019T134500
+DTEND;TZID="UTC+11:00":20241019T140000
+SUMMARY:[Moto2] Q1
+UID:e79dbc75-40e0-42f2-a1a9-543d6a9822ef@e79d.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
+  Qualifying Nr. 1
+LOCATION:Phillip Island - 
+URL:https://www.motogp.com/en/calendar/2023/event/Australia
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20241019T141000
+DTEND;TZID="UTC+11:00":20241019T142500
+SUMMARY:[Moto2] Q2
+UID:523b09e8-df04-4fd1-8d85-4e27c8488cff@523b.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
+  Qualifying Nr. 2
+LOCATION:Phillip Island - 
+URL:https://www.motogp.com/en/calendar/2023/event/Australia
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20241020T131500
+SUMMARY:[Moto2] RAC
+UID:6dde61ce-e875-4736-bd86-be2548a0aa7d@6dde.org
+DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
+  Race
+LOCATION:Phillip Island - 
+URL:https://www.motogp.com/en/calendar/2023/event/Australia
+DTSTAMP:20240205T210726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+07:00":20241026T134500
+DTEND;TZID="UTC+07:00":20241026T140000
+SUMMARY:[Moto2] Q1
+UID:a6d7eec8-0460-460b-a58f-2c33cf1562da@a6d7.org
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: 
+ Qualifying Nr. 1
+LOCATION:Chang International Circuit - Tambon Isan
+URL:https://www.motogp.com/en/calendar/2023/event/Thailand
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+07:00":20241026T141000
+DTEND;TZID="UTC+07:00":20241026T142500
+SUMMARY:[Moto2] Q2
+UID:73af5f61-c6f1-4843-bb83-44e06d87ec54@73af.org
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: 
+ Qualifying Nr. 2
+LOCATION:Chang International Circuit - Tambon Isan
+URL:https://www.motogp.com/en/calendar/2023/event/Thailand
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+07:00":20241027T121500
+SUMMARY:[Moto2] RAC
+UID:f5542eb1-1a85-421e-ad69-2dd7ff1a917a@f554.org
+DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: Race
+LOCATION:Chang International Circuit - Tambon Isan
+URL:https://www.motogp.com/en/calendar/2023/event/Thailand
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20241102T134500
+DTEND;TZID="UTC+08:00":20241102T140000
+SUMMARY:[Moto2] Q1
+UID:951e2e11-4625-4ffe-8469-ca9a20ac88f2@951e.org
+DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto2\nSession: 
+ Qualifying Nr. 1
+LOCATION:Petronas Sepang International Circuit - Sepang
+URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20241102T141000
+DTEND;TZID="UTC+08:00":20241102T142500
+SUMMARY:[Moto2] Q2
+UID:6c4c2c36-ab51-4eae-b53e-e99df99db768@6c4c.org
+DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto2\nSession: 
+ Qualifying Nr. 2
+LOCATION:Petronas Sepang International Circuit - Sepang
+URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+08:00":20241103T131500
+SUMMARY:[Moto2] RAC
+UID:9bc1399e-f985-4c01-bfa2-2ee6e317db34@9bc1.org
+DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto2\nSession: 
+ Race
+LOCATION:Petronas Sepang International Circuit - Sepang
+URL:https://www.motogp.com/en/calendar/2023/event/Malaysia
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241116T134500
+DTEND;TZID="UTC+01:00":20241116T140000
+SUMMARY:[Moto2] Q1
+UID:a856b76a-7873-45d2-b4b3-476ad9d909ca@a856.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Circuit Ricardo Tormo - Cheste
+URL:https://www.motogp.com/en/calendar/2023/event/Valencia
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241116T141000
+DTEND;TZID="UTC+01:00":20241116T142500
+SUMMARY:[Moto2] Q2
+UID:c5c4d786-d642-444d-ad2a-384a5ee22733@c5c4.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Circuit Ricardo Tormo - Cheste
+URL:https://www.motogp.com/en/calendar/2023/event/Valencia
+DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241117T121500
+SUMMARY:[Moto2] RAC
+UID:c021f95e-3a9a-4f5a-9b76-6ad3d696541d@c021.org
+DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
+ Moto2\nSession: Race
+LOCATION:Circuit Ricardo Tormo - Cheste
+URL:https://www.motogp.com/en/calendar/2023/event/Valencia
+DTSTAMP:20240205T210727Z
+END:VEVENT
+END:VCALENDAR
