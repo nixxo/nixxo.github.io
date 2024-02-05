@@ -21,7 +21,7 @@ Races Only
 - <a href="motogp/2024/MotoE_sprint-and-race_2024_calendar.ics">MotoE</a>
 
 
-# WorldSBK 2024 Calendars
+# WorldSBK 2024 Calendars (not available yet)
 
 ICS files extracted from <a href="https://www.worldsbk.com/en/calendar">https://www.worldsbk.com/en/calendar</a>
 
@@ -36,3 +36,8 @@ Superpole + Races Only
 - <a href="wsbk/2024/WorldSSP_filtered_2024_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2024/WorldSSP300_filtered_2024_calendar.ics">WorldSSP300</a>
 - <a href="wsbk/2024/R3 bLU cRU Champ_filtered_2024_calendar.ics">R3 bLU cRU Champ</a>
+
+
+Prevoius years calendars available as archive here:
+- <a href="2022">2022</a>
+- <a href="2023">2023</a>
