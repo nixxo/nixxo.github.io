@@ -9,10 +9,10 @@ All sessions
 - <a href="motogp/2024/MotoE_2024_calendar.ics">MotoE</a>
 
 Qualify + Races Only
-- <a href="motogp/2024/MotoGP_filtered_2024_calendar.ics">MotoGP</a>
-- <a href="motogp/2024/Moto2_filtered_2024_calendar.ics">Moto2</a>
-- <a href="motogp/2024/Moto3_filtered_2024_calendar.ics">Moto3</a>
-- <a href="motogp/2024/MotoE_filtered_2024_calendar.ics">MotoE</a>
+- <a href="motogp/2024/MotoGP_qualy-and-races_2024_calendar.ics">MotoGP</a>
+- <a href="motogp/2024/Moto2_qualy-and-races_2024_calendar.ics">Moto2</a>
+- <a href="motogp/2024/Moto3_qualy-and-races_2024_calendar.ics">Moto3</a>
+- <a href="motogp/2024/MotoE_qualy-and-races_2024_calendar.ics">MotoE</a>
 
 Races Only
 - <a href="motogp/2024/MotoGP_sprint-and-race_2024_calendar.ics">MotoGP</a>
