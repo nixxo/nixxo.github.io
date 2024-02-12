@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240323T124500
+SUMMARY:[WorldSSP300] Race 1
+UID:61859df2-5d37-49bc-bf81-c6433aa5c3b3@6185.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: WorldSSP300\nSession: 
+ Race 1
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2024
+DTSTAMP:20240212T204400Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240324T124500
+SUMMARY:[WorldSSP300] Race 2
+UID:248afdce-921a-41da-beff-3960e7ae2486@248a.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: WorldSSP300\nSession: 
+ Race 2
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2024
+DTSTAMP:20240212T204400Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240420T124500
+SUMMARY:[WorldSSP300] Race 1
+UID:fdec49f3-0dfa-49d0-bea8-be7da20ad5e6@fdec.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSSP300\nSession: Race 1
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2024
+DTSTAMP:20240212T204402Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240421T124500
+SUMMARY:[WorldSSP300] Race 2
+UID:5b337b05-86ed-4c5f-bfec-e52ff7cbf236@5b33.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSSP300\nSession: Race 2
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2024
+DTSTAMP:20240212T204402Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240615T124500
+SUMMARY:[WorldSSP300] Race 1
+UID:f31df00c-361b-4070-a669-faa891593128@f31d.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: 
+ WorldSSP300\nSession: Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T204403Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240616T124500
+SUMMARY:[WorldSSP300] Race 2
+UID:bafe534d-c1df-418f-b2c6-fe692cee70e2@bafe.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: 
+ WorldSSP300\nSession: Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T204403Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240720T124500
+SUMMARY:[WorldSSP300] Race 1
+UID:dc14f549-aa85-43bc-a5f3-5a2cede88f4d@dc14.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSSP300\nSession: Race 1
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2024
+DTSTAMP:20240212T204405Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240721T124500
+SUMMARY:[WorldSSP300] Race 2
+UID:7a4a9eb8-928d-4f0e-afe2-b0000a9c9a28@7a4a.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSSP300\nSession: Race 2
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2024
+DTSTAMP:20240212T204405Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240810T163000
+SUMMARY:[WorldSSP300] Race 1
+UID:04c2a6ef-90bd-4972-921e-5597190fb51e@04c2.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP300\nSession: 
+ Race 1
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T204406Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240811T163000
+SUMMARY:[WorldSSP300] Race 2
+UID:45ec0f47-e5ff-4850-b6aa-1b2fa020a1b5@45ec.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP300\nSession: 
+ Race 2
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T204406Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240907T124500
+SUMMARY:[WorldSSP300] Race 1
+UID:125717db-4e28-4521-8b9c-8a06271b1072@1257.org
+DESCRIPTION:Event: Motul French Round\nClass: WorldSSP300\nSession: Race 1
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2024
+DTSTAMP:20240212T204408Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240908T124500
+SUMMARY:[WorldSSP300] Race 2
+UID:47375b25-117f-4576-924d-cfabe7bf5a7a@4737.org
+DESCRIPTION:Event: Motul French Round\nClass: WorldSSP300\nSession: Race 2
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2024
+DTSTAMP:20240212T204408Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240928T124500
+SUMMARY:[WorldSSP300] Race 1
+UID:ec1580e9-6ca2-4c0b-b9bc-ad7476e0aabf@ec15.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSSP300\nSession: Race 1
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2024
+DTSTAMP:20240212T204410Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240929T124500
+SUMMARY:[WorldSSP300] Race 2
+UID:44097dc5-5eee-4813-9b66-fad8248346d6@4409.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSSP300\nSession: Race 2
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2024
+DTSTAMP:20240212T204410Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241012T124500
+SUMMARY:[WorldSSP300] Race 1
+UID:6c9aa624-04cc-44c9-89ae-bcf528a90db5@6c9a.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldSSP300\nSession: 
+ Race 1
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T204411Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241013T124500
+SUMMARY:[WorldSSP300] Race 2
+UID:4fafa062-9f7b-49f5-8523-d8b48363edb1@4faf.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldSSP300\nSession: 
+ Race 2
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T204411Z
+END:VEVENT
+END:VCALENDAR
