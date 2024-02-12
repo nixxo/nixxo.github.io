@@ -1,0 +1,502 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+11:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+1100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
+TZNAME:UTC+11:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20240224T130000
+DTEND;TZID="UTC+11:00":20240224T131500
+SUMMARY:[WorldSBK] Superpole
+UID:890017bf-3696-430c-90c7-e59db3145981@8900.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Superpole
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2024
+DTSTAMP:20240212T203628Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20240224T160000
+SUMMARY:[WorldSBK] Race 1
+UID:23bef5cc-c1b9-4a46-b7da-fae5d538de51@23be.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Race 1
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2024
+DTSTAMP:20240212T203628Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20240225T130000
+SUMMARY:[WorldSBK] Superpole Race
+UID:e482401c-90b1-407c-9711-3dea783a7440@e482.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Superpole Race
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2024
+DTSTAMP:20240212T203628Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+11:00":20240225T160000
+SUMMARY:[WorldSBK] Race 2
+UID:1e4277a3-f53c-462e-a748-8ae180965413@1e42.org
+DESCRIPTION:Event: Grand Ridge Brewery Australian Round\nClass: 
+ WorldSBK\nSession: Race 2
+LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2024
+DTSTAMP:20240212T203628Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240323T110000
+SUMMARY:[WorldSBK] Superpole
+UID:8786ab1c-927e-4175-a727-0f7b1cba626b@8786.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2024
+DTSTAMP:20240212T203632Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240323T140000
+SUMMARY:[WorldSBK] Race 1
+UID:6ab2646b-5884-4557-92de-ed2282b7dd84@6ab2.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: WorldSBK\nSession: Race 
+ 1
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2024
+DTSTAMP:20240212T203632Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240324T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:a69ae165-a5a8-46a5-9db9-a2255cba6790@a69a.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2024
+DTSTAMP:20240212T203632Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240324T140000
+SUMMARY:[WorldSBK] Race 2
+UID:f657e750-2bd9-47bf-8b22-c7608f653a04@f657.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: WorldSBK\nSession: Race 
+ 2
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+URL:https://www.worldsbk.com/en/event/CAT/2024
+DTSTAMP:20240212T203632Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240420T110000
+SUMMARY:[WorldSBK] Superpole
+UID:21ab2798-9096-4c7b-9058-8264bbf1f1fa@21ab.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2024
+DTSTAMP:20240212T203633Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240420T140000
+SUMMARY:[WorldSBK] Race 1
+UID:3d2e789f-94ba-402e-9858-869507169e96@3d2e.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2024
+DTSTAMP:20240212T203633Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240421T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:2a851349-a658-4e52-8d5a-c7ade97b45ab@2a85.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Superpole
+  Race
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2024
+DTSTAMP:20240212T203633Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240421T140000
+SUMMARY:[WorldSBK] Race 2
+UID:cb83317c-a694-447f-a90e-b141b40fe811@cb83.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:TT Assen Circuit\, The Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2024
+DTSTAMP:20240212T203633Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240615T110000
+SUMMARY:[WorldSBK] Superpole
+UID:4ec3dea9-b710-4286-9ee6-fd36dabe97b6@4ec3.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T203634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240615T140000
+SUMMARY:[WorldSBK] Race 1
+UID:db45a724-7b94-4f99-a724-19686a94efe0@db45.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T203634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240616T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:e4d00379-78e1-4a8c-ad53-fa96861b5565@e4d0.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T203634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240616T140000
+SUMMARY:[WorldSBK] Race 2
+UID:d65efdd9-88cf-42df-8736-422451dcfd63@d65e.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSBK\nSession: 
+ Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T203634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240713T110000
+SUMMARY:[WorldSBK] Superpole
+UID:b678896b-974c-4ee1-8c4b-5ee83d0ac783@b678.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2024
+DTSTAMP:20240212T203635Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240713T140000
+SUMMARY:[WorldSBK] Race 1
+UID:8a55dfaf-8160-47b8-b54f-8af6b2f49a50@8a55.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2024
+DTSTAMP:20240212T203635Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240714T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:65b72eda-d689-4349-bbca-f79bd8dca178@65b7.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2024
+DTSTAMP:20240212T203635Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240714T140000
+SUMMARY:[WorldSBK] Race 2
+UID:ed3b372e-f3b3-40a9-b256-9854fcae6430@ed3b.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2024
+DTSTAMP:20240212T203635Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240720T110000
+SUMMARY:[WorldSBK] Superpole
+UID:a625c4f3-7fd3-4a96-85cb-039d06d542f0@a625.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2024
+DTSTAMP:20240212T203637Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240720T140000
+SUMMARY:[WorldSBK] Race 1
+UID:5901365a-994d-4598-91af-6644e3d8686f@5901.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2024
+DTSTAMP:20240212T203637Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240721T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:f9d17006-eb58-4859-88d4-1bf5bfc4e207@f9d1.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Superpole Race
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2024
+DTSTAMP:20240212T203637Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240721T140000
+SUMMARY:[WorldSBK] Race 2
+UID:90ddae4a-f2c9-4d90-8739-ac4db5206048@90dd.org
+DESCRIPTION:Event: Czech Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Autodrom Most\,  Most\, Czech Republic
+URL:https://www.worldsbk.com/en/event/CZE/2024
+DTSTAMP:20240212T203637Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240810T154500
+SUMMARY:[WorldSBK] Superpole
+UID:07c65c5d-07b0-442a-b42e-13ee1b3794a6@07c6.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240810T190000
+SUMMARY:[WorldSBK] Race 1
+UID:4c9f2107-b3ef-4922-a949-4ec7f80d0eb5@4c9f.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: Race
+  1
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240811T154500
+SUMMARY:[WorldSBK] Superpole Race
+UID:cd6a5344-97a2-4fa4-9fdc-b476a67ea33a@cd6a.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240811T190000
+SUMMARY:[WorldSBK] Race 2
+UID:9cbf1acd-5342-429e-b0e1-84c1d5f06ab1@9cbf.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSBK\nSession: Race
+  2
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240824T110000
+SUMMARY:[WorldSBK] Superpole
+UID:49bfbb9f-4cb4-48c7-acfb-e0f543c4ef45@49bf.org
+DESCRIPTION:Event: Hungarian Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240824T140000
+SUMMARY:[WorldSBK] Race 1
+UID:8bb814f2-0d3e-4e6d-985b-dec1c359192f@8bb8.org
+DESCRIPTION:Event: Hungarian Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240825T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:4617867f-217d-4372-94c6-2142a504c4b3@4617.org
+DESCRIPTION:Event: Hungarian Round\nClass: WorldSBK\nSession: Superpole 
+ Race
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240825T140000
+SUMMARY:[WorldSBK] Race 2
+UID:ec6753a0-b171-4e24-9334-514e6f2c215e@ec67.org
+DESCRIPTION:Event: Hungarian Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240907T110000
+SUMMARY:[WorldSBK] Superpole
+UID:25863b39-83ce-4787-8a20-9cdae4a1cb2c@2586.org
+DESCRIPTION:Event: Motul French Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2024
+DTSTAMP:20240212T203700Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240907T153000
+SUMMARY:[WorldSBK] Race 1
+UID:7c88293a-5f8b-4cc1-9ad8-913ce528cee5@7c88.org
+DESCRIPTION:Event: Motul French Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2024
+DTSTAMP:20240212T203700Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240908T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:8fea20e0-830e-4c9c-8c7f-1b661a67088d@8fea.org
+DESCRIPTION:Event: Motul French Round\nClass: WorldSBK\nSession: Superpole 
+ Race
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2024
+DTSTAMP:20240212T203700Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240908T153000
+SUMMARY:[WorldSBK] Race 2
+UID:0f026bc3-a835-4160-b547-7ea2fb09e7dc@0f02.org
+DESCRIPTION:Event: Motul French Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
+URL:https://www.worldsbk.com/en/event/FRA/2024
+DTSTAMP:20240212T203700Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240921T110000
+SUMMARY:[WorldSBK] Superpole
+UID:291ce7ec-92d6-46e9-8683-319b55566f9f@291c.org
+DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CRE/2024
+DTSTAMP:20240212T203731Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240921T140000
+SUMMARY:[WorldSBK] Race 1
+UID:c3fbb34e-578b-42c4-9eda-cdf01a1ed927@c3fb.org
+DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CRE/2024
+DTSTAMP:20240212T203731Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240922T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:909477e4-818e-4157-9190-2a4cf2a417ec@9094.org
+DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CRE/2024
+DTSTAMP:20240212T203731Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240922T140000
+SUMMARY:[WorldSBK] Race 2
+UID:e8405375-a90f-469a-807c-582d96b39c4d@e840.org
+DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CRE/2024
+DTSTAMP:20240212T203731Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240928T110000
+SUMMARY:[WorldSBK] Superpole
+UID:cf3ea1b1-bb0f-4048-ae6b-fdcfdab9ed81@cf3e.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2024
+DTSTAMP:20240212T203818Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240928T140000
+SUMMARY:[WorldSBK] Race 1
+UID:cc94dca4-37f7-4175-9eb6-97e506ceb42c@cc94.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2024
+DTSTAMP:20240212T203818Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240929T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:f94bdfc5-5317-4dc5-b35b-5dda2e56a400@f94b.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Superpole
+  Race
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2024
+DTSTAMP:20240212T203818Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240929T140000
+SUMMARY:[WorldSBK] Race 2
+UID:39d8940f-a709-4b55-8423-7c1074f62486@39d8.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:MotorLand Aragon\, Teruel\, Spain
+URL:https://www.worldsbk.com/en/event/ARA/2024
+DTSTAMP:20240212T203818Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241012T110000
+SUMMARY:[WorldSBK] Superpole
+UID:8312cc87-b601-4bc8-9bb5-6d4158884fd6@8312.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldSBK\nSession: 
+ Superpole
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T203850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241012T140000
+SUMMARY:[WorldSBK] Race 1
+UID:730a5ca3-8ea7-45bb-8dd5-74a3e3a7b87c@730a.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldSBK\nSession: Race 
+ 1
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T203850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241013T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:6ca3b394-c770-4a04-9cb1-bf6b482a1ce2@6ca3.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldSBK\nSession: 
+ Superpole Race
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T203850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241013T140000
+SUMMARY:[WorldSBK] Race 2
+UID:29f29a7a-f605-4107-bf6d-45f1b8eacca8@29f2.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldSBK\nSession: Race 
+ 2
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T203850Z
+END:VEVENT
+END:VCALENDAR

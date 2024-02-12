@@ -21,7 +21,7 @@ Races Only
 - <a href="motogp/2024/MotoE_sprint-and-race_2024_calendar.ics">MotoE</a>
 
 
-# WorldSBK 2024 Calendars (not available yet)
+# WorldSBK 2024 Calendars
 
 ICS files extracted from <a href="https://www.worldsbk.com/en/calendar">https://www.worldsbk.com/en/calendar</a>
 

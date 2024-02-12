@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240614T132500
+SUMMARY:[WorldWCR] Superpole
+UID:63d9c616-9d30-4bfe-8d08-e40b66f9f245@63d9.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldWCR\nSession: 
+ Superpole
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T203634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240615T115000
+SUMMARY:[WorldWCR] Race 1
+UID:f4d7f699-55b1-48ca-b43f-7ed12306d074@f4d7.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldWCR\nSession: 
+ Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T203634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240616T115000
+SUMMARY:[WorldWCR] Race 2
+UID:ffb1f265-551b-47f1-8446-2a5b2746d417@ffb1.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldWCR\nSession: 
+ Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
+ Italy
+URL:https://www.worldsbk.com/en/event/ITA/2024
+DTSTAMP:20240212T203634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240712T141000
+SUMMARY:[WorldWCR] Superpole
+UID:02f34576-783b-4b9f-86ed-06a2db4d6d7a@02f3.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldWCR\nSession: 
+ Superpole
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2024
+DTSTAMP:20240212T203635Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240713T124500
+SUMMARY:[WorldWCR] Race 1
+UID:7775a8ed-a5d5-44f7-a51e-21ca8d4ed72b@7775.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldWCR\nSession: Race 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2024
+DTSTAMP:20240212T203635Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240714T124500
+SUMMARY:[WorldWCR] Race 2
+UID:374cd9f1-f31f-4e27-b959-19ee602a02d1@374c.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldWCR\nSession: Race 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2024
+DTSTAMP:20240212T203635Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240809T162500
+SUMMARY:[WorldWCR] Superpole
+UID:1c0a9051-b2c4-4a6d-99e7-000eb8b611bf@1c0a.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldWCR\nSession: 
+ Superpole
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240810T144500
+SUMMARY:[WorldWCR] Race 1
+UID:6f9634e9-8236-4ab7-96f6-5a4a85b20d50@6f96.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldWCR\nSession: Race
+  1
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20240811T144500
+SUMMARY:[WorldWCR] Race 2
+UID:c5942d43-2ed8-4210-af86-c0279d99bc7f@c594.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldWCR\nSession: Race
+  2
+LOCATION:Algarve International Circuit\, Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240823T141000
+SUMMARY:[WorldWCR] Superpole
+UID:440bc80c-9677-4ffb-91ae-09e3bce00bf9@440b.org
+DESCRIPTION:Event: Hungarian Round\nClass: WorldWCR\nSession: Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240824T124500
+SUMMARY:[WorldWCR] Race 1
+UID:63178a4a-8929-4015-8f8a-0819fabdf031@6317.org
+DESCRIPTION:Event: Hungarian Round\nClass: WorldWCR\nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240825T124500
+SUMMARY:[WorldWCR] Race 2
+UID:359f59e3-147d-4589-8280-871ecdcd5079@359f.org
+DESCRIPTION:Event: Hungarian Round\nClass: WorldWCR\nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2024
+DTSTAMP:20240212T203638Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240920T141000
+SUMMARY:[WorldWCR] Superpole
+UID:cda8d586-564d-4aaa-bb79-2ac17c6912a2@cda8.org
+DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldWCR\nSession: 
+ Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CRE/2024
+DTSTAMP:20240212T203731Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240921T124500
+SUMMARY:[WorldWCR] Race 1
+UID:f60fd4f8-48a8-4a7b-bd1b-10be817eeaba@f60f.org
+DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldWCR\nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CRE/2024
+DTSTAMP:20240212T203731Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240922T124500
+SUMMARY:[WorldWCR] Race 2
+UID:6656ef99-3657-499d-b877-dbccd43c901d@6656.org
+DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldWCR\nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CRE/2024
+DTSTAMP:20240212T203731Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241011T132500
+SUMMARY:[WorldWCR] Superpole
+UID:937408d9-0a3f-48ce-84dd-982af2139da1@9374.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldWCR\nSession: 
+ Superpole
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T203850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241012T115000
+SUMMARY:[WorldWCR] Race 1
+UID:af94a59d-63b8-4cbe-befc-0d7e6719b6b1@af94.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldWCR\nSession: Race 
+ 1
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T203850Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20241013T111500
+SUMMARY:[WorldWCR] Race 2
+UID:78aa58fd-5c21-4942-bfe2-6bc989105ea1@78aa.org
+DESCRIPTION:Event: Prometeon Spanish Round\nClass: WorldWCR\nSession: Race 
+ 2
+LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
+URL:https://www.worldsbk.com/en/event/JER/2024
+DTSTAMP:20240212T203850Z
+END:VEVENT
+END:VCALENDAR
