@@ -125,7 +125,8 @@ BEGIN:VEVENT
 DTSTART:20240324T110000Z
 SUMMARY:[Moto3] RAC
 UID:8ce1733b-07e9-4f88-a2fb-d032d2268d22@8ce1.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto3\nSession:
+  Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z

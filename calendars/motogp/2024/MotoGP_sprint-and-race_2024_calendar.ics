@@ -135,8 +135,8 @@ BEGIN:VEVENT
 DTSTART:20240323T150000Z
 SUMMARY:[MotoGP] SPR
 UID:c8ad6ccb-07d9-4d84-80b9-5e5a922b8e4d@c8ad.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Sprint
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Sprint
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -145,7 +145,8 @@ BEGIN:VEVENT
 DTSTART:20240324T140000Z
 SUMMARY:[MotoGP] RAC
 UID:baac3243-4029-4056-9e14-a692496e8486@baac.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z

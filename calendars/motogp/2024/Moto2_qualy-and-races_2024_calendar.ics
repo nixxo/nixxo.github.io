@@ -148,8 +148,8 @@ DTSTART:20240323T134500Z
 DTEND:20240323T140000Z
 SUMMARY:[Moto2] Q1
 UID:3a435c82-b252-4fb2-8226-2f92d3784692@3a43.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto2\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+  Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T214559Z
@@ -159,8 +159,8 @@ DTSTART:20240323T141000Z
 DTEND:20240323T142500Z
 SUMMARY:[Moto2] Q2
 UID:f0f2ffd9-c59d-4389-95de-52679f1e0fbe@f0f2.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto2\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+  Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T214559Z
@@ -169,7 +169,8 @@ BEGIN:VEVENT
 DTSTART:20240324T121500Z
 SUMMARY:[Moto2] RAC
 UID:76b8a4aa-57aa-4fba-8bd6-f0fdf13135d4@76b8.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: Moto2\nSession:
+  Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T214559Z
@@ -667,7 +668,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20240205T214605Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+11:00":20241020T131500
+DTSTART;TZID="UTC+11:00":20241020T121500
 SUMMARY:[Moto2] RAC
 UID:e155f2b8-207c-44c7-9157-d07b48edcd01@e155.org
 DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
@@ -699,7 +700,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Thailand
 DTSTAMP:20240205T214605Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+07:00":20241027T121500
+DTSTART;TZID="UTC+07:00":20241027T131500
 SUMMARY:[Moto2] RAC
 UID:003b3866-4d5a-427b-a4b2-63eb5d279b3f@003b.org
 DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto2\nSession: Race

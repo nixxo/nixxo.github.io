@@ -202,8 +202,8 @@ DTSTART:20240322T104500Z
 DTEND:20240322T113000Z
 SUMMARY:[MotoGP] FP1
 UID:7fd8f2e7-5ddd-4ce1-8079-a1dceab8d8bb@7fd8.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Free 
- Practice Nr. 1
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -213,8 +213,8 @@ DTSTART:20240322T150000Z
 DTEND:20240322T160000Z
 SUMMARY:[MotoGP] PR
 UID:1da086ab-97b7-457e-9bab-e668b69bfb53@1da0.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Practice
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Practice
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -224,8 +224,8 @@ DTSTART:20240323T101000Z
 DTEND:20240323T104000Z
 SUMMARY:[MotoGP] FP2
 UID:47b15c52-d42e-4b37-b0fd-32f4037d08ae@47b1.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Free 
- Practice Nr. 2
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -235,8 +235,8 @@ DTSTART:20240323T105000Z
 DTEND:20240323T110500Z
 SUMMARY:[MotoGP] Q1
 UID:f7cad2b3-2ae7-41d5-938d-039790d5870b@f7ca.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -246,8 +246,8 @@ DTSTART:20240323T111500Z
 DTEND:20240323T113000Z
 SUMMARY:[MotoGP] Q2
 UID:66ef34db-d855-4169-b4a7-05ad882207a5@66ef.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -256,8 +256,8 @@ BEGIN:VEVENT
 DTSTART:20240323T150000Z
 SUMMARY:[MotoGP] SPR
 UID:c8ad6ccb-07d9-4d84-80b9-5e5a922b8e4d@c8ad.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Sprint
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Sprint
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -267,8 +267,8 @@ DTSTART:20240324T094000Z
 DTEND:20240324T095000Z
 SUMMARY:[MotoGP] WUP
 UID:619a85bc-6174-4d2a-a2b5-cf87ef77a698@619a.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Warm 
- Up
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Warm Up
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -277,7 +277,8 @@ BEGIN:VEVENT
 DTSTART:20240324T140000Z
 SUMMARY:[MotoGP] RAC
 UID:baac3243-4029-4056-9e14-a692496e8486@baac.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z

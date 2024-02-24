@@ -63,6 +63,7 @@ TZOFFSETFROM:+0000
 TZOFFSETTO:+0530
 DTSTART:19700101T000000
 RRULE:FREQ=YEARLY;COUNT=1
+RDATE:19700101T000000
 TZNAME:UTC+05:30
 END:STANDARD
 END:VTIMEZONE
@@ -157,8 +158,8 @@ DTSTART:20240323T105000Z
 DTEND:20240323T110500Z
 SUMMARY:[MotoGP] Q1
 UID:b9692ef2-b26b-42a6-a25b-865cc45be039@b969.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T214559Z
@@ -168,8 +169,8 @@ DTSTART:20240323T111500Z
 DTEND:20240323T113000Z
 SUMMARY:[MotoGP] Q2
 UID:fbc04310-859c-42da-81ef-41f5f7d86809@fbc0.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T214559Z
@@ -178,8 +179,8 @@ BEGIN:VEVENT
 DTSTART:20240323T150000Z
 SUMMARY:[MotoGP] SPR
 UID:5a803728-6af1-4f4d-b04e-4b2dd8d2ae9a@5a80.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: 
- Sprint
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Sprint
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T214559Z
@@ -188,7 +189,8 @@ BEGIN:VEVENT
 DTSTART:20240324T140000Z
 SUMMARY:[MotoGP] RAC
 UID:3ccc6c4a-f7e0-45b6-bf02-a39902c64dcb@3ccc.org
-DESCRIPTION:Event: Grande Prémio de Portugal\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
+ MotoGP\nSession: Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T214559Z
