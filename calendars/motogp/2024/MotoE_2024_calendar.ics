@@ -1,4 +1,68 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART:20240322T083000Z
+DTEND:20240322T084500Z
+SUMMARY:[MotoE] P1
+UID:3159757b-abe1-4e7c-a204-a11c69cba7c6@3159.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Practice Nr. 1
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T123500Z
+DTEND:20240322T125000Z
+SUMMARY:[MotoE] P2
+UID:4dcb397b-c6f2-4c3f-a885-4046e1b47e28@4dcb.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Practice Nr. 2
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T170000Z
+DTEND:20240322T171000Z
+SUMMARY:[MotoE] Q1
+UID:9ae67197-66c0-48bf-adea-6bff89156f51@9ae6.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Qualifying Nr. 1
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T172000Z
+DTEND:20240322T173000Z
+SUMMARY:[MotoE] Q2
+UID:71b36790-1096-4fc0-ab33-5968883aea26@71b3.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Qualifying Nr. 2
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T121500Z
+SUMMARY:[MotoE] RAC1
+UID:6480877e-e9e4-46cb-b945-12fb89fcd175@6480.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Race Nr.1
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T161000Z
+SUMMARY:[MotoE] RAC2
+UID:e3d30ba5-30de-42df-979b-fd6f92e95416@e3d3.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Race Nr.2
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
 END:VCALENDAR

@@ -1,4 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART:20240323T121500Z
+SUMMARY:[MotoE] RAC1
+UID:6480877e-e9e4-46cb-b945-12fb89fcd175@6480.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Race Nr.1
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T161000Z
+SUMMARY:[MotoE] RAC2
+UID:e3d30ba5-30de-42df-979b-fd6f92e95416@e3d3.org
+DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
+  Race Nr.2
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+DTSTAMP:20240316T164210Z
+END:VEVENT
 END:VCALENDAR
