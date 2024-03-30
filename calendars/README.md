@@ -29,21 +29,21 @@ All sessions
 - <a href="wsbk/2024/WorldSBK_2024_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2024/WorldSSP_2024_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2024/WorldSSP300_2024_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2024/R3 bLU cRU Champ_2024_calendar.ics">R3 bLU cRU Champ</a>
+- <a href="wsbk/2024/R3 World Cup_2024_calendar.ics">R3 World Cup</a>
 - <a href="wsbk/2024/WorldWCR_2024_calendar.ics">WorldWCR</a>
 
 Superpole + Races Only
 - <a href="wsbk/2024/WorldSBK_filtered_2024_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2024/WorldSSP_filtered_2024_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2024/WorldSSP300_filtered_2024_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2024/R3 bLU cRU Champ_filtered_2024_calendar.ics">R3 bLU cRU Champ</a>
+- <a href="wsbk/2024/R3 World Cup_filtered_2024_calendar.ics">R3 World Cup</a>
 - <a href="wsbk/2024/WorldWCR_filtered_2024_calendar.ics">WorldWCR</a>
 
 Races Only
 - <a href="wsbk/2024/WorldSBK_races_2024_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2024/WorldSSP_races_2024_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2024/WorldSSP300_races_2024_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2024/R3 bLU cRU Champ_races_2024_calendar.ics">R3 bLU cRU Champ</a>
+- <a href="wsbk/2024/R3 World Cup_races_2024_calendar.ics">R3 World Cup</a>
 - <a href="wsbk/2024/WorldWCR_races_2024_calendar.ics">WorldWCR</a>
 
 
