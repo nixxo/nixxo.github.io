@@ -224,8 +224,8 @@ DTSTART;TZID="UTC+02:00":20240511T125000
 DTEND;TZID="UTC+02:00":20240511T130500
 SUMMARY:[Moto3] Q1
 UID:a776614d-5290-4b79-8dd3-aad2b360f637@a776.org
-DESCRIPTION:Event: Grand Prix de France\nClass: Moto3\nSession: Qualifying 
- Nr. 1
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T214600Z
@@ -235,8 +235,8 @@ DTSTART;TZID="UTC+02:00":20240511T131500
 DTEND;TZID="UTC+02:00":20240511T133000
 SUMMARY:[Moto3] Q2
 UID:39a7ff6e-8844-4333-b157-24eb6ebc4edb@39a7.org
-DESCRIPTION:Event: Grand Prix de France\nClass: Moto3\nSession: Qualifying 
- Nr. 2
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T214600Z
@@ -245,7 +245,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240512T110000
 SUMMARY:[Moto3] RAC
 UID:35963173-847f-4759-b834-1c3aeb7f21f7@3596.org
-DESCRIPTION:Event: Grand Prix de France\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: Moto3\nSession: 
+ Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T214600Z

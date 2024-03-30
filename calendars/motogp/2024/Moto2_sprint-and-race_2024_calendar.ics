@@ -135,7 +135,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240512T121500
 SUMMARY:[Moto2] RAC
 UID:7f122c80-6dc2-4f85-a91e-3372bdc82b5b@7f12.org
-DESCRIPTION:Event: Grand Prix de France\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: Moto2\nSession: 
+ Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T210722Z

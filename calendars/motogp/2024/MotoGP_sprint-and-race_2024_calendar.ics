@@ -175,7 +175,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240511T150000
 SUMMARY:[MotoGP] SPR
 UID:bab2d896-b8a8-4242-a654-94ff67074355@bab2.org
-DESCRIPTION:Event: Grand Prix de France\nClass: MotoGP\nSession: Sprint
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoGP\nSession: 
+ Sprint
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T210722Z
@@ -184,7 +185,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240512T140000
 SUMMARY:[MotoGP] RAC
 UID:0b5de551-06f2-425a-896a-82b5f8aa8ac2@0b5d.org
-DESCRIPTION:Event: Grand Prix de France\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoGP\nSession: 
+ Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T210722Z

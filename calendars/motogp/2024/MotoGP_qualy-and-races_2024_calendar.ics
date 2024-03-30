@@ -264,8 +264,8 @@ DTSTART;TZID="UTC+02:00":20240511T105000
 DTEND;TZID="UTC+02:00":20240511T110500
 SUMMARY:[MotoGP] Q1
 UID:4591760b-c8e6-4361-8ad2-cf6cf4c470db@4591.org
-DESCRIPTION:Event: Grand Prix de France\nClass: MotoGP\nSession: Qualifying
-  Nr. 1
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoGP\nSession: 
+ Qualifying Nr. 1
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T214600Z
@@ -275,8 +275,8 @@ DTSTART;TZID="UTC+02:00":20240511T111500
 DTEND;TZID="UTC+02:00":20240511T113000
 SUMMARY:[MotoGP] Q2
 UID:4b7cc646-0e2c-47d1-ba66-852d55b1e20f@4b7c.org
-DESCRIPTION:Event: Grand Prix de France\nClass: MotoGP\nSession: Qualifying
-  Nr. 2
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoGP\nSession: 
+ Qualifying Nr. 2
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T214600Z
@@ -285,7 +285,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240511T150000
 SUMMARY:[MotoGP] SPR
 UID:6bb48a80-7859-40ca-a1f8-62fbb905f111@6bb4.org
-DESCRIPTION:Event: Grand Prix de France\nClass: MotoGP\nSession: Sprint
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoGP\nSession: 
+ Sprint
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T214600Z
@@ -294,7 +295,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240512T140000
 SUMMARY:[MotoGP] RAC
 UID:f591c81c-f1e0-4a3a-99ea-ab4956b1f8d9@f591.org
-DESCRIPTION:Event: Grand Prix de France\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoGP\nSession: 
+ Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T214600Z
