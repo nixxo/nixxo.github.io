@@ -6,7 +6,7 @@ TZID:UTC+01:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
@@ -15,130 +15,130 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20240323T115000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:a4edb449-862d-4901-9c5c-a83dd346cb44@a4ed.org
-DESCRIPTION:Event: Pirelli Catalunya Round\nClass: R3 bLU cRU 
- Champ\nSession: Race 1
+DTEND;TZID="UTC+01:00":20240323T121539
+SUMMARY:[R3 World Cup] Race 1
+UID:662bb926-0266-4819-8d6f-b6c827b3f84f@662b.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: R3 World Cup\nSession: 
+ Race 1
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2024
-DTSTAMP:20240212T204400Z
+DTSTAMP:20240330T100929Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20240324T115000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:15e430c3-1c28-4b6d-83c4-17fe5ca061ff@15e4.org
-DESCRIPTION:Event: Pirelli Catalunya Round\nClass: R3 bLU cRU 
- Champ\nSession: Race 2
+DTEND;TZID="UTC+01:00":20240324T120800
+SUMMARY:[R3 World Cup] Race 2
+UID:246a40c0-0729-4018-903a-17fba7465df0@246a.org
+DESCRIPTION:Event: Pirelli Catalunya Round\nClass: R3 World Cup\nSession: 
+ Race 2
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 URL:https://www.worldsbk.com/en/event/CAT/2024
-DTSTAMP:20240212T204400Z
+DTSTAMP:20240330T100929Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240420T115000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:6306ac0f-4dfd-45a7-9822-8fb33b1075de@6306.org
-DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 bLU cRU Champ\nSession: 
- Race 1
+SUMMARY:[R3 World Cup] Race 1
+UID:c60ac1e4-dafa-4426-8e0d-e3576702b15f@c60a.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 World Cup\nSession: Race 
+ 1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2024
-DTSTAMP:20240212T204402Z
+DTSTAMP:20240330T100930Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240421T115000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:a382f908-176d-4fcc-8344-ae1459ed1c9c@a382.org
-DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 bLU cRU Champ\nSession: 
- Race 2
+SUMMARY:[R3 World Cup] Race 2
+UID:72f9e0a7-6539-44ca-89d4-de0ac182063e@72f9.org
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: R3 World Cup\nSession: Race 
+ 2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2024
-DTSTAMP:20240212T204402Z
+DTSTAMP:20240330T100930Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240615T161500
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:217871d3-32d1-4051-a0b3-7a4620c839f6@2178.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
- Champ\nSession: Race 1
+SUMMARY:[R3 World Cup] Race 1
+UID:7b2733d0-2b83-4e62-a616-72c312434c2f@7b27.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 World 
+ Cup\nSession: Race 1
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2024
-DTSTAMP:20240212T204403Z
+DTSTAMP:20240330T100931Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240616T161500
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:ab4e97ca-4a4a-41ab-92e2-f682ba7803af@ab4e.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
- Champ\nSession: Race 2
+SUMMARY:[R3 World Cup] Race 2
+UID:677f9422-402c-442b-9abf-48db6a455fb1@677f.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 World 
+ Cup\nSession: Race 2
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2024
-DTSTAMP:20240212T204403Z
+DTSTAMP:20240330T100931Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20240713T115000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:3efb50a1-ce75-41b0-b45c-b78ca429ee89@3efb.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Champ\nSession:
-  Race 1
+SUMMARY:[R3 World Cup] Race 1
+UID:98ded24a-9dd6-469f-81e5-779a7406b638@98de.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 World Cup\nSession: 
+ Race 1
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2024
-DTSTAMP:20240212T204404Z
+DTSTAMP:20240330T100932Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20240714T115000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:97dc298c-c153-44bf-bf0c-3b02d74fda3d@97dc.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Champ\nSession:
-  Race 2
+SUMMARY:[R3 World Cup] Race 2
+UID:96913159-7506-48c0-8cee-4deb9ff23fef@9691.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 World Cup\nSession: 
+ Race 2
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2024
-DTSTAMP:20240212T204404Z
+DTSTAMP:20240330T100932Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240907T115000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:331273bf-263d-49b6-bb93-a2b85c6fe9ec@3312.org
-DESCRIPTION:Event: Motul French Round\nClass: R3 bLU cRU Champ\nSession: 
- Race 1
+SUMMARY:[R3 World Cup] Race 1
+UID:cc196434-71ba-48ab-bb11-8b928a259212@cc19.org
+DESCRIPTION:Event: Motul French Round\nClass: R3 World Cup\nSession: Race 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2024
-DTSTAMP:20240212T204408Z
+DTSTAMP:20240330T100936Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240908T115000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:0b077d0e-ad9f-4d2e-9169-b0eabbb44968@0b07.org
-DESCRIPTION:Event: Motul French Round\nClass: R3 bLU cRU Champ\nSession: 
- Race 2
+SUMMARY:[R3 World Cup] Race 2
+UID:d6d9a600-73f0-495a-8715-1bad3bd384a2@d6d9.org
+DESCRIPTION:Event: Motul French Round\nClass: R3 World Cup\nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2024
-DTSTAMP:20240212T204408Z
+DTSTAMP:20240330T100936Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240928T115000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:75c097e7-5e46-4fd8-a760-3e542d34efa0@75c0.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 bLU cRU Champ\nSession: 
- Race 1
+SUMMARY:[R3 World Cup] Race 1
+UID:8e88566b-8bef-41e4-ab8e-e2301ede5695@8e88.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 World Cup\nSession: Race 
+ 1
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2024
-DTSTAMP:20240212T204410Z
+DTSTAMP:20240330T100938Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240929T115000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:ee50c1de-b63b-4cb5-b0b9-523d6ecb2e6c@ee50.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 bLU cRU Champ\nSession: 
- Race 2
+SUMMARY:[R3 World Cup] Race 2
+UID:2483af3c-a59c-4d86-955c-a7ee425368fc@2483.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 World Cup\nSession: Race 
+ 2
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2024
-DTSTAMP:20240212T204410Z
+DTSTAMP:20240330T100938Z
 END:VEVENT
 END:VCALENDAR
