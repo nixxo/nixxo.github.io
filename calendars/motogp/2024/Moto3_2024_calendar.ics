@@ -868,8 +868,8 @@ DTSTART;TZID="UTC+02:00":20240830T090000
 DTEND;TZID="UTC+02:00":20240830T093500
 SUMMARY:[Moto3] FP
 UID:be17cd86-6a67-4132-a586-8aa9366022dc@be17.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Free 
- Practice
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: Free
+  Practice
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z
@@ -879,8 +879,8 @@ DTSTART;TZID="UTC+02:00":20240830T131500
 DTEND;TZID="UTC+02:00":20240830T135000
 SUMMARY:[Moto3] P1
 UID:8cace03a-24f1-41e2-8050-8f8fe7c17a93@8cac.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Practice 
- Nr. 1
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: 
+ Practice Nr. 1
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z
@@ -890,8 +890,8 @@ DTSTART;TZID="UTC+02:00":20240831T084000
 DTEND;TZID="UTC+02:00":20240831T091000
 SUMMARY:[Moto3] P2
 UID:0f4d4b2e-2424-458c-b8d1-fe474e7d42cc@0f4d.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Practice 
- Nr. 2
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: 
+ Practice Nr. 2
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z
@@ -901,8 +901,8 @@ DTSTART;TZID="UTC+02:00":20240831T125000
 DTEND;TZID="UTC+02:00":20240831T130500
 SUMMARY:[Moto3] Q1
 UID:2646b7c1-e207-4bd1-b92f-dcb51710fb84@2646.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Qualifying
-  Nr. 1
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z
@@ -912,8 +912,8 @@ DTSTART;TZID="UTC+02:00":20240831T131500
 DTEND;TZID="UTC+02:00":20240831T133000
 SUMMARY:[Moto3] Q2
 UID:76a73f9a-b85e-4d72-9e53-2b8eed4c8ba8@76a7.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Qualifying
-  Nr. 2
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z
@@ -922,7 +922,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240901T110000
 SUMMARY:[Moto3] RAC
 UID:75fc6b89-1beb-420a-a7f5-6c2a636c3936@75fc.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: Race
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z

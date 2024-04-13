@@ -593,7 +593,7 @@ DTSTART;TZID="UTC+02:00":20240831T105000
 DTEND;TZID="UTC+02:00":20240831T110500
 SUMMARY:[MotoGP] Q1
 UID:695710ba-9373-48c5-879f-9718dc68252f@6957.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: MotoGP\nSession: 
  Qualifying Nr. 1
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
@@ -604,7 +604,7 @@ DTSTART;TZID="UTC+02:00":20240831T111500
 DTEND;TZID="UTC+02:00":20240831T113000
 SUMMARY:[MotoGP] Q2
 UID:60822460-b25c-4f11-8cde-d07511e976de@6082.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: MotoGP\nSession: 
  Qualifying Nr. 2
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
@@ -614,7 +614,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240831T150000
 SUMMARY:[MotoGP] SPR
 UID:5b1a0f30-629c-4bbe-8607-ff1882ec69a3@5b1a.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: MotoGP\nSession: Sprint
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: MotoGP\nSession: 
+ Sprint
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T214603Z
@@ -623,7 +624,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240901T140000
 SUMMARY:[MotoGP] RAC
 UID:058018ce-2ef7-4f3a-b43b-e1096bc08da1@0580.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: MotoGP\nSession: 
+ Race
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T214603Z

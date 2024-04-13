@@ -212,7 +212,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240901T121500
 SUMMARY:[Moto2] RAC
 UID:4fbdb04c-43b4-451f-8454-8b1d87937d80@4fbd.org
-DESCRIPTION:Event: Gran Premio de Aragón\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto2\nSession: Race
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z
