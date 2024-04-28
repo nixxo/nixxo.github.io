@@ -24,7 +24,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -357,8 +357,8 @@ DTSTART;TZID="UTC+02:00":20240426T104500
 DTEND;TZID="UTC+02:00":20240426T113000
 SUMMARY:[MotoGP] FP1
 UID:0f3db60e-4664-48ba-87cb-9a87cb1d693b@0f3d.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Free 
- Practice Nr. 1
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Free Practice Nr. 1
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210721Z
@@ -368,7 +368,8 @@ DTSTART;TZID="UTC+02:00":20240426T150000
 DTEND;TZID="UTC+02:00":20240426T160000
 SUMMARY:[MotoGP] PR
 UID:cf37a318-b970-4933-9a60-2134aa67a1a0@cf37.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Practice
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Practice
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -378,8 +379,8 @@ DTSTART;TZID="UTC+02:00":20240427T101000
 DTEND;TZID="UTC+02:00":20240427T104000
 SUMMARY:[MotoGP] FP2
 UID:9e2ea874-4f50-4868-942d-bd90b61a585b@9e2e.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Free 
- Practice Nr. 2
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Free Practice Nr. 2
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -389,8 +390,8 @@ DTSTART;TZID="UTC+02:00":20240427T105000
 DTEND;TZID="UTC+02:00":20240427T110500
 SUMMARY:[MotoGP] Q1
 UID:494500e4-5a65-4ac7-9bee-4c048e2a5bed@4945.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -400,8 +401,8 @@ DTSTART;TZID="UTC+02:00":20240427T111500
 DTEND;TZID="UTC+02:00":20240427T113000
 SUMMARY:[MotoGP] Q2
 UID:0777d843-9f7f-4aa3-91d0-1fb966076a53@0777.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -410,7 +411,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240427T150000
 SUMMARY:[MotoGP] SPR
 UID:0462c30c-7182-45ad-baa0-3666477a2e4d@0462.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Sprint
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Sprint
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -420,7 +422,8 @@ DTSTART;TZID="UTC+02:00":20240428T094000
 DTEND;TZID="UTC+02:00":20240428T095000
 SUMMARY:[MotoGP] WUP
 UID:4cf588c0-80ef-4b0c-8eec-17c401ad2082@4cf5.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Warm Up
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Warm Up
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -429,7 +432,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240428T140000
 SUMMARY:[MotoGP] RAC
 UID:9ead3a80-ef88-49fb-b281-a475a6264014@9ead.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z

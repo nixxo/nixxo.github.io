@@ -24,7 +24,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -292,8 +292,8 @@ DTSTART;TZID="UTC+02:00":20240426T095000
 DTEND;TZID="UTC+02:00":20240426T103000
 SUMMARY:[Moto2] FP
 UID:c4160106-753d-4965-903d-8991e3020540@c416.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Free 
- Practice
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ Moto2\nSession: Free Practice
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210721Z
@@ -303,8 +303,8 @@ DTSTART;TZID="UTC+02:00":20240426T140500
 DTEND;TZID="UTC+02:00":20240426T144500
 SUMMARY:[Moto2] P1
 UID:905f4fb0-8c12-4389-99b7-7498159313ad@905f.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Practice 
- Nr. 1
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ Moto2\nSession: Practice Nr. 1
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -314,8 +314,8 @@ DTSTART;TZID="UTC+02:00":20240427T092500
 DTEND;TZID="UTC+02:00":20240427T095500
 SUMMARY:[Moto2] P2
 UID:791fcbb6-a800-4a45-955e-f0e80034c8cf@791f.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Practice 
- Nr. 2
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ Moto2\nSession: Practice Nr. 2
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -325,8 +325,8 @@ DTSTART;TZID="UTC+02:00":20240427T134500
 DTEND;TZID="UTC+02:00":20240427T140000
 SUMMARY:[Moto2] Q1
 UID:ebb4e4f5-bf80-4287-9c27-68fd457e0776@ebb4.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Qualifying
-  Nr. 1
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -336,8 +336,8 @@ DTSTART;TZID="UTC+02:00":20240427T141000
 DTEND;TZID="UTC+02:00":20240427T142500
 SUMMARY:[Moto2] Q2
 UID:f69ac3a5-1513-4bf2-85d7-551805ac3e7d@f69a.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Qualifying
-  Nr. 2
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -346,7 +346,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240428T121500
 SUMMARY:[Moto2] RAC
 UID:e496fc7e-e837-42a3-b056-64a239d80f2d@e496.org
-DESCRIPTION:Event: Gran Premio de España\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ Moto2\nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z

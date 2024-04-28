@@ -24,7 +24,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -158,7 +158,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240427T150000
 SUMMARY:[MotoGP] SPR
 UID:0462c30c-7182-45ad-baa0-3666477a2e4d@0462.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Sprint
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Sprint
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -167,7 +168,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240428T140000
 SUMMARY:[MotoGP] RAC
 UID:9ead3a80-ef88-49fb-b281-a475a6264014@9ead.org
-DESCRIPTION:Event: Gran Premio de España\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
+ MotoGP\nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
