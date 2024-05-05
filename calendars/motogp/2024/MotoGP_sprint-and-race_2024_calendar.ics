@@ -6,7 +6,7 @@ TZID:UTC+03:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0300
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+03:00
 END:STANDARD
 END:VTIMEZONE
@@ -15,7 +15,7 @@ TZID:UTC-05:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:-0500
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC-05:00
 END:STANDARD
 END:VTIMEZONE
@@ -97,7 +97,7 @@ DTEND;TZID="UTC+03:00":20240309T194500
 SUMMARY:[MotoGP] SPR
 UID:12c788a3-24a6-48cd-a968-363d8a6e2676@12c7.org
 DESCRIPTION:Event: Qatar Airways Grand Prix of Qatar\nClass: 
- MotoGP\nSession: Sprint
+ MotoGP\nSession: Tissot Sprint
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2023/event/Qatar
 DTSTAMP:20240205T210721Z
@@ -119,7 +119,7 @@ DTEND:20240323T160000Z
 SUMMARY:[MotoGP] SPR
 UID:c8ad6ccb-07d9-4d84-80b9-5e5a922b8e4d@c8ad.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: 
- MotoGP\nSession: Sprint
+ MotoGP\nSession: Tissot Sprint
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240205T210721Z
@@ -139,7 +139,7 @@ DTSTART;TZID="UTC-05:00":20240413T150000
 SUMMARY:[MotoGP] SPR
 UID:b3775f8b-1682-4704-b21f-f6761e195162@b377.org
 DESCRIPTION:Event: Red Bull Grand Prix of The Americas\nClass: 
- MotoGP\nSession: Sprint
+ MotoGP\nSession: Tissot Sprint
 LOCATION:Circuit Of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2023/event/Americas
 DTSTAMP:20240205T210721Z
@@ -159,7 +159,7 @@ DTSTART;TZID="UTC+02:00":20240427T150000
 SUMMARY:[MotoGP] SPR
 UID:0462c30c-7182-45ad-baa0-3666477a2e4d@0462.org
 DESCRIPTION:Event: Gran Premio Estrella Galicia 0\,0 de España\nClass: 
- MotoGP\nSession: Sprint
+ MotoGP\nSession: Tissot Sprint
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2023/event/España
 DTSTAMP:20240205T210722Z
@@ -179,7 +179,7 @@ DTSTART;TZID="UTC+02:00":20240511T150000
 SUMMARY:[MotoGP] SPR
 UID:bab2d896-b8a8-4242-a654-94ff67074355@bab2.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoGP\nSession: 
- Sprint
+ Tissot Sprint
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240205T210722Z
