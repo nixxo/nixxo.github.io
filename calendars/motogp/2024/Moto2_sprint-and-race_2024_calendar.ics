@@ -29,15 +29,6 @@ TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:UTC+06:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0600
-RDATE:19700101T000000
-TZNAME:UTC+06:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC+01:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
@@ -78,7 +69,7 @@ TZID:UTC+11:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -156,19 +147,10 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240602T121500
 SUMMARY:[Moto2] RAC
 UID:737a1e55-a41f-4723-86c6-3020a2ad7299@737a.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: Moto2\nSession: Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240205T210722Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240616T121500
-SUMMARY:[Moto2] RAC
-UID:46459b2e-1270-445e-8ab0-bb633497ac16@4645.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto2\nSession: Race
-LOCATION:Sokol International Racetrack - Almaty
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20240205T210723Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240630T121500
@@ -213,7 +195,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240901T121500
 SUMMARY:[Moto2] RAC
 UID:4fbdb04c-43b4-451f-8454-8b1d87937d80@4fbd.org
-DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto2\nSession: Race
+DESCRIPTION:Event: Gran Premio GoPro de Aragón\nClass: Moto2\nSession: Race
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T210725Z
@@ -260,8 +242,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20241020T121500
 SUMMARY:[Moto2] RAC
 UID:6dde61ce-e875-4736-bd86-be2548a0aa7d@6dde.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto2\nSession:
-  Race
+DESCRIPTION:Event: Qatar Airways Australian Motorcycle Grand Prix\nClass: 
+ Moto2\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20240205T210726Z

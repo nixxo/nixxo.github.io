@@ -29,15 +29,6 @@ TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:UTC+06:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0600
-RDATE:19700101T000000
-TZNAME:UTC+06:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC+01:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
@@ -78,7 +69,7 @@ TZID:UTC+11:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -289,8 +280,8 @@ DTSTART;TZID="UTC+02:00":20240601T125000
 DTEND;TZID="UTC+02:00":20240601T130500
 SUMMARY:[Moto3] Q1
 UID:615a3c28-c8b4-4e26-bc05-cf9781dbdef7@615a.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: Moto3\nSession: Qualifying 
- Nr. 1
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240205T214601Z
@@ -300,8 +291,8 @@ DTSTART;TZID="UTC+02:00":20240601T131500
 DTEND;TZID="UTC+02:00":20240601T133000
 SUMMARY:[Moto3] Q2
 UID:a9b62ce8-2cc3-4c66-a301-68af0b665a2d@a9b6.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: Moto3\nSession: Qualifying 
- Nr. 2
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240205T214601Z
@@ -310,40 +301,9 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240602T110000
 SUMMARY:[Moto3] RAC
 UID:06b694e5-314d-4977-bdfb-c514158df35d@06b6.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: Moto3\nSession: Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
-DTSTAMP:20240205T214601Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240615T125000
-DTEND;TZID="UTC+06:00":20240615T130500
-SUMMARY:[Moto3] Q1
-UID:87c4eba0-9647-40e1-871b-6dd00427e775@87c4.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Qualifying Nr. 1
-LOCATION:Sokol International Racetrack - Almaty
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20240205T214601Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240615T131500
-DTEND;TZID="UTC+06:00":20240615T133000
-SUMMARY:[Moto3] Q2
-UID:4f1549a7-a2b5-4d67-816c-45f5a8c12cb3@4f15.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Qualifying Nr. 2
-LOCATION:Sokol International Racetrack - Almaty
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20240205T214601Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240616T110000
-SUMMARY:[Moto3] RAC
-UID:009bc572-e7d3-43bf-964e-15e8b80318e4@009b.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: Race
-LOCATION:Sokol International Racetrack - Almaty
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
 DTSTAMP:20240205T214601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -476,7 +436,7 @@ DTSTART;TZID="UTC+02:00":20240831T125000
 DTEND;TZID="UTC+02:00":20240831T130500
 SUMMARY:[Moto3] Q1
 UID:b1759c5c-a88d-4be9-8173-30553ce8c02a@b175.org
-DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: 
+DESCRIPTION:Event: Gran Premio GoPro de Aragón\nClass: Moto3\nSession: 
  Qualifying Nr. 1
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
@@ -487,7 +447,7 @@ DTSTART;TZID="UTC+02:00":20240831T131500
 DTEND;TZID="UTC+02:00":20240831T133000
 SUMMARY:[Moto3] Q2
 UID:ceecd14e-7a14-42a8-af0e-1dcd2ed56b28@ceec.org
-DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: 
+DESCRIPTION:Event: Gran Premio GoPro de Aragón\nClass: Moto3\nSession: 
  Qualifying Nr. 2
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
@@ -497,7 +457,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240901T110000
 SUMMARY:[Moto3] RAC
 UID:82ae11c9-7cf0-4167-99ae-87ad52efb9af@82ae.org
-DESCRIPTION:Event: Gran Premio GoPro de Aragon\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: Gran Premio GoPro de Aragón\nClass: Moto3\nSession: Race
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2023/event/Spain
 DTSTAMP:20240205T214603Z
@@ -633,8 +593,8 @@ DTSTART;TZID="UTC+11:00":20241019T125000
 DTEND;TZID="UTC+11:00":20241019T130500
 SUMMARY:[Moto3] Q1
 UID:32bcd0af-e6c3-4327-8496-b63a78aa2f5c@32bc.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
-  Qualifying Nr. 1
+DESCRIPTION:Event: Qatar Airways Australian Motorcycle Grand Prix\nClass: 
+ Moto3\nSession: Qualifying Nr. 1
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20240205T214605Z
@@ -644,8 +604,8 @@ DTSTART;TZID="UTC+11:00":20241019T131500
 DTEND;TZID="UTC+11:00":20241019T133000
 SUMMARY:[Moto3] Q2
 UID:7ab1afc5-6eca-462b-b96a-dbb023e36c75@7ab1.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
-  Qualifying Nr. 2
+DESCRIPTION:Event: Qatar Airways Australian Motorcycle Grand Prix\nClass: 
+ Moto3\nSession: Qualifying Nr. 2
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20240205T214605Z
@@ -654,8 +614,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20241020T110000
 SUMMARY:[Moto3] RAC
 UID:b34fbb6a-5970-4477-b3e8-9ecbff3f7f23@b34f.org
-DESCRIPTION:Event: Australian Motorcycle Grand Prix\nClass: Moto3\nSession:
-  Race
+DESCRIPTION:Event: Qatar Airways Australian Motorcycle Grand Prix\nClass: 
+ Moto3\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2023/event/Australia
 DTSTAMP:20240205T214605Z

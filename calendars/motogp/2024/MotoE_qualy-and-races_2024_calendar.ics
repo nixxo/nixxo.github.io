@@ -6,7 +6,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -54,8 +54,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Portugal
 DTSTAMP:20240316T164210Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20240510T161500
-DTEND;TZID="UTC+02:00":20240510T162500
+DTSTART;TZID="UTC+02:00":20240510T170500
+DTEND;TZID="UTC+02:00":20240510T171500
 SUMMARY:[MotoE] Q1
 UID:7105f1a5-d366-4168-ad96-2226d1e4b99d@7105.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
@@ -65,8 +65,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/France
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20240510T163500
-DTEND;TZID="UTC+02:00":20240510T164500
+DTSTART;TZID="UTC+02:00":20240510T172500
+DTEND;TZID="UTC+02:00":20240510T173500
 SUMMARY:[MotoE] Q2
 UID:d550ea98-089f-4d01-ba32-03d376333b60@d550.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
@@ -142,8 +142,8 @@ DTSTART;TZID="UTC+02:00":20240531T161500
 DTEND;TZID="UTC+02:00":20240531T162500
 SUMMARY:[MotoE] Q1
 UID:e7be2a8a-e9c0-43e6-bc27-15d2eaec8604@e7be.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: MotoE\nSession: Qualifying 
- Nr. 1
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: 
+ Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240413T190903Z
@@ -153,8 +153,8 @@ DTSTART;TZID="UTC+02:00":20240531T163500
 DTEND;TZID="UTC+02:00":20240531T164500
 SUMMARY:[MotoE] Q2
 UID:5a6fcb12-d28d-40c6-aadb-c03fa760df54@5a6f.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: MotoE\nSession: Qualifying 
- Nr. 2
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: 
+ Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240413T190903Z
@@ -163,7 +163,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240601T121500
 SUMMARY:[MotoE] RAC1
 UID:3dcda0aa-3a90-4a1a-b134-49d2d2565941@3dcd.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: MotoE\nSession: Race Nr.1
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: Race
+  Nr.1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240413T190903Z
@@ -172,7 +173,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240601T161000
 SUMMARY:[MotoE] RAC2
 UID:5be8915f-776a-45fa-a2e4-e768f9d925ef@5be8.org
-DESCRIPTION:Event: Gran Premio d'Italia\nClass: MotoE\nSession: Race Nr.2
+DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: Race
+  Nr.2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240413T190903Z
