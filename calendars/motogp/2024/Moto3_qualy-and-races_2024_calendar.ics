@@ -38,12 +38,12 @@ TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:UTC+05:30
+TZID:UTC+06:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
-TZOFFSETTO:+0530
-RDATE:19700101T000000
-TZNAME:UTC+05:30
+TZOFFSETTO:+0600
+DTSTART:19700101T000000
+TZNAME:UTC+06:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
@@ -495,35 +495,35 @@ URL:https://www.motogp.com/en/calendar/2023/event/San Marino
 DTSTAMP:20240205T214604Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20240921T132000
-DTEND;TZID="UTC+05:30":20240921T133500
+DTSTART;TZID="UTC+06:00":20240921T135000
+DTEND;TZID="UTC+06:00":20240921T140500
 SUMMARY:[Moto3] Q1
-UID:419dee08-6aad-4659-a952-3d8249179112@419d.org
-DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Qualifying 
- Nr. 1
-LOCATION:Buddh International Circuit - 
-URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20240205T214604Z
+UID:6284bc15-3be9-4ed4-99ee-010acb02f025@6284.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
+ Qualifying Nr. 1
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20240921T134500
-DTEND;TZID="UTC+05:30":20240921T140000
+DTSTART;TZID="UTC+06:00":20240921T141500
+DTEND;TZID="UTC+06:00":20240921T143000
 SUMMARY:[Moto3] Q2
-UID:8dece94f-f485-4ead-8c7b-258e7012925c@8dec.org
-DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Qualifying 
- Nr. 2
-LOCATION:Buddh International Circuit - 
-URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20240205T214604Z
+UID:1e4b72b2-5eb3-413c-894b-fd5e68c7602a@1e4b.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
+ Qualifying Nr. 2
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20240922T123000
+DTSTART;TZID="UTC+06:00":20240922T130000
 SUMMARY:[Moto3] RAC
-UID:cd0d9f0a-a698-4977-bf0b-bd83ef087e18@cd0d.org
-DESCRIPTION:Event: Grand Prix of India\nClass: Moto3\nSession: Race
-LOCATION:Buddh International Circuit - 
-URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20240205T214604Z
+UID:bc755d1a-09e4-4c18-ab12-61bcdbacf534@bc75.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: Race
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20240928T125000

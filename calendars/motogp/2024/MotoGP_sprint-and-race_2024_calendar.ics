@@ -38,12 +38,12 @@ TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:UTC+05:30
+TZID:UTC+06:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
-TZOFFSETTO:+0530
-RDATE:19700101T000000
-TZNAME:UTC+05:30
+TZOFFSETTO:+0600
+DTSTART:19700101T000000
+TZNAME:UTC+06:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
@@ -344,23 +344,23 @@ URL:https://www.motogp.com/en/calendar/2023/event/San Marino
 DTSTAMP:20240205T210725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20240921T153000
+DTSTART;TZID="UTC+06:00":20240921T160000
 SUMMARY:[MotoGP] SPR
-UID:66056e70-b718-46b9-9d71-ec40fabd836f@6605.org
-DESCRIPTION:Event: Grand Prix of India\nClass: MotoGP\nSession: Tissot 
- Sprint
-LOCATION:Buddh International Circuit - 
-URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20240205T210726Z
+UID:4f195f6b-8f3d-4231-ac41-619a60b6d9c6@4f19.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: MotoGP\nSession: Tissot
+  Sprint
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+05:30":20240922T153000
+DTSTART;TZID="UTC+06:00":20240922T160000
 SUMMARY:[MotoGP] RAC
-UID:a986d61d-f6ae-42ea-af6f-b799b1b8cc35@a986.org
-DESCRIPTION:Event: Grand Prix of India\nClass: MotoGP\nSession: Race
-LOCATION:Buddh International Circuit - 
-URL:https://www.motogp.com/en/calendar/2023/event/India
-DTSTAMP:20240205T210726Z
+UID:85f43a57-02fa-4a42-90a7-5330ffadca66@85f4.org
+DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: MotoGP\nSession: Race
+LOCATION:Sokol International Racetrack - Almaty
+URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
+DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20240928T150000
