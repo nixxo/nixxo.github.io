@@ -435,6 +435,43 @@ URL:https://www.worldsbk.com/en/event/ARA/2024
 DTSTAMP:20240212T203818Z
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241012T110000
+DTEND;TZID="UTC+01:00":20241012T111500
+SUMMARY:[WorldSBK] Superpole
+UID:daa774b1-7a7f-4bbe-a344-3b088e9cd707@daa7.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Superpole
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241012T140000
+SUMMARY:[WorldSBK] Race 1
+UID:86a6fb20-a34a-4860-a04e-8432aee0f26a@86a6.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241013T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:5701dce3-2f87-429f-b6b5-146063b3beb9@5701.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Superpole Race
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241013T140000
+SUMMARY:[WorldSBK] Race 2
+UID:3a9b8dd1-e5b3-4087-8980-77d1acd1b73c@3a9b.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20241019T110000
 DTEND;TZID="UTC+02:00":20241019T111500
 SUMMARY:[WorldSBK] Superpole

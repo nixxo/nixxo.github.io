@@ -98,6 +98,24 @@ URL:https://www.worldsbk.com/en/event/CRE/2024
 DTSTAMP:20240212T204409Z
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241012T124500
+SUMMARY:[WorldWCR] Race 1
+UID:6bd9c55a-2ca0-4943-a24f-9151a1433a1b@6bd9.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldWCR\nSession: Race 1
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241013T124500
+SUMMARY:[WorldWCR] Race 2
+UID:198dc7f1-3a99-41e9-bc2d-a11ac43662b2@198d.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldWCR\nSession: Race 2
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20241019T115000
 SUMMARY:[WorldWCR] Race 1
 UID:ea298ced-b941-43a7-beef-3b51862b09e5@ea29.org

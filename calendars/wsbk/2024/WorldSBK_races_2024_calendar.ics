@@ -225,6 +225,24 @@ URL:https://www.worldsbk.com/en/event/ARA/2024
 DTSTAMP:20240212T204410Z
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241012T140000
+SUMMARY:[WorldSBK] Race 1
+UID:86a6fb20-a34a-4860-a04e-8432aee0f26a@86a6.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 1
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241013T140000
+SUMMARY:[WorldSBK] Race 2
+UID:3a9b8dd1-e5b3-4087-8980-77d1acd1b73c@3a9b.org
+DESCRIPTION:Event: Estoril Round\nClass: WorldSBK\nSession: Race 2
+LOCATION:Circuito Estoril\, Estoril\, Portugal
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240607T120435Z
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20241019T140000
 SUMMARY:[WorldSBK] Race 1
 UID:b24548e4-830f-431d-83a0-37942e55d5c8@b245.org
