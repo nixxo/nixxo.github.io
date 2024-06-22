@@ -42,7 +42,7 @@ TZID:UTC+06:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0600
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+06:00
 END:STANDARD
 END:VTIMEZONE
@@ -78,7 +78,7 @@ TZID:UTC+07:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0700
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+07:00
 END:STANDARD
 END:VTIMEZONE
@@ -932,8 +932,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/San Marino
 DTSTAMP:20240205T210725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240920T100000
-DTEND;TZID="UTC+06:00":20240920T105000
+DTSTART;TZID="UTC+06:00":20240920T090000
+DTEND;TZID="UTC+06:00":20240920T095000
 SUMMARY:[Moto3] FP
 UID:1be5e46b-3d42-492a-9258-90e7e6cd8df6@1be5.org
 DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: Free 
@@ -943,8 +943,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
 DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240920T141500
-DTEND;TZID="UTC+06:00":20240920T150500
+DTSTART;TZID="UTC+06:00":20240920T131500
+DTEND;TZID="UTC+06:00":20240920T140500
 SUMMARY:[Moto3] P1
 UID:902ca13f-bdda-4959-b335-cdd9bd0fc6c0@902c.org
 DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
@@ -954,8 +954,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
 DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240921T094000
-DTEND;TZID="UTC+06:00":20240921T101000
+DTSTART;TZID="UTC+06:00":20240921T084000
+DTEND;TZID="UTC+06:00":20240921T091000
 SUMMARY:[Moto3] P2
 UID:068e1e83-459e-4ff0-8fe8-ba8459954225@068e.org
 DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
@@ -965,8 +965,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
 DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240921T135000
-DTEND;TZID="UTC+06:00":20240921T140500
+DTSTART;TZID="UTC+06:00":20240921T125000
+DTEND;TZID="UTC+06:00":20240921T130500
 SUMMARY:[Moto3] Q1
 UID:6284bc15-3be9-4ed4-99ee-010acb02f025@6284.org
 DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
@@ -976,8 +976,8 @@ URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
 DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240921T141500
-DTEND;TZID="UTC+06:00":20240921T143000
+DTSTART;TZID="UTC+06:00":20240921T131500
+DTEND;TZID="UTC+06:00":20240921T133000
 SUMMARY:[Moto3] Q2
 UID:1e4b72b2-5eb3-413c-894b-fd5e68c7602a@1e4b.org
 DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
@@ -987,7 +987,7 @@ URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
 DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240922T130000
+DTSTART;TZID="UTC+06:00":20240922T110000
 SUMMARY:[Moto3] RAC
 UID:bc755d1a-09e4-4c18-ab12-61bcdbacf534@bc75.org
 DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: Race
@@ -1194,7 +1194,7 @@ DTSTART;TZID="UTC+07:00":20241025T090000
 DTEND;TZID="UTC+07:00":20241025T093500
 SUMMARY:[Moto3] FP
 UID:1156ce13-14ab-4fef-b2b0-c2425b9ff85a@1156.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Free 
+DESCRIPTION:Event: PT Grand Prix of Thailand\nClass: Moto3\nSession: Free 
  Practice
 LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
@@ -1205,8 +1205,8 @@ DTSTART;TZID="UTC+07:00":20241025T131500
 DTEND;TZID="UTC+07:00":20241025T135000
 SUMMARY:[Moto3] P1
 UID:fe02d16c-1f36-4ba1-8767-d62f5aecfea2@fe02.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Practice 
- Nr. 1
+DESCRIPTION:Event: PT Grand Prix of Thailand\nClass: Moto3\nSession: 
+ Practice Nr. 1
 LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
 DTSTAMP:20240205T210727Z
@@ -1216,8 +1216,8 @@ DTSTART;TZID="UTC+07:00":20241026T084000
 DTEND;TZID="UTC+07:00":20241026T091000
 SUMMARY:[Moto3] P2
 UID:67f7d011-744e-4108-8a26-84390031c57a@67f7.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Practice 
- Nr. 2
+DESCRIPTION:Event: PT Grand Prix of Thailand\nClass: Moto3\nSession: 
+ Practice Nr. 2
 LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
 DTSTAMP:20240205T210727Z
@@ -1227,7 +1227,7 @@ DTSTART;TZID="UTC+07:00":20241026T125000
 DTEND;TZID="UTC+07:00":20241026T130500
 SUMMARY:[Moto3] Q1
 UID:7237a180-bf92-4304-a473-1d8c3ee0d011@7237.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: 
+DESCRIPTION:Event: PT Grand Prix of Thailand\nClass: Moto3\nSession: 
  Qualifying Nr. 1
 LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
@@ -1238,7 +1238,7 @@ DTSTART;TZID="UTC+07:00":20241026T131500
 DTEND;TZID="UTC+07:00":20241026T133000
 SUMMARY:[Moto3] Q2
 UID:6e25b793-bf51-4a09-99e8-aeed8afeaf37@6e25.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: 
+DESCRIPTION:Event: PT Grand Prix of Thailand\nClass: Moto3\nSession: 
  Qualifying Nr. 2
 LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
@@ -1248,7 +1248,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20241027T120000
 SUMMARY:[Moto3] RAC
 UID:978826f3-6a7b-4dd7-a36c-cdaa628e32b5@9788.org
-DESCRIPTION:Event: OR Thailand Grand Prix\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: PT Grand Prix of Thailand\nClass: Moto3\nSession: Race
 LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2023/event/Thailand
 DTSTAMP:20240205T210727Z

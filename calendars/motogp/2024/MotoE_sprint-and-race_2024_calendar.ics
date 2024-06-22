@@ -92,6 +92,24 @@ URL:https://www.motogp.com/en/calendar/2023/event/Italy
 DTSTAMP:20240413T190903Z
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240629T121500
+SUMMARY:[MotoE] RAC1
+UID:6814e99d-cf1f-4295-ae1c-80511b562793@6814.org
+DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.1
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+DTSTAMP:20240622T121452Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20240629T161000
+SUMMARY:[MotoE] RAC2
+UID:d9286a3c-c531-4bea-8acc-50554587606c@d928.org
+DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.2
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+DTSTAMP:20240622T121452Z
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240706T121500
 SUMMARY:[MotoE] RAC1
 UID:a1e9fe6e-3adb-4073-b465-ac37a093d5e4@a1e9.org
