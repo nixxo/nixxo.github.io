@@ -38,15 +38,6 @@ TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:UTC+06:00
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0600
-RDATE:19700101T000000
-TZNAME:UTC+06:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:UTC+08:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
@@ -504,37 +495,6 @@ DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2023/event/San Marino
 DTSTAMP:20240205T214604Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240921T125000
-DTEND;TZID="UTC+06:00":20240921T130500
-SUMMARY:[Moto3] Q1
-UID:6284bc15-3be9-4ed4-99ee-010acb02f025@6284.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Qualifying Nr. 1
-LOCATION:Sokol International Racetrack - Almaty
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20240531T072337Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240921T131500
-DTEND;TZID="UTC+06:00":20240921T133000
-SUMMARY:[Moto3] Q2
-UID:1e4b72b2-5eb3-413c-894b-fd5e68c7602a@1e4b.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: 
- Qualifying Nr. 2
-LOCATION:Sokol International Racetrack - Almaty
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20240531T072337Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+06:00":20240922T110000
-SUMMARY:[Moto3] RAC
-UID:bc755d1a-09e4-4c18-ab12-61bcdbacf534@bc75.org
-DESCRIPTION:Event: Grand Prix of Kazakhstan\nClass: Moto3\nSession: Race
-LOCATION:Sokol International Racetrack - Almaty
-URL:https://www.motogp.com/en/calendar/2023/event/Kazakhstan
-DTSTAMP:20240531T072337Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20240928T125000
