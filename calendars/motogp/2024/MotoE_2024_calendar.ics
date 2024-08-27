@@ -6,7 +6,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -18,7 +18,8 @@ UID:3159757b-abe1-4e7c-a204-a11c69cba7c6@3159.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
   Practice Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
-URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+URL:https://www.motogp.com/en/calendar/2024/event/portugal/bccf48d6-3242-
+ 4827-95df-54a2048521c3
 DTSTAMP:20240316T164210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -29,7 +30,8 @@ UID:4dcb397b-c6f2-4c3f-a885-4046e1b47e28@4dcb.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
   Practice Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
-URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+URL:https://www.motogp.com/en/calendar/2024/event/portugal/bccf48d6-3242-
+ 4827-95df-54a2048521c3
 DTSTAMP:20240316T164210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -40,7 +42,8 @@ UID:9ae67197-66c0-48bf-adea-6bff89156f51@9ae6.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
   Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
-URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+URL:https://www.motogp.com/en/calendar/2024/event/portugal/bccf48d6-3242-
+ 4827-95df-54a2048521c3
 DTSTAMP:20240316T164210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +54,8 @@ UID:71b36790-1096-4fc0-ab33-5968883aea26@71b3.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
   Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
-URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+URL:https://www.motogp.com/en/calendar/2024/event/portugal/bccf48d6-3242-
+ 4827-95df-54a2048521c3
 DTSTAMP:20240316T164210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -61,7 +65,8 @@ UID:6480877e-e9e4-46cb-b945-12fb89fcd175@6480.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
   Race Nr.1
 LOCATION:Autódromo Internacional do Algarve - Portimão
-URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+URL:https://www.motogp.com/en/calendar/2024/event/portugal/bccf48d6-3242-
+ 4827-95df-54a2048521c3
 DTSTAMP:20240316T164210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -72,7 +77,8 @@ UID:e3d30ba5-30de-42df-979b-fd6f92e95416@e3d3.org
 DESCRIPTION:Event: Grande Prémio Tissot de Portugal\nClass: MotoE\nSession:
   Race Nr.2
 LOCATION:Autódromo Internacional do Algarve - Portimão
-URL:https://www.motogp.com/en/calendar/2023/event/Portugal
+URL:https://www.motogp.com/en/calendar/2024/event/portugal/bccf48d6-3242-
+ 4827-95df-54a2048521c3
 DTSTAMP:20240316T164210Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83,7 +89,8 @@ UID:74f86872-3773-4060-a0c9-2b4fc874bb3a@74f8.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
  Practice Nr. 1
 LOCATION:Le Mans - Le Mans
-URL:https://www.motogp.com/en/calendar/2023/event/France
+URL:https://www.motogp.com/en/calendar/2024/event/france/8f6bd8cf-b9df-
+ 4c46-a888-b22313aab00a
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +101,8 @@ UID:c2db2000-6ebd-431c-ab65-fb8e574a8e66@c2db.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
  Practice Nr. 2
 LOCATION:Le Mans - Le Mans
-URL:https://www.motogp.com/en/calendar/2023/event/France
+URL:https://www.motogp.com/en/calendar/2024/event/france/8f6bd8cf-b9df-
+ 4c46-a888-b22313aab00a
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -105,7 +113,8 @@ UID:7105f1a5-d366-4168-ad96-2226d1e4b99d@7105.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
  Qualifying Nr. 1
 LOCATION:Le Mans - Le Mans
-URL:https://www.motogp.com/en/calendar/2023/event/France
+URL:https://www.motogp.com/en/calendar/2024/event/france/8f6bd8cf-b9df-
+ 4c46-a888-b22313aab00a
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +125,8 @@ UID:d550ea98-089f-4d01-ba32-03d376333b60@d550.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
  Qualifying Nr. 2
 LOCATION:Le Mans - Le Mans
-URL:https://www.motogp.com/en/calendar/2023/event/France
+URL:https://www.motogp.com/en/calendar/2024/event/france/8f6bd8cf-b9df-
+ 4c46-a888-b22313aab00a
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +136,8 @@ UID:d5f8aed4-6f92-4cf5-943c-f7b7f694d5c8@d5f8.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
  Race Nr.1
 LOCATION:Le Mans - Le Mans
-URL:https://www.motogp.com/en/calendar/2023/event/France
+URL:https://www.motogp.com/en/calendar/2024/event/france/8f6bd8cf-b9df-
+ 4c46-a888-b22313aab00a
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -136,7 +147,8 @@ UID:d1b5652b-be9c-4bfc-8216-248a219400c7@d1b5.org
 DESCRIPTION:Event: Michelin® Grand Prix de France\nClass: MotoE\nSession: 
  Race Nr.2
 LOCATION:Le Mans - Le Mans
-URL:https://www.motogp.com/en/calendar/2023/event/France
+URL:https://www.motogp.com/en/calendar/2024/event/france/8f6bd8cf-b9df-
+ 4c46-a888-b22313aab00a
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +159,8 @@ UID:11fdbe5a-8c08-435b-b568-089f0ecc7249@11fd.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Practice Nr. 1
 LOCATION:Circuit de Barcelona-Catalunya - 
-URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+URL:https://www.motogp.com/en/calendar/2024/event/catalunya/1661ac30-301d-
+ 41ab-906f-e11e591540fc
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -158,7 +171,8 @@ UID:0edcbc79-5381-408a-b6a0-107ec81689aa@0edc.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Practice Nr. 2
 LOCATION:Circuit de Barcelona-Catalunya - 
-URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+URL:https://www.motogp.com/en/calendar/2024/event/catalunya/1661ac30-301d-
+ 41ab-906f-e11e591540fc
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -169,7 +183,8 @@ UID:5bb9e14c-8071-422d-969a-f15daced7813@5bb9.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Qualifying Nr. 1
 LOCATION:Circuit de Barcelona-Catalunya - 
-URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+URL:https://www.motogp.com/en/calendar/2024/event/catalunya/1661ac30-301d-
+ 41ab-906f-e11e591540fc
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +195,8 @@ UID:a18a9803-cf72-4256-aa07-c9e784b62d5d@a18a.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Qualifying Nr. 2
 LOCATION:Circuit de Barcelona-Catalunya - 
-URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+URL:https://www.motogp.com/en/calendar/2024/event/catalunya/1661ac30-301d-
+ 41ab-906f-e11e591540fc
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -190,7 +206,8 @@ UID:124b4f2d-a0c0-4a8b-9601-c063eb9fa8e9@124b.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Race Nr.1
 LOCATION:Circuit de Barcelona-Catalunya - 
-URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+URL:https://www.motogp.com/en/calendar/2024/event/catalunya/1661ac30-301d-
+ 41ab-906f-e11e591540fc
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -200,7 +217,8 @@ UID:e66e3252-63f6-4e37-80fd-25b65959502a@e66e.org
 DESCRIPTION:Event: Gran Premi Monster Energy de Catalunya\nClass: 
  MotoE\nSession: Race Nr.2
 LOCATION:Circuit de Barcelona-Catalunya - 
-URL:https://www.motogp.com/en/calendar/2023/event/Catalunya
+URL:https://www.motogp.com/en/calendar/2024/event/catalunya/1661ac30-301d-
+ 41ab-906f-e11e591540fc
 DTSTAMP:20240413T190902Z
 END:VEVENT
 BEGIN:VEVENT
@@ -211,7 +229,8 @@ UID:932e7a51-c147-4566-b1be-5a53bc65ad0c@932e.org
 DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: 
  Practice Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
-URL:https://www.motogp.com/en/calendar/2023/event/Italy
+URL:https://www.motogp.com/en/calendar/2024/event/italy/5a1cca13-bcdb-4ccc-
+ a6be-0df2f83d64ef
 DTSTAMP:20240413T190903Z
 END:VEVENT
 BEGIN:VEVENT
@@ -222,7 +241,8 @@ UID:2fb18b2f-99fb-49b8-8686-8ed449bd42c7@2fb1.org
 DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: 
  Practice Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
-URL:https://www.motogp.com/en/calendar/2023/event/Italy
+URL:https://www.motogp.com/en/calendar/2024/event/italy/5a1cca13-bcdb-4ccc-
+ a6be-0df2f83d64ef
 DTSTAMP:20240413T190903Z
 END:VEVENT
 BEGIN:VEVENT
@@ -233,7 +253,8 @@ UID:e7be2a8a-e9c0-43e6-bc27-15d2eaec8604@e7be.org
 DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: 
  Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
-URL:https://www.motogp.com/en/calendar/2023/event/Italy
+URL:https://www.motogp.com/en/calendar/2024/event/italy/5a1cca13-bcdb-4ccc-
+ a6be-0df2f83d64ef
 DTSTAMP:20240413T190903Z
 END:VEVENT
 BEGIN:VEVENT
@@ -244,7 +265,8 @@ UID:5a6fcb12-d28d-40c6-aadb-c03fa760df54@5a6f.org
 DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: 
  Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
-URL:https://www.motogp.com/en/calendar/2023/event/Italy
+URL:https://www.motogp.com/en/calendar/2024/event/italy/5a1cca13-bcdb-4ccc-
+ a6be-0df2f83d64ef
 DTSTAMP:20240413T190903Z
 END:VEVENT
 BEGIN:VEVENT
@@ -254,7 +276,8 @@ UID:5be8915f-776a-45fa-a2e4-e768f9d925ef@5be8.org
 DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: Race
   Nr.2
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
-URL:https://www.motogp.com/en/calendar/2023/event/Italy
+URL:https://www.motogp.com/en/calendar/2024/event/italy/5a1cca13-bcdb-4ccc-
+ a6be-0df2f83d64ef
 DTSTAMP:20240413T190903Z
 END:VEVENT
 BEGIN:VEVENT
@@ -264,7 +287,8 @@ UID:3dcda0aa-3a90-4a1a-b134-49d2d2565941@3dcd.org
 DESCRIPTION:Event: Gran Premio d’Italia Brembo\nClass: MotoE\nSession: Race
   Nr.1
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
-URL:https://www.motogp.com/en/calendar/2023/event/Italy
+URL:https://www.motogp.com/en/calendar/2024/event/italy/5a1cca13-bcdb-4ccc-
+ a6be-0df2f83d64ef
 DTSTAMP:20240413T190903Z
 END:VEVENT
 BEGIN:VEVENT
@@ -274,7 +298,8 @@ SUMMARY:[MotoE] P1
 UID:6a8eb05a-3b64-4407-9d77-f96efe2f40e9@6a8e.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Practice Nr. 1
 LOCATION:TT Circuit Assen - Assen
-URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+URL:https://www.motogp.com/en/calendar/2024/event/netherlands/5405fac7-
+ b6a4-47a9-b2bf-37e1f22551e3
 DTSTAMP:20240622T121452Z
 END:VEVENT
 BEGIN:VEVENT
@@ -284,7 +309,8 @@ SUMMARY:[MotoE] P2
 UID:63d90c0e-30cd-43a4-82f4-55fc32e16baa@63d9.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Practice Nr. 2
 LOCATION:TT Circuit Assen - Assen
-URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+URL:https://www.motogp.com/en/calendar/2024/event/netherlands/5405fac7-
+ b6a4-47a9-b2bf-37e1f22551e3
 DTSTAMP:20240622T121452Z
 END:VEVENT
 BEGIN:VEVENT
@@ -294,7 +320,8 @@ SUMMARY:[MotoE] Q1
 UID:babcff90-46ec-452b-bddf-2d7f517f86f9@babc.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Qualifying Nr. 1
 LOCATION:TT Circuit Assen - Assen
-URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+URL:https://www.motogp.com/en/calendar/2024/event/netherlands/5405fac7-
+ b6a4-47a9-b2bf-37e1f22551e3
 DTSTAMP:20240622T121452Z
 END:VEVENT
 BEGIN:VEVENT
@@ -304,7 +331,8 @@ SUMMARY:[MotoE] Q2
 UID:57f35e63-bb35-40c6-819f-32477d90d40e@57f3.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Qualifying Nr. 2
 LOCATION:TT Circuit Assen - Assen
-URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+URL:https://www.motogp.com/en/calendar/2024/event/netherlands/5405fac7-
+ b6a4-47a9-b2bf-37e1f22551e3
 DTSTAMP:20240622T121452Z
 END:VEVENT
 BEGIN:VEVENT
@@ -313,7 +341,8 @@ SUMMARY:[MotoE] RAC1
 UID:6814e99d-cf1f-4295-ae1c-80511b562793@6814.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.1
 LOCATION:TT Circuit Assen - Assen
-URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+URL:https://www.motogp.com/en/calendar/2024/event/netherlands/5405fac7-
+ b6a4-47a9-b2bf-37e1f22551e3
 DTSTAMP:20240622T121452Z
 END:VEVENT
 BEGIN:VEVENT
@@ -322,7 +351,8 @@ SUMMARY:[MotoE] RAC2
 UID:d9286a3c-c531-4bea-8acc-50554587606c@d928.org
 DESCRIPTION:Event: Motul TT Assen\nClass: MotoE\nSession: Race Nr.2
 LOCATION:TT Circuit Assen - Assen
-URL:https://www.motogp.com/en/calendar/2023/event/Netherlands
+URL:https://www.motogp.com/en/calendar/2024/event/netherlands/5405fac7-
+ b6a4-47a9-b2bf-37e1f22551e3
 DTSTAMP:20240622T121452Z
 END:VEVENT
 BEGIN:VEVENT
@@ -333,7 +363,8 @@ UID:194fe6bb-67b4-4449-aa0b-5cef3734c012@194f.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
  MotoE\nSession: Practice Nr. 1
 LOCATION:Sachsenring - Oberlungwitz
-URL:https://www.motogp.com/en/calendar/2023/event/Germany
+URL:https://www.motogp.com/en/calendar/2024/event/germany/64361261-cc3f-
+ 4a04-9548-6c66a0d10bc1
 DTSTAMP:20240413T190904Z
 END:VEVENT
 BEGIN:VEVENT
@@ -344,7 +375,8 @@ UID:27fe29d0-e913-4956-b415-231d59543d97@27fe.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
  MotoE\nSession: Practice Nr. 2
 LOCATION:Sachsenring - Oberlungwitz
-URL:https://www.motogp.com/en/calendar/2023/event/Germany
+URL:https://www.motogp.com/en/calendar/2024/event/germany/64361261-cc3f-
+ 4a04-9548-6c66a0d10bc1
 DTSTAMP:20240413T190904Z
 END:VEVENT
 BEGIN:VEVENT
@@ -355,7 +387,8 @@ UID:9c53e670-ff88-49ae-9bf0-b4007f9a242c@9c53.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
  MotoE\nSession: Qualifying Nr. 1
 LOCATION:Sachsenring - Oberlungwitz
-URL:https://www.motogp.com/en/calendar/2023/event/Germany
+URL:https://www.motogp.com/en/calendar/2024/event/germany/64361261-cc3f-
+ 4a04-9548-6c66a0d10bc1
 DTSTAMP:20240413T190904Z
 END:VEVENT
 BEGIN:VEVENT
@@ -366,7 +399,8 @@ UID:80e21ecb-097c-40c3-931c-c8d027ca294d@80e2.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
  MotoE\nSession: Qualifying Nr. 2
 LOCATION:Sachsenring - Oberlungwitz
-URL:https://www.motogp.com/en/calendar/2023/event/Germany
+URL:https://www.motogp.com/en/calendar/2024/event/germany/64361261-cc3f-
+ 4a04-9548-6c66a0d10bc1
 DTSTAMP:20240413T190904Z
 END:VEVENT
 BEGIN:VEVENT
@@ -377,7 +411,8 @@ UID:a1e9fe6e-3adb-4073-b465-ac37a093d5e4@a1e9.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
  MotoE\nSession: Race Nr.1
 LOCATION:Sachsenring - Oberlungwitz
-URL:https://www.motogp.com/en/calendar/2023/event/Germany
+URL:https://www.motogp.com/en/calendar/2024/event/germany/64361261-cc3f-
+ 4a04-9548-6c66a0d10bc1
 DTSTAMP:20240413T190904Z
 END:VEVENT
 BEGIN:VEVENT
@@ -387,7 +422,8 @@ UID:7db71bab-6c71-44b1-8755-905c17af36c1@7db7.org
 DESCRIPTION:Event: Liqui Moly Motorrad Grand Prix Deutschland\nClass: 
  MotoE\nSession: Race Nr.2
 LOCATION:Sachsenring - Oberlungwitz
-URL:https://www.motogp.com/en/calendar/2023/event/Germany
+URL:https://www.motogp.com/en/calendar/2024/event/germany/64361261-cc3f-
+ 4a04-9548-6c66a0d10bc1
 DTSTAMP:20240413T190904Z
 END:VEVENT
 BEGIN:VEVENT
@@ -398,18 +434,20 @@ UID:4f0fd88c-5403-4603-8f4b-c5d83fa7850c@4f0f.org
 DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Practice Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
-URL:https://www.motogp.com/en/calendar/2023/event/Austria
+URL:https://www.motogp.com/en/calendar/2024/event/austria/7ae46637-1fa1-
+ 4814-8834-d663a55b35be
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20240816T122500
-DTEND;TZID="UTC+02:00":20240816T124000
+DTSTART;TZID="UTC+02:00":20240816T124500
+DTEND;TZID="UTC+02:00":20240816T130000
 SUMMARY:[MotoE] P2
 UID:73343d04-4e41-42b3-9015-ac5e597d67ce@7334.org
 DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Practice Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
-URL:https://www.motogp.com/en/calendar/2023/event/Austria
+URL:https://www.motogp.com/en/calendar/2024/event/austria/7ae46637-1fa1-
+ 4814-8834-d663a55b35be
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -420,7 +458,8 @@ UID:87128a49-c6ef-4152-8765-bbc2e78a93c0@8712.org
 DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
-URL:https://www.motogp.com/en/calendar/2023/event/Austria
+URL:https://www.motogp.com/en/calendar/2024/event/austria/7ae46637-1fa1-
+ 4814-8834-d663a55b35be
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -431,7 +470,8 @@ UID:ba3cf614-9706-46c2-a218-d30deb2a0e31@ba3c.org
 DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
-URL:https://www.motogp.com/en/calendar/2023/event/Austria
+URL:https://www.motogp.com/en/calendar/2024/event/austria/7ae46637-1fa1-
+ 4814-8834-d663a55b35be
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -441,17 +481,20 @@ UID:d41b54c6-6667-4ed0-8b90-5531e461c507@d41b.org
 DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Race Nr.1
 LOCATION:Red Bull Ring - Spielberg - Spielberg
-URL:https://www.motogp.com/en/calendar/2023/event/Austria
+URL:https://www.motogp.com/en/calendar/2024/event/austria/7ae46637-1fa1-
+ 4814-8834-d663a55b35be
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+02:00":20240817T161000
+DTSTART;TZID="UTC+02:00":20240817T160000
+DTEND;TZID="UTC+02:00":20240817T164500
 SUMMARY:[MotoE] RAC2
 UID:a57e859a-96cf-44b6-93fa-eab3901d2d25@a57e.org
 DESCRIPTION:Event: Motorrad Grand Prix von Österreich\nClass: 
  MotoE\nSession: Race Nr.2
 LOCATION:Red Bull Ring - Spielberg - Spielberg
-URL:https://www.motogp.com/en/calendar/2023/event/Austria
+URL:https://www.motogp.com/en/calendar/2024/event/austria/7ae46637-1fa1-
+ 4814-8834-d663a55b35be
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -462,7 +505,8 @@ UID:a6096867-23e8-4630-b558-da064a6a4b09@a609.org
 DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Practice Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
-URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+URL:https://www.motogp.com/en/calendar/2024/event/san 
+ marino/6abfb968-e1b2-4660-89cf-99f53b6d59b3
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -473,7 +517,8 @@ UID:887a9020-4099-49a9-a242-7391d2f8cf2a@887a.org
 DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Practice Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
-URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+URL:https://www.motogp.com/en/calendar/2024/event/san 
+ marino/6abfb968-e1b2-4660-89cf-99f53b6d59b3
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -484,7 +529,8 @@ UID:8d91272b-2ba2-4ce9-99d5-d348f784a324@8d91.org
 DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
-URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+URL:https://www.motogp.com/en/calendar/2024/event/san 
+ marino/6abfb968-e1b2-4660-89cf-99f53b6d59b3
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -495,7 +541,8 @@ UID:2ea0f92d-8ff5-4868-8483-f6d99abead48@2ea0.org
 DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
-URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+URL:https://www.motogp.com/en/calendar/2024/event/san 
+ marino/6abfb968-e1b2-4660-89cf-99f53b6d59b3
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -505,7 +552,8 @@ UID:0910eda5-af7b-4dba-bf56-7a32d28d9f58@0910.org
 DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Race Nr.1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
-URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+URL:https://www.motogp.com/en/calendar/2024/event/san 
+ marino/6abfb968-e1b2-4660-89cf-99f53b6d59b3
 DTSTAMP:20240413T190905Z
 END:VEVENT
 BEGIN:VEVENT
@@ -515,7 +563,8 @@ UID:dafe3ce5-9da4-4f26-ac2e-d14ce8616a01@dafe.org
 DESCRIPTION:Event: Gran Premio Red Bull di San Marino e della Riviera di 
  Rimini\nClass: MotoE\nSession: Race Nr.2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
-URL:https://www.motogp.com/en/calendar/2023/event/San Marino
+URL:https://www.motogp.com/en/calendar/2024/event/san 
+ marino/6abfb968-e1b2-4660-89cf-99f53b6d59b3
 DTSTAMP:20240413T190905Z
 END:VEVENT
 END:VCALENDAR
