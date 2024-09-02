@@ -214,4 +214,32 @@ LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2024
 DTSTAMP:20240330T100938Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241011T121500
+DTEND;TZID="UTC+01:00":20241011T124000
+SUMMARY:[R3 World Cup] Superpole
+UID:7598ac0d-ecbe-4d00-a089-e7ebaf7da24a@7598.org
+DESCRIPTION:Event: Estoril Round\nClass: R3 World Cup\nSession: Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240902T132035Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241012T161500
+SUMMARY:[R3 World Cup] Race 1
+UID:fea9d06d-d2af-418f-b15c-a64e2e4bfeef@fea9.org
+DESCRIPTION:Event: Estoril Round\nClass: R3 World Cup\nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240902T132035Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241013T161500
+SUMMARY:[R3 World Cup] Race 2
+UID:341f2f79-5b04-43d3-8f1d-a50c699e5803@341f.org
+DESCRIPTION:Event: Estoril Round\nClass: R3 World Cup\nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/EST/2024
+DTSTAMP:20240902T132035Z
+END:VEVENT
 END:VCALENDAR
