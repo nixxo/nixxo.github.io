@@ -230,12 +230,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240922T100000
 SUMMARY:[Moto3] RAC
-UID:45fbb299-f484-4c28-a414-b1d997c99a55@45fb.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: Moto3\nSession: Race
+UID:d637521e-4d6c-4510-bab5-c1b31af751b1@d637.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ Moto3\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20240929T120000

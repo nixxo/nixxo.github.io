@@ -995,71 +995,72 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240920T095000
 DTEND;TZID="UTC+02:00":20240920T103000
 SUMMARY:[Moto2] FP
-UID:8c8b3d0d-906e-4b41-85b4-9524e5c5819d@8c8b.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: Moto2\nSession: Free 
- Practice
+UID:53434c92-1ba3-4d07-9f8d-ecdee26b1c1d@5343.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ Moto2\nSession: Free Practice
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105808Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240920T140500
 DTEND;TZID="UTC+02:00":20240920T144500
 SUMMARY:[Moto2] P1
-UID:68d059a1-37e4-4716-bab5-4337935c777d@68d0.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: Moto2\nSession: 
- Practice Nr. 1
+UID:f87da2d1-3cce-43cb-87ae-6d51254e7853@f87d.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ Moto2\nSession: Practice Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240921T092500
 DTEND;TZID="UTC+02:00":20240921T095500
 SUMMARY:[Moto2] P2
-UID:62f5e010-604f-48eb-8548-531aefad42ea@62f5.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: Moto2\nSession: 
- Practice Nr. 2
+UID:ef7d9ba0-6e1a-4979-a9d9-cb189892ea22@ef7d.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ Moto2\nSession: Practice Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240921T134500
 DTEND;TZID="UTC+02:00":20240921T140000
 SUMMARY:[Moto2] Q1
-UID:34edff73-1aee-45d4-9fc3-22dff53728b7@34ed.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: Moto2\nSession: 
- Qualifying Nr. 1
+UID:16b23dc4-d2b8-4132-ae03-044ea8164167@16b2.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240921T141000
 DTEND;TZID="UTC+02:00":20240921T142500
 SUMMARY:[Moto2] Q2
-UID:85860aa0-3ecd-48b6-83e8-695479178630@8586.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: Moto2\nSession: 
- Qualifying Nr. 2
+UID:c1b933a3-7cc8-47b6-beb5-6d689442c186@c1b9.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240922T111500
 SUMMARY:[Moto2] RAC
-UID:1816968d-94cf-43dc-919a-e9e1df0e2d75@1816.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: Moto2\nSession: Race
+UID:418dc31c-fee8-425d-8bf5-1a133294a60e@418d.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ Moto2\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20240927T095000

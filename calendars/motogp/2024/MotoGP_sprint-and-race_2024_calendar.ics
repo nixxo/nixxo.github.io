@@ -367,23 +367,24 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240921T150000
 SUMMARY:[MotoGP] SPR
-UID:28a7303a-c6f3-421c-9674-e15267ff85bb@28a7.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: MotoGP\nSession: 
- Tissot Sprint
+UID:bd8e4b90-acac-4a21-b29c-b1fd27707eed@bd8e.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ MotoGP\nSession: Tissot Sprint
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20240922T130000
 SUMMARY:[MotoGP] RAC
-UID:b5269976-94c1-4ea9-a133-e1a01a862dca@b526.org
-DESCRIPTION:Event: Emilia-Romagna Grand Prix\nClass: MotoGP\nSession: Race
+UID:de7765cf-1ff2-43c2-ab69-2d3d3218460a@de77.org
+DESCRIPTION:Event: Gran Premio Pramac dell’Emilia-Romagna\nClass: 
+ MotoGP\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2024/event/emilia-romagna grand 
  prix/a7746a90-df7c-4e12-b93e-b43a6760845b
-DTSTAMP:20240827T105827Z
+DTSTAMP:20240918T083101Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20240928T150000
