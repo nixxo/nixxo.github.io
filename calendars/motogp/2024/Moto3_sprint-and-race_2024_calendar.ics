@@ -69,7 +69,7 @@ TZID:UTC+07:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0700
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+07:00
 END:STANDARD
 END:VTIMEZONE
@@ -271,7 +271,7 @@ URL:https://www.motogp.com/en/calendar/2024/event/australia/da4a8189-1283-
 DTSTAMP:20240205T210726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID="UTC+07:00":20241027T120000
+DTSTART;TZID="UTC+07:00":20241027T120500
 SUMMARY:[Moto3] RAC
 UID:978826f3-6a7b-4dd7-a36c-cdaa628e32b5@9788.org
 DESCRIPTION:Event: PT Grand Prix of Thailand\nClass: Moto3\nSession: Race
@@ -289,17 +289,6 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto3\nSession:
 LOCATION:Petronas Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2024/event/malaysia/a9da3e0e-de84-
  4ef3-ac3e-d1b26a2940f5
-DTSTAMP:20240205T210727Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20241117T110000
-SUMMARY:[Moto3] RAC
-UID:759aa642-0b69-41d3-b54d-2a5653cb0d19@759a.org
-DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- Moto3\nSession: Race
-LOCATION:Circuit Ricardo Tormo - Cheste
-URL:https://www.motogp.com/en/calendar/2024/event/valencia/4640a327-b6bb-
- 468a-8176-73a3c7e5462b
 DTSTAMP:20240205T210727Z
 END:VEVENT
 END:VCALENDAR

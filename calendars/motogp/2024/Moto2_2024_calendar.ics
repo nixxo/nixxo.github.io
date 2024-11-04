@@ -60,7 +60,7 @@ TZID:UTC+11:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+1100
-DTSTART:19700101T000000
+RDATE:19700101T000000
 TZNAME:UTC+11:00
 END:STANDARD
 END:VTIMEZONE
@@ -1413,77 +1413,6 @@ DESCRIPTION:Event: PETRONAS Grand Prix of Malaysia\nClass: Moto2\nSession:
 LOCATION:Petronas Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2024/event/malaysia/a9da3e0e-de84-
  4ef3-ac3e-d1b26a2940f5
-DTSTAMP:20240205T210727Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20241115T095000
-DTEND;TZID="UTC+01:00":20241115T103000
-SUMMARY:[Moto2] FP
-UID:a14fe6e0-f8de-4bf3-82a8-8ce1997d351d@a14f.org
-DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- Moto2\nSession: Free Practice
-LOCATION:Circuit Ricardo Tormo - Cheste
-URL:https://www.motogp.com/en/calendar/2024/event/valencia/4640a327-b6bb-
- 468a-8176-73a3c7e5462b
-DTSTAMP:20240205T210727Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20241115T140500
-DTEND;TZID="UTC+01:00":20241115T144500
-SUMMARY:[Moto2] P1
-UID:cb7b1ab1-ed17-48b8-aea9-7be4e889c7da@cb7b.org
-DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- Moto2\nSession: Practice Nr. 1
-LOCATION:Circuit Ricardo Tormo - Cheste
-URL:https://www.motogp.com/en/calendar/2024/event/valencia/4640a327-b6bb-
- 468a-8176-73a3c7e5462b
-DTSTAMP:20240205T210727Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20241116T092500
-DTEND;TZID="UTC+01:00":20241116T095500
-SUMMARY:[Moto2] P2
-UID:099e693c-a4c1-4460-8035-5a0bdf05c18c@099e.org
-DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- Moto2\nSession: Practice Nr. 2
-LOCATION:Circuit Ricardo Tormo - Cheste
-URL:https://www.motogp.com/en/calendar/2024/event/valencia/4640a327-b6bb-
- 468a-8176-73a3c7e5462b
-DTSTAMP:20240205T210727Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20241116T134500
-DTEND;TZID="UTC+01:00":20241116T140000
-SUMMARY:[Moto2] Q1
-UID:a856b76a-7873-45d2-b4b3-476ad9d909ca@a856.org
-DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- Moto2\nSession: Qualifying Nr. 1
-LOCATION:Circuit Ricardo Tormo - Cheste
-URL:https://www.motogp.com/en/calendar/2024/event/valencia/4640a327-b6bb-
- 468a-8176-73a3c7e5462b
-DTSTAMP:20240205T210727Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20241116T141000
-DTEND;TZID="UTC+01:00":20241116T142500
-SUMMARY:[Moto2] Q2
-UID:c5c4d786-d642-444d-ad2a-384a5ee22733@c5c4.org
-DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- Moto2\nSession: Qualifying Nr. 2
-LOCATION:Circuit Ricardo Tormo - Cheste
-URL:https://www.motogp.com/en/calendar/2024/event/valencia/4640a327-b6bb-
- 468a-8176-73a3c7e5462b
-DTSTAMP:20240205T210727Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID="UTC+01:00":20241117T121500
-SUMMARY:[Moto2] RAC
-UID:c021f95e-3a9a-4f5a-9b76-6ad3d696541d@c021.org
-DESCRIPTION:Event: Gran Premio Motul de la Comunitat Valenciana\nClass: 
- Moto2\nSession: Race
-LOCATION:Circuit Ricardo Tormo - Cheste
-URL:https://www.motogp.com/en/calendar/2024/event/valencia/4640a327-b6bb-
- 468a-8176-73a3c7e5462b
 DTSTAMP:20240205T210727Z
 END:VEVENT
 END:VCALENDAR
