@@ -69,7 +69,7 @@ TZID:UTC+07:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0700
-DTSTART:19700101T000000
+RDATE:19700101T000000
 TZNAME:UTC+07:00
 END:STANDARD
 END:VTIMEZONE
@@ -290,5 +290,16 @@ LOCATION:Petronas Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2024/event/malaysia/a9da3e0e-de84-
  4ef3-ac3e-d1b26a2940f5
 DTSTAMP:20240205T210727Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241117T110000
+SUMMARY:[Moto3] RAC
+UID:d09af8c5-7694-45e7-be91-2434070a2cf7@d09a.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ Moto3\nSession: Race
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
 END:VEVENT
 END:VCALENDAR

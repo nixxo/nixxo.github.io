@@ -734,4 +734,39 @@ URL:https://www.motogp.com/en/calendar/2024/event/malaysia/a9da3e0e-de84-
  4ef3-ac3e-d1b26a2940f5
 DTSTAMP:20240205T214606Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241116T134500
+DTEND;TZID="UTC+01:00":20241116T140000
+SUMMARY:[Moto2] Q1
+UID:f4efee49-a568-4556-9789-e4df3f90eb0e@f4ef.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ Moto2\nSession: Qualifying Nr. 1
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241116T141000
+DTEND;TZID="UTC+01:00":20241116T142500
+SUMMARY:[Moto2] Q2
+UID:21f1b8fc-0bc3-4b78-9f6c-eca2df88a992@21f1.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ Moto2\nSession: Qualifying Nr. 2
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241117T121500
+SUMMARY:[Moto2] RAC
+UID:fed3b70e-4ff8-4191-ab64-350618e96121@fed3.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ Moto2\nSession: Race
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
+END:VEVENT
 END:VCALENDAR

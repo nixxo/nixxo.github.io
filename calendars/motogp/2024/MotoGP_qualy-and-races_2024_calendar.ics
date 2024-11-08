@@ -953,4 +953,51 @@ URL:https://www.motogp.com/en/calendar/2024/event/malaysia/a9da3e0e-de84-
  4ef3-ac3e-d1b26a2940f5
 DTSTAMP:20240205T214606Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241116T105000
+DTEND;TZID="UTC+01:00":20241116T110500
+SUMMARY:[MotoGP] Q1
+UID:4b5c0681-047d-4ce6-bd0b-41fb3b48fb5a@4b5c.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ MotoGP\nSession: Qualifying Nr. 1
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241116T111500
+DTEND;TZID="UTC+01:00":20241116T113000
+SUMMARY:[MotoGP] Q2
+UID:8001ac5a-00e2-42b3-b153-ee3f0e8f2f5e@8001.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ MotoGP\nSession: Qualifying Nr. 2
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241116T150000
+DTEND;TZID="UTC+01:00":20241116T160000
+SUMMARY:[MotoGP] SPR
+UID:f8343dee-11ca-41a4-a564-a44ce6f7a575@f834.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ MotoGP\nSession: Tissot Sprint
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+01:00":20241117T140000
+SUMMARY:[MotoGP] RAC
+UID:6e897837-0300-46f4-9e6c-7cbb26a079c0@6e89.org
+DESCRIPTION:Event: Motul Solidarity Grand Prix of Barcelona\nClass: 
+ MotoGP\nSession: Race
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2024/event/motul solidarity grand 
+ prix of barcelona/2611da37-136f-490e-a314-8b61a9441357
+DTSTAMP:20241108T155009Z
+END:VEVENT
 END:VCALENDAR
