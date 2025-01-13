@@ -1,52 +1,40 @@
-# MotoGP 2024 Calendars
+# MotoGP 2025 Calendars
 
-ICS files extracted from <a href="https://www.motogp.com/en/calendar">https://www.motogp.com/en/calendar</a>
+Starting this season Dorna seems to provide an official ICS file for the calendar. It's available <a href="https://www.motogp.com/en/calendar">here</a>.
 
-All sessions
-- <a href="motogp/2024/MotoGP_2024_calendar.ics">MotoGP</a>
-- <a href="motogp/2024/Moto2_2024_calendar.ics">Moto2</a>
-- <a href="motogp/2024/Moto3_2024_calendar.ics">Moto3</a>
-- <a href="motogp/2024/MotoE_2024_calendar.ics">MotoE</a>
+Direct link to the ICS file <a href="https://resources.motogp.com/files/ics/motogp-calendar-2025.ics">here</a>.
 
-Qualify + Races Only
-- <a href="motogp/2024/MotoGP_qualy-and-races_2024_calendar.ics">MotoGP</a>
-- <a href="motogp/2024/Moto2_qualy-and-races_2024_calendar.ics">Moto2</a>
-- <a href="motogp/2024/Moto3_qualy-and-races_2024_calendar.ics">Moto3</a>
-- <a href="motogp/2024/MotoE_qualy-and-races_2024_calendar.ics">MotoE</a>
-
-Races Only
-- <a href="motogp/2024/MotoGP_sprint-and-race_2024_calendar.ics">MotoGP</a>
-- <a href="motogp/2024/Moto2_sprint-and-race_2024_calendar.ics">Moto2</a>
-- <a href="motogp/2024/Moto3_sprint-and-race_2024_calendar.ics">Moto3</a>
-- <a href="motogp/2024/MotoE_sprint-and-race_2024_calendar.ics">MotoE</a>
+P.S: In case they don't update it I'll create it like previous years.
 
 
-# WorldSBK 2024 Calendars
+
+# WorldSBK 2025 Calendars
 
 ICS files extracted from <a href="https://www.worldsbk.com/en/calendar">https://www.worldsbk.com/en/calendar</a>
 
 All sessions
-- <a href="wsbk/2024/WorldSBK_2024_calendar.ics">WorldSBK</a>
-- <a href="wsbk/2024/WorldSSP_2024_calendar.ics">WorldSSP</a>
-- <a href="wsbk/2024/WorldSSP300_2024_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2024/R3 World Cup_2024_calendar.ics">R3 World Cup</a>
-- <a href="wsbk/2024/WorldWCR_2024_calendar.ics">WorldWCR</a>
+- <a href="wsbk/2025/WorldSBK_2025_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2025/WorldSSP_2025_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2025/WorldSSP300_2025_calendar.ics">WorldSSP300</a>
+- <a href="wsbk/2025/R3 World Cup_2025_calendar.ics">R3 World Cup</a>
+- <a href="wsbk/2025/WorldWCR_2025_calendar.ics">WorldWCR</a>
 
 Superpole + Races Only
-- <a href="wsbk/2024/WorldSBK_filtered_2024_calendar.ics">WorldSBK</a>
-- <a href="wsbk/2024/WorldSSP_filtered_2024_calendar.ics">WorldSSP</a>
-- <a href="wsbk/2024/WorldSSP300_filtered_2024_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2024/R3 World Cup_filtered_2024_calendar.ics">R3 World Cup</a>
-- <a href="wsbk/2024/WorldWCR_filtered_2024_calendar.ics">WorldWCR</a>
+- <a href="wsbk/2025/WorldSBK_filtered_2025_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2025/WorldSSP_filtered_2025_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2025/WorldSSP300_filtered_2025_calendar.ics">WorldSSP300</a>
+- <a href="wsbk/2025/R3 World Cup_filtered_2025_calendar.ics">R3 World Cup</a>
+- <a href="wsbk/2025/WorldWCR_filtered_2025_calendar.ics">WorldWCR</a>
 
 Races Only
-- <a href="wsbk/2024/WorldSBK_races_2024_calendar.ics">WorldSBK</a>
-- <a href="wsbk/2024/WorldSSP_races_2024_calendar.ics">WorldSSP</a>
-- <a href="wsbk/2024/WorldSSP300_races_2024_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2024/R3 World Cup_races_2024_calendar.ics">R3 World Cup</a>
-- <a href="wsbk/2024/WorldWCR_races_2024_calendar.ics">WorldWCR</a>
+- <a href="wsbk/2025/WorldSBK_races_2025_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2025/WorldSSP_races_2025_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2025/WorldSSP300_races_2025_calendar.ics">WorldSSP300</a>
+- <a href="wsbk/2025/R3 World Cup_races_2025_calendar.ics">R3 World Cup</a>
+- <a href="wsbk/2025/WorldWCR_races_2024_calendar.ics">WorldWCR</a>
 
 
 Prevoius years calendars available as archive here:
 - <a href="2022">2022</a>
 - <a href="2023">2023</a>
+- <a href="2024">2024</a>
