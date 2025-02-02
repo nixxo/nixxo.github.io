@@ -15,7 +15,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -192,7 +192,7 @@ DTSTART;TZID="UTC+02:00":20250411T102000
 DTEND;TZID="UTC+02:00":20250411T110500
 SUMMARY:[WorldSBK] FP1
 UID:582c7380-5d6c-4e0a-b3d0-29c4eccd2253@582c.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: FP1
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: FP1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -202,7 +202,7 @@ DTSTART;TZID="UTC+02:00":20250411T150000
 DTEND;TZID="UTC+02:00":20250411T154500
 SUMMARY:[WorldSBK] FP2
 UID:7f392c5b-ab40-43cc-916d-4864ae6b29dc@7f39.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: FP2
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: FP2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -212,7 +212,7 @@ DTSTART;TZID="UTC+02:00":20250412T090000
 DTEND;TZID="UTC+02:00":20250412T092000
 SUMMARY:[WorldSBK] FP3
 UID:212717b9-c048-4546-b3cd-e4e5f0f9cb94@2127.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: FP3
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: FP3
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -222,7 +222,7 @@ DTSTART;TZID="UTC+02:00":20250412T110000
 DTEND;TZID="UTC+02:00":20250412T111500
 SUMMARY:[WorldSBK] Superpole
 UID:2f063f10-c096-4818-b26b-5be081930cb9@2f06.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Superpole
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250412T140000
 SUMMARY:[WorldSBK] Race 1
 UID:ecc46a81-dfdb-4951-b234-689d5afff963@ecc4.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -241,7 +241,7 @@ DTSTART;TZID="UTC+02:00":20250413T090000
 DTEND;TZID="UTC+02:00":20250413T091000
 SUMMARY:[WorldSBK] WUP
 UID:1c126f4f-ca3e-4c42-8723-176db49781b3@1c12.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: WUP
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: WUP
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -250,7 +250,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250413T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:663974d5-4b1e-4ea2-a092-c937a25d03fe@6639.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: Superpole Race
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Superpole
+  Race
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -259,7 +260,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250413T140000
 SUMMARY:[WorldSBK] Race 2
 UID:9da9835e-978c-4548-8acf-9f14a17e4ec8@9da9.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -908,7 +909,7 @@ DTSTART;TZID="UTC+02:00":20251017T103500
 DTEND;TZID="UTC+02:00":20251017T112000
 SUMMARY:[WorldSBK] FP1
 UID:bf51b0eb-d91c-47b7-8628-84beb1ce1c84@bf51.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: FP1
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: FP1
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175813Z
@@ -918,7 +919,7 @@ DTSTART;TZID="UTC+02:00":20251017T150000
 DTEND;TZID="UTC+02:00":20251017T154500
 SUMMARY:[WorldSBK] FP2
 UID:90a3eb7d-8804-4709-95f5-c0d858dbd09c@90a3.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: FP2
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: FP2
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175813Z
@@ -928,7 +929,7 @@ DTSTART;TZID="UTC+02:00":20251018T090000
 DTEND;TZID="UTC+02:00":20251018T092000
 SUMMARY:[WorldSBK] FP3
 UID:11e15ecf-5e56-4c52-94b7-f3b69f110e9e@11e1.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: FP3
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: FP3
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -938,7 +939,8 @@ DTSTART;TZID="UTC+02:00":20251018T110000
 DTEND;TZID="UTC+02:00":20251018T111500
 SUMMARY:[WorldSBK] Superpole
 UID:c12025e6-cb4c-49af-8b3a-554678639ba5@c120.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: Superpole
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: 
+ Superpole
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -947,7 +949,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20251018T140000
 SUMMARY:[WorldSBK] Race 1
 UID:8c8b58ab-119a-4e30-8e20-d9b3a19b127c@8c8b.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: Race 1
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: Race 1
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -957,7 +959,7 @@ DTSTART;TZID="UTC+02:00":20251019T091500
 DTEND;TZID="UTC+02:00":20251019T092500
 SUMMARY:[WorldSBK] WUP
 UID:91e23475-4a1b-440e-9334-e461757cfd7f@91e2.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: WUP
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: WUP
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -966,7 +968,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20251019T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:e4187a43-0eb9-42a7-be19-755fce64d240@e418.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: Superpole Race
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: 
+ Superpole Race
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -975,7 +978,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20251019T140000
 SUMMARY:[WorldSBK] Race 2
 UID:70f88477-4200-4292-8e3b-7cf3990529f0@70f8.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSBK\nSession: Race 2
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSBK\nSession: Race 2
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z

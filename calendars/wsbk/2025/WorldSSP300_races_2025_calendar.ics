@@ -6,7 +6,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250412T124500
 SUMMARY:[WorldSSP300] Race 1
 UID:078b58c8-e752-403d-b132-e37709d72039@078b.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSSP300\nSession: Race 1
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSSP300\nSession: Race 1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250413T124500
 SUMMARY:[WorldSSP300] Race 2
 UID:d702e7db-5c69-4a59-a7e9-dde1afc38899@d702.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldSSP300\nSession: Race 2
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSSP300\nSession: Race 2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -155,7 +155,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20251018T124500
 SUMMARY:[WorldSSP300] Race 1
 UID:9308e4b1-8357-4d71-9aff-10e61f42e0b9@9308.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSSP300\nSession: Race 1
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSSP300\nSession: Race
+  1
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -164,7 +165,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20251019T124500
 SUMMARY:[WorldSSP300] Race 2
 UID:0bb69b21-7dcb-4c09-8597-99a42c7a9e58@0bb6.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldSSP300\nSession: Race 2
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSSP300\nSession: Race
+  2
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z

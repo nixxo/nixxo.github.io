@@ -6,7 +6,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -24,7 +24,7 @@ DTSTART;TZID="UTC+02:00":20250411T121500
 DTEND;TZID="UTC+02:00":20250411T124000
 SUMMARY:[WorldWCR] FP
 UID:797c1884-1e09-400a-9ff4-e47989850bff@797c.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldWCR\nSession: FP
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldWCR\nSession: FP
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -34,7 +34,7 @@ DTSTART;TZID="UTC+02:00":20250411T165500
 DTEND;TZID="UTC+02:00":20250411T172000
 SUMMARY:[WorldWCR] Superpole
 UID:b5952c0f-9d49-4426-84d4-7db7b0627cdf@b595.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldWCR\nSession: Superpole
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldWCR\nSession: Superpole
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -44,7 +44,7 @@ DTSTART;TZID="UTC+02:00":20250412T093000
 DTEND;TZID="UTC+02:00":20250412T094000
 SUMMARY:[WorldWCR] WUP 1
 UID:498a4b15-b4ec-4ce7-8cd7-ec4c0b78cb9a@498a.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldWCR\nSession: WUP 1
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldWCR\nSession: WUP 1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250412T115000
 SUMMARY:[WorldWCR] Race 1
 UID:ffa713ef-8eab-44fa-bfaa-37914fb855b9@ffa7.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldWCR\nSession: Race 1
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldWCR\nSession: Race 1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -63,7 +63,7 @@ DTSTART;TZID="UTC+02:00":20250413T092000
 DTEND;TZID="UTC+02:00":20250413T093000
 SUMMARY:[WorldWCR] WUP 2
 UID:07861b8d-ec43-48e9-a0f4-18a0b8c75aad@0786.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldWCR\nSession: WUP 2
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldWCR\nSession: WUP 2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250413T115000
 SUMMARY:[WorldWCR] Race 2
 UID:7da39af9-3af8-447d-90b7-f9cd6097e99b@7da3.org
-DESCRIPTION:Event: Dutch Round\nClass: WorldWCR\nSession: Race 2
+DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldWCR\nSession: Race 2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -316,7 +316,7 @@ DTSTART;TZID="UTC+02:00":20251017T091500
 DTEND;TZID="UTC+02:00":20251017T094000
 SUMMARY:[WorldWCR] FP
 UID:2dcf4e24-35c5-4dee-9248-459745f7c3f0@2dcf.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldWCR\nSession: FP
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldWCR\nSession: FP
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175813Z
@@ -326,7 +326,8 @@ DTSTART;TZID="UTC+02:00":20251017T133000
 DTEND;TZID="UTC+02:00":20251017T135500
 SUMMARY:[WorldWCR] Superpole
 UID:229870fd-529c-4d5a-b79d-73a84d588567@2298.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldWCR\nSession: Superpole
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldWCR\nSession: 
+ Superpole
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175813Z
@@ -336,7 +337,7 @@ DTSTART;TZID="UTC+02:00":20251018T094500
 DTEND;TZID="UTC+02:00":20251018T095500
 SUMMARY:[WorldWCR] WUP 1
 UID:eeab3521-128b-4a1b-8d08-2d5696342ead@eeab.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldWCR\nSession: WUP 1
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldWCR\nSession: WUP 1
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -345,7 +346,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20251018T115000
 SUMMARY:[WorldWCR] Race 1
 UID:2dca2cbb-28db-44af-8b8c-c9d0cd14eec5@2dca.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldWCR\nSession: Race 1
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldWCR\nSession: Race 1
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -355,7 +356,7 @@ DTSTART;TZID="UTC+02:00":20251019T093500
 DTEND;TZID="UTC+02:00":20251019T094500
 SUMMARY:[WorldWCR] WUP 2
 UID:6fac3180-a62a-4726-8166-cebbf3da544e@6fac.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldWCR\nSession: WUP 2
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldWCR\nSession: WUP 2
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -364,7 +365,7 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20251019T115000
 SUMMARY:[WorldWCR] Race 2
 UID:24ac4666-8306-47ec-b6b7-54ac8e80e7b3@24ac.org
-DESCRIPTION:Event: Spanish Round\nClass: WorldWCR\nSession: Race 2
+DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldWCR\nSession: Race 2
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
