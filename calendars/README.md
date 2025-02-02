@@ -34,7 +34,7 @@ Races Only
 - <a href="wsbk/2025/WorldWCR_races_2024_calendar.ics">WorldWCR</a>
 
 
-Prevoius years calendars available as archive here:
+Previous years calendars available as archive here:
 - <a href="2022">2022</a>
 - <a href="2023">2023</a>
 - <a href="2024">2024</a>
