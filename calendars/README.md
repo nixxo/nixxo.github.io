@@ -9,22 +9,22 @@ So here are the caledars for this season:
 ICS files extracted from <a href="https://www.motogp.com/en/calendar">https://www.motogp.com/en/calendar</a>
 
 All sessions
-- <a href="../motogp/2025/MotoGP_2025_calendar.ics">MotoGP</a>
-- <a href="../motogp/2025/Moto2_2025_calendar.ics">Moto2</a>
-- <a href="../motogp/2025/Moto3_2025_calendar.ics">Moto3</a>
-- <a href="../motogp/2025/MotoE_2025_calendar.ics">MotoE</a>
+- <a href="motogp/2025/MotoGP_2025_calendar.ics">MotoGP</a>
+- <a href="motogp/2025/Moto2_2025_calendar.ics">Moto2</a>
+- <a href="motogp/2025/Moto3_2025_calendar.ics">Moto3</a>
+- <a href="motogp/2025/MotoE_2025_calendar.ics">MotoE</a>
 
 Qualify + Races Only
-- <a href="../motogp/2025/MotoGP_qualy-and-races_2025_calendar.ics">MotoGP</a>
-- <a href="../motogp/2025/Moto2_qualy-and-races_2025_calendar.ics">Moto2</a>
-- <a href="../motogp/2025/Moto3_qualy-and-races_2025_calendar.ics">Moto3</a>
-- <a href="../motogp/2025/MotoE_qualy-and-races_2025_calendar.ics">MotoE</a>
+- <a href="motogp/2025/MotoGP_qualy-and-races_2025_calendar.ics">MotoGP</a>
+- <a href="motogp/2025/Moto2_qualy-and-races_2025_calendar.ics">Moto2</a>
+- <a href="motogp/2025/Moto3_qualy-and-races_2025_calendar.ics">Moto3</a>
+- <a href="motogp/2025/MotoE_qualy-and-races_2025_calendar.ics">MotoE</a>
 
 Races Only
-- <a href="../motogp/2025/MotoGP_sprint-and-race_2025_calendar.ics">MotoGP</a>
-- <a href="../motogp/2025/Moto2_sprint-and-race_2025_calendar.ics">Moto2</a>
-- <a href="../motogp/2025/Moto3_sprint-and-race_2025_calendar.ics">Moto3</a>
-- <a href="../motogp/2025/MotoE_sprint-and-race_2025_calendar.ics">MotoE</a>
+- <a href="motogp/2025/MotoGP_sprint-and-race_2025_calendar.ics">MotoGP</a>
+- <a href="motogp/2025/Moto2_sprint-and-race_2025_calendar.ics">Moto2</a>
+- <a href="motogp/2025/Moto3_sprint-and-race_2025_calendar.ics">Moto3</a>
+- <a href="motogp/2025/MotoE_sprint-and-race_2025_calendar.ics">MotoE</a>
 
 
 You can find alternatives calendars at <a href="https://mototiming.live/">mototiming.live</a> or at <a href="https://rushsync.com/">rushsync.com</a>
