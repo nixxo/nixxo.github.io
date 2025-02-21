@@ -6,7 +6,7 @@ TZID:UTC+02:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0200
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+02:00
 END:STANDARD
 END:VTIMEZONE
@@ -15,192 +15,197 @@ TZID:UTC+01:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0100
-RDATE:19700101T000000
+DTSTART:19700101T000000
 TZNAME:UTC+01:00
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20250328T131500Z
 DTEND:20250328T134000Z
-SUMMARY:[R3 bLU cRU Cup] Superpole
-UID:2a4bf203-3d4b-4625-b20d-461ff131a6c4@2a4b.org
-DESCRIPTION:Event: Pirelli Portuguese Round\nClass: R3 bLU cRU 
+SUMMARY:[R3 BLU CRU World Cup] Superpole
+UID:1caaab04-abd2-47e7-9a9e-df9a0d8b2f4b@1caa.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: R3 BLU CRU World 
  Cup\nSession: Superpole
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2025
-DTSTAMP:20250113T180549Z
+DTSTAMP:20250221T104604Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T101500Z
-SUMMARY:[R3 bLU cRU Cup] Race 1
-UID:8eb3debc-430f-4406-bf78-e671c31b3b80@8eb3.org
-DESCRIPTION:Event: Pirelli Portuguese Round\nClass: R3 bLU cRU 
+SUMMARY:[R3 BLU CRU World Cup] Race 1
+UID:59982fc3-dd86-4279-850b-9c0ecf41ff6f@5998.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: R3 BLU CRU World 
  Cup\nSession: Race 1
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2025
-DTSTAMP:20250113T180549Z
+DTSTAMP:20250221T104604Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T100500Z
-SUMMARY:[R3 bLU cRU Cup] Race 2
-UID:34dac810-fd4d-4f12-855f-6ebac1aee702@34da.org
-DESCRIPTION:Event: Pirelli Portuguese Round\nClass: R3 bLU cRU 
+SUMMARY:[R3 BLU CRU World Cup] Race 2
+UID:5bd3190a-eca0-45ba-90bd-bcdc90c070a8@5bd3.org
+DESCRIPTION:Event: Pirelli Portuguese Round\nClass: R3 BLU CRU World 
  Cup\nSession: Race 2
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2025
-DTSTAMP:20250113T180549Z
+DTSTAMP:20250221T104604Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250613T131500
 DTEND;TZID="UTC+02:00":20250613T134000
-SUMMARY:[R3 bLU cRU Cup] Superpole
-UID:129a3ccb-0a08-4b69-9b17-542facdca9e9@129a.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
+SUMMARY:[R3 BLU CRU World Cup] Superpole
+UID:dce753ca-0325-4bf3-bed1-1fe857fe65cc@dce7.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 BLU CRU World 
  Cup\nSession: Superpole
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2025
-DTSTAMP:20250113T180553Z
+DTSTAMP:20250221T104608Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250614T101500
-SUMMARY:[R3 bLU cRU Cup] Race 1
-UID:08293a00-8fa6-48ec-84cc-002fe6713a85@0829.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
+SUMMARY:[R3 BLU CRU World Cup] Race 1
+UID:6bb88be2-2a32-47fe-b5ed-657374a1912b@6bb8.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 BLU CRU World 
  Cup\nSession: Race 1
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2025
-DTSTAMP:20250113T180553Z
+DTSTAMP:20250221T104608Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250615T100500
-SUMMARY:[R3 bLU cRU Cup] Race 2
-UID:185ae1ae-f232-4a3c-8dbc-32eca037320b@185a.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 bLU cRU 
+SUMMARY:[R3 BLU CRU World Cup] Race 2
+UID:a6462203-0219-42e4-8941-5d5a47535b2e@a646.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: R3 BLU CRU World 
  Cup\nSession: Race 2
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2025
-DTSTAMP:20250113T180553Z
+DTSTAMP:20250221T104608Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20250711T130000
 DTEND;TZID="UTC+01:00":20250711T132500
-SUMMARY:[R3 bLU cRU Cup] Superpole
-UID:befd959b-2f73-410f-8d8c-e185b6629606@befd.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
- Superpole
+SUMMARY:[R3 BLU CRU World Cup] Superpole
+UID:b0270082-9ea2-431f-b57f-f1dea189f3f5@b027.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 BLU CRU World 
+ Cup\nSession: Superpole
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2025
-DTSTAMP:20250113T180554Z
+DTSTAMP:20250221T104609Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20250712T161500
-SUMMARY:[R3 bLU cRU Cup] Race 1
-UID:f508e3f7-68af-4b26-8e19-609585e9a9c0@f508.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
- Race 1
+SUMMARY:[R3 BLU CRU World Cup] Race 1
+UID:f3ca458a-bdec-4a48-94ae-be656adb34df@f3ca.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 BLU CRU World 
+ Cup\nSession: Race 1
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2025
-DTSTAMP:20250113T180554Z
+DTSTAMP:20250221T104609Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20250713T161500
-SUMMARY:[R3 bLU cRU Cup] Race 2
-UID:58960f79-2efa-48f1-8d30-c46d04ee7ec7@5896.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 bLU cRU Cup\nSession: 
- Race 2
+SUMMARY:[R3 BLU CRU World Cup] Race 2
+UID:e3bc7955-2534-4f09-8f5c-b8f808cbb796@e3bc.org
+DESCRIPTION:Event: Prosecco DOC UK Round\nClass: R3 BLU CRU World 
+ Cup\nSession: Race 2
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2025
-DTSTAMP:20250113T180554Z
+DTSTAMP:20250221T104609Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250725T130000
 DTEND;TZID="UTC+02:00":20250725T132500
-SUMMARY:[R3 bLU cRU Cup] Superpole
-UID:0b311b80-4145-49ea-a093-83aa2d2f9090@0b31.org
-DESCRIPTION:Event: Hungarian Round\nClass: R3 bLU cRU Cup\nSession: 
+SUMMARY:[R3 BLU CRU World Cup] Superpole
+UID:e17b659a-d416-4529-8120-c210fb523d31@e17b.org
+DESCRIPTION:Event: Hungarian Round\nClass: R3 BLU CRU World Cup\nSession: 
  Superpole
 LOCATION:
 URL:https://www.worldsbk.com/en/event/HUN/2025
-DTSTAMP:20250113T180554Z
+DTSTAMP:20250221T104610Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250726T161500
-SUMMARY:[R3 bLU cRU Cup] Race 1
-UID:44fc6fc3-1833-4812-835c-bf8562a48390@44fc.org
-DESCRIPTION:Event: Hungarian Round\nClass: R3 bLU cRU Cup\nSession: Race 1
+SUMMARY:[R3 BLU CRU World Cup] Race 1
+UID:00b077bb-9e7e-4034-b95f-860386283429@00b0.org
+DESCRIPTION:Event: Hungarian Round\nClass: R3 BLU CRU World Cup\nSession: 
+ Race 1
 LOCATION:
 URL:https://www.worldsbk.com/en/event/HUN/2025
-DTSTAMP:20250113T180554Z
+DTSTAMP:20250221T104610Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250727T161500
-SUMMARY:[R3 bLU cRU Cup] Race 2
-UID:747e5360-bbd9-4be4-a446-61ea52c04a12@747e.org
-DESCRIPTION:Event: Hungarian Round\nClass: R3 bLU cRU Cup\nSession: Race 2
+SUMMARY:[R3 BLU CRU World Cup] Race 2
+UID:1bba0a0d-c66a-4021-8e8b-39d4d7ac00d2@1bba.org
+DESCRIPTION:Event: Hungarian Round\nClass: R3 BLU CRU World Cup\nSession: 
+ Race 2
 LOCATION:
 URL:https://www.worldsbk.com/en/event/HUN/2025
-DTSTAMP:20250113T180554Z
+DTSTAMP:20250221T104610Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250926T131500
 DTEND;TZID="UTC+02:00":20250926T134000
-SUMMARY:[R3 bLU cRU Cup] Superpole
-UID:7e3699f4-d0f2-461a-8cec-801b8c6fb341@7e36.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 bLU cRU Cup\nSession: 
- Superpole
+SUMMARY:[R3 BLU CRU World Cup] Superpole
+UID:114575d1-e0e8-4e35-b0d2-f64299a1bb43@1145.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 BLU CRU World 
+ Cup\nSession: Superpole
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2025
-DTSTAMP:20250113T180557Z
+DTSTAMP:20250221T104611Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250927T101500
-SUMMARY:[R3 bLU cRU Cup] Race 1
-UID:1f9b8387-8606-48b5-951a-2986a735c20f@1f9b.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 bLU cRU Cup\nSession: 
- Race 1
+SUMMARY:[R3 BLU CRU World Cup] Race 1
+UID:02cb2ebd-a6ba-4789-97cb-ccedbe254d22@02cb.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 BLU CRU World 
+ Cup\nSession: Race 1
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2025
-DTSTAMP:20250113T180557Z
+DTSTAMP:20250221T104611Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250928T100500
-SUMMARY:[R3 bLU cRU Cup] Race 2
-UID:fafe5e16-8203-42ca-9a15-d9799a72b364@fafe.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 bLU cRU Cup\nSession: 
- Race 2
+SUMMARY:[R3 BLU CRU World Cup] Race 2
+UID:062118cb-90b1-41c8-8d0c-2727604d351e@0621.org
+DESCRIPTION:Event: Tissot Aragon Round\nClass: R3 BLU CRU World 
+ Cup\nSession: Race 2
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2025
-DTSTAMP:20250113T180557Z
+DTSTAMP:20250221T104611Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20251010T131500
 DTEND;TZID="UTC+01:00":20251010T134000
-SUMMARY:[R3 bLU cRU Cup] Superpole
-UID:42a77f59-d1b4-4d61-b2d2-a80ba77a02b5@42a7.org
-DESCRIPTION:Event: Estoril Round\nClass: R3 bLU cRU Cup\nSession: Superpole
+SUMMARY:[R3 BLU CRU World Cup] Superpole
+UID:0c5a676c-e1da-4902-8e63-a005c8db2095@0c5a.org
+DESCRIPTION:Event: Estoril Round\nClass: R3 BLU CRU World Cup\nSession: 
+ Superpole
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
-DTSTAMP:20250113T180558Z
+DTSTAMP:20250221T104612Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20251011T101500
-SUMMARY:[R3 bLU cRU Cup] Race 1
-UID:a4535a1f-181d-4b35-a66a-b5ef71fccbae@a453.org
-DESCRIPTION:Event: Estoril Round\nClass: R3 bLU cRU Cup\nSession: Race 1
+SUMMARY:[R3 BLU CRU World Cup] Race 1
+UID:e91c58c8-2751-4cda-b887-339d7f587c4d@e91c.org
+DESCRIPTION:Event: Estoril Round\nClass: R3 BLU CRU World Cup\nSession: 
+ Race 1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
-DTSTAMP:20250113T180558Z
+DTSTAMP:20250221T104612Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20251012T100500
-SUMMARY:[R3 bLU cRU Cup] Race 2
-UID:e3d81f84-9af6-49c6-9509-6c67af43c5bf@e3d8.org
-DESCRIPTION:Event: Estoril Round\nClass: R3 bLU cRU Cup\nSession: Race 2
+SUMMARY:[R3 BLU CRU World Cup] Race 2
+UID:79627ffb-a8eb-465a-b246-eeb7dccf5407@7962.org
+DESCRIPTION:Event: Estoril Round\nClass: R3 BLU CRU World Cup\nSession: 
+ Race 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
-DTSTAMP:20250113T180558Z
+DTSTAMP:20250221T104612Z
 END:VEVENT
 END:VCALENDAR

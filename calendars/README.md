@@ -16,21 +16,21 @@ All sessions
 - <a href="wsbk/2025/WorldSBK_2025_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2025/WorldSSP_2025_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2025/WorldSSP300_2025_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2025/R3 bLU cRU Cup_2025_calendar.ics">R3 bLU cRU Cup</a>
+- <a href="wsbk/2025/R3 BLU CRU World Cup_2025_calendar.ics">R3 BLU CRU World Cup</a>
 - <a href="wsbk/2025/WorldWCR_2025_calendar.ics">WorldWCR</a>
 
 Superpole + Races Only
 - <a href="wsbk/2025/WorldSBK_filtered_2025_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2025/WorldSSP_filtered_2025_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2025/WorldSSP300_filtered_2025_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2025/R3 bLU cRU Cup_filtered_2025_calendar.ics">R3 bLU cRU Cup</a>
+- <a href="wsbk/2025/R3 BLU CRU World Cup_filtered_2025_calendar.ics">R3 BLU CRU World Cup</a>
 - <a href="wsbk/2025/WorldWCR_filtered_2025_calendar.ics">WorldWCR</a>
 
 Races Only
 - <a href="wsbk/2025/WorldSBK_races_2025_calendar.ics">WorldSBK</a>
 - <a href="wsbk/2025/WorldSSP_races_2025_calendar.ics">WorldSSP</a>
 - <a href="wsbk/2025/WorldSSP300_races_2025_calendar.ics">WorldSSP300</a>
-- <a href="wsbk/2025/R3 bLU cRU Cup_races_2025_calendar.ics">R3 bLU cRU Cup</a>
+- <a href="wsbk/2025/R3 BLU CRU World Cup_races_2025_calendar.ics">R3 BLU CRU World Cup</a>
 - <a href="wsbk/2025/WorldWCR_races_2024_calendar.ics">WorldWCR</a>
 
 
