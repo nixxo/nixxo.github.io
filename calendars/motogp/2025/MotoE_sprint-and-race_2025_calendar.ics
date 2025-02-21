@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250510T121500
+SUMMARY:[MotoE] RAC1
+UID:806d7067-47d0-4370-903b-050947787a3c@806d.org
+DESCRIPTION:Event: GP6 - FRANCE\nClass: MotoE\nSession: Race Nr.1
+LOCATION:Le Mans - Le Mans
+URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
+ 405e-880e-7d9105ce1cbe
+DTSTAMP:20250221T105620Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250510T161000
+SUMMARY:[MotoE] RAC2
+UID:efc19604-2cca-48b4-a6f4-a182b42a3050@efc1.org
+DESCRIPTION:Event: GP6 - FRANCE\nClass: MotoE\nSession: Race Nr.2
+LOCATION:Le Mans - Le Mans
+URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
+ 405e-880e-7d9105ce1cbe
+DTSTAMP:20250221T105620Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250628T121500
+SUMMARY:[MotoE] RAC1
+UID:7263d6ce-6b36-4594-a09a-88930174f1bd@7263.org
+DESCRIPTION:Event: GP10 - NETHERLANDS\nClass: MotoE\nSession: Race Nr.1
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
+ 48cc-4dd6-b752-6b94d0ffd5f5
+DTSTAMP:20250221T105621Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250628T161000
+SUMMARY:[MotoE] RAC2
+UID:90bad61e-9d23-4eb7-8b04-de066367f15d@90ba.org
+DESCRIPTION:Event: GP10 - NETHERLANDS\nClass: MotoE\nSession: Race Nr.2
+LOCATION:TT Circuit Assen - Assen
+URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
+ 48cc-4dd6-b752-6b94d0ffd5f5
+DTSTAMP:20250221T105621Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250816T121500
+SUMMARY:[MotoE] RAC1
+UID:17dc459d-3560-4c9e-871e-62ef37aefb59@17dc.org
+DESCRIPTION:Event: GP13 - AUSTRIA\nClass: MotoE\nSession: Race Nr.1
+LOCATION:Red Bull Ring - Spielberg - Spielberg
+URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
+ 4119-8fe4-826017d5f2dd
+DTSTAMP:20250221T105622Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250816T161000
+SUMMARY:[MotoE] RAC2
+UID:135c97bd-8507-4a1c-b8da-d6f62827cb06@135c.org
+DESCRIPTION:Event: GP13 - AUSTRIA\nClass: MotoE\nSession: Race Nr.2
+LOCATION:Red Bull Ring - Spielberg - Spielberg
+URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
+ 4119-8fe4-826017d5f2dd
+DTSTAMP:20250221T105622Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250823T121500
+SUMMARY:[MotoE] RAC1
+UID:d2d621cf-646d-4fb7-b89f-13da4a2a9f52@d2d6.org
+DESCRIPTION:Event: GP14 - HUNGARY\nClass: MotoE\nSession: Race Nr.1
+LOCATION:Balaton Park - Balaton
+URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
+ 4d6f-962e-966459a7a03c
+DTSTAMP:20250221T105622Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250823T161000
+SUMMARY:[MotoE] RAC2
+UID:e31bc3e4-5589-4b03-8c99-e21d24938034@e31b.org
+DESCRIPTION:Event: GP14 - HUNGARY\nClass: MotoE\nSession: Race Nr.2
+LOCATION:Balaton Park - Balaton
+URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
+ 4d6f-962e-966459a7a03c
+DTSTAMP:20250221T105622Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250906T121500
+SUMMARY:[MotoE] RAC1
+UID:37b0442b-138f-4680-afce-305a4d548ad4@37b0.org
+DESCRIPTION:Event: GP15 - CATALONIA\nClass: MotoE\nSession: Race Nr.1
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
+ 44fa-b651-05291983be13
+DTSTAMP:20250221T105623Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250906T161000
+SUMMARY:[MotoE] RAC2
+UID:fd4c75db-367d-4891-aabf-15bc0682c183@fd4c.org
+DESCRIPTION:Event: GP15 - CATALONIA\nClass: MotoE\nSession: Race Nr.2
+LOCATION:Circuit de Barcelona-Catalunya - 
+URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
+ 44fa-b651-05291983be13
+DTSTAMP:20250221T105623Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250913T121500
+SUMMARY:[MotoE] RAC1
+UID:3fc76d5d-41c6-4382-b7db-140cc829bda5@3fc7.org
+DESCRIPTION:Event: GP16 - SAN MARINO\nClass: MotoE\nSession: Race Nr.1
+LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
+URL:https://www.motogp.com/en/calendar/2025/event/san 
+ marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
+DTSTAMP:20250221T105623Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+02:00":20250913T161000
+SUMMARY:[MotoE] RAC2
+UID:ae6a4df2-0a3c-4723-a988-d601155ad569@ae6a.org
+DESCRIPTION:Event: GP16 - SAN MARINO\nClass: MotoE\nSession: Race Nr.2
+LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
+URL:https://www.motogp.com/en/calendar/2025/event/san 
+ marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
+DTSTAMP:20250221T105623Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T161000Z
+SUMMARY:[MotoE] RAC2
+UID:f3528ee1-6ced-490b-80b2-b979e743705a@f352.org
+DESCRIPTION:Event: GP21 - PORTUGAL\nClass: MotoE\nSession: Race Nr.2
+LOCATION:Autódromo Internacional do Algarve - Portimão
+URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
+ 4b42-8276-2bdb174f22d1
+DTSTAMP:20250221T105624Z
+END:VEVENT
+END:VCALENDAR
