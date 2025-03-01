@@ -84,222 +84,241 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID="UTC+07:00":20250302T120000
-SUMMARY:[Moto3] RAC
-UID:fd0fedab-9586-4032-8cf0-5e531bef0d4a@fd0f.org
-DESCRIPTION:Event: GP1 - THAILAND\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #ThaiGP
+UID:6c1c5066-8a2d-4f16-a757-6668d0c28f51@6c1c.org
+DESCRIPTION:Event: GP1 - PT Grand Prix of Thailand\nClass: Moto3\nSession: 
+ Race
 LOCATION:Chang International Circuit - Tambon Isan
 URL:https://www.motogp.com/en/calendar/2025/event/thailand/3361d50e-1ba0-
  4d71-83a6-99f6b49daafa
-DTSTAMP:20250221T105619Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-03:00":20250316T120000
-SUMMARY:[Moto3] RAC
-UID:dbd0eac5-823f-4b1e-b4dc-15d1bbd3033a@dbd0.org
-DESCRIPTION:Event: GP2 - ARGENTINA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #ArgentinaGP
+UID:c0f1d500-bc74-4c98-ba0b-f1ea97ee4239@c0f1.org
+DESCRIPTION:Event: GP2 - Gran Premio de la República Argentina\nClass: 
+ Moto3\nSession: Race
 LOCATION:Termas de Río Hondo - Termas de Río Hondo
 URL:https://www.motogp.com/en/calendar/2025/event/argentina/fa358f87-a0e1-
  4bcb-86e5-a4ef603dbee8
-DTSTAMP:20250221T105619Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC-05:00":20250330T110000
-SUMMARY:[Moto3] RAC
-UID:208860be-6a07-4bf3-9951-74ba606ae554@2088.org
-DESCRIPTION:Event: GP3 - USA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #AmericasGP
+UID:70db2ff4-b34e-433e-9445-82b78b580cf2@70db.org
+DESCRIPTION:Event: GP3 - Red Bull Grand Prix of The Americas\nClass: 
+ Moto3\nSession: Race
 LOCATION:Circuit Of The Americas - Austin
 URL:https://www.motogp.com/en/calendar/2025/event/americas/7e8d279d-900f-
  4a5a-a6f8-d51ae072d708
-DTSTAMP:20250221T105620Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+03:00":20250413T170000
-SUMMARY:[Moto3] RAC
-UID:b8ecbbfa-87f9-4388-a61c-756fbf2d6a8e@b8ec.org
-DESCRIPTION:Event: GP4 - QATAR\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #QatarGP
+UID:e273263b-856c-4508-a6b1-711bc3f2b2fd@e273.org
+DESCRIPTION:Event: GP4 - Qatar Airways Grand Prix of Qatar\nClass: 
+ Moto3\nSession: Race
 LOCATION:Lusail International Circuit - Doha
 URL:https://www.motogp.com/en/calendar/2025/event/qatar/7a40caf3-8e8f-4405-
  b6e7-702453149285
-DTSTAMP:20250221T105620Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250427T110000
-SUMMARY:[Moto3] RAC
-UID:894025df-be36-48df-a399-c1fd5a211c9a@8940.org
-DESCRIPTION:Event: GP5 - SPAIN\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #SpanishGP
+UID:4d0a2f15-6290-4203-9b94-2e31ea9d7c03@4d0a.org
+DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de 
+ España\nClass: Moto3\nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto - Jerez de la Frontera
 URL:https://www.motogp.com/en/calendar/2025/event/españa/dff8ef36-96f4-
  487f-ae75-5abaf8da451d
-DTSTAMP:20250221T105620Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250511T110000
-SUMMARY:[Moto3] RAC
-UID:be273217-ae4b-412d-85b3-f5a76358b35b@be27.org
-DESCRIPTION:Event: GP6 - FRANCE\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #FrenchGP
+UID:86e00324-5e0d-4651-a364-bccd4dd18b5c@86e0.org
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France\nClass: 
+ Moto3\nSession: Race
 LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
  405e-880e-7d9105ce1cbe
-DTSTAMP:20250221T105620Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20250525T143000
-SUMMARY:[Moto3] RAC
-UID:e43cb506-7e28-46f1-af99-c22813402cd7@e43c.org
-DESCRIPTION:Event: GP7 - UNITED KINGDOM\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #BritishGP
+UID:b60eef1a-9536-4ff2-a3fe-a171ae0c294c@b60e.org
+DESCRIPTION:Event: GP7 - Tissot British Grand Prix\nClass: Moto3\nSession: 
+ Race
 LOCATION:Silverstone Circuit - 
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
-DTSTAMP:20250221T105621Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250608T110000
-SUMMARY:[Moto3] RAC
-UID:ba96d67e-a646-4cba-ae6e-a62e7f8ef3e7@ba96.org
-DESCRIPTION:Event: GP8 - ARAGON\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #AragonGP
+UID:6a52cb55-6096-4aaa-8ffd-9ed7d43c4812@6a52.org
+DESCRIPTION:Event: GP8 - Gran Premio de Aragon\nClass: Moto3\nSession: Race
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
  ac94-39af7e7077f9
-DTSTAMP:20250221T105621Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250622T110000
-SUMMARY:[Moto3] RAC
-UID:a3237c41-c9fd-4bd7-8173-6d48655d2039@a323.org
-DESCRIPTION:Event: GP9 - ITALY\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #ItalianGP
+UID:cb768dff-0e8c-4bbe-888e-4b44c25086db@cb76.org
+DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo\nClass: 
+ Moto3\nSession: Race
 LOCATION:Autodromo Internazionale del Mugello - Scarperia e San Piero
 URL:https://www.motogp.com/en/calendar/2025/event/italy/ae539677-70a6-4642-
  aee4-6d6cc5979f67
-DTSTAMP:20250221T105621Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250629T110000
-SUMMARY:[Moto3] RAC
-UID:a8ad6c0c-3cb3-49a5-96ca-c3629b273b6a@a8ad.org
-DESCRIPTION:Event: GP10 - NETHERLANDS\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #DutchGP
+UID:cc9de744-c491-473b-833a-0cadbdd7df69@cc9d.org
+DESCRIPTION:Event: GP10 - Motul TT Assen\nClass: Moto3\nSession: Race
 LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
-DTSTAMP:20250221T105621Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250713T110000
-SUMMARY:[Moto3] RAC
-UID:81fbfed2-4d93-4293-836e-8c59c6a3c06c@81fb.org
-DESCRIPTION:Event: GP11 - GERMANY\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #GermanGP
+UID:9bdf235f-d735-404d-a396-8ee0a1ee6239@9bdf.org
+DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix 
+ Deutschland\nClass: Moto3\nSession: Race
 LOCATION:Sachsenring - Oberlungwitz
 URL:https://www.motogp.com/en/calendar/2025/event/germany/965332bd-0229-
  4c71-8cc4-24dac546bc97
-DTSTAMP:20250221T105621Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250720T110000
-SUMMARY:[Moto3] RAC
-UID:ddbf3279-fe73-4a2b-af9c-b13badfa985e@ddbf.org
-DESCRIPTION:Event: GP12 - CZECHIA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #CzechGP
+UID:b865d510-9b6f-41ee-b657-cbba0ba5720a@b865.org
+DESCRIPTION:Event: GP12 - Grand Prix České republiky\nClass: 
+ Moto3\nSession: Race
 LOCATION:Automotodrom Brno - 
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
-DTSTAMP:20250221T105622Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250817T110000
-SUMMARY:[Moto3] RAC
-UID:e028b57e-29a2-4c03-ac21-f6cff2ef53dd@e028.org
-DESCRIPTION:Event: GP13 - AUSTRIA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #AustrianGP
+UID:17100186-79a8-45bd-ad93-a320c9291b67@1710.org
+DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich\nClass: 
+ Moto3\nSession: Race
 LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
-DTSTAMP:20250221T105622Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250824T110000
-SUMMARY:[Moto3] RAC
-UID:5375dcba-e115-4ed0-96b8-e6e730a14716@5375.org
-DESCRIPTION:Event: GP14 - HUNGARY\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #HungarianGP
+UID:83b52d06-5cd4-4a57-b6db-dbb0b8e9a7bc@83b5.org
+DESCRIPTION:Event: GP14 - Hungary Grand Prix\nClass: Moto3\nSession: Race
 LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
-DTSTAMP:20250221T105622Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250907T110000
-SUMMARY:[Moto3] RAC
-UID:a776f791-76f2-46df-9625-a8ad58a0f8d3@a776.org
-DESCRIPTION:Event: GP15 - CATALONIA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #CatalanGP
+UID:bc832cb1-cc53-4047-84b4-c59b560fdcb8@bc83.org
+DESCRIPTION:Event: GP15 - Gran Premi de Catalunya\nClass: Moto3\nSession: 
+ Race
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250221T105623Z
+DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250914T110000
-SUMMARY:[Moto3] RAC
-UID:79a64348-6896-4544-b940-b9c6317b0dbc@79a6.org
-DESCRIPTION:Event: GP16 - SAN MARINO\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #SanMarinoGP
+UID:28131edb-9fb5-4deb-92e6-ea70856746de@2813.org
+DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
+ Riviera di Rimini\nClass: Moto3\nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250221T105623Z
+DTSTAMP:20250301T221855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+09:00":20250928T110000
-SUMMARY:[Moto3] RAC
-UID:c07fa778-19cd-4d68-ad55-519f9054e3a3@c07f.org
-DESCRIPTION:Event: GP17 - JAPAN\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #JapaneseGP
+UID:e00c7f54-2ca4-465e-92e3-fd47b8291d87@e00c.org
+DESCRIPTION:Event: GP17 - Motul Grand Prix of Japan\nClass: Moto3\nSession:
+  Race
 LOCATION:Mobility Resort Motegi - Motegi
 URL:https://www.motogp.com/en/calendar/2025/event/japan/4d4bbb64-6a49-496a-
  853d-eaaad099ca8b
-DTSTAMP:20250221T105623Z
+DTSTAMP:20250301T221855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20251005T120000
-SUMMARY:[Moto3] RAC
-UID:e96e62a9-c393-47db-92c8-f615fc6895bc@e96e.org
-DESCRIPTION:Event: GP18 - INDONESIA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #IndonesianGP
+UID:38d2a727-73d9-405e-b053-a809d2373471@38d2.org
+DESCRIPTION:Event: GP18 - Pertamina Grand Prix of Indonesia\nClass: 
+ Moto3\nSession: Race
 LOCATION:Pertamina Mandalika Circuit - 
 URL:https://www.motogp.com/en/calendar/2025/event/indonesia/c4def1f2-c288-
  4eab-9461-7acda49e765a
-DTSTAMP:20250221T105623Z
+DTSTAMP:20250301T221855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+11:00":20251019T110000
-SUMMARY:[Moto3] RAC
-UID:66a0c041-ea06-4fcf-ad8a-a7731993abc5@66a0.org
-DESCRIPTION:Event: GP19 - AUSTRALIA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #AustralianGP
+UID:1c3ce3a3-7413-45ae-b98a-e27f8ed5f72e@1c3c.org
+DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix\nClass: 
+ Moto3\nSession: Race
 LOCATION:Phillip Island - 
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
-DTSTAMP:20250221T105624Z
+DTSTAMP:20250301T221855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+08:00":20251026T120000
-SUMMARY:[Moto3] RAC
-UID:ef0cb301-42a1-4378-8e2f-3c517ec93923@ef0c.org
-DESCRIPTION:Event: GP20 - MALAYSIA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #MalaysianGP
+UID:a7b25c15-a1da-473f-9f69-a535f73f42a8@a7b2.org
+DESCRIPTION:Event: GP20 - Petronas Grand Prix of Malaysia\nClass: 
+ Moto3\nSession: Race
 LOCATION:Petronas Sepang International Circuit - Sepang
 URL:https://www.motogp.com/en/calendar/2025/event/malaysia/c2cd8f49-5643-
  440f-84fc-4c37b3ef3f87
-DTSTAMP:20250221T105624Z
+DTSTAMP:20250301T221855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T143000Z
-SUMMARY:[Moto3] RAC
-UID:6c739d67-3f04-444b-84d9-b8c8ef03dca6@6c73.org
-DESCRIPTION:Event: GP21 - PORTUGAL\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #PortugueseGP
+UID:f1991985-f02a-469f-9a39-9d476c679a4e@f199.org
+DESCRIPTION:Event: GP21 - Grande Prémio de Portugal\nClass: Moto3\nSession:
+  Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
-DTSTAMP:20250221T105624Z
+DTSTAMP:20250301T221855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+01:00":20251116T110000
-SUMMARY:[Moto3] RAC
-UID:3ed4d8c7-2a60-43e3-98b5-67c508214615@3ed4.org
-DESCRIPTION:Event: GP22 - VALENCIA\nClass: Moto3\nSession: Race
+SUMMARY:[Moto3] RAC - #ValenciaGP
+UID:887f05e2-c6cc-4764-b0c7-2ed089d42882@887f.org
+DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat 
+ Valenciana\nClass: Moto3\nSession: Race
 LOCATION:Circuit Ricardo Tormo - Cheste
 URL:https://www.motogp.com/en/calendar/2025/event/valencia/1d04e5f0-be1a-
  4c1c-9a75-81fe67811866
-DTSTAMP:20250221T105624Z
+DTSTAMP:20250301T221855Z
 END:VEVENT
 END:VCALENDAR
