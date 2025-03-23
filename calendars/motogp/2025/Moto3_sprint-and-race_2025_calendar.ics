@@ -15,7 +15,7 @@ TZID:UTC-03:00
 BEGIN:STANDARD
 TZOFFSETFROM:+0000
 TZOFFSETTO:-0300
-DTSTART:19700101T000000
+RDATE:19700101T000000
 TZNAME:UTC-03:00
 END:STANDARD
 END:VTIMEZONE
@@ -163,7 +163,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250608T110000
 SUMMARY:[Moto3] RAC - #AragonGP
 UID:6a52cb55-6096-4aaa-8ffd-9ed7d43c4812@6a52.org
-DESCRIPTION:Event: GP8 - Gran Premio de Aragon\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón\nClass: 
+ Moto3\nSession: Race
 LOCATION:MotorLand Aragón - 
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
  ac94-39af7e7077f9
@@ -205,8 +206,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250720T110000
 SUMMARY:[Moto3] RAC - #CzechGP
 UID:b865d510-9b6f-41ee-b657-cbba0ba5720a@b865.org
-DESCRIPTION:Event: GP12 - Grand Prix České republiky\nClass: 
- Moto3\nSession: Race
+DESCRIPTION:Event: GP12 - Grand Prix of Czechia\nClass: Moto3\nSession: 
+ Race
 LOCATION:Automotodrom Brno - 
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -227,7 +228,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250824T110000
 SUMMARY:[Moto3] RAC - #HungarianGP
 UID:83b52d06-5cd4-4a57-b6db-dbb0b8e9a7bc@83b5.org
-DESCRIPTION:Event: GP14 - Hungary Grand Prix\nClass: Moto3\nSession: Race
+DESCRIPTION:Event: GP14 - Grand Prix of Hungary\nClass: Moto3\nSession: 
+ Race
 LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
@@ -236,13 +238,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250907T110000
 SUMMARY:[Moto3] RAC - #CatalanGP
-UID:bc832cb1-cc53-4047-84b4-c59b560fdcb8@bc83.org
-DESCRIPTION:Event: GP15 - Gran Premi de Catalunya\nClass: Moto3\nSession: 
- Race
+UID:f85ca308-dcfa-4fa9-8617-79e0c792f6a6@f85c.org
+DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya\nClass: 
+ Moto3\nSession: Race
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250323T212658Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250914T110000
@@ -303,8 +305,8 @@ BEGIN:VEVENT
 DTSTART:20251109T143000Z
 SUMMARY:[Moto3] RAC - #PortugueseGP
 UID:f1991985-f02a-469f-9a39-9d476c679a4e@f199.org
-DESCRIPTION:Event: GP21 - Grande Prémio de Portugal\nClass: Moto3\nSession:
-  Race
+DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal\nClass: 
+ Moto3\nSession: Race
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1

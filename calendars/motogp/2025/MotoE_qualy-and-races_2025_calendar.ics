@@ -151,7 +151,7 @@ DTSTART;TZID="UTC+02:00":20250822T170000
 DTEND;TZID="UTC+02:00":20250822T171000
 SUMMARY:[MotoE] Q1 - #HungarianGP
 UID:fc3df859-37f7-43fa-868b-fc0e786e1e44@fc3d.org
-DESCRIPTION:Event: GP14 - Hungary Grand Prix\nClass: MotoE\nSession: 
+DESCRIPTION:Event: GP14 - Grand Prix of Hungary\nClass: MotoE\nSession: 
  Qualifying Nr. 1
 LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
@@ -163,7 +163,7 @@ DTSTART;TZID="UTC+02:00":20250822T172000
 DTEND;TZID="UTC+02:00":20250822T173000
 SUMMARY:[MotoE] Q2 - #HungarianGP
 UID:a52529f8-0da6-490e-b520-501f649a7954@a525.org
-DESCRIPTION:Event: GP14 - Hungary Grand Prix\nClass: MotoE\nSession: 
+DESCRIPTION:Event: GP14 - Grand Prix of Hungary\nClass: MotoE\nSession: 
  Qualifying Nr. 2
 LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
@@ -174,8 +174,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250823T121500
 SUMMARY:[MotoE] RAC1 - #HungarianGP
 UID:0db14d12-305d-4bc9-baa0-39d4a48922ab@0db1.org
-DESCRIPTION:Event: GP14 - Hungary Grand Prix\nClass: MotoE\nSession: Race 
- Nr.1
+DESCRIPTION:Event: GP14 - Grand Prix of Hungary\nClass: MotoE\nSession: 
+ Race Nr.1
 LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
@@ -185,8 +185,8 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250823T161000
 SUMMARY:[MotoE] RAC2 - #HungarianGP
 UID:fc3ca605-2f99-4d4d-a30d-8003fb81c8a0@fc3c.org
-DESCRIPTION:Event: GP14 - Hungary Grand Prix\nClass: MotoE\nSession: Race 
- Nr.2
+DESCRIPTION:Event: GP14 - Grand Prix of Hungary\nClass: MotoE\nSession: 
+ Race Nr.2
 LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
@@ -196,47 +196,47 @@ BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250905T170000
 DTEND;TZID="UTC+02:00":20250905T171000
 SUMMARY:[MotoE] Q1 - #CatalanGP
-UID:59c6c0ba-ad08-4920-85dc-85a53b96334f@59c6.org
-DESCRIPTION:Event: GP15 - Gran Premi de Catalunya\nClass: MotoE\nSession: 
- Qualifying Nr. 1
+UID:b3e276e6-619a-4762-8d3c-ee5e45b24ade@b3e2.org
+DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya\nClass: 
+ MotoE\nSession: Qualifying Nr. 1
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250323T212658Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250905T172000
 DTEND;TZID="UTC+02:00":20250905T173000
 SUMMARY:[MotoE] Q2 - #CatalanGP
-UID:0c597e34-1f42-445a-93ac-75e95a897923@0c59.org
-DESCRIPTION:Event: GP15 - Gran Premi de Catalunya\nClass: MotoE\nSession: 
- Qualifying Nr. 2
+UID:16034f20-4d10-4c13-b930-cbe741eeab57@1603.org
+DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya\nClass: 
+ MotoE\nSession: Qualifying Nr. 2
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250323T212658Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250906T121500
 SUMMARY:[MotoE] RAC1 - #CatalanGP
-UID:606d40f3-ec00-4f68-a6e8-adc39e880618@606d.org
-DESCRIPTION:Event: GP15 - Gran Premi de Catalunya\nClass: MotoE\nSession: 
- Race Nr.1
+UID:82886405-4250-48c1-b08d-76769f7c7575@8288.org
+DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya\nClass: 
+ MotoE\nSession: Race Nr.1
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250323T212658Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250906T161000
 SUMMARY:[MotoE] RAC2 - #CatalanGP
-UID:9aab4da4-4b68-41a1-b123-69a62c0e0070@9aab.org
-DESCRIPTION:Event: GP15 - Gran Premi de Catalunya\nClass: MotoE\nSession: 
- Race Nr.2
+UID:74443477-fdb9-4409-a997-f1b1e4a0fafe@7444.org
+DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya\nClass: 
+ MotoE\nSession: Race Nr.2
 LOCATION:Circuit de Barcelona-Catalunya - 
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250323T212658Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID="UTC+02:00":20250912T170000
@@ -289,8 +289,8 @@ DTSTART:20251107T170000Z
 DTEND:20251107T171000Z
 SUMMARY:[MotoE] Q1 - #PortugueseGP
 UID:4cf30139-2690-4757-84fe-076efcbbb363@4cf3.org
-DESCRIPTION:Event: GP21 - Grande Prémio de Portugal\nClass: MotoE\nSession:
-  Qualifying Nr. 1
+DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal\nClass: 
+ MotoE\nSession: Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
@@ -301,8 +301,8 @@ DTSTART:20251107T172000Z
 DTEND:20251107T173000Z
 SUMMARY:[MotoE] Q2 - #PortugueseGP
 UID:7d7614e4-6970-41ce-96a4-ccbacd1cdc07@7d76.org
-DESCRIPTION:Event: GP21 - Grande Prémio de Portugal\nClass: MotoE\nSession:
-  Qualifying Nr. 2
+DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal\nClass: 
+ MotoE\nSession: Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
@@ -312,8 +312,8 @@ BEGIN:VEVENT
 DTSTART:20251108T121500Z
 SUMMARY:[MotoE] RAC1 - #PortugueseGP
 UID:b6db93ae-d781-4be5-8810-565a94bcb728@b6db.org
-DESCRIPTION:Event: GP21 - Grande Prémio de Portugal\nClass: MotoE\nSession:
-  Race Nr.1
+DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal\nClass: 
+ MotoE\nSession: Race Nr.1
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
@@ -323,8 +323,8 @@ BEGIN:VEVENT
 DTSTART:20251108T161000Z
 SUMMARY:[MotoE] RAC2 - #PortugueseGP
 UID:c1c41dc3-e8a2-4b33-a8fd-720928267dcc@c1c4.org
-DESCRIPTION:Event: GP21 - Grande Prémio de Portugal\nClass: MotoE\nSession:
-  Race Nr.2
+DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal\nClass: 
+ MotoE\nSession: Race Nr.2
 LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
