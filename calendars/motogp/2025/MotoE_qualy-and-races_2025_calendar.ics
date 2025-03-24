@@ -21,8 +21,8 @@ LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
  405e-880e-7d9105ce1cbe
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP6 - Michelin® Grand Prix de France<br>Class: 
- MotoE<br>Session: Qualifying Nr. 1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP6 - Michelin® Grand Prix de 
+ France<br>Class: MotoE<br>Session: Qualifying Nr. 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250509T172000
@@ -35,8 +35,8 @@ LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
  405e-880e-7d9105ce1cbe
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP6 - Michelin® Grand Prix de France<br>Class: 
- MotoE<br>Session: Qualifying Nr. 2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP6 - Michelin® Grand Prix de 
+ France<br>Class: MotoE<br>Session: Qualifying Nr. 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250510T121500
@@ -48,8 +48,8 @@ LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
  405e-880e-7d9105ce1cbe
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP6 - Michelin® Grand Prix de France<br>Class: 
- MotoE<br>Session: Race Nr.1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP6 - Michelin® Grand Prix de 
+ France<br>Class: MotoE<br>Session: Race Nr.1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250510T161000
@@ -61,8 +61,8 @@ LOCATION:Le Mans - Le Mans
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
  405e-880e-7d9105ce1cbe
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP6 - Michelin® Grand Prix de France<br>Class: 
- MotoE<br>Session: Race Nr.2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP6 - Michelin® Grand Prix de 
+ France<br>Class: MotoE<br>Session: Race Nr.2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250627T170000
@@ -75,8 +75,8 @@ LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP10 - Motul TT Assen<br>Class: MotoE<br>Session: 
- Qualifying Nr. 1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP10 - Motul TT Assen<br>Class: 
+ MotoE<br>Session: Qualifying Nr. 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250627T172000
@@ -89,8 +89,8 @@ LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP10 - Motul TT Assen<br>Class: MotoE<br>Session: 
- Qualifying Nr. 2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP10 - Motul TT Assen<br>Class: 
+ MotoE<br>Session: Qualifying Nr. 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250628T121500
@@ -101,8 +101,8 @@ LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP10 - Motul TT Assen<br>Class: MotoE<br>Session: Race 
- Nr.1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP10 - Motul TT Assen<br>Class: 
+ MotoE<br>Session: Race Nr.1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250628T161000
@@ -113,8 +113,8 @@ LOCATION:TT Circuit Assen - Assen
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP10 - Motul TT Assen<br>Class: MotoE<br>Session: Race 
- Nr.2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP10 - Motul TT Assen<br>Class: 
+ MotoE<br>Session: Race Nr.2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250815T170000
@@ -127,8 +127,8 @@ LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP13 - Motorrad Grand Prix von Österreich<br>Class: 
- MotoE<br>Session: Qualifying Nr. 1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP13 - Motorrad Grand Prix von 
+ Österreich<br>Class: MotoE<br>Session: Qualifying Nr. 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250815T172000
@@ -141,8 +141,8 @@ LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP13 - Motorrad Grand Prix von Österreich<br>Class: 
- MotoE<br>Session: Qualifying Nr. 2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP13 - Motorrad Grand Prix von 
+ Österreich<br>Class: MotoE<br>Session: Qualifying Nr. 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T121500
@@ -154,8 +154,8 @@ LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP13 - Motorrad Grand Prix von Österreich<br>Class: 
- MotoE<br>Session: Race Nr.1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP13 - Motorrad Grand Prix von 
+ Österreich<br>Class: MotoE<br>Session: Race Nr.1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T161000
@@ -167,8 +167,8 @@ LOCATION:Red Bull Ring - Spielberg - Spielberg
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP13 - Motorrad Grand Prix von Österreich<br>Class: 
- MotoE<br>Session: Race Nr.2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP13 - Motorrad Grand Prix von 
+ Österreich<br>Class: MotoE<br>Session: Race Nr.2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250822T170000
@@ -181,8 +181,8 @@ LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP14 - Grand Prix of Hungary<br>Class: MotoE<br>Session: 
- Qualifying Nr. 1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP14 - Grand Prix of Hungary<br>Class: 
+ MotoE<br>Session: Qualifying Nr. 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250822T172000
@@ -195,8 +195,8 @@ LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP14 - Grand Prix of Hungary<br>Class: MotoE<br>Session: 
- Qualifying Nr. 2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP14 - Grand Prix of Hungary<br>Class: 
+ MotoE<br>Session: Qualifying Nr. 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250823T121500
@@ -208,8 +208,8 @@ LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP14 - Grand Prix of Hungary<br>Class: MotoE<br>Session: 
- Race Nr.1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP14 - Grand Prix of Hungary<br>Class: 
+ MotoE<br>Session: Race Nr.1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250823T161000
@@ -221,8 +221,8 @@ LOCATION:Balaton Park - Balaton
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP14 - Grand Prix of Hungary<br>Class: MotoE<br>Session: 
- Race Nr.2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP14 - Grand Prix of Hungary<br>Class: 
+ MotoE<br>Session: Race Nr.2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250905T170000
@@ -235,8 +235,8 @@ LOCATION:Circuit de Barcelona-Catalunya -
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
 DTSTAMP:20250323T212658Z
-X-ALT-DESC:Event: GP15 - Gran Premi Monster Energy de Catalunya<br>Class: 
- MotoE<br>Session: Qualifying Nr. 1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP15 - Gran Premi Monster Energy de 
+ Catalunya<br>Class: MotoE<br>Session: Qualifying Nr. 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250905T172000
@@ -249,8 +249,8 @@ LOCATION:Circuit de Barcelona-Catalunya -
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
 DTSTAMP:20250323T212658Z
-X-ALT-DESC:Event: GP15 - Gran Premi Monster Energy de Catalunya<br>Class: 
- MotoE<br>Session: Qualifying Nr. 2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP15 - Gran Premi Monster Energy de 
+ Catalunya<br>Class: MotoE<br>Session: Qualifying Nr. 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T121500
@@ -262,8 +262,8 @@ LOCATION:Circuit de Barcelona-Catalunya -
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
 DTSTAMP:20250323T212658Z
-X-ALT-DESC:Event: GP15 - Gran Premi Monster Energy de Catalunya<br>Class: 
- MotoE<br>Session: Race Nr.1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP15 - Gran Premi Monster Energy de 
+ Catalunya<br>Class: MotoE<br>Session: Race Nr.1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T161000
@@ -275,8 +275,8 @@ LOCATION:Circuit de Barcelona-Catalunya -
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
 DTSTAMP:20250323T212658Z
-X-ALT-DESC:Event: GP15 - Gran Premi Monster Energy de Catalunya<br>Class: 
- MotoE<br>Session: Race Nr.2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP15 - Gran Premi Monster Energy de 
+ Catalunya<br>Class: MotoE<br>Session: Race Nr.2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250912T170000
@@ -289,8 +289,9 @@ LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP16 - Gran Premio Red Bull di San Marino e della Riviera
-  di Rimini<br>Class: MotoE<br>Session: Qualifying Nr. 1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP16 - Gran Premio Red Bull di San 
+ Marino e della Riviera di Rimini<br>Class: MotoE<br>Session: Qualifying 
+ Nr. 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250912T172000
@@ -303,8 +304,9 @@ LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP16 - Gran Premio Red Bull di San Marino e della Riviera
-  di Rimini<br>Class: MotoE<br>Session: Qualifying Nr. 2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP16 - Gran Premio Red Bull di San 
+ Marino e della Riviera di Rimini<br>Class: MotoE<br>Session: Qualifying 
+ Nr. 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250913T121500
@@ -316,8 +318,8 @@ LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
 DTSTAMP:20250301T221854Z
-X-ALT-DESC:Event: GP16 - Gran Premio Red Bull di San Marino e della Riviera
-  di Rimini<br>Class: MotoE<br>Session: Race Nr.1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP16 - Gran Premio Red Bull di San 
+ Marino e della Riviera di Rimini<br>Class: MotoE<br>Session: Race Nr.1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250913T161000
@@ -329,8 +331,8 @@ LOCATION:Misano World Circuit Marco Simoncelli - Santa Monica-Cella
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
 DTSTAMP:20250301T221855Z
-X-ALT-DESC:Event: GP16 - Gran Premio Red Bull di San Marino e della Riviera
-  di Rimini<br>Class: MotoE<br>Session: Race Nr.2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP16 - Gran Premio Red Bull di San 
+ Marino e della Riviera di Rimini<br>Class: MotoE<br>Session: Race Nr.2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T170000Z
@@ -343,8 +345,8 @@ LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
 DTSTAMP:20250301T221855Z
-X-ALT-DESC:Event: GP21 - Qatar Airways Grande Prémio de Portugal<br>Class: 
- MotoE<br>Session: Qualifying Nr. 1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP21 - Qatar Airways Grande Prémio de 
+ Portugal<br>Class: MotoE<br>Session: Qualifying Nr. 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T172000Z
@@ -357,8 +359,8 @@ LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
 DTSTAMP:20250301T221855Z
-X-ALT-DESC:Event: GP21 - Qatar Airways Grande Prémio de Portugal<br>Class: 
- MotoE<br>Session: Qualifying Nr. 2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP21 - Qatar Airways Grande Prémio de 
+ Portugal<br>Class: MotoE<br>Session: Qualifying Nr. 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T121500Z
@@ -370,8 +372,8 @@ LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
 DTSTAMP:20250301T221855Z
-X-ALT-DESC:Event: GP21 - Qatar Airways Grande Prémio de Portugal<br>Class: 
- MotoE<br>Session: Race Nr.1
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP21 - Qatar Airways Grande Prémio de 
+ Portugal<br>Class: MotoE<br>Session: Race Nr.1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T161000Z
@@ -383,7 +385,7 @@ LOCATION:Autódromo Internacional do Algarve - Portimão
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
 DTSTAMP:20250301T221855Z
-X-ALT-DESC:Event: GP21 - Qatar Airways Grande Prémio de Portugal<br>Class: 
- MotoE<br>Session: Race Nr.2
+X-ALT-DESC;FMTTYPE=TEXT/HTML:Event: GP21 - Qatar Airways Grande Prémio de 
+ Portugal<br>Class: MotoE<br>Session: Race Nr.2
 END:VEVENT
 END:VCALENDAR
