@@ -33,7 +33,7 @@ DTSTART;TZID=UTC+1100:20250221T145500
 DTEND;TZID=UTC+1100:20250221T154010
 SUMMARY:[WorldSSP] Superpole
 UID:5208310c-fef8-4f67-a3f0-d522755011ed@5208.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: Superpole
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2025
 DTSTAMP:20250113T175802Z
@@ -43,7 +43,7 @@ DTSTART;TZID=UTC+1100:20250222T143000
 DTEND;TZID=UTC+1100:20250222T150100
 SUMMARY:[WorldSSP] Race 1
 UID:9047222f-1b37-483e-a5cf-b1cf15639224@9047.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: Race 1
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2025
 DTSTAMP:20250113T175802Z
@@ -53,7 +53,7 @@ DTSTART;TZID=UTC+1100:20250223T143000
 DTEND;TZID=UTC+1100:20250223T150100
 SUMMARY:[WorldSSP] Race 2
 UID:a06395bb-4b2e-4cd9-862f-f7b5bc971fd5@a063.org
-DESCRIPTION:Event: Australian Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: Race 2
 LOCATION:Phillip Island Grand Prix Circuit\, Victoria\, Australia
 URL:https://www.worldsbk.com/en/event/AUS/2025
 DTSTAMP:20250113T175802Z
@@ -63,7 +63,7 @@ DTSTART:20250328T135500Z
 DTEND:20250328T143848Z
 SUMMARY:[WorldSSP] Superpole
 UID:5c8ffb32-bb9c-41bf-81ce-aa6a56cf0430@5c8f.org
-DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: 
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
  Superpole
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2025
@@ -74,8 +74,8 @@ DTSTART:20250329T123500Z
 DTEND:20250329T130900Z
 SUMMARY:[WorldSSP] Race 1
 UID:25add350-35c7-403f-98bb-d1d2900da1e3@25ad.org
-DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: Race
-  1
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
+ Race 1
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2025
 DTSTAMP:20250113T175803Z
@@ -85,8 +85,8 @@ DTSTART;TZID=UTC+0100:20250330T123500
 DTEND;TZID=UTC+0100:20250330T131009
 SUMMARY:[WorldSSP] Race 2
 UID:e4f3893d-4572-4f2e-a9de-f5d06cc076fb@e4f3.org
-DESCRIPTION:Event: Pirelli Portuguese Round\nClass: WorldSSP\nSession: Race
-  2
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
+ Race 2
 LOCATION:Algarve International Circuit\, Portimão\, Portugal
 URL:https://www.worldsbk.com/en/event/POR/2025
 DTSTAMP:20250113T175803Z
@@ -96,7 +96,8 @@ DTSTART;TZID=UTC+0200:20250411T160000
 DTEND;TZID=UTC+0200:20250411T164000
 SUMMARY:[WorldSSP] Superpole
 UID:ff653d5b-522f-4550-a466-fc3c27045215@ff65.org
-DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: 
+ Superpole
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -105,7 +106,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250412T151500
 SUMMARY:[WorldSSP] Race 1
 UID:b5ef5b72-5ebf-47bc-89c1-bc9a40efd25d@b5ef.org
-DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: Race 1
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -114,7 +115,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250413T151500
 SUMMARY:[WorldSSP] Race 2
 UID:746fec9c-1e23-47e5-bb17-b1762d5c00dc@746f.org
-DESCRIPTION:Event: Pirelli Dutch Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: Race 2
 LOCATION:TT Assen Circuit\, The Netherlands
 URL:https://www.worldsbk.com/en/event/NED/2025
 DTSTAMP:20250113T175804Z
@@ -124,7 +125,7 @@ DTSTART;TZID=UTC+0200:20250502T160000
 DTEND;TZID=UTC+0200:20250502T164000
 SUMMARY:[WorldSSP] Superpole
 UID:8894abdd-47b3-4774-9280-96aaf4092d15@8894.org
-DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldSSP\nSession: 
+DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: 
  Superpole
 LOCATION:
 URL:https://www.worldsbk.com/en/event/CRE/2025
@@ -134,7 +135,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250503T151500
 SUMMARY:[WorldSSP] Race 1
 UID:ba4341b1-679a-406f-ac0b-b67d408fcbb9@ba43.org
-DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: Race 
+ 1
 LOCATION:
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
@@ -143,7 +145,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250504T151500
 SUMMARY:[WorldSSP] Race 2
 UID:58761b0b-90cc-445b-a710-14001746669c@5876.org
-DESCRIPTION:Event: Acerbis Italian Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: Race 
+ 2
 LOCATION:
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
@@ -153,7 +156,7 @@ DTSTART;TZID=UTC+0200:20250516T135500
 DTEND;TZID=UTC+0200:20250516T143500
 SUMMARY:[WorldSSP] Superpole
 UID:d6c94416-1c69-4e36-9c0d-fc1bcc36b7f0@d6c9.org
-DESCRIPTION:Event: Motul Czech Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Motul Czech Round \nClass: WorldSSP \nSession: Superpole
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2025
 DTSTAMP:20250113T175807Z
@@ -162,7 +165,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250517T123500
 SUMMARY:[WorldSSP] Race 1
 UID:eef3373a-0d9e-475d-ae99-03353d063f17@eef3.org
-DESCRIPTION:Event: Motul Czech Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Motul Czech Round \nClass: WorldSSP \nSession: Race 1
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2025
 DTSTAMP:20250113T175807Z
@@ -171,7 +174,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250518T123500
 SUMMARY:[WorldSSP] Race 2
 UID:0560cde0-a1f4-4cd0-92a7-45dc02503e87@0560.org
-DESCRIPTION:Event: Motul Czech Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Motul Czech Round \nClass: WorldSSP \nSession: Race 2
 LOCATION:Autodrom Most\,  Most\, Czech Republic
 URL:https://www.worldsbk.com/en/event/CZE/2025
 DTSTAMP:20250113T175807Z
@@ -180,42 +183,42 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250613T135500
 DTEND;TZID=UTC+0200:20250613T143500
 SUMMARY:[WorldSSP] Superpole
-UID:4a800c97-dc99-42fb-a6d6-df420f9b4cee@4a80.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSSP\nSession: 
- Superpole
+UID:3fc5b4f5-26cc-4c87-9673-d04a6d29d42a@3fc5.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round \nClass: WorldSSP 
+ \nSession: Superpole
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2025
-DTSTAMP:20250113T175808Z
+DTSTAMP:20250402T143309Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250614T123500
 SUMMARY:[WorldSSP] Race 1
-UID:7701bf0c-d7a6-4d89-b936-f48fb0258ed3@7701.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSSP\nSession: 
- Race 1
+UID:1986e214-1bc7-4193-8d04-7102cd43195d@1986.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round \nClass: WorldSSP 
+ \nSession: Race 1
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2025
-DTSTAMP:20250113T175808Z
+DTSTAMP:20250402T143309Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250615T123500
 SUMMARY:[WorldSSP] Race 2
-UID:db759f56-f387-4c3e-8eca-5ba3ada44d1b@db75.org
-DESCRIPTION:Event: Pirelli Emilia-Romagna Round\nClass: WorldSSP\nSession: 
- Race 2
+UID:8572d68a-0ca3-4f0b-8ecd-694de04de67d@8572.org
+DESCRIPTION:Event: Pirelli Emilia-Romagna Round \nClass: WorldSSP 
+ \nSession: Race 2
 LOCATION:Misano World Circuit “Marco Simoncelli”\, Riviera Di Rimini\, 
  Italy
 URL:https://www.worldsbk.com/en/event/ITA/2025
-DTSTAMP:20250113T175808Z
+DTSTAMP:20250402T143309Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250711T160000
 DTEND;TZID=UTC+0100:20250711T164000
 SUMMARY:[WorldSSP] Superpole
 UID:cb75460c-4851-4ef2-8a71-d325233d9393@cb75.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSSP\nSession: 
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: 
  Superpole
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2025
@@ -225,7 +228,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250712T151500
 SUMMARY:[WorldSSP] Race 1
 UID:1871d632-2286-4cc0-b70c-058b654ef067@1871.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: Race 
+ 1
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2025
 DTSTAMP:20250113T175809Z
@@ -234,7 +238,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250713T151500
 SUMMARY:[WorldSSP] Race 2
 UID:fba37235-79d8-4635-a691-4061b5bcf1de@fba3.org
-DESCRIPTION:Event: Prosecco DOC UK Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: Race 
+ 2
 LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, United Kingdom
 URL:https://www.worldsbk.com/en/event/GBR/2025
 DTSTAMP:20250113T175809Z
@@ -244,7 +249,7 @@ DTSTART;TZID=UTC+0200:20250725T160000
 DTEND;TZID=UTC+0200:20250725T164000
 SUMMARY:[WorldSSP] Superpole
 UID:ce00352e-8138-4cef-98ae-8a1c4de99e1d@ce00.org
-DESCRIPTION:Event: Hungarian Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Hungarian Round \nClass: WorldSSP \nSession: Superpole
 LOCATION:
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
@@ -253,7 +258,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250726T151500
 SUMMARY:[WorldSSP] Race 1
 UID:092497dc-4f2a-4712-b634-1459aa928737@0924.org
-DESCRIPTION:Event: Hungarian Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Hungarian Round \nClass: WorldSSP \nSession: Race 1
 LOCATION:
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
@@ -262,7 +267,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250727T151500
 SUMMARY:[WorldSSP] Race 2
 UID:022a791b-3bf0-4d01-9846-648c8354a62e@022a.org
-DESCRIPTION:Event: Hungarian Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Hungarian Round \nClass: WorldSSP \nSession: Race 2
 LOCATION:
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
@@ -272,7 +277,7 @@ DTSTART;TZID=UTC+0200:20250905T160000
 DTEND;TZID=UTC+0200:20250905T164000
 SUMMARY:[WorldSSP] Superpole
 UID:952239d0-7a09-4843-a26e-85a484baedbc@9522.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: French Round \nClass: WorldSSP \nSession: Superpole
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2025
 DTSTAMP:20250113T175811Z
@@ -281,7 +286,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T151500
 SUMMARY:[WorldSSP] Race 1
 UID:3c451930-f777-4514-ba5b-fd5873c14a39@3c45.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: French Round \nClass: WorldSSP \nSession: Race 1
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2025
 DTSTAMP:20250113T175811Z
@@ -290,7 +295,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250907T140000
 SUMMARY:[WorldSSP] Race 2
 UID:8df5c940-d78e-412d-af68-bbd89b2a3945@8df5.org
-DESCRIPTION:Event: French Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: French Round \nClass: WorldSSP \nSession: Race 2
 LOCATION:Circuit de Nevers Magny-Cours\, Magny-Cours\, France
 URL:https://www.worldsbk.com/en/event/FRA/2025
 DTSTAMP:20250113T175811Z
@@ -300,7 +305,8 @@ DTSTART;TZID=UTC+0200:20250926T135500
 DTEND;TZID=UTC+0200:20250926T143500
 SUMMARY:[WorldSSP] Superpole
 UID:40d85246-e073-45da-ad15-fbd9e6cbdac1@40d8.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Tissot Aragon Round \nClass: WorldSSP \nSession: 
+ Superpole
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2025
 DTSTAMP:20250113T175812Z
@@ -309,7 +315,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250927T123500
 SUMMARY:[WorldSSP] Race 1
 UID:9ede9e37-9621-45f7-a67c-c5cd6cca3ff7@9ede.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Tissot Aragon Round \nClass: WorldSSP \nSession: Race 1
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2025
 DTSTAMP:20250113T175812Z
@@ -318,7 +324,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250928T123500
 SUMMARY:[WorldSSP] Race 2
 UID:0653ee6b-ebb5-4b02-a889-10924c3e5a69@0653.org
-DESCRIPTION:Event: Tissot Aragon Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Tissot Aragon Round \nClass: WorldSSP \nSession: Race 2
 LOCATION:MotorLand Aragon\, Teruel\, Spain
 URL:https://www.worldsbk.com/en/event/ARA/2025
 DTSTAMP:20250113T175812Z
@@ -328,7 +334,7 @@ DTSTART;TZID=UTC+0100:20251010T135500
 DTEND;TZID=UTC+0100:20251010T143500
 SUMMARY:[WorldSSP] Superpole
 UID:bbe99777-ec21-452c-b0b1-ace91da87b59@bbe9.org
-DESCRIPTION:Event: Estoril Round\nClass: WorldSSP\nSession: Superpole
+DESCRIPTION:Event: Estoril Round \nClass: WorldSSP \nSession: Superpole
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -337,7 +343,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251011T123500
 SUMMARY:[WorldSSP] Race 1
 UID:a4152900-896f-453f-9b67-afa86a487612@a415.org
-DESCRIPTION:Event: Estoril Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Estoril Round \nClass: WorldSSP \nSession: Race 1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -346,7 +352,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251012T123500
 SUMMARY:[WorldSSP] Race 2
 UID:2b4b456b-4122-4af1-beda-1aa9b5b4f4c9@2b4b.org
-DESCRIPTION:Event: Estoril Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Estoril Round \nClass: WorldSSP \nSession: Race 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z
@@ -356,7 +362,7 @@ DTSTART;TZID=UTC+0200:20251017T160000
 DTEND;TZID=UTC+0200:20251017T164000
 SUMMARY:[WorldSSP] Superpole
 UID:2b9a20ea-a3c9-46c8-bef2-f41521a1aa95@2b9a.org
-DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSSP\nSession: 
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: 
  Superpole
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
@@ -366,7 +372,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20251018T151500
 SUMMARY:[WorldSSP] Race 1
 UID:91ec0c8a-8c4d-4c42-a315-380c9faef3a0@91ec.org
-DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSSP\nSession: Race 1
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: Race 
+ 1
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
@@ -375,7 +382,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20251019T152000
 SUMMARY:[WorldSSP] Race 2
 UID:0dc3c0e1-013e-47a3-b5e7-522142bc69c4@0dc3.org
-DESCRIPTION:Event: Pirelli Spanish Round\nClass: WorldSSP\nSession: Race 2
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: Race 
+ 2
 LOCATION:Circuito de Jerez - Angel Nieto\, Andalusia\, Spain
 URL:https://www.worldsbk.com/en/event/JER/2025
 DTSTAMP:20250113T175814Z
