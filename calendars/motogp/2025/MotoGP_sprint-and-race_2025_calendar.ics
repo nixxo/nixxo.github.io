@@ -86,8 +86,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0700:20250301T150000
 SUMMARY:[MotoGP] SPR - #ThaiGP
 UID:69a674a9-1d88-46e3-b6ed-697870e283e1@69a6.org
-DESCRIPTION:Event: GP1 - PT Grand Prix of Thailand\nClass: MotoGP\nSession:
-  Tissot Sprint
+DESCRIPTION:Event: GP1 - PT Grand Prix of Thailand \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
 URL:https://www.motogp.com/en/calendar/2025/event/thailand/3361d50e-1ba0-
  4d71-83a6-99f6b49daafa
@@ -97,8 +97,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0700:20250302T150000
 SUMMARY:[MotoGP] RAC - #ThaiGP
 UID:a53559bb-7c1f-46a1-b131-f6fe98e660e6@a535.org
-DESCRIPTION:Event: GP1 - PT Grand Prix of Thailand\nClass: MotoGP\nSession:
-  Grand Prix
+DESCRIPTION:Event: GP1 - PT Grand Prix of Thailand \nClass: MotoGP 
+ \nSession: Grand Prix
 LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
 URL:https://www.motogp.com/en/calendar/2025/event/thailand/3361d50e-1ba0-
  4d71-83a6-99f6b49daafa
@@ -109,8 +109,8 @@ DTSTART;TZID=UTC-0300:20250315T150000
 DTEND;TZID=UTC-0300:20250315T160000
 SUMMARY:[MotoGP] SPR - #ArgentinaGP
 UID:c94f3321-a83a-40ca-ba49-a2dc40194867@c94f.org
-DESCRIPTION:Event: GP2 - Gran Premio YPF Energía de Argentina\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP2 - Gran Premio YPF Energía de Argentina \nClass: 
+ MotoGP \nSession: Tissot Sprint
 LOCATION:Termas de Río Hondo\, Argentina
 URL:https://www.motogp.com/en/calendar/2025/event/argentina/fa358f87-a0e1-
  4bcb-86e5-a4ef603dbee8
@@ -120,8 +120,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC-0300:20250316T150000
 SUMMARY:[MotoGP] RAC - #ArgentinaGP
 UID:b129bd1c-198d-41e6-8df5-c78c52c43f1f@b129.org
-DESCRIPTION:Event: GP2 - Gran Premio YPF Energía de Argentina\nClass: 
- MotoGP\nSession: Grand Prix
+DESCRIPTION:Event: GP2 - Gran Premio YPF Energía de Argentina \nClass: 
+ MotoGP \nSession: Grand Prix
 LOCATION:Termas de Río Hondo\, Argentina
 URL:https://www.motogp.com/en/calendar/2025/event/argentina/fa358f87-a0e1-
  4bcb-86e5-a4ef603dbee8
@@ -132,8 +132,8 @@ DTSTART;TZID=UTC-0500:20250329T150000
 DTEND;TZID=UTC-0500:20250329T154500
 SUMMARY:[MotoGP] SPR - #AmericasGP
 UID:49a50209-5352-4f77-990c-4a939500a198@49a5.org
-DESCRIPTION:Event: GP3 - Red Bull Grand Prix of The Americas\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP3 - Red Bull Grand Prix of The Americas \nClass: 
+ MotoGP \nSession: Tissot Sprint
 LOCATION:Circuit Of The Americas\, Austin\, United States
 URL:https://www.motogp.com/en/calendar/2025/event/americas/7e8d279d-900f-
  4a5a-a6f8-d51ae072d708
@@ -144,8 +144,8 @@ DTSTART;TZID=UTC-0500:20250330T140000
 DTEND;TZID=UTC-0500:20250330T145500
 SUMMARY:[MotoGP] RAC - #AmericasGP
 UID:8b38670d-74c3-40b0-8bfa-14c9b5970f52@8b38.org
-DESCRIPTION:Event: GP3 - Red Bull Grand Prix of The Americas\nClass: 
- MotoGP\nSession: Grand Prix
+DESCRIPTION:Event: GP3 - Red Bull Grand Prix of The Americas \nClass: 
+ MotoGP \nSession: Grand Prix
 LOCATION:Circuit Of The Americas\, Austin\, United States
 URL:https://www.motogp.com/en/calendar/2025/event/americas/7e8d279d-900f-
  4a5a-a6f8-d51ae072d708
@@ -155,8 +155,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0300:20250412T200000
 SUMMARY:[MotoGP] SPR - #QatarGP
 UID:ad9002ec-51ff-47bd-b8d6-5fda276477a2@ad90.org
-DESCRIPTION:Event: GP4 - Qatar Airways Grand Prix of Qatar\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP4 - Qatar Airways Grand Prix of Qatar \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Lusail International Circuit\, Doha\, Qatar
 URL:https://www.motogp.com/en/calendar/2025/event/qatar/7a40caf3-8e8f-4405-
  b6e7-702453149285
@@ -166,8 +166,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0300:20250413T200000
 SUMMARY:[MotoGP] RAC - #QatarGP
 UID:6c90ebad-f0fd-4066-8820-026d28e3a10b@6c90.org
-DESCRIPTION:Event: GP4 - Qatar Airways Grand Prix of Qatar\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP4 - Qatar Airways Grand Prix of Qatar \nClass: MotoGP 
+ \nSession: Race
 LOCATION:Lusail International Circuit\, Doha\, Qatar
 URL:https://www.motogp.com/en/calendar/2025/event/qatar/7a40caf3-8e8f-4405-
  b6e7-702453149285
@@ -177,8 +177,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250426T150000
 SUMMARY:[MotoGP] SPR - #SpanishGP
 UID:30db6c01-440b-4d9b-b719-8559779a32b8@30db.org
-DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de 
- España\nClass: MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de España 
+ \nClass: MotoGP \nSession: Tissot Sprint
 LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/españa/dff8ef36-96f4-
  487f-ae75-5abaf8da451d
@@ -188,8 +188,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250427T140000
 SUMMARY:[MotoGP] RAC - #SpanishGP
 UID:dab92df6-f07d-4b37-9a74-2085ec674330@dab9.org
-DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de 
- España\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de España 
+ \nClass: MotoGP \nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/españa/dff8ef36-96f4-
  487f-ae75-5abaf8da451d
@@ -199,8 +199,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250510T150000
 SUMMARY:[MotoGP] SPR - #FrenchGP
 UID:7a0dff49-7144-4d21-8e38-7586d088ad0b@7a0d.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
  405e-880e-7d9105ce1cbe
@@ -210,8 +210,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250511T140000
 SUMMARY:[MotoGP] RAC - #FrenchGP
 UID:1a92f9a0-6fb3-4a13-bc9f-2d8a4df49edf@1a92.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: MotoGP 
+ \nSession: Race
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
  405e-880e-7d9105ce1cbe
@@ -221,8 +221,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250524T160000
 SUMMARY:[MotoGP] SPR - #BritishGP
 UID:24c782ae-dcf1-4e88-84e5-9c0333bdaa75@24c7.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix\nClass: MotoGP\nSession:
-  Tissot Sprint
+DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -232,8 +232,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250525T130000
 SUMMARY:[MotoGP] RAC - #BritishGP
 UID:9232a67a-0c8c-4337-9a40-d4fde80166bb@9232.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix\nClass: MotoGP\nSession:
-  Race
+DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: MotoGP 
+ \nSession: Race
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -243,8 +243,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250607T150000
 SUMMARY:[MotoGP] SPR - #AragonGP
 UID:81c283bc-942d-47b5-a469-4c51a35ed2dc@81c2.org
-DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:MotorLand Aragón\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
  ac94-39af7e7077f9
@@ -254,8 +254,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250608T140000
 SUMMARY:[MotoGP] RAC - #AragonGP
 UID:ae5222ac-19b0-4daa-bda0-63df4dedb41a@ae52.org
-DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón \nClass: MotoGP 
+ \nSession: Race
 LOCATION:MotorLand Aragón\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
  ac94-39af7e7077f9
@@ -265,8 +265,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250621T150000
 SUMMARY:[MotoGP] SPR - #ItalianGP
 UID:e56908f6-19f6-436e-9e5a-50434ea239c8@e569.org
-DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
  Italy
 URL:https://www.motogp.com/en/calendar/2025/event/italy/ae539677-70a6-4642-
@@ -277,8 +277,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250622T140000
 SUMMARY:[MotoGP] RAC - #ItalianGP
 UID:4e2ca632-3a36-4fcd-926d-c51e18fb99f0@4e2c.org
-DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo \nClass: MotoGP 
+ \nSession: Race
 LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
  Italy
 URL:https://www.motogp.com/en/calendar/2025/event/italy/ae539677-70a6-4642-
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250628T150000
 SUMMARY:[MotoGP] SPR - #DutchGP
 UID:5b8be8de-cb98-40d1-b734-6ea933535b4c@5b8b.org
-DESCRIPTION:Event: GP10 - Motul TT Assen\nClass: MotoGP\nSession: Tissot 
+DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoGP \nSession: Tissot 
  Sprint
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250629T140000
 SUMMARY:[MotoGP] RAC - #DutchGP
 UID:fa518614-cc1d-4d1b-a01b-aed994cf16e1@fa51.org
-DESCRIPTION:Event: GP10 - Motul TT Assen\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoGP \nSession: Race
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -310,8 +310,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250712T150000
 SUMMARY:[MotoGP] SPR - #GermanGP
 UID:497dd632-fdd4-4341-bea4-b00d22fbcc21@497d.org
-DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix 
- Deutschland\nClass: MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix Deutschland 
+ \nClass: MotoGP \nSession: Tissot Sprint
 LOCATION:Sachsenring\, Oberlungwitz\, Germany
 URL:https://www.motogp.com/en/calendar/2025/event/germany/965332bd-0229-
  4c71-8cc4-24dac546bc97
@@ -321,8 +321,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250713T140000
 SUMMARY:[MotoGP] RAC - #GermanGP
 UID:abd901e7-6f7b-4c0e-afac-77ee2dab2fbe@abd9.org
-DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix 
- Deutschland\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix Deutschland 
+ \nClass: MotoGP \nSession: Race
 LOCATION:Sachsenring\, Oberlungwitz\, Germany
 URL:https://www.motogp.com/en/calendar/2025/event/germany/965332bd-0229-
  4c71-8cc4-24dac546bc97
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250719T150000
 SUMMARY:[MotoGP] SPR - #CzechGP
 UID:7b934b86-a646-408b-8a88-75600b9e3fc4@7b93.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
  Tissot Sprint
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250720T140000
 SUMMARY:[MotoGP] RAC - #CzechGP
 UID:03ad0890-0eb9-4b3b-b32a-532229c11ddf@03ad.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
  Race
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
@@ -354,8 +354,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T150000
 SUMMARY:[MotoGP] SPR - #AustrianGP
 UID:2bbc5d1f-1820-46f6-9341-5a308261bc8d@2bbc.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: 
+ MotoGP \nSession: Tissot Sprint
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -365,8 +365,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250817T140000
 SUMMARY:[MotoGP] RAC - #AustrianGP
 UID:62c784e0-1594-4bed-aa10-70c65a70ad6f@62c7.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: 
+ MotoGP \nSession: Race
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250823T150000
 SUMMARY:[MotoGP] SPR - #HungarianGP
 UID:76447e2b-930c-4385-8153-c21673a5a9c3@7644.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoGP \nSession: 
  Tissot Sprint
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250824T140000
 SUMMARY:[MotoGP] RAC - #HungarianGP
 UID:228a3dfa-99a9-4e22-a72c-a0a8917f61b9@228a.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary\nClass: MotoGP\nSession: 
+DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoGP \nSession: 
  Race
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
@@ -397,53 +397,53 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T150000
 SUMMARY:[MotoGP] SPR - #CatalanGP
-UID:f1c98355-04a4-4d40-bfb4-75794d4506a3@f1c9.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya\nClass: 
- MotoGP\nSession: Tissot Sprint
+UID:6041a8af-016e-4325-ae19-4793afdbd337@6041.org
+DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+ MotoGP \nSession: Tissot Sprint
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T130033Z
+DTSTAMP:20250402T142516Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250907T140000
 SUMMARY:[MotoGP] RAC - #CatalanGP
-UID:84d2fb04-2063-4b36-a8d7-ab84398ba5ef@84d2.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya\nClass: 
- MotoGP\nSession: Race
+UID:a5fc7391-06be-450b-a83c-91d94d394b87@a5fc.org
+DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+ MotoGP \nSession: Race
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T130033Z
+DTSTAMP:20250402T142516Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250913T150000
 SUMMARY:[MotoGP] SPR - #SanMarinoGP
-UID:e0975d5e-f006-4da2-8315-a084697893d3@e097.org
+UID:dd92210e-4e13-4624-a723-da7840821267@dd92.org
 DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini\nClass: MotoGP\nSession: Tissot Sprint
+ Riviera di Rimini \nClass: MotoGP \nSession: Tissot Sprint
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T130033Z
+DTSTAMP:20250402T142516Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250914T140000
 SUMMARY:[MotoGP] RAC - #SanMarinoGP
-UID:644e256f-3d81-4eb4-81bc-e72d0be04a0a@644e.org
+UID:935ec03b-b90d-4483-a1e8-e3b38093ac69@935e.org
 DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini\nClass: MotoGP\nSession: Race
+ Riviera di Rimini \nClass: MotoGP \nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T130033Z
+DTSTAMP:20250402T142516Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0900:20250927T150000
 SUMMARY:[MotoGP] SPR - #JapaneseGP
 UID:24a09d30-676f-49d1-a88f-7ee55abeb2df@24a0.org
-DESCRIPTION:Event: GP17 - Motul Grand Prix of Japan\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP17 - Motul Grand Prix of Japan \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Mobility Resort Motegi\, Motegi\, Japan
 URL:https://www.motogp.com/en/calendar/2025/event/japan/4d4bbb64-6a49-496a-
  853d-eaaad099ca8b
@@ -453,8 +453,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0900:20250928T140000
 SUMMARY:[MotoGP] RAC - #JapaneseGP
 UID:000aebf2-cf28-4b31-9336-d6c9d91f1cbd@000a.org
-DESCRIPTION:Event: GP17 - Motul Grand Prix of Japan\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP17 - Motul Grand Prix of Japan \nClass: MotoGP 
+ \nSession: Race
 LOCATION:Mobility Resort Motegi\, Motegi\, Japan
 URL:https://www.motogp.com/en/calendar/2025/event/japan/4d4bbb64-6a49-496a-
  853d-eaaad099ca8b
@@ -464,8 +464,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0800:20251004T150000
 SUMMARY:[MotoGP] SPR - #IndonesianGP
 UID:a5fc87be-236b-4820-ba57-b04744d85860@a5fc.org
-DESCRIPTION:Event: GP18 - Pertamina Grand Prix of Indonesia\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP18 - Pertamina Grand Prix of Indonesia \nClass: MotoGP
+  \nSession: Tissot Sprint
 LOCATION:Pertamina Mandalika Circuit\, Indonesia
 URL:https://www.motogp.com/en/calendar/2025/event/indonesia/c4def1f2-c288-
  4eab-9461-7acda49e765a
@@ -475,8 +475,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0800:20251005T150000
 SUMMARY:[MotoGP] RAC - #IndonesianGP
 UID:48a49ef4-bcd2-447c-b23c-2bf460e132e3@48a4.org
-DESCRIPTION:Event: GP18 - Pertamina Grand Prix of Indonesia\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP18 - Pertamina Grand Prix of Indonesia \nClass: MotoGP
+  \nSession: Race
 LOCATION:Pertamina Mandalika Circuit\, Indonesia
 URL:https://www.motogp.com/en/calendar/2025/event/indonesia/c4def1f2-c288-
  4eab-9461-7acda49e765a
@@ -486,8 +486,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251018T150000
 SUMMARY:[MotoGP] SPR - #AustralianGP
 UID:67619467-7f6c-42aa-a06a-80fe8bba17ce@6761.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -497,8 +497,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251019T140000
 SUMMARY:[MotoGP] RAC - #AustralianGP
 UID:fe2301fc-1317-41f6-b8e5-f7b09d574604@fe23.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
+ \nSession: Race
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -508,8 +508,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0800:20251025T150000
 SUMMARY:[MotoGP] SPR - #MalaysianGP
 UID:dc401bb3-6222-4864-9ebd-1cffd6557b08@dc40.org
-DESCRIPTION:Event: GP20 - Petronas Grand Prix of Malaysia\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP20 - Petronas Grand Prix of Malaysia \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
 URL:https://www.motogp.com/en/calendar/2025/event/malaysia/c2cd8f49-5643-
  440f-84fc-4c37b3ef3f87
@@ -519,8 +519,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0800:20251026T150000
 SUMMARY:[MotoGP] RAC - #MalaysianGP
 UID:d40ea701-df14-428e-9e82-b613a39463f1@d40e.org
-DESCRIPTION:Event: GP20 - Petronas Grand Prix of Malaysia\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP20 - Petronas Grand Prix of Malaysia \nClass: MotoGP 
+ \nSession: Race
 LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
 URL:https://www.motogp.com/en/calendar/2025/event/malaysia/c2cd8f49-5643-
  440f-84fc-4c37b3ef3f87
@@ -530,8 +530,8 @@ BEGIN:VEVENT
 DTSTART:20251108T150000Z
 SUMMARY:[MotoGP] SPR - #PortugueseGP
 UID:418ea3c2-6494-4f2c-a931-e35dedc21a4c@418e.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal\nClass: 
- MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+ MotoGP \nSession: Tissot Sprint
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
@@ -541,8 +541,8 @@ BEGIN:VEVENT
 DTSTART:20251109T130000Z
 SUMMARY:[MotoGP] RAC - #PortugueseGP
 UID:f6040864-7f43-4e46-8082-142baee74893@f604.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal\nClass: 
- MotoGP\nSession: Race
+DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+ MotoGP \nSession: Race
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
@@ -552,8 +552,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251115T150000
 SUMMARY:[MotoGP] SPR - #ValenciaGP
 UID:433a778b-0a4a-4195-bf57-d86c8ee421fa@433a.org
-DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat 
- Valenciana\nClass: MotoGP\nSession: Tissot Sprint
+DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat Valenciana 
+ \nClass: MotoGP \nSession: Tissot Sprint
 LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/valencia/1d04e5f0-be1a-
  4c1c-9a75-81fe67811866
@@ -563,8 +563,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251116T140000
 SUMMARY:[MotoGP] RAC - #ValenciaGP
 UID:c4a589f1-6478-4e80-8b13-8768700f9422@c4a5.org
-DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat 
- Valenciana\nClass: MotoGP\nSession: Race
+DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat Valenciana 
+ \nClass: MotoGP \nSession: Race
 LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/valencia/1d04e5f0-be1a-
  4c1c-9a75-81fe67811866
