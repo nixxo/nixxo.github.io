@@ -94,7 +94,8 @@ SUMMARY:[WorldSBK] Race 1
 UID:6cf04300-348d-48e8-aca4-ae289a8fccee@6cf0.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSBK \nSession: Race 
  1
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -104,7 +105,8 @@ SUMMARY:[WorldSBK] Race 2
 UID:bddce568-b0d6-4fc1-ba41-5fa239abdc09@bddc.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSBK \nSession: Race 
  2
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT

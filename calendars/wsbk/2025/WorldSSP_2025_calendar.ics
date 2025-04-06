@@ -218,7 +218,8 @@ DTEND;TZID=UTC+0200:20250502T120000
 SUMMARY:[WorldSSP] FP
 UID:9c11bc49-8051-4a6c-b863-5b8dfc979855@9c11.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: FP
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -229,7 +230,8 @@ SUMMARY:[WorldSSP] Superpole
 UID:8894abdd-47b3-4774-9280-96aaf4092d15@8894.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: 
  Superpole
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -239,7 +241,8 @@ DTEND;TZID=UTC+0200:20250503T100000
 SUMMARY:[WorldSSP] WUP 1
 UID:3d861df1-c9ca-4568-ae45-85ac9e315050@3d86.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: WUP 1
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -249,7 +252,8 @@ SUMMARY:[WorldSSP] Race 1
 UID:ba4341b1-679a-406f-ac0b-b67d408fcbb9@ba43.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: Race 
  1
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -259,7 +263,8 @@ DTEND;TZID=UTC+0200:20250504T095000
 SUMMARY:[WorldSSP] WUP 2
 UID:dfd8d0fa-1c97-4442-994e-12355c943cac@dfd8.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: WUP 2
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -269,7 +274,8 @@ SUMMARY:[WorldSSP] Race 2
 UID:58761b0b-90cc-445b-a710-14001746669c@5876.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldSSP \nSession: Race 
  2
-LOCATION:
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
