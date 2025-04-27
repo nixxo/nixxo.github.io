@@ -86,8 +86,7 @@ DTEND;TZID=UTC+0200:20250502T100500
 SUMMARY:[WorldWCR] FP
 UID:bfa257d6-4bf1-4397-a2e5-60575cb084a3@bfa2.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldWCR \nSession: FP
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
+LOCATION:Cremona Circuit\, Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -98,8 +97,7 @@ SUMMARY:[WorldWCR] Superpole
 UID:47b49b7a-76a7-4b1e-9d51-725769c57821@47b4.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldWCR \nSession: 
  Superpole
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
+LOCATION:Cremona Circuit\, Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -109,8 +107,7 @@ DTEND;TZID=UTC+0200:20250503T094000
 SUMMARY:[WorldWCR] WUP 1
 UID:5648d840-a5a0-4f22-aa49-1e449f7f6003@5648.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldWCR \nSession: WUP 1
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
+LOCATION:Cremona Circuit\, Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -120,8 +117,7 @@ SUMMARY:[WorldWCR] Race 1
 UID:bff093af-6486-4ef8-8240-c1ba74b5e7cd@bff0.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldWCR \nSession: Race 
  1
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
+LOCATION:Cremona Circuit\, Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -131,8 +127,7 @@ DTEND;TZID=UTC+0200:20250504T093000
 SUMMARY:[WorldWCR] WUP 2
 UID:04284e46-9bcb-49a1-9abd-6be98f84c89f@0428.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldWCR \nSession: WUP 2
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
+LOCATION:Cremona Circuit\, Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
@@ -142,8 +137,7 @@ SUMMARY:[WorldWCR] Race 2
 UID:0ca940c1-7d95-4842-991c-382762e044f7@0ca9.org
 DESCRIPTION:Event: Acerbis Italian Round \nClass: WorldWCR \nSession: Race 
  2
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
+LOCATION:Cremona Circuit\, Italy
 URL:https://www.worldsbk.com/en/event/CRE/2025
 DTSTAMP:20250113T175805Z
 END:VEVENT
