@@ -58,8 +58,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T121500
 SUMMARY:[MotoE] RAC1 - #AustrianGP
 UID:7257dd9b-6683-491f-9bd0-810a8cedd324@7257.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: MotoE
-  \nSession: Race Nr.1
+DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
+ Race Nr.1
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -69,8 +69,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T161000
 SUMMARY:[MotoE] RAC2 - #AustrianGP
 UID:5a44fcef-ef75-407e-8275-400fef122ea8@5a44.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: MotoE
-  \nSession: Race Nr.2
+DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
+ Race Nr.2
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -101,46 +101,46 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T121500
 SUMMARY:[MotoE] RAC1 - #CatalanGP
-UID:345009ab-6de0-46b8-bb46-8a0390346e5c@3450.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+UID:1789d62d-c55e-4c0f-a30a-1f282ec8decc@1789.org
+DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
  MotoE \nSession: Race Nr.1
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T161000
 SUMMARY:[MotoE] RAC2 - #CatalanGP
-UID:0ba72414-bada-48ef-bc83-536c5261b07d@0ba7.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+UID:0c87b2ad-0d5b-4338-b345-49b13be61029@0c87.org
+DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
  MotoE \nSession: Race Nr.2
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250913T121500
 SUMMARY:[MotoE] RAC1 - #SanMarinoGP
-UID:e4089c30-8a3b-4450-978a-f46313dede64@e408.org
-DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini \nClass: MotoE \nSession: Race Nr.1
+UID:1340ce59-adb4-49d7-88ea-08e8d089370a@1340.org
+DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
+ Riviera \nClass: MotoE \nSession: Race Nr.1
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250913T161000
 SUMMARY:[MotoE] RAC2 - #SanMarinoGP
-UID:9ab91a60-49b3-4737-8424-b1be9c2267ef@9ab9.org
-DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini \nClass: MotoE \nSession: Race Nr.2
+UID:844303c3-f4a4-4a46-9b63-42df70c87969@8443.org
+DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
+ Riviera \nClass: MotoE \nSession: Race Nr.2
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T121500Z

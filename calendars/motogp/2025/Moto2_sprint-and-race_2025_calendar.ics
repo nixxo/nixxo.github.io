@@ -130,8 +130,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250427T121500
 SUMMARY:[Moto2] RAC - #SpanishGP
 UID:785942a0-9215-4901-8f81-2f6933aff2d0@7859.org
-DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de España 
- \nClass: Moto2 \nSession: Race
+DESCRIPTION:Event: GP5 - Estrella Galicia 0\,0 Grand Prix of Spain \nClass:
+  Moto2 \nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/españa/dff8ef36-96f4-
  487f-ae75-5abaf8da451d
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250608T121500
 SUMMARY:[Moto2] RAC - #AragonGP
 UID:e79bc36e-7579-4b2d-bc29-b0e0b9090909@e79b.org
-DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón \nClass: Moto2 
+DESCRIPTION:Event: GP8 - GoPro Grand Prix of Aragon \nClass: Moto2 
  \nSession: Race
 LOCATION:MotorLand Aragón\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250622T121500
 SUMMARY:[Moto2] RAC - #ItalianGP
 UID:0f4361ad-7e22-4428-9e7b-889b787b91c5@0f43.org
-DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo \nClass: Moto2 
+DESCRIPTION:Event: GP9 - Brembo Grand Prix of Italy \nClass: Moto2 
  \nSession: Race
 LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
  Italy
@@ -196,8 +196,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250713T121500
 SUMMARY:[Moto2] RAC - #GermanGP
 UID:8b19dccc-4b67-462a-8b53-32423b2c363b@8b19.org
-DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix Deutschland 
- \nClass: Moto2 \nSession: Race
+DESCRIPTION:Event: GP11 - Liqui Moly Grand Prix of Germany \nClass: Moto2 
+ \nSession: Race
 LOCATION:Sachsenring\, Oberlungwitz\, Germany
 URL:https://www.motogp.com/en/calendar/2025/event/germany/965332bd-0229-
  4c71-8cc4-24dac546bc97
@@ -218,8 +218,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250817T121500
 SUMMARY:[Moto2] RAC - #AustrianGP
 UID:21a38937-6528-47e0-a1ff-de23893a7093@21a3.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: Moto2
-  \nSession: Race
+DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
+ Race
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -239,24 +239,24 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250907T121500
 SUMMARY:[Moto2] RAC - #CatalanGP
-UID:d6c5a789-b351-4aec-938f-17d8296ab1cb@d6c5.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+UID:20498649-427b-493a-ade4-d9084e770048@2049.org
+DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
  Moto2 \nSession: Race
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250914T121500
 SUMMARY:[Moto2] RAC - #SanMarinoGP
-UID:d974d3d3-f031-445b-90ca-63726bde0349@d974.org
-DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini \nClass: Moto2 \nSession: Race
+UID:d7496abd-cb0d-4be6-b69a-be76868827af@d749.org
+DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
+ Riviera \nClass: Moto2 \nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0900:20250928T121500
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251116T121500
 SUMMARY:[Moto2] RAC - #ValenciaGP
 UID:b6840e3c-71a5-43c9-88d5-bdce2c2db73b@b684.org
-DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat Valenciana 
+DESCRIPTION:Event: GP22 - Motul Grand Prix of the Valencian Community 
  \nClass: Moto2 \nSession: Race
 LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/valencia/1d04e5f0-be1a-

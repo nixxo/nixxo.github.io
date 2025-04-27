@@ -227,8 +227,8 @@ DTSTART;TZID=UTC+0200:20250426T134500
 DTEND;TZID=UTC+0200:20250426T140000
 SUMMARY:[Moto2] Q1 - #SpanishGP
 UID:def6af1e-56c5-4e4d-a603-c9710314a553@def6.org
-DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de España 
- \nClass: Moto2 \nSession: Qualifying Nr. 1
+DESCRIPTION:Event: GP5 - Estrella Galicia 0\,0 Grand Prix of Spain \nClass:
+  Moto2 \nSession: Qualifying Nr. 1
 LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/españa/dff8ef36-96f4-
  487f-ae75-5abaf8da451d
@@ -239,8 +239,8 @@ DTSTART;TZID=UTC+0200:20250426T141000
 DTEND;TZID=UTC+0200:20250426T142500
 SUMMARY:[Moto2] Q2 - #SpanishGP
 UID:69b452cf-e9f8-49a2-8db9-8ac6efc09c6d@69b4.org
-DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de España 
- \nClass: Moto2 \nSession: Qualifying Nr. 2
+DESCRIPTION:Event: GP5 - Estrella Galicia 0\,0 Grand Prix of Spain \nClass:
+  Moto2 \nSession: Qualifying Nr. 2
 LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/españa/dff8ef36-96f4-
  487f-ae75-5abaf8da451d
@@ -250,8 +250,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250427T121500
 SUMMARY:[Moto2] RAC - #SpanishGP
 UID:785942a0-9215-4901-8f81-2f6933aff2d0@7859.org
-DESCRIPTION:Event: GP5 - Gran Premio Estrella Galicia 0\,0 de España 
- \nClass: Moto2 \nSession: Race
+DESCRIPTION:Event: GP5 - Estrella Galicia 0\,0 Grand Prix of Spain \nClass:
+  Moto2 \nSession: Race
 LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/españa/dff8ef36-96f4-
  487f-ae75-5abaf8da451d
@@ -332,7 +332,7 @@ DTSTART;TZID=UTC+0200:20250607T134500
 DTEND;TZID=UTC+0200:20250607T140000
 SUMMARY:[Moto2] Q1 - #AragonGP
 UID:b016948c-e538-4df6-9506-b49da13ef5d6@b016.org
-DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón \nClass: Moto2 
+DESCRIPTION:Event: GP8 - GoPro Grand Prix of Aragon \nClass: Moto2 
  \nSession: Qualifying Nr. 1
 LOCATION:MotorLand Aragón\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
@@ -344,7 +344,7 @@ DTSTART;TZID=UTC+0200:20250607T141000
 DTEND;TZID=UTC+0200:20250607T142500
 SUMMARY:[Moto2] Q2 - #AragonGP
 UID:f8292b0e-968d-49aa-9229-f1d8fcb62884@f829.org
-DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón \nClass: Moto2 
+DESCRIPTION:Event: GP8 - GoPro Grand Prix of Aragon \nClass: Moto2 
  \nSession: Qualifying Nr. 2
 LOCATION:MotorLand Aragón\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250608T121500
 SUMMARY:[Moto2] RAC - #AragonGP
 UID:e79bc36e-7579-4b2d-bc29-b0e0b9090909@e79b.org
-DESCRIPTION:Event: GP8 - Gran Premio GoPro de Aragón \nClass: Moto2 
+DESCRIPTION:Event: GP8 - GoPro Grand Prix of Aragon \nClass: Moto2 
  \nSession: Race
 LOCATION:MotorLand Aragón\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/spain/4e4f2356-d5de-43c8-
@@ -367,7 +367,7 @@ DTSTART;TZID=UTC+0200:20250621T134500
 DTEND;TZID=UTC+0200:20250621T140000
 SUMMARY:[Moto2] Q1 - #ItalianGP
 UID:4ac9f13a-f510-4804-8a72-277737bd2e99@4ac9.org
-DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo \nClass: Moto2 
+DESCRIPTION:Event: GP9 - Brembo Grand Prix of Italy \nClass: Moto2 
  \nSession: Qualifying Nr. 1
 LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
  Italy
@@ -380,7 +380,7 @@ DTSTART;TZID=UTC+0200:20250621T141000
 DTEND;TZID=UTC+0200:20250621T142500
 SUMMARY:[Moto2] Q2 - #ItalianGP
 UID:bcd9d1c3-dd2c-401a-bfc6-3bcc4bf35704@bcd9.org
-DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo \nClass: Moto2 
+DESCRIPTION:Event: GP9 - Brembo Grand Prix of Italy \nClass: Moto2 
  \nSession: Qualifying Nr. 2
 LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
  Italy
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250622T121500
 SUMMARY:[Moto2] RAC - #ItalianGP
 UID:0f4361ad-7e22-4428-9e7b-889b787b91c5@0f43.org
-DESCRIPTION:Event: GP9 - Gran Premio d’Italia Brembo \nClass: Moto2 
+DESCRIPTION:Event: GP9 - Brembo Grand Prix of Italy \nClass: Moto2 
  \nSession: Race
 LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
  Italy
@@ -439,8 +439,8 @@ DTSTART;TZID=UTC+0200:20250712T134500
 DTEND;TZID=UTC+0200:20250712T140000
 SUMMARY:[Moto2] Q1 - #GermanGP
 UID:7f94e996-88aa-42a0-aba0-6bc59b486ba7@7f94.org
-DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix Deutschland 
- \nClass: Moto2 \nSession: Qualifying Nr. 1
+DESCRIPTION:Event: GP11 - Liqui Moly Grand Prix of Germany \nClass: Moto2 
+ \nSession: Qualifying Nr. 1
 LOCATION:Sachsenring\, Oberlungwitz\, Germany
 URL:https://www.motogp.com/en/calendar/2025/event/germany/965332bd-0229-
  4c71-8cc4-24dac546bc97
@@ -451,8 +451,8 @@ DTSTART;TZID=UTC+0200:20250712T141000
 DTEND;TZID=UTC+0200:20250712T142500
 SUMMARY:[Moto2] Q2 - #GermanGP
 UID:f1cc6aec-ee9a-4cbc-8ef9-72b9c820f500@f1cc.org
-DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix Deutschland 
- \nClass: Moto2 \nSession: Qualifying Nr. 2
+DESCRIPTION:Event: GP11 - Liqui Moly Grand Prix of Germany \nClass: Moto2 
+ \nSession: Qualifying Nr. 2
 LOCATION:Sachsenring\, Oberlungwitz\, Germany
 URL:https://www.motogp.com/en/calendar/2025/event/germany/965332bd-0229-
  4c71-8cc4-24dac546bc97
@@ -462,8 +462,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250713T121500
 SUMMARY:[Moto2] RAC - #GermanGP
 UID:8b19dccc-4b67-462a-8b53-32423b2c363b@8b19.org
-DESCRIPTION:Event: GP11 - Liqui Moly Motorrad Grand Prix Deutschland 
- \nClass: Moto2 \nSession: Race
+DESCRIPTION:Event: GP11 - Liqui Moly Grand Prix of Germany \nClass: Moto2 
+ \nSession: Race
 LOCATION:Sachsenring\, Oberlungwitz\, Germany
 URL:https://www.motogp.com/en/calendar/2025/event/germany/965332bd-0229-
  4c71-8cc4-24dac546bc97
@@ -509,8 +509,8 @@ DTSTART;TZID=UTC+0200:20250816T134500
 DTEND;TZID=UTC+0200:20250816T140000
 SUMMARY:[Moto2] Q1 - #AustrianGP
 UID:3889c0a9-d36f-4cb4-a2ce-26ef11702a98@3889.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: Moto2
-  \nSession: Qualifying Nr. 1
+DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
+ Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -521,8 +521,8 @@ DTSTART;TZID=UTC+0200:20250816T141000
 DTEND;TZID=UTC+0200:20250816T142500
 SUMMARY:[Moto2] Q2 - #AustrianGP
 UID:e6d12e68-8b93-439b-a331-444d41690238@e6d1.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: Moto2
-  \nSession: Qualifying Nr. 2
+DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
+ Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -532,8 +532,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250817T121500
 SUMMARY:[Moto2] RAC - #AustrianGP
 UID:21a38937-6528-47e0-a1ff-de23893a7093@21a3.org
-DESCRIPTION:Event: GP13 - Motorrad Grand Prix von Österreich \nClass: Moto2
-  \nSession: Race
+DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
+ Race
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -578,71 +578,71 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T134500
 DTEND;TZID=UTC+0200:20250906T140000
 SUMMARY:[Moto2] Q1 - #CatalanGP
-UID:a566aa7b-607e-47e4-b0da-3dbc437c6d6e@a566.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+UID:13ceb0c9-1a68-41d9-a273-469aac495856@13ce.org
+DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
  Moto2 \nSession: Qualifying Nr. 1
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250906T141000
 DTEND;TZID=UTC+0200:20250906T142500
 SUMMARY:[Moto2] Q2 - #CatalanGP
-UID:6576ae49-12a7-4637-9720-4e94ed5c99ab@6576.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+UID:c7f4af9e-7589-4651-8921-00a4aeaeb845@c7f4.org
+DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
  Moto2 \nSession: Qualifying Nr. 2
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250907T121500
 SUMMARY:[Moto2] RAC - #CatalanGP
-UID:d6c5a789-b351-4aec-938f-17d8296ab1cb@d6c5.org
-DESCRIPTION:Event: GP15 - Gran Premi Monster Energy de Catalunya \nClass: 
+UID:20498649-427b-493a-ade4-d9084e770048@2049.org
+DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
  Moto2 \nSession: Race
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250913T134500
 DTEND;TZID=UTC+0200:20250913T140000
 SUMMARY:[Moto2] Q1 - #SanMarinoGP
-UID:894f7cbb-7088-4d48-b669-8e782f410a8a@894f.org
-DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini \nClass: Moto2 \nSession: Qualifying Nr. 1
+UID:3443b8da-bc0c-40d2-bdbf-d34cf299dd3c@3443.org
+DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
+ Riviera \nClass: Moto2 \nSession: Qualifying Nr. 1
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250913T141000
 DTEND;TZID=UTC+0200:20250913T142500
 SUMMARY:[Moto2] Q2 - #SanMarinoGP
-UID:f23acbbd-9b07-4643-9ca7-0c56ce62cd6e@f23a.org
-DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini \nClass: Moto2 \nSession: Qualifying Nr. 2
+UID:1f0bda99-cac3-43fb-a473-83871f3635d5@1f0b.org
+DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
+ Riviera \nClass: Moto2 \nSession: Qualifying Nr. 2
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250914T121500
 SUMMARY:[Moto2] RAC - #SanMarinoGP
-UID:d974d3d3-f031-445b-90ca-63726bde0349@d974.org
-DESCRIPTION:Event: GP16 - Gran Premio Red Bull di San Marino e della 
- Riviera di Rimini \nClass: Moto2 \nSession: Race
+UID:d7496abd-cb0d-4be6-b69a-be76868827af@d749.org
+DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
+ Riviera \nClass: Moto2 \nSession: Race
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250402T142516Z
+DTSTAMP:20250427T082126Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0900:20250927T134500
@@ -824,7 +824,7 @@ DTSTART;TZID=UTC+0100:20251115T134500
 DTEND;TZID=UTC+0100:20251115T140000
 SUMMARY:[Moto2] Q1 - #ValenciaGP
 UID:476e8bf7-c4ff-4154-a21f-a46fc49558e2@476e.org
-DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat Valenciana 
+DESCRIPTION:Event: GP22 - Motul Grand Prix of the Valencian Community 
  \nClass: Moto2 \nSession: Qualifying Nr. 1
 LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/valencia/1d04e5f0-be1a-
@@ -836,7 +836,7 @@ DTSTART;TZID=UTC+0100:20251115T141000
 DTEND;TZID=UTC+0100:20251115T142500
 SUMMARY:[Moto2] Q2 - #ValenciaGP
 UID:c8bef107-73b3-4cc7-afa7-5a85bee44e74@c8be.org
-DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat Valenciana 
+DESCRIPTION:Event: GP22 - Motul Grand Prix of the Valencian Community 
  \nClass: Moto2 \nSession: Qualifying Nr. 2
 LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/valencia/1d04e5f0-be1a-
@@ -847,7 +847,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251116T121500
 SUMMARY:[Moto2] RAC - #ValenciaGP
 UID:b6840e3c-71a5-43c9-88d5-bdce2c2db73b@b684.org
-DESCRIPTION:Event: GP22 - Gran Premio Motul de la Comunitat Valenciana 
+DESCRIPTION:Event: GP22 - Motul Grand Prix of the Valencian Community 
  \nClass: Moto2 \nSession: Race
 LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/valencia/1d04e5f0-be1a-
