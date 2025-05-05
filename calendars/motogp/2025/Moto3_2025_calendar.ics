@@ -442,7 +442,7 @@ DTSTART;TZID=UTC+0200:20250509T090000
 DTEND;TZID=UTC+0200:20250509T093500
 SUMMARY:[Moto3] FP1 - #FrenchGP
 UID:5a56b3c6-d451-49b1-9a35-2e867131eeea@5a56.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: Moto3 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: Moto3 
  \nSession: Free Practice Nr. 1
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -454,7 +454,7 @@ DTSTART;TZID=UTC+0200:20250509T131500
 DTEND;TZID=UTC+0200:20250509T135000
 SUMMARY:[Moto3] PR - #FrenchGP
 UID:8eb56a6c-96d8-4d18-a046-1f1ed9b43fe8@8eb5.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: Moto3 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: Moto3 
  \nSession: Practice
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -466,7 +466,7 @@ DTSTART;TZID=UTC+0200:20250510T084000
 DTEND;TZID=UTC+0200:20250510T091000
 SUMMARY:[Moto3] FP2 - #FrenchGP
 UID:b09f42df-ca4f-43af-bf08-2a5394ac357b@b09f.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: Moto3 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: Moto3 
  \nSession: Free Practice Nr. 2
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -478,7 +478,7 @@ DTSTART;TZID=UTC+0200:20250510T125000
 DTEND;TZID=UTC+0200:20250510T130500
 SUMMARY:[Moto3] Q1 - #FrenchGP
 UID:481065a3-e963-4c4d-bcfe-666ed949b1db@4810.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: Moto3 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: Moto3 
  \nSession: Qualifying Nr. 1
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -490,7 +490,7 @@ DTSTART;TZID=UTC+0200:20250510T131500
 DTEND;TZID=UTC+0200:20250510T133000
 SUMMARY:[Moto3] Q2 - #FrenchGP
 UID:536bbfca-8d11-4bff-9711-4ea478867ce4@536b.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: Moto3 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: Moto3 
  \nSession: Qualifying Nr. 2
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250511T110000
 SUMMARY:[Moto3] RAC - #FrenchGP
 UID:86e00324-5e0d-4651-a364-bccd4dd18b5c@86e0.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: Moto3 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: Moto3 
  \nSession: Race
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-

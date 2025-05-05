@@ -141,7 +141,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250511T121500
 SUMMARY:[Moto2] RAC - #FrenchGP
 UID:7b840b79-35f9-40d8-98f1-7aff9b8b57d9@7b84.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: Moto2 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: Moto2 
  \nSession: Race
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-

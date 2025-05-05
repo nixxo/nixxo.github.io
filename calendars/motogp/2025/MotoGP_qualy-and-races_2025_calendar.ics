@@ -321,7 +321,7 @@ DTSTART;TZID=UTC+0200:20250510T105000
 DTEND;TZID=UTC+0200:20250510T110500
 SUMMARY:[MotoGP] Q1 - #FrenchGP
 UID:969758b0-e591-4308-8bc5-c1412d85b39b@9697.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: MotoGP 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: MotoGP 
  \nSession: Qualifying Nr. 1
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -333,7 +333,7 @@ DTSTART;TZID=UTC+0200:20250510T111500
 DTEND;TZID=UTC+0200:20250510T113000
 SUMMARY:[MotoGP] Q2 - #FrenchGP
 UID:bfb5e250-67b2-452d-8bf5-8e08ad3b51ac@bfb5.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: MotoGP 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: MotoGP 
  \nSession: Qualifying Nr. 2
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250510T150000
 SUMMARY:[MotoGP] SPR - #FrenchGP
 UID:7a0dff49-7144-4d21-8e38-7586d088ad0b@7a0d.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: MotoGP 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: MotoGP 
  \nSession: Tissot Sprint
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250511T140000
 SUMMARY:[MotoGP] RAC - #FrenchGP
 UID:1a92f9a0-6fb3-4a13-bc9f-2d8a4df49edf@1a92.org
-DESCRIPTION:Event: GP6 - Michelin® Grand Prix de France \nClass: MotoGP 
+DESCRIPTION:Event: GP6 - Michelin® Grand Prix of France \nClass: MotoGP 
  \nSession: Grand Prix
 LOCATION:Le Mans\, France
 URL:https://www.motogp.com/en/calendar/2025/event/france/e9b386c5-9d95-
