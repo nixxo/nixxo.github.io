@@ -367,8 +367,8 @@ DTSTART;TZID=UTC+0100:20250524T115000
 DTEND;TZID=UTC+0100:20250524T120500
 SUMMARY:[MotoGP] Q1 - #BritishGP
 UID:469dd7d0-bf47-4ed2-b687-1b8ce0141ee0@469d.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: MotoGP 
- \nSession: Qualifying Nr. 1
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ MotoGP \nSession: Qualifying Nr. 1
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -379,8 +379,8 @@ DTSTART;TZID=UTC+0100:20250524T121500
 DTEND;TZID=UTC+0100:20250524T123000
 SUMMARY:[MotoGP] Q2 - #BritishGP
 UID:dbd5a262-0077-4e1b-96fd-62d948175f3a@dbd5.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: MotoGP 
- \nSession: Qualifying Nr. 2
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ MotoGP \nSession: Qualifying Nr. 2
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -390,8 +390,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250524T160000
 SUMMARY:[MotoGP] SPR - #BritishGP
 UID:24c782ae-dcf1-4e88-84e5-9c0333bdaa75@24c7.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: MotoGP 
- \nSession: Tissot Sprint
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ MotoGP \nSession: Tissot Sprint
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -401,8 +401,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250525T130000
 SUMMARY:[MotoGP] RAC - #BritishGP
 UID:9232a67a-0c8c-4337-9a40-d4fde80166bb@9232.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: MotoGP 
- \nSession: Grand Prix
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ MotoGP \nSession: Grand Prix
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -509,8 +509,8 @@ DTSTART;TZID=UTC+0200:20250628T105000
 DTEND;TZID=UTC+0200:20250628T110500
 SUMMARY:[MotoGP] Q1 - #DutchGP
 UID:4a0df575-598d-4b58-9a76-3f0c8fc2b736@4a0d.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoGP \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoGP \nSession: Qualifying Nr. 1
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -521,8 +521,8 @@ DTSTART;TZID=UTC+0200:20250628T111500
 DTEND;TZID=UTC+0200:20250628T113000
 SUMMARY:[MotoGP] Q2 - #DutchGP
 UID:54b823bb-4e23-47dd-86ab-5091afad6d67@54b8.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoGP \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoGP \nSession: Qualifying Nr. 2
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -532,8 +532,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250628T150000
 SUMMARY:[MotoGP] SPR - #DutchGP
 UID:5b8be8de-cb98-40d1-b734-6ea933535b4c@5b8b.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoGP \nSession: Tissot 
- Sprint
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoGP \nSession: Tissot Sprint
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -543,8 +543,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250629T140000
 SUMMARY:[MotoGP] RAC - #DutchGP
 UID:fa518614-cc1d-4d1b-a01b-aed994cf16e1@fa51.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoGP \nSession: Grand 
- Prix
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoGP \nSession: Grand Prix
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -1015,7 +1015,7 @@ DTSTART:20251108T105000Z
 DTEND:20251108T110500Z
 SUMMARY:[MotoGP] Q1 - #PortugueseGP
 UID:66c34725-19c7-4004-bad1-e09a207e7862@66c3.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoGP \nSession: Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -1027,7 +1027,7 @@ DTSTART:20251108T111500Z
 DTEND:20251108T113000Z
 SUMMARY:[MotoGP] Q2 - #PortugueseGP
 UID:8e17049e-9e00-4080-a0ec-a54a0ee9f73b@8e17.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoGP \nSession: Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 DTSTART:20251108T150000Z
 SUMMARY:[MotoGP] SPR - #PortugueseGP
 UID:418ea3c2-6494-4f2c-a931-e35dedc21a4c@418e.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoGP \nSession: Tissot Sprint
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -1049,7 +1049,7 @@ BEGIN:VEVENT
 DTSTART:20251109T130000Z
 SUMMARY:[MotoGP] RAC - #PortugueseGP
 UID:f6040864-7f43-4e46-8082-142baee74893@f604.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoGP \nSession: Grand Prix
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-

@@ -152,8 +152,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250525T121500
 SUMMARY:[Moto2] RAC - #BritishGP
 UID:7026d9b1-240c-4e24-9411-fc74c8e7b3ed@7026.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: Moto2 
- \nSession: Race
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ Moto2 \nSession: Race
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -186,7 +186,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250629T121500
 SUMMARY:[Moto2] RAC - #DutchGP
 UID:2f4310b3-ffd3-485a-8ac5-4246689c7f51@2f43.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: Moto2 \nSession: Race
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ Moto2 \nSession: Race
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -306,7 +307,7 @@ BEGIN:VEVENT
 DTSTART:20251109T121500Z
 SUMMARY:[Moto2] RAC - #PortugueseGP
 UID:1c7df344-d035-4e18-9da5-0b41e2395c92@1c7d.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  Moto2 \nSession: Race
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-

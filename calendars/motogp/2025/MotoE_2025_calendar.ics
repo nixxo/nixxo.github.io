@@ -85,8 +85,8 @@ DTSTART;TZID=UTC+0200:20250627T083000
 DTEND;TZID=UTC+0200:20250627T084500
 SUMMARY:[MotoE] P1 - #DutchGP
 UID:2c1c239f-cbab-4d1e-9595-f2625ef12e10@2c1c.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoE \nSession: Practice
-  Nr. 1
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoE \nSession: Practice Nr. 1
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -97,8 +97,8 @@ DTSTART;TZID=UTC+0200:20250627T123500
 DTEND;TZID=UTC+0200:20250627T125000
 SUMMARY:[MotoE] P2 - #DutchGP
 UID:1bc450bf-73a2-4ae5-a6da-ef2c1eda6495@1bc4.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoE \nSession: Practice
-  Nr. 2
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoE \nSession: Practice Nr. 2
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -109,8 +109,8 @@ DTSTART;TZID=UTC+0200:20250627T170000
 DTEND;TZID=UTC+0200:20250627T171000
 SUMMARY:[MotoE] Q1 - #DutchGP
 UID:45b40a50-2920-49f9-9ec5-455c0281f42c@45b4.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoE \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoE \nSession: Qualifying Nr. 1
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -121,8 +121,8 @@ DTSTART;TZID=UTC+0200:20250627T172000
 DTEND;TZID=UTC+0200:20250627T173000
 SUMMARY:[MotoE] Q2 - #DutchGP
 UID:cd4d97bf-2db4-4ad5-8e4d-3f062b2a6023@cd4d.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoE \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoE \nSession: Qualifying Nr. 2
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -132,8 +132,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250628T121500
 SUMMARY:[MotoE] RAC1 - #DutchGP
 UID:a07b7460-b7a0-470d-9633-0feae0cdb7c2@a07b.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoE \nSession: Race 
- Nr.1
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoE \nSession: Race Nr.1
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -143,8 +143,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250628T161000
 SUMMARY:[MotoE] RAC2 - #DutchGP
 UID:6d39caf2-5e29-44a8-8bfd-28dfd1c8948b@6d39.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: MotoE \nSession: Race 
- Nr.2
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ MotoE \nSession: Race Nr.2
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -435,7 +435,7 @@ DTSTART:20251107T083000Z
 DTEND:20251107T084500Z
 SUMMARY:[MotoE] P1 - #PortugueseGP
 UID:8c704e36-c15f-477d-b41d-0295198edf41@8c70.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoE \nSession: Practice Nr. 1
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -447,7 +447,7 @@ DTSTART:20251107T123500Z
 DTEND:20251107T125000Z
 SUMMARY:[MotoE] P2 - #PortugueseGP
 UID:246c9eba-b56c-4493-988d-ad3629d04f19@246c.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoE \nSession: Practice Nr. 2
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -459,7 +459,7 @@ DTSTART:20251107T170000Z
 DTEND:20251107T171000Z
 SUMMARY:[MotoE] Q1 - #PortugueseGP
 UID:4cf30139-2690-4757-84fe-076efcbbb363@4cf3.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoE \nSession: Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -471,7 +471,7 @@ DTSTART:20251107T172000Z
 DTEND:20251107T173000Z
 SUMMARY:[MotoE] Q2 - #PortugueseGP
 UID:7d7614e4-6970-41ce-96a4-ccbacd1cdc07@7d76.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoE \nSession: Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 DTSTART:20251108T121500Z
 SUMMARY:[MotoE] RAC1 - #PortugueseGP
 UID:b6db93ae-d781-4be5-8810-565a94bcb728@b6db.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoE \nSession: Race Nr.1
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 DTSTART:20251108T161000Z
 SUMMARY:[MotoE] RAC2 - #PortugueseGP
 UID:c1c41dc3-e8a2-4b33-a8fd-720928267dcc@c1c4.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  MotoE \nSession: Race Nr.2
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-

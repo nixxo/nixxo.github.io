@@ -297,8 +297,8 @@ DTSTART;TZID=UTC+0100:20250524T135000
 DTEND;TZID=UTC+0100:20250524T140500
 SUMMARY:[Moto3] Q1 - #BritishGP
 UID:76523df8-7013-404c-855f-c8b8088499a6@7652.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: Moto3 
- \nSession: Qualifying Nr. 1
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ Moto3 \nSession: Qualifying Nr. 1
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -309,8 +309,8 @@ DTSTART;TZID=UTC+0100:20250524T141500
 DTEND;TZID=UTC+0100:20250524T143000
 SUMMARY:[Moto3] Q2 - #BritishGP
 UID:ecf4a26e-ad17-46cb-b3d7-a3b0ac0cf6ca@ecf4.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: Moto3 
- \nSession: Qualifying Nr. 2
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ Moto3 \nSession: Qualifying Nr. 2
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -320,8 +320,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20250525T143000
 SUMMARY:[Moto3] RAC - #BritishGP
 UID:b60eef1a-9536-4ff2-a3fe-a171ae0c294c@b60e.org
-DESCRIPTION:Event: GP7 - Tissot British Grand Prix \nClass: Moto3 
- \nSession: Race
+DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
+ Moto3 \nSession: Race
 LOCATION:Silverstone Circuit\, United Kingdom
 URL:https://www.motogp.com/en/calendar/2025/event/great 
  britain/98f03e76-5837-4b99-a5a5-57c367c8ba1b
@@ -405,8 +405,8 @@ DTSTART;TZID=UTC+0200:20250628T125000
 DTEND;TZID=UTC+0200:20250628T130500
 SUMMARY:[Moto3] Q1 - #DutchGP
 UID:fe78c865-d98a-4389-8889-61f4b80b8438@fe78.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: Moto3 \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ Moto3 \nSession: Qualifying Nr. 1
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -417,8 +417,8 @@ DTSTART;TZID=UTC+0200:20250628T131500
 DTEND;TZID=UTC+0200:20250628T133000
 SUMMARY:[Moto3] Q2 - #DutchGP
 UID:b37e3e7b-fd12-47da-9f82-9689d2b7ab5c@b37e.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: Moto3 \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ Moto3 \nSession: Qualifying Nr. 2
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -428,7 +428,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250629T110000
 SUMMARY:[Moto3] RAC - #DutchGP
 UID:cc9de744-c491-473b-833a-0cadbdd7df69@cc9d.org
-DESCRIPTION:Event: GP10 - Motul TT Assen \nClass: Moto3 \nSession: Race
+DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
+ Moto3 \nSession: Race
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
@@ -789,7 +790,7 @@ DTSTART:20251108T125000Z
 DTEND:20251108T130500Z
 SUMMARY:[Moto3] Q1 - #PortugueseGP
 UID:500e25e2-f5ed-40f2-940a-a4c1fa3b78a1@500e.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  Moto3 \nSession: Qualifying Nr. 1
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -801,7 +802,7 @@ DTSTART:20251108T131500Z
 DTEND:20251108T133000Z
 SUMMARY:[Moto3] Q2 - #PortugueseGP
 UID:180c18a9-cabd-4f12-afd5-06d515c6f8c9@180c.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  Moto3 \nSession: Qualifying Nr. 2
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
@@ -812,7 +813,7 @@ BEGIN:VEVENT
 DTSTART:20251109T143000Z
 SUMMARY:[Moto3] RAC - #PortugueseGP
 UID:f1991985-f02a-469f-9a39-9d476c679a4e@f199.org
-DESCRIPTION:Event: GP21 - Qatar Airways Grande Prémio de Portugal \nClass: 
+DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
  Moto3 \nSession: Race
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
