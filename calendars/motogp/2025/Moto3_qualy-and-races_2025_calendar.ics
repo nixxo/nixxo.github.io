@@ -317,7 +317,7 @@ URL:https://www.motogp.com/en/calendar/2025/event/great
 DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20250525T143000
+DTSTART;TZID=UTC+0100:20250525T145000
 SUMMARY:[Moto3] RAC - #BritishGP
 UID:b60eef1a-9536-4ff2-a3fe-a171ae0c294c@b60e.org
 DESCRIPTION:Event: GP7 - Tissot Grand Prix of the United Kingdom \nClass: 
