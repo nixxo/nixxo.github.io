@@ -85,26 +85,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250627T083000
 DTEND;TZID=UTC+0200:20250627T084500
-SUMMARY:[MotoE] P1 - #DutchGP
-UID:2c1c239f-cbab-4d1e-9595-f2625ef12e10@2c1c.org
+SUMMARY:[MotoE] FP - #DutchGP
+UID:65cb5a6d-a34d-457a-8ade-9f6b679982e8@65cb.org
 DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
- MotoE \nSession: Practice Nr. 1
+ MotoE \nSession: Free Practice
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250627T123500
 DTEND;TZID=UTC+0200:20250627T125000
-SUMMARY:[MotoE] P2 - #DutchGP
-UID:1bc450bf-73a2-4ae5-a6da-ef2c1eda6495@1bc4.org
+SUMMARY:[MotoE] PR - #DutchGP
+UID:a57db48f-7192-4336-ac05-e5ffab30fc39@a57d.org
 DESCRIPTION:Event: GP10 - Motul Grand Prix of the Netherlands \nClass: 
- MotoE \nSession: Practice Nr. 2
+ MotoE \nSession: Practice
 LOCATION:TT Circuit Assen\, Assen\, Netherlands
 URL:https://www.motogp.com/en/calendar/2025/event/netherlands/9919f76f-
  48cc-4dd6-b752-6b94d0ffd5f5
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250627T170000
@@ -155,26 +155,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250815T083000
 DTEND;TZID=UTC+0200:20250815T084500
-SUMMARY:[MotoE] P1 - #AustrianGP
-UID:cd77c048-c60b-4f64-8e0f-e6f7cf9fa4b9@cd77.org
+SUMMARY:[MotoE] FP - #AustrianGP
+UID:5528e45f-d2bd-432a-9b13-0c4ec18b4678@5528.org
 DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Practice Nr. 1
+ Free Practice
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250815T123500
 DTEND;TZID=UTC+0200:20250815T125000
-SUMMARY:[MotoE] P2 - #AustrianGP
-UID:1fb17e58-4f3c-4555-a980-5bc41464ccd2@1fb1.org
+SUMMARY:[MotoE] PR - #AustrianGP
+UID:53291279-a5b6-460b-8f2b-167b45de91fc@5329.org
 DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Practice Nr. 2
+ Practice
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250815T170000
@@ -225,26 +225,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250822T083000
 DTEND;TZID=UTC+0200:20250822T084500
-SUMMARY:[MotoE] P1 - #HungarianGP
-UID:2d79f9dc-630a-4f0c-bada-108f51c34251@2d79.org
+SUMMARY:[MotoE] FP - #HungarianGP
+UID:789031e6-2765-4880-9d1b-b47e62781deb@7890.org
 DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoE \nSession: 
- Practice Nr. 1
+ Free Practice
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250822T123500
 DTEND;TZID=UTC+0200:20250822T125000
-SUMMARY:[MotoE] P2 - #HungarianGP
-UID:22e2557f-2a6c-4684-b729-9d64749d5530@22e2.org
+SUMMARY:[MotoE] PR - #HungarianGP
+UID:8c84129a-3f51-46a1-9caf-8e0364bcfc06@8c84.org
 DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoE \nSession: 
- Practice Nr. 2
+ Practice
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
-DTSTAMP:20250301T221854Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250822T170000
@@ -295,26 +295,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250905T083000
 DTEND;TZID=UTC+0200:20250905T084500
-SUMMARY:[MotoE] P1 - #CatalanGP
-UID:0571a1e4-6823-4b9e-b28c-0bf8c12cafdb@0571.org
+SUMMARY:[MotoE] FP - #CatalanGP
+UID:f3a5fa66-355b-4a44-bb5c-f6332f94ddc7@f3a5.org
 DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
- MotoE \nSession: Practice Nr. 1
+ MotoE \nSession: Free Practice
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250427T082126Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250905T123500
 DTEND;TZID=UTC+0200:20250905T125000
-SUMMARY:[MotoE] P2 - #CatalanGP
-UID:95ca0b64-bc83-4088-b96a-61d12f908d5d@95ca.org
+SUMMARY:[MotoE] PR - #CatalanGP
+UID:94778429-ba83-4244-beeb-25a6f2895053@9477.org
 DESCRIPTION:Event: GP15 - Monster Energy Grand Prix of Catalonia \nClass: 
- MotoE \nSession: Practice Nr. 2
+ MotoE \nSession: Practice
 LOCATION:Circuit de Barcelona-Catalunya\, Spain
 URL:https://www.motogp.com/en/calendar/2025/event/catalunya/a4e866f4-8dfd-
  44fa-b651-05291983be13
-DTSTAMP:20250427T082126Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250905T170000
@@ -365,26 +365,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250912T083000
 DTEND;TZID=UTC+0200:20250912T084500
-SUMMARY:[MotoE] P1 - #SanMarinoGP
-UID:4a2dbcc0-2555-497a-94dd-c1675b7dd0c1@4a2d.org
+SUMMARY:[MotoE] FP - #SanMarinoGP
+UID:f06c6067-2558-481a-9e29-0b80df1be158@f06c.org
 DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
- Riviera \nClass: MotoE \nSession: Practice Nr. 1
+ Riviera \nClass: MotoE \nSession: Free Practice
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250427T082126Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250912T123500
 DTEND;TZID=UTC+0200:20250912T125000
-SUMMARY:[MotoE] P2 - #SanMarinoGP
-UID:449c78d8-ad09-4522-a3a0-79215cf569b9@449c.org
+SUMMARY:[MotoE] PR - #SanMarinoGP
+UID:79e35351-d48e-4dcc-a444-a610626cdea9@79e3.org
 DESCRIPTION:Event: GP16 - Red Bull Grand Prix of San Marino and the Rimini 
- Riviera \nClass: MotoE \nSession: Practice Nr. 2
+ Riviera \nClass: MotoE \nSession: Practice
 LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
 URL:https://www.motogp.com/en/calendar/2025/event/san 
  marino/81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4
-DTSTAMP:20250427T082126Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250912T170000
@@ -435,26 +435,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T083000Z
 DTEND:20251107T084500Z
-SUMMARY:[MotoE] P1 - #PortugueseGP
-UID:8c704e36-c15f-477d-b41d-0295198edf41@8c70.org
+SUMMARY:[MotoE] FP - #PortugueseGP
+UID:dda55226-bce5-4774-b35e-b91d3e4672d3@dda5.org
 DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
- MotoE \nSession: Practice Nr. 1
+ MotoE \nSession: Free Practice
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
-DTSTAMP:20250301T221855Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T123500Z
 DTEND:20251107T125000Z
-SUMMARY:[MotoE] P2 - #PortugueseGP
-UID:246c9eba-b56c-4493-988d-ad3629d04f19@246c.org
+SUMMARY:[MotoE] PR - #PortugueseGP
+UID:f5dd5cf8-990a-4cc6-b356-232e618e5779@f5dd.org
 DESCRIPTION:Event: GP21 - Qatar Airways Grand Prix of Portugal \nClass: 
- MotoE \nSession: Practice Nr. 2
+ MotoE \nSession: Practice
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
 URL:https://www.motogp.com/en/calendar/2025/event/portugal/632adf30-be24-
  4b42-8276-2bdb174f22d1
-DTSTAMP:20250301T221855Z
+DTSTAMP:20250626T202323Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T170000Z
