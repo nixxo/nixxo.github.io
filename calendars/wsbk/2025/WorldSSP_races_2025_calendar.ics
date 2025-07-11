@@ -181,7 +181,7 @@ DTSTART;TZID=UTC+0200:20250726T151500
 SUMMARY:[WorldSSP] Race 1
 UID:092497dc-4f2a-4712-b634-1459aa928737@0924.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldSSP \nSession: Race 1
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT
@@ -190,7 +190,7 @@ DTSTART;TZID=UTC+0200:20250727T151500
 SUMMARY:[WorldSSP] Race 2
 UID:022a791b-3bf0-4d01-9846-648c8354a62e@022a.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldSSP \nSession: Race 2
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT

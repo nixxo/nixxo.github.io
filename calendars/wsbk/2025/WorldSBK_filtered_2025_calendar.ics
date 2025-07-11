@@ -335,7 +335,7 @@ DTEND;TZID=UTC+0200:20250726T111500
 SUMMARY:[WorldSBK] Superpole
 UID:bb4e98b0-c9c4-47ec-8138-7ce8205008a1@bb4e.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldSBK \nSession: Superpole
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT
@@ -344,7 +344,7 @@ DTSTART;TZID=UTC+0200:20250726T140000
 SUMMARY:[WorldSBK] Race 1
 UID:5680fc95-c0a8-4fd3-aa4a-40d432aeb7c0@5680.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldSBK \nSession: Race 1
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT
@@ -354,7 +354,7 @@ SUMMARY:[WorldSBK] Superpole Race
 UID:eeb04f14-8d06-4a41-9d14-11069ef635ce@eeb0.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldSBK \nSession: Superpole 
  Race
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT
@@ -363,7 +363,7 @@ DTSTART;TZID=UTC+0200:20250727T140000
 SUMMARY:[WorldSBK] Race 2
 UID:be2e73ff-414c-41ec-ba26-21797537c40f@be2e.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldSBK \nSession: Race 2
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT

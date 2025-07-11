@@ -120,7 +120,7 @@ DTEND;TZID=UTC+0200:20250725T143500
 SUMMARY:[WorldWCR] Superpole
 UID:c14039c9-7c35-4ec3-a52d-0e09ac90c5f3@c140.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldWCR \nSession: Superpole
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT
@@ -129,7 +129,7 @@ DTSTART;TZID=UTC+0200:20250726T122000
 SUMMARY:[WorldWCR] Race 1
 UID:996bd6c4-6c53-4246-be48-df344de76c04@996b.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldWCR \nSession: Race 1
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT
@@ -138,7 +138,7 @@ DTSTART;TZID=UTC+0200:20250727T122000
 SUMMARY:[WorldWCR] Race 2
 UID:e6c4b457-22ef-4731-b927-fc5b5b4b8083@e6c4.org
 DESCRIPTION:Event: Hungarian Round \nClass: WorldWCR \nSession: Race 2
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250113T175810Z
 END:VEVENT

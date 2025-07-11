@@ -126,7 +126,7 @@ SUMMARY:[R3 BLU CRU World Cup] Superpole
 UID:e17b659a-d416-4529-8120-c210fb523d31@e17b.org
 DESCRIPTION:Event: Hungarian Round \nClass: R3 BLU CRU World Cup \nSession:
   Superpole
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250221T104610Z
 END:VEVENT
@@ -136,7 +136,7 @@ SUMMARY:[R3 BLU CRU World Cup] Race 1
 UID:00b077bb-9e7e-4034-b95f-860386283429@00b0.org
 DESCRIPTION:Event: Hungarian Round \nClass: R3 BLU CRU World Cup \nSession:
   Race 1
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250221T104610Z
 END:VEVENT
@@ -146,7 +146,7 @@ SUMMARY:[R3 BLU CRU World Cup] Race 2
 UID:1bba0a0d-c66a-4021-8e8b-39d4d7ac00d2@1bba.org
 DESCRIPTION:Event: Hungarian Round \nClass: R3 BLU CRU World Cup \nSession:
   Race 2
-LOCATION:
+LOCATION:Balaton Park Circuit\, Balaton\, Hungary
 URL:https://www.worldsbk.com/en/event/HUN/2025
 DTSTAMP:20250221T104610Z
 END:VEVENT
