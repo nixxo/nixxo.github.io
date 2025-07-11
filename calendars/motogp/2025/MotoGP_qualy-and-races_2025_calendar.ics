@@ -603,8 +603,8 @@ DTSTART;TZID=UTC+0200:20250719T105000
 DTEND;TZID=UTC+0200:20250719T110500
 SUMMARY:[MotoGP] Q1 - #CzechGP
 UID:1b287e94-70b6-4df0-b29f-ca97f7fe9b0d@1b28.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Qualifying Nr. 1
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -615,8 +615,8 @@ DTSTART;TZID=UTC+0200:20250719T111500
 DTEND;TZID=UTC+0200:20250719T113000
 SUMMARY:[MotoGP] Q2 - #CzechGP
 UID:8f64d7fd-9bd0-4316-bf8a-81c9a89199d8@8f64.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Qualifying Nr. 2
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -626,8 +626,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250719T150000
 SUMMARY:[MotoGP] SPR - #CzechGP
 UID:7b934b86-a646-408b-8a88-75600b9e3fc4@7b93.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Tissot Sprint
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -637,8 +637,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250720T140000
 SUMMARY:[MotoGP] RAC - #CzechGP
 UID:03ad0890-0eb9-4b3b-b32a-532229c11ddf@03ad.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Grand Prix
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Grand Prix
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1

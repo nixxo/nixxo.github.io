@@ -208,8 +208,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250720T110000
 SUMMARY:[Moto3] RAC - #CzechGP
 UID:b865d510-9b6f-41ee-b657-cbba0ba5720a@b865.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: Moto3 \nSession: 
- Race
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: Moto3 
+ \nSession: Race
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1

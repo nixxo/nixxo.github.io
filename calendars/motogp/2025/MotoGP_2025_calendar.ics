@@ -1135,8 +1135,8 @@ DTSTART;TZID=UTC+0200:20250718T104500
 DTEND;TZID=UTC+0200:20250718T113000
 SUMMARY:[MotoGP] FP1 - #CzechGP
 UID:7ee55557-7f06-4cd2-8986-979eb54bd5b5@7ee5.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Free Practice Nr. 1
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Free Practice Nr. 1
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -1147,8 +1147,8 @@ DTSTART;TZID=UTC+0200:20250718T150000
 DTEND;TZID=UTC+0200:20250718T160000
 SUMMARY:[MotoGP] PR - #CzechGP
 UID:ae2f8776-377d-4a87-8dca-fd6bdf97315c@ae2f.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Practice
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Practice
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -1159,8 +1159,8 @@ DTSTART;TZID=UTC+0200:20250719T101000
 DTEND;TZID=UTC+0200:20250719T104000
 SUMMARY:[MotoGP] FP2 - #CzechGP
 UID:4ff46eef-f25d-4b9b-b55e-ac3421fbe6bc@4ff4.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Free Practice Nr. 2
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Free Practice Nr. 2
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -1171,8 +1171,8 @@ DTSTART;TZID=UTC+0200:20250719T105000
 DTEND;TZID=UTC+0200:20250719T110500
 SUMMARY:[MotoGP] Q1 - #CzechGP
 UID:1b287e94-70b6-4df0-b29f-ca97f7fe9b0d@1b28.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Qualifying Nr. 1
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -1183,8 +1183,8 @@ DTSTART;TZID=UTC+0200:20250719T111500
 DTEND;TZID=UTC+0200:20250719T113000
 SUMMARY:[MotoGP] Q2 - #CzechGP
 UID:8f64d7fd-9bd0-4316-bf8a-81c9a89199d8@8f64.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Qualifying Nr. 2
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -1194,8 +1194,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250719T150000
 SUMMARY:[MotoGP] SPR - #CzechGP
 UID:7b934b86-a646-408b-8a88-75600b9e3fc4@7b93.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Tissot Sprint
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -1206,8 +1206,8 @@ DTSTART;TZID=UTC+0200:20250720T094000
 DTEND;TZID=UTC+0200:20250720T095000
 SUMMARY:[MotoGP] WUP - #CzechGP
 UID:23fa6c46-b297-4786-83f7-65dc95536efa@23fa.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Warm Up
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Warm Up
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -1217,8 +1217,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250720T140000
 SUMMARY:[MotoGP] RAC - #CzechGP
 UID:03ad0890-0eb9-4b3b-b32a-532229c11ddf@03ad.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: MotoGP \nSession: 
- Grand Prix
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: MotoGP 
+ \nSession: Grand Prix
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1

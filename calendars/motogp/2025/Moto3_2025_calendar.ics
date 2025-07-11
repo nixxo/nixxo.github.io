@@ -874,8 +874,8 @@ DTSTART;TZID=UTC+0200:20250718T090000
 DTEND;TZID=UTC+0200:20250718T093500
 SUMMARY:[Moto3] FP1 - #CzechGP
 UID:0f4ef938-e857-4bc2-a215-4c292b00d171@0f4e.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: Moto3 \nSession: 
- Free Practice Nr. 1
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: Moto3 
+ \nSession: Free Practice Nr. 1
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -886,8 +886,8 @@ DTSTART;TZID=UTC+0200:20250718T131500
 DTEND;TZID=UTC+0200:20250718T135000
 SUMMARY:[Moto3] PR - #CzechGP
 UID:9407fd42-0e7e-4a1c-b1ea-bd8e531d3288@9407.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: Moto3 \nSession: 
- Practice
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: Moto3 
+ \nSession: Practice
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -898,8 +898,8 @@ DTSTART;TZID=UTC+0200:20250719T084000
 DTEND;TZID=UTC+0200:20250719T091000
 SUMMARY:[Moto3] FP2 - #CzechGP
 UID:09598680-bea7-4941-8a0b-3e973b4d8c57@0959.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: Moto3 \nSession: 
- Free Practice Nr. 2
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: Moto3 
+ \nSession: Free Practice Nr. 2
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -910,8 +910,8 @@ DTSTART;TZID=UTC+0200:20250719T125000
 DTEND;TZID=UTC+0200:20250719T130500
 SUMMARY:[Moto3] Q1 - #CzechGP
 UID:2e6869b0-f0fd-4755-ad42-f265adff6e7b@2e68.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: Moto3 \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: Moto3 
+ \nSession: Qualifying Nr. 1
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -922,8 +922,8 @@ DTSTART;TZID=UTC+0200:20250719T131500
 DTEND;TZID=UTC+0200:20250719T133000
 SUMMARY:[Moto3] Q2 - #CzechGP
 UID:6ac54a47-a532-45d0-8347-e05425984faf@6ac5.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: Moto3 \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: Moto3 
+ \nSession: Qualifying Nr. 2
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
@@ -933,8 +933,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250720T110000
 SUMMARY:[Moto3] RAC - #CzechGP
 UID:b865d510-9b6f-41ee-b657-cbba0ba5720a@b865.org
-DESCRIPTION:Event: GP12 - Grand Prix of Czechia \nClass: Moto3 \nSession: 
- Race
+DESCRIPTION:Event: GP12 - Tissot Grand Prix of Czechia \nClass: Moto3 
+ \nSession: Race
 LOCATION:Automotodrom Brno\, Czechia
 URL:https://www.motogp.com/en/calendar/2025/event/czeck 
  republiky/313e496b-6615-4da4-9534-d627c76c4fe1
