@@ -510,8 +510,8 @@ DTSTART;TZID=UTC+0200:20250816T134500
 DTEND;TZID=UTC+0200:20250816T140000
 SUMMARY:[Moto2] Q1 - #AustrianGP
 UID:3889c0a9-d36f-4cb4-a2ce-26ef11702a98@3889.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: Moto2 
+ \nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -522,8 +522,8 @@ DTSTART;TZID=UTC+0200:20250816T141000
 DTEND;TZID=UTC+0200:20250816T142500
 SUMMARY:[Moto2] Q2 - #AustrianGP
 UID:e6d12e68-8b93-439b-a331-444d41690238@e6d1.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: Moto2 
+ \nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -533,8 +533,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250817T121500
 SUMMARY:[Moto2] RAC - #AustrianGP
 UID:21a38937-6528-47e0-a1ff-de23893a7093@21a3.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
- Race
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: Moto2 
+ \nSession: Race
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd

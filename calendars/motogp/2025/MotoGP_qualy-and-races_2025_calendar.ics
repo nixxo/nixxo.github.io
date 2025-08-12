@@ -650,8 +650,8 @@ DTSTART;TZID=UTC+0200:20250816T105000
 DTEND;TZID=UTC+0200:20250816T110500
 SUMMARY:[MotoGP] Q1 - #AustrianGP
 UID:86549af3-a77d-4e43-84e4-73a7565c8bcc@8654.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoGP \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoGP 
+ \nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -662,8 +662,8 @@ DTSTART;TZID=UTC+0200:20250816T111500
 DTEND;TZID=UTC+0200:20250816T113000
 SUMMARY:[MotoGP] Q2 - #AustrianGP
 UID:53bffac2-80a8-4a17-9688-d5acde6fa2f6@53bf.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoGP \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoGP 
+ \nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -673,8 +673,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T150000
 SUMMARY:[MotoGP] SPR - #AustrianGP
 UID:2bbc5d1f-1820-46f6-9341-5a308261bc8d@2bbc.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoGP \nSession: 
- Tissot Sprint
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -684,8 +684,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250817T140000
 SUMMARY:[MotoGP] RAC - #AustrianGP
 UID:62c784e0-1594-4bed-aa10-70c65a70ad6f@62c7.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoGP \nSession: 
- Grand Prix
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoGP 
+ \nSession: Grand Prix
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd

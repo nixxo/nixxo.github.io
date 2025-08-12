@@ -109,8 +109,8 @@ DTSTART;TZID=UTC+0200:20250815T170000
 DTEND;TZID=UTC+0200:20250815T171000
 SUMMARY:[MotoE] Q1 - #AustrianGP
 UID:4370f755-0bed-46b2-8ee5-a8781b01f06a@4370.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoE 
+ \nSession: Qualifying Nr. 1
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -121,8 +121,8 @@ DTSTART;TZID=UTC+0200:20250815T172000
 DTEND;TZID=UTC+0200:20250815T173000
 SUMMARY:[MotoE] Q2 - #AustrianGP
 UID:81f37d7e-ede0-41b4-b84f-388bc93b9abf@81f3.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoE 
+ \nSession: Qualifying Nr. 2
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -132,8 +132,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T121500
 SUMMARY:[MotoE] RAC1 - #AustrianGP
 UID:7257dd9b-6683-491f-9bd0-810a8cedd324@7257.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Race Nr.1
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoE 
+ \nSession: Race Nr.1
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -143,8 +143,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T161000
 SUMMARY:[MotoE] RAC2 - #AustrianGP
 UID:5a44fcef-ef75-407e-8275-400fef122ea8@5a44.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Race Nr.2
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoE 
+ \nSession: Race Nr.2
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd

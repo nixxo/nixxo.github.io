@@ -219,8 +219,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250817T121500
 SUMMARY:[Moto2] RAC - #AustrianGP
 UID:21a38937-6528-47e0-a1ff-de23893a7093@21a3.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: Moto2 \nSession: 
- Race
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: Moto2 
+ \nSession: Race
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd

@@ -60,8 +60,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T121500
 SUMMARY:[MotoE] RAC1 - #AustrianGP
 UID:7257dd9b-6683-491f-9bd0-810a8cedd324@7257.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Race Nr.1
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoE 
+ \nSession: Race Nr.1
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
@@ -71,8 +71,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250816T161000
 SUMMARY:[MotoE] RAC2 - #AustrianGP
 UID:5a44fcef-ef75-407e-8275-400fef122ea8@5a44.org
-DESCRIPTION:Event: GP13 - Grand Prix of Austria \nClass: MotoE \nSession: 
- Race Nr.2
+DESCRIPTION:Event: GP13 - BWIN Grand Prix of Austria \nClass: MotoE 
+ \nSession: Race Nr.2
 LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
 URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
  4119-8fe4-826017d5f2dd
