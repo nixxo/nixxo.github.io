@@ -230,8 +230,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250824T110000
 SUMMARY:[Moto3] RAC - #HungarianGP
 UID:83b52d06-5cd4-4a57-b6db-dbb0b8e9a7bc@83b5.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: Moto3 \nSession: 
- Race
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: Moto3 
+ \nSession: Race
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c

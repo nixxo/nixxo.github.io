@@ -381,8 +381,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250823T150000
 SUMMARY:[MotoGP] SPR - #HungarianGP
 UID:76447e2b-930c-4385-8153-c21673a5a9c3@7644.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoGP \nSession: 
- Tissot Sprint
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: MotoGP 
+ \nSession: Tissot Sprint
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
@@ -392,8 +392,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250824T140000
 SUMMARY:[MotoGP] RAC - #HungarianGP
 UID:228a3dfa-99a9-4e22-a72c-a0a8917f61b9@228a.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoGP \nSession: 
- Grand Prix
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: MotoGP 
+ \nSession: Grand Prix
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c

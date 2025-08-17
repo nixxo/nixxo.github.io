@@ -545,8 +545,8 @@ DTSTART;TZID=UTC+0200:20250823T125000
 DTEND;TZID=UTC+0200:20250823T130500
 SUMMARY:[Moto3] Q1 - #HungarianGP
 UID:3c242aed-1c32-4448-b2aa-d0bda92170fc@3c24.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: Moto3 \nSession: 
- Qualifying Nr. 1
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: Moto3 
+ \nSession: Qualifying Nr. 1
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
@@ -557,8 +557,8 @@ DTSTART;TZID=UTC+0200:20250823T131500
 DTEND;TZID=UTC+0200:20250823T133000
 SUMMARY:[Moto3] Q2 - #HungarianGP
 UID:1b16c514-97d0-4168-a25f-8f67fe7e9c2b@1b16.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: Moto3 \nSession: 
- Qualifying Nr. 2
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: Moto3 
+ \nSession: Qualifying Nr. 2
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
@@ -568,8 +568,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250824T110000
 SUMMARY:[Moto3] RAC - #HungarianGP
 UID:83b52d06-5cd4-4a57-b6db-dbb0b8e9a7bc@83b5.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: Moto3 \nSession: 
- Race
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: Moto3 
+ \nSession: Race
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
