@@ -79,11 +79,11 @@ URL:https://www.motogp.com/en/calendar/2025/event/austria/2691a49e-a593-
 DTSTAMP:20250301T221854Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20250823T121500
+DTSTART;TZID=UTC+0200:20250823T121000
 SUMMARY:[MotoE] RAC1 - #HungarianGP
 UID:0db14d12-305d-4bc9-baa0-39d4a48922ab@0db1.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoE \nSession: 
- Race Nr.1
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: MotoE 
+ \nSession: Race Nr.1
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
@@ -93,8 +93,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0200:20250823T161000
 SUMMARY:[MotoE] RAC2 - #HungarianGP
 UID:fc3ca605-2f99-4d4d-a30d-8003fb81c8a0@fc3c.org
-DESCRIPTION:Event: GP14 - Grand Prix of Hungary \nClass: MotoE \nSession: 
- Race Nr.2
+DESCRIPTION:Event: GP14 - Michelin® Grand Prix of Hungary \nClass: MotoE 
+ \nSession: Race Nr.2
 LOCATION:Balaton Park\, Balaton\, Hungary
 URL:https://www.motogp.com/en/calendar/2025/event/hungria/f0e38eef-2681-
  4d6f-962e-966459a7a03c
