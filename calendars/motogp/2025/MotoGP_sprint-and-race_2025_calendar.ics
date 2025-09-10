@@ -491,8 +491,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251018T150000
 SUMMARY:[MotoGP] SPR - #AustralianGP
 UID:67619467-7f6c-42aa-a06a-80fe8bba17ce@6761.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
- \nSession: Tissot Sprint
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: MotoGP \nSession: Tissot Sprint
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -502,8 +502,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251019T140000
 SUMMARY:[MotoGP] RAC - #AustralianGP
 UID:fe2301fc-1317-41f6-b8e5-f7b09d574604@fe23.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
- \nSession: Grand Prix
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: MotoGP \nSession: Grand Prix
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6

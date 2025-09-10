@@ -285,8 +285,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251019T110000
 SUMMARY:[Moto3] RAC - #AustralianGP
 UID:1c3ce3a3-7413-45ae-b98a-e27f8ed5f72e@1c3c.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: Moto3 
- \nSession: Race
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: Moto3 \nSession: Race
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6

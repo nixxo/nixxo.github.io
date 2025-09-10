@@ -926,8 +926,8 @@ DTSTART;TZID=UTC+1100:20251018T105000
 DTEND;TZID=UTC+1100:20251018T110500
 SUMMARY:[MotoGP] Q1 - #AustralianGP
 UID:9eb3f6f8-ce2b-4853-a4d6-3ffd8721bc51@9eb3.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
- \nSession: Qualifying Nr. 1
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: MotoGP \nSession: Qualifying Nr. 1
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -938,8 +938,8 @@ DTSTART;TZID=UTC+1100:20251018T111500
 DTEND;TZID=UTC+1100:20251018T113000
 SUMMARY:[MotoGP] Q2 - #AustralianGP
 UID:6312cd6f-cac1-4a39-a140-a108fbf91716@6312.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
- \nSession: Qualifying Nr. 2
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: MotoGP \nSession: Qualifying Nr. 2
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -949,8 +949,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251018T150000
 SUMMARY:[MotoGP] SPR - #AustralianGP
 UID:67619467-7f6c-42aa-a06a-80fe8bba17ce@6761.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
- \nSession: Tissot Sprint
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: MotoGP \nSession: Tissot Sprint
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -960,8 +960,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251019T140000
 SUMMARY:[MotoGP] RAC - #AustralianGP
 UID:fe2301fc-1317-41f6-b8e5-f7b09d574604@fe23.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: MotoGP 
- \nSession: Grand Prix
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: MotoGP \nSession: Grand Prix
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6

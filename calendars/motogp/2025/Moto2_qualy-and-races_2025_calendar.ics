@@ -720,8 +720,8 @@ DTSTART;TZID=UTC+1100:20251018T134500
 DTEND;TZID=UTC+1100:20251018T140000
 SUMMARY:[Moto2] Q1 - #AustralianGP
 UID:85b207ad-7c93-4660-ad6c-d7fc0f2b13ac@85b2.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: Moto2 
- \nSession: Qualifying Nr. 1
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: Moto2 \nSession: Qualifying Nr. 1
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -732,8 +732,8 @@ DTSTART;TZID=UTC+1100:20251018T141000
 DTEND;TZID=UTC+1100:20251018T142500
 SUMMARY:[Moto2] Q2 - #AustralianGP
 UID:1505528e-8b77-4133-b29a-275e97a2411e@1505.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: Moto2 
- \nSession: Qualifying Nr. 2
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: Moto2 \nSession: Qualifying Nr. 2
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
@@ -743,8 +743,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+1100:20251019T121500
 SUMMARY:[Moto2] RAC - #AustralianGP
 UID:42fe8782-c4bb-48b0-b340-030145a2353a@42fe.org
-DESCRIPTION:Event: GP19 - Australian Motorcycle Grand Prix \nClass: Moto2 
- \nSession: Race
+DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
+ \nClass: Moto2 \nSession: Race
 LOCATION:Phillip Island\, Australia
 URL:https://www.motogp.com/en/calendar/2025/event/australia/af2f67f7-23e7-
  4001-afd1-15c26cb168b6
