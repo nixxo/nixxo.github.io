@@ -240,7 +240,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251011T140000
 SUMMARY:[WorldSBK] Race 1
 UID:ac0b1b26-c5e0-426c-ae52-53e07e51ce1b@ac0b.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: Race 1
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: Race 1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251012T140000
 SUMMARY:[WorldSBK] Race 2
 UID:87ce4866-f9b8-4647-abde-10cc68fcf7c6@87ce.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: Race 2
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: Race 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z

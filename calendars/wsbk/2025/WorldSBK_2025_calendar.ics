@@ -880,7 +880,7 @@ DTSTART;TZID=UTC+0100:20251010T103500
 DTEND;TZID=UTC+0100:20251010T112000
 SUMMARY:[WorldSBK] FP1
 UID:34ca402d-ea03-4b31-b7d5-f4003953014a@34ca.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: FP1
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: FP1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -890,7 +890,7 @@ DTSTART;TZID=UTC+0100:20251010T150000
 DTEND;TZID=UTC+0100:20251010T154500
 SUMMARY:[WorldSBK] FP2
 UID:79169e2b-86f8-4692-9e95-385f6e06b80c@7916.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: FP2
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: FP2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -900,7 +900,7 @@ DTSTART;TZID=UTC+0100:20251011T090000
 DTEND;TZID=UTC+0100:20251011T092000
 SUMMARY:[WorldSBK] FP3
 UID:c6fe29c0-37a6-4817-a0e4-1c18f3bfcbdd@c6fe.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: FP3
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: FP3
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -910,7 +910,8 @@ DTSTART;TZID=UTC+0100:20251011T110000
 DTEND;TZID=UTC+0100:20251011T111500
 SUMMARY:[WorldSBK] Superpole
 UID:0673650c-d616-44ef-8e30-b2bc7b25c0d0@0673.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: Superpole
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: 
+ Superpole
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -919,7 +920,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251011T140000
 SUMMARY:[WorldSBK] Race 1
 UID:ac0b1b26-c5e0-426c-ae52-53e07e51ce1b@ac0b.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: Race 1
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: Race 1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -929,7 +930,7 @@ DTSTART;TZID=UTC+0100:20251012T090000
 DTEND;TZID=UTC+0100:20251012T091000
 SUMMARY:[WorldSBK] WUP
 UID:5fdb6898-b315-40a4-931c-49716b60a14a@5fdb.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: WUP
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: WUP
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z
@@ -938,8 +939,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251012T110000
 SUMMARY:[WorldSBK] Superpole Race
 UID:4d12ebf7-83b4-47cb-a4d8-c75bb6203212@4d12.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: Superpole 
- Race
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: 
+ Superpole Race
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z
@@ -948,7 +949,7 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251012T140000
 SUMMARY:[WorldSBK] Race 2
 UID:87ce4866-f9b8-4647-abde-10cc68fcf7c6@87ce.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSBK \nSession: Race 2
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSBK \nSession: Race 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z

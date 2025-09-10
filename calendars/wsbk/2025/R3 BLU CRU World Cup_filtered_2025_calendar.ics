@@ -190,8 +190,8 @@ DTSTART;TZID=UTC+0100:20251010T131500
 DTEND;TZID=UTC+0100:20251010T134000
 SUMMARY:[R3 BLU CRU World Cup] Superpole
 UID:0c5a676c-e1da-4902-8e63-a005c8db2095@0c5a.org
-DESCRIPTION:Event: Estoril Round \nClass: R3 BLU CRU World Cup \nSession: 
- Superpole
+DESCRIPTION:Event: EICMA Estoril Round \nClass: R3 BLU CRU World Cup 
+ \nSession: Superpole
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250221T104612Z
@@ -200,8 +200,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251011T101500
 SUMMARY:[R3 BLU CRU World Cup] Race 1
 UID:e91c58c8-2751-4cda-b887-339d7f587c4d@e91c.org
-DESCRIPTION:Event: Estoril Round \nClass: R3 BLU CRU World Cup \nSession: 
- Race 1
+DESCRIPTION:Event: EICMA Estoril Round \nClass: R3 BLU CRU World Cup 
+ \nSession: Race 1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250221T104612Z
@@ -210,8 +210,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251012T100500
 SUMMARY:[R3 BLU CRU World Cup] Race 2
 UID:79627ffb-a8eb-465a-b246-eeb7dccf5407@7962.org
-DESCRIPTION:Event: Estoril Round \nClass: R3 BLU CRU World Cup \nSession: 
- Race 2
+DESCRIPTION:Event: EICMA Estoril Round \nClass: R3 BLU CRU World Cup 
+ \nSession: Race 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250221T104612Z

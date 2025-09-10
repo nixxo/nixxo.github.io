@@ -411,7 +411,7 @@ DTSTART;TZID=UTC+0100:20251010T113500
 DTEND;TZID=UTC+0100:20251010T120000
 SUMMARY:[WorldSSP300] FP
 UID:53039b70-2d5c-4731-989b-9239e8ae1b42@5303.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSSP300 \nSession: FP
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSSP300 \nSession: FP
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -421,7 +421,8 @@ DTSTART;TZID=UTC+0100:20251010T160000
 DTEND;TZID=UTC+0100:20251010T162500
 SUMMARY:[WorldSSP300] Superpole
 UID:b3fb7965-d1ca-4adf-a5b2-9d21a801c05c@b3fb.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSSP300 \nSession: Superpole
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSSP300 \nSession: 
+ Superpole
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -431,7 +432,8 @@ DTSTART;TZID=UTC+0100:20251011T095000
 DTEND;TZID=UTC+0100:20251011T100000
 SUMMARY:[WorldSSP300] WUP 1
 UID:b49fd8e5-f174-43b1-81a9-ddcc73b50a86@b49f.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSSP300 \nSession: WUP 1
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSSP300 \nSession: WUP 
+ 1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175812Z
@@ -440,7 +442,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251011T151500
 SUMMARY:[WorldSSP300] Race 1
 UID:92c03fac-5d4b-4644-b1bd-4e1626811c62@92c0.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSSP300 \nSession: Race 1
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSSP300 \nSession: Race
+  1
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z
@@ -450,7 +453,8 @@ DTSTART;TZID=UTC+0100:20251012T094000
 DTEND;TZID=UTC+0100:20251012T095000
 SUMMARY:[WorldSSP300] WUP 2
 UID:c19e8743-7db4-458c-a733-7087f0e59488@c19e.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSSP300 \nSession: WUP 2
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSSP300 \nSession: WUP 
+ 2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z
@@ -459,7 +463,8 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC+0100:20251012T151500
 SUMMARY:[WorldSSP300] Race 2
 UID:8e6edc30-d935-4de6-8e2e-916227d33970@8e6e.org
-DESCRIPTION:Event: Estoril Round \nClass: WorldSSP300 \nSession: Race 2
+DESCRIPTION:Event: EICMA Estoril Round \nClass: WorldSSP300 \nSession: Race
+  2
 LOCATION:Circuito Estoril\, Estoril\, Portugal
 URL:https://www.worldsbk.com/en/event/EST/2025
 DTSTAMP:20250113T175813Z
