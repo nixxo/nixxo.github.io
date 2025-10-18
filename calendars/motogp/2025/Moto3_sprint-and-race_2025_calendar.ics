@@ -282,7 +282,7 @@ URL:https://www.motogp.com/en/calendar/2025/event/indonesia/c4def1f2-c288-
 DTSTAMP:20250301T221855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+1100:20251019T110000
+DTSTART;TZID=UTC+1100:20251019T120000
 SUMMARY:[Moto3] RAC - #AustralianGP
 UID:1c3ce3a3-7413-45ae-b98a-e27f8ed5f72e@1c3c.org
 DESCRIPTION:Event: GP19 - Liqui Moly Australian Motorcycle Grand Prix 
