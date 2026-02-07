@@ -11,19 +11,16 @@ All sessions
 - <a href="motogp/2026/MotoGP_2026_calendar.ics">MotoGP</a>
 - <a href="motogp/2026/Moto2_2026_calendar.ics">Moto2</a>
 - <a href="motogp/2026/Moto3_2026_calendar.ics">Moto3</a>
-- <a href="motogp/2026/MotoE_2026_calendar.ics">MotoE</a>
 
 Qualify + Races Only
 - <a href="motogp/2026/MotoGP_qualy-and-races_2026_calendar.ics">MotoGP</a>
 - <a href="motogp/2026/Moto2_qualy-and-races_2026_calendar.ics">Moto2</a>
 - <a href="motogp/2026/Moto3_qualy-and-races_2026_calendar.ics">Moto3</a>
-- <a href="motogp/2026/MotoE_qualy-and-races_2026_calendar.ics">MotoE</a>
 
 Races Only
 - <a href="motogp/2026/MotoGP_sprint-and-race_2026_calendar.ics">MotoGP</a>
 - <a href="motogp/2026/Moto2_sprint-and-race_2026_calendar.ics">Moto2</a>
 - <a href="motogp/2026/Moto3_sprint-and-race_2026_calendar.ics">Moto3</a>
-- <a href="motogp/2026/MotoE_sprint-and-race_2026_calendar.ics">MotoE</a>
 
 
 # WorldSBK 2026 Calendars
