@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+0100
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+0200
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260328T120000
+SUMMARY:[WorldWCR] Race 1
+UID:82c09758-505b-4730-8608-3f0032a3baff@82c0.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldWCR \nSession: 
+ Race 1
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260329T120000
+SUMMARY:[WorldWCR] Race 2
+UID:06d610fb-0566-482a-9a55-82e1363adb62@06d6.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldWCR \nSession: 
+ Race 2
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260418T120000
+SUMMARY:[WorldWCR] Race 1
+UID:0758a71c-8bdf-4355-b72b-49777b060f03@0758.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldWCR \nSession: Race 1
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260419T120000
+SUMMARY:[WorldWCR] Race 2
+UID:5a5be5f6-3d90-448e-94d4-e6f728531b82@5a5b.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldWCR \nSession: Race 2
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260502T130000
+SUMMARY:[WorldWCR] Race 1
+UID:6f470242-cd82-4b72-bd19-42b9e751c88d@6f47.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldWCR \nSession: Race 
+ 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260503T130000
+SUMMARY:[WorldWCR] Race 2
+UID:c7ceda3d-11cf-430a-9948-8e1926dec585@c7ce.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldWCR \nSession: Race 
+ 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260613T120000
+SUMMARY:[WorldWCR] Race 1
+UID:7be6babf-6b2a-4dd7-aaa1-8008ece4f561@7be6.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldWCR 
+ \nSession: Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260614T115000
+SUMMARY:[WorldWCR] Race 2
+UID:4f651178-ce1f-4fc2-aab6-88633beab1b2@4f65.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldWCR 
+ \nSession: Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260711T130000
+SUMMARY:[WorldWCR] Race 1
+UID:3611f314-600c-4632-81fc-1835b0af5727@3611.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldWCR \nSession: Race 
+ 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260712T130000
+SUMMARY:[WorldWCR] Race 2
+UID:c8fe83ae-7fbe-4f3e-bbd6-2508abd411d0@c8fe.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldWCR \nSession: Race 
+ 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261017T120000
+SUMMARY:[WorldWCR] Race 1
+UID:b061b5a9-90b4-4f39-a0e6-3376799cb0c6@b061.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldWCR \nSession: Race 
+ 1
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261018T120000
+SUMMARY:[WorldWCR] Race 2
+UID:2c3e21ea-1af5-4c98-96be-fde32cace7c6@2c3e.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldWCR \nSession: Race 
+ 2
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+END:VCALENDAR

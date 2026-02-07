@@ -1,0 +1,1063 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+1100
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+1100
+DTSTART:19700101T000000
+TZNAME:UTC+11:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+0100
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+0200
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260220T112000
+DTEND;TZID=UTC+1100:20260220T120500
+SUMMARY:[WorldSBK] FP1
+UID:2e4ea0e6-a9f1-46e5-816b-6f1efb85979b@2e4e.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: FP1
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260220T160000
+DTEND;TZID=UTC+1100:20260220T164500
+SUMMARY:[WorldSBK] FP2
+UID:7bdca734-d9bd-429b-8f12-f16309d037f5@7bdc.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: FP2
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260221T100000
+DTEND;TZID=UTC+1100:20260221T102000
+SUMMARY:[WorldSBK] FP3
+UID:ac132d5c-386b-41ce-8e0e-db076ef5d233@ac13.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: FP3
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260221T130000
+DTEND;TZID=UTC+1100:20260221T131500
+SUMMARY:[WorldSBK] Superpole
+UID:ca5be84e-43b4-4b4c-9333-f3e636b1604e@ca5b.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: Superpole
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260221T160000
+SUMMARY:[WorldSBK] Race 1
+UID:dd9fe5db-55ca-4308-b3e8-33a4eb2ce44f@dd9f.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: Race 1
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260222T103000
+DTEND;TZID=UTC+1100:20260222T104000
+SUMMARY:[WorldSBK] WUP
+UID:898980a0-e6a9-4ddb-b7fd-23af9e08cc23@8989.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: WUP
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260222T130000
+SUMMARY:[WorldSBK] Superpole Race
+UID:b2657b0f-f10c-44fb-b2ce-cda32830a418@b265.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: Superpole 
+ Race
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260222T160000
+SUMMARY:[WorldSBK] Race 2
+UID:216dbd56-89dc-4c9a-a621-a4dff7a619d8@216d.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSBK \nSession: Race 2
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260327T102000
+DTEND;TZID=UTC+0100:20260327T110500
+SUMMARY:[WorldSBK] FP1
+UID:cb257ed4-6cff-44cf-89e3-11f48b95a3dd@cb25.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ FP1
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260327T150000
+DTEND;TZID=UTC+0100:20260327T154500
+SUMMARY:[WorldSBK] FP2
+UID:58d8a819-1d8f-417d-9ffb-2db7c7357ab6@58d8.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ FP2
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260328T094000
+DTEND;TZID=UTC+0100:20260328T100000
+SUMMARY:[WorldSBK] FP3
+UID:5450dcee-2b5c-42b7-bc46-37f27b4e6cfe@5450.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ FP3
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260328T111500
+DTEND;TZID=UTC+0100:20260328T113000
+SUMMARY:[WorldSBK] Superpole
+UID:cbeab0bb-b9b8-4543-80cb-b53a7777ce09@cbea.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ Superpole
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260328T153000
+SUMMARY:[WorldSBK] Race 1
+UID:1eb0c02e-3f2e-4308-b6e5-4632380f5bfc@1eb0.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ Race 1
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260329T091500
+DTEND;TZID=UTC+0100:20260329T092500
+SUMMARY:[WorldSBK] WUP
+UID:88a02336-abf9-4f75-aafa-5011b69539ac@88a0.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ WUP
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260329T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:783c5a81-a724-4c60-984d-84bb6a705ab9@783c.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ Superpole Race
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260329T153000
+SUMMARY:[WorldSBK] Race 2
+UID:e25bf8cb-69bb-4bde-b154-9a36249ebf3b@e25b.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSBK \nSession: 
+ Race 2
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260417T102000
+DTEND;TZID=UTC+0200:20260417T110500
+SUMMARY:[WorldSBK] FP1
+UID:929cf83f-f7c4-4bb3-9d3b-9aa8bbdc22c5@929c.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: FP1
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260417T150000
+DTEND;TZID=UTC+0200:20260417T154500
+SUMMARY:[WorldSBK] FP2
+UID:b5a65570-b73d-46f3-b6c8-3c02ec3d2373@b5a6.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: FP2
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260418T094000
+DTEND;TZID=UTC+0200:20260418T100000
+SUMMARY:[WorldSBK] FP3
+UID:fb9f5688-e385-4661-9845-323f8d9cd86c@fb9f.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: FP3
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260418T111500
+DTEND;TZID=UTC+0200:20260418T113000
+SUMMARY:[WorldSBK] Superpole
+UID:6a04bf4a-969a-458b-be48-2ff784e2cf89@6a04.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: 
+ Superpole
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260418T153000
+SUMMARY:[WorldSBK] Race 1
+UID:ae5e9825-7d7f-4770-b3da-36da15616a81@ae5e.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: Race 1
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260419T091500
+DTEND;TZID=UTC+0200:20260419T092500
+SUMMARY:[WorldSBK] WUP
+UID:1d724242-0836-433f-8cd5-659ae18c6739@1d72.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: WUP
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260419T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:e226b6b2-f4b8-41ef-8d04-5a4c65115ac2@e226.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: 
+ Superpole Race
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260419T153000
+SUMMARY:[WorldSBK] Race 2
+UID:61416b1f-c2de-4cab-9889-37368de60187@6141.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSBK \nSession: Race 2
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260501T102000
+DTEND;TZID=UTC+0200:20260501T110500
+SUMMARY:[WorldSBK] FP1
+UID:7f2a9fda-8464-4b40-be55-5913f2fe5d4a@7f2a.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: FP1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260501T150000
+DTEND;TZID=UTC+0200:20260501T154500
+SUMMARY:[WorldSBK] FP2
+UID:807bcffb-8e18-4a19-bff5-94740e4e3157@807b.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: FP2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260502T094000
+DTEND;TZID=UTC+0200:20260502T100000
+SUMMARY:[WorldSBK] FP3
+UID:8e7dac32-0c33-4f41-bfaf-809e4f4368f0@8e7d.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: FP3
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260502T111500
+DTEND;TZID=UTC+0200:20260502T113000
+SUMMARY:[WorldSBK] Superpole
+UID:ffde7afb-e39f-4b8d-a9bd-64e8e61f1329@ffde.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: 
+ Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260502T153000
+SUMMARY:[WorldSBK] Race 1
+UID:f875e1df-b311-461f-88c1-ee97ad3a2420@f875.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: Race 
+ 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260503T092000
+DTEND;TZID=UTC+0200:20260503T093000
+SUMMARY:[WorldSBK] WUP
+UID:e4952615-32ec-4aaa-ac7d-45f95245e852@e495.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: WUP
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260503T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:663b3b42-0a7b-49fe-b7f7-194e768afb71@663b.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: 
+ Superpole Race
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260503T153000
+SUMMARY:[WorldSBK] Race 2
+UID:7e6702c0-9ab4-4b74-9dcc-80ece57225ed@7e67.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSBK \nSession: Race 
+ 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260515T103500
+DTEND;TZID=UTC+0200:20260515T112000
+SUMMARY:[WorldSBK] FP1
+UID:cf87b189-8279-4515-82a5-900a1c42e6ba@cf87.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: FP1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260515T150000
+DTEND;TZID=UTC+0200:20260515T154500
+SUMMARY:[WorldSBK] FP2
+UID:db4ca75f-bc27-477a-b17f-6ee6d9b1a37a@db4c.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: FP2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260516T094000
+DTEND;TZID=UTC+0200:20260516T100000
+SUMMARY:[WorldSBK] FP3
+UID:0b77c49c-0a33-434f-9b45-3240a170fc3c@0b77.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: FP3
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260516T111500
+DTEND;TZID=UTC+0200:20260516T113000
+SUMMARY:[WorldSBK] Superpole
+UID:9f9e2f69-0afe-4bb1-b7f9-7dba0fff9e98@9f9e.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260516T140000
+SUMMARY:[WorldSBK] Race 1
+UID:7f5b9dd8-4796-4b55-8a47-65b5982d4cad@7f5b.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260517T091500
+DTEND;TZID=UTC+0200:20260517T092500
+SUMMARY:[WorldSBK] WUP
+UID:92e44323-78a5-4b73-a9d0-b8f884e1557e@92e4.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: WUP
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260517T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:d3d22cb2-37cc-47ee-ac9e-c84fb416997f@d3d2.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: Superpole Race
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260517T153000
+SUMMARY:[WorldSBK] Race 2
+UID:dd1fa88c-8eeb-4595-bc7c-70695be6776b@dd1f.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSBK \nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260529T103500
+DTEND;TZID=UTC+0200:20260529T112000
+SUMMARY:[WorldSBK] FP1
+UID:13d9e6b1-d821-4e13-ae94-7bf7b730eae9@13d9.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: FP1
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260529T150000
+DTEND;TZID=UTC+0200:20260529T154500
+SUMMARY:[WorldSBK] FP2
+UID:2485c93f-d252-4834-89b6-37d59d2aa7be@2485.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: FP2
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260530T094000
+DTEND;TZID=UTC+0200:20260530T100000
+SUMMARY:[WorldSBK] FP3
+UID:93c9fc4c-4766-408b-948f-a71002e89320@93c9.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: FP3
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260530T111500
+DTEND;TZID=UTC+0200:20260530T113000
+SUMMARY:[WorldSBK] Superpole
+UID:51892fa7-3da6-4cd0-9a82-ade1ca767c9c@5189.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: Superpole
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260530T140000
+SUMMARY:[WorldSBK] Race 1
+UID:c16b3b9c-8b16-4d5e-9461-e99f2fc0c245@c16b.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: Race 1
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260531T092000
+DTEND;TZID=UTC+0200:20260531T093000
+SUMMARY:[WorldSBK] WUP
+UID:b03550b3-bb6b-4f1b-a2ef-1cfc60e8259c@b035.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: WUP
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260531T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:5a46c62a-d6c2-42cc-a8b8-6f1ab8d356ea@5a46.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: Superpole Race
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260531T153000
+SUMMARY:[WorldSBK] Race 2
+UID:ae8d4d4d-b76a-40f9-8a7f-c83b273e1394@ae8d.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSBK \nSession: Race 2
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260612T102000
+DTEND;TZID=UTC+0200:20260612T110500
+SUMMARY:[WorldSBK] FP1
+UID:0d711ef3-6713-443d-b4d7-c9e92ec0a1cd@0d71.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: FP1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260612T150000
+DTEND;TZID=UTC+0200:20260612T154500
+SUMMARY:[WorldSBK] FP2
+UID:0291dd15-90ae-4888-8d53-157a86c875e9@0291.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: FP2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260613T094000
+DTEND;TZID=UTC+0200:20260613T100000
+SUMMARY:[WorldSBK] FP3
+UID:17ec71df-f3a4-49a5-99ad-98cc27ab2083@17ec.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: FP3
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260613T111500
+DTEND;TZID=UTC+0200:20260613T113000
+SUMMARY:[WorldSBK] Superpole
+UID:bf1a1347-7cfa-45f9-af4c-d68fd02a2cac@bf1a.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: Superpole
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260613T153000
+SUMMARY:[WorldSBK] Race 1
+UID:548529de-a61b-4197-96fc-94f564f7b0dc@5485.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260614T091500
+DTEND;TZID=UTC+0200:20260614T092500
+SUMMARY:[WorldSBK] WUP
+UID:6ecc1a63-c97e-4860-8950-07cac579b029@6ecc.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: WUP
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260614T110000
+SUMMARY:[WorldSBK] Superpole Race
+UID:1b35fc6d-b6b0-47e7-a549-a02a8eec0adf@1b35.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: Superpole Race
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260614T140000
+SUMMARY:[WorldSBK] Race 2
+UID:76703089-8635-4a3c-9e7d-eeeb233ab373@7670.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSBK 
+ \nSession: Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260710T102000
+DTEND;TZID=UTC+0100:20260710T110500
+SUMMARY:[WorldSBK] FP1
+UID:9ed498a2-648f-4ff2-97bc-d310304008ce@9ed4.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: FP1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260710T150000
+DTEND;TZID=UTC+0100:20260710T154500
+SUMMARY:[WorldSBK] FP2
+UID:12e47bc0-a5a6-4c3c-9342-b175610b5216@12e4.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: FP2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260711T094000
+DTEND;TZID=UTC+0100:20260711T100000
+SUMMARY:[WorldSBK] FP3
+UID:0c622066-eaef-4dd0-a73f-446edd1389fc@0c62.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: FP3
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260711T110000
+DTEND;TZID=UTC+0100:20260711T111500
+SUMMARY:[WorldSBK] Superpole
+UID:9a4ab7aa-ae45-447c-a75c-bfdb029bd0e1@9a4a.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: 
+ Superpole
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260711T153000
+SUMMARY:[WorldSBK] Race 1
+UID:6b55f179-ea94-480a-9427-e3be2047d806@6b55.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: Race 
+ 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260712T092000
+DTEND;TZID=UTC+0100:20260712T093000
+SUMMARY:[WorldSBK] WUP
+UID:9a877f90-74cc-49e3-837e-f102a91054dc@9a87.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: WUP
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260712T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:c74738a9-9e59-44e1-8d65-ad32cf23dfde@c747.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: 
+ Superpole Race
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260712T153000
+SUMMARY:[WorldSBK] Race 2
+UID:7c3f0c75-3e56-48d2-9b47-e8e7e7a4dfc2@7c3f.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSBK \nSession: Race 
+ 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260904T102000
+DTEND;TZID=UTC+0200:20260904T110500
+SUMMARY:[WorldSBK] FP1
+UID:6f3799a2-f941-4c1a-bd0e-004f3c679a48@6f37.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: FP1
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260904T150000
+DTEND;TZID=UTC+0200:20260904T154500
+SUMMARY:[WorldSBK] FP2
+UID:11786a3f-f3e1-491b-b598-28f161f940bc@1178.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: FP2
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260905T094000
+DTEND;TZID=UTC+0200:20260905T100000
+SUMMARY:[WorldSBK] FP3
+UID:4541f100-0f8b-4fae-bc52-6647a40342bf@4541.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: FP3
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260905T111500
+DTEND;TZID=UTC+0200:20260905T113000
+SUMMARY:[WorldSBK] Superpole
+UID:2b689a39-33b7-43ba-a824-ebe2995b60ca@2b68.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: 
+ Superpole
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260905T153000
+SUMMARY:[WorldSBK] Race 1
+UID:ca83defc-eb10-4647-90b9-ba8cdb8e8c67@ca83.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: Race 1
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260906T092000
+DTEND;TZID=UTC+0200:20260906T093000
+SUMMARY:[WorldSBK] WUP
+UID:75817d87-715c-4755-b98d-f1580f8cddce@7581.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: WUP
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260906T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:a94328a4-9dc2-4bd4-82d6-7890eaea56b1@a943.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: 
+ Superpole Race
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260906T140000
+SUMMARY:[WorldSBK] Race 2
+UID:70a0a12a-6439-4a87-91f0-5c026889e7f5@70a0.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSBK \nSession: Race 2
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260925T102000
+DTEND;TZID=UTC+0200:20260925T110500
+SUMMARY:[WorldSBK] FP1
+UID:87ce8ad5-231b-4de9-8d70-2aad927f4cf2@87ce.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: FP1
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260925T150000
+DTEND;TZID=UTC+0200:20260925T154500
+SUMMARY:[WorldSBK] FP2
+UID:adebbbec-13e4-4026-acca-d95e79a54603@adeb.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: FP2
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260926T094000
+DTEND;TZID=UTC+0200:20260926T100000
+SUMMARY:[WorldSBK] FP3
+UID:0dcc759d-c485-4a91-b197-97f82b2a58ae@0dcc.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: FP3
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260926T111500
+DTEND;TZID=UTC+0200:20260926T113000
+SUMMARY:[WorldSBK] Superpole
+UID:d6da7b80-9b18-41bd-a07d-358675d49a69@d6da.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: Superpole
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260926T153000
+SUMMARY:[WorldSBK] Race 1
+UID:6780dc2a-36e0-439e-afb0-b25ba31dd369@6780.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: Race 1
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260927T092000
+DTEND;TZID=UTC+0200:20260927T093000
+SUMMARY:[WorldSBK] WUP
+UID:f2e24c93-1535-460f-891f-c221ce45e2bc@f2e2.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: WUP
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260927T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:ceb1cbc3-0304-477f-9dec-735b3ddf966a@ceb1.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: Superpole 
+ Race
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260927T153000
+SUMMARY:[WorldSBK] Race 2
+UID:9933bc85-894e-4af9-a4ce-4884840acb18@9933.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSBK \nSession: Race 2
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261009T102000
+DTEND;TZID=UTC+0100:20261009T110500
+SUMMARY:[WorldSBK] FP1
+UID:6c9ea485-774c-44f1-91e3-3de3b06e8c4d@6c9e.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: FP1
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261009T150000
+DTEND;TZID=UTC+0100:20261009T154500
+SUMMARY:[WorldSBK] FP2
+UID:ba80092c-536f-4096-a76b-651fe8bb1928@ba80.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: FP2
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261010T094000
+DTEND;TZID=UTC+0100:20261010T100000
+SUMMARY:[WorldSBK] FP3
+UID:35e11447-9c4c-4146-99fe-20dda4a5b583@35e1.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: FP3
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261010T111500
+DTEND;TZID=UTC+0100:20261010T113000
+SUMMARY:[WorldSBK] Superpole
+UID:fba2059a-3ff2-4458-9105-89e1f575ee2e@fba2.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: 
+ Superpole
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261010T153000
+SUMMARY:[WorldSBK] Race 1
+UID:8e2988cc-4fd3-4281-900c-09166f704514@8e29.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: Race 1
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261011T091500
+DTEND;TZID=UTC+0100:20261011T092500
+SUMMARY:[WorldSBK] WUP
+UID:c710f784-4817-46e6-aa42-b216b72d0ac1@c710.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: WUP
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261011T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:076e6eae-532e-4179-ad28-762c0c15b49b@076e.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: 
+ Superpole Race
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261011T153000
+SUMMARY:[WorldSBK] Race 2
+UID:4983bf94-7506-40c2-8711-925e3590f2b8@4983.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSBK \nSession: Race 2
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261016T103500
+DTEND;TZID=UTC+0200:20261016T112000
+SUMMARY:[WorldSBK] FP1
+UID:3ecf2462-ee15-4a38-8b50-1e4617ed7bac@3ecf.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: FP1
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261016T150000
+DTEND;TZID=UTC+0200:20261016T154500
+SUMMARY:[WorldSBK] FP2
+UID:fa4d6a0a-dabd-4a0c-b3a2-12212ad4a4de@fa4d.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: FP2
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261017T093500
+DTEND;TZID=UTC+0200:20261017T095500
+SUMMARY:[WorldSBK] FP3
+UID:02412b4b-3378-4592-aa52-dc6484ce9afe@0241.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: FP3
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261017T111500
+DTEND;TZID=UTC+0200:20261017T113000
+SUMMARY:[WorldSBK] Superpole
+UID:671cd472-031a-4a89-8bfd-cd1d273e7f94@671c.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: 
+ Superpole
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261017T153000
+SUMMARY:[WorldSBK] Race 1
+UID:a129aaab-de15-42a0-8073-530511c1b196@a129.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: Race 
+ 1
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261018T093500
+DTEND;TZID=UTC+0200:20261018T094500
+SUMMARY:[WorldSBK] WUP
+UID:8deb98b9-29b9-4c80-b806-1e0d1fc1406e@8deb.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: WUP
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261018T111000
+SUMMARY:[WorldSBK] Superpole Race
+UID:2318cb35-2cd4-45bb-ba3b-851bf880c6f5@2318.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: 
+ Superpole Race
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261018T153000
+SUMMARY:[WorldSBK] Race 2
+UID:af40cb8b-4ac6-48b7-819f-e2c3b7f79dd6@af40.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSBK \nSession: Race 
+ 2
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+0200
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+0100
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260501T133000
+DTEND;TZID=UTC+0200:20260501T135500
+SUMMARY:[R3 bLU cRU Champ] Superpole
+UID:57bdac28-0d3c-425e-85ae-c7218f569c46@57bd.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: R3 bLU cRU Champ 
+ \nSession: Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094852Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260502T102000
+SUMMARY:[R3 bLU cRU Champ] Race 1
+UID:9e6d0350-a91e-4df3-8be8-9d3f6c5ddc90@9e6d.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094852Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260503T101000
+SUMMARY:[R3 bLU cRU Champ] Race 2
+UID:f73a0feb-c9b0-4465-bfb3-82ec34dd17c4@f73a.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094852Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260529T131500
+DTEND;TZID=UTC+0200:20260529T134000
+SUMMARY:[R3 bLU cRU Champ] Superpole
+UID:1851854f-0f0d-4cc0-acf3-6cdafa1163f2@1851.org
+DESCRIPTION:Event: Aragon Round \nClass: R3 bLU cRU Champ \nSession: 
+ Superpole
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260530T102000
+SUMMARY:[R3 bLU cRU Champ] Race 1
+UID:509d604d-51a2-4a2d-be28-e4064d3e8428@509d.org
+DESCRIPTION:Event: Aragon Round \nClass: R3 bLU cRU Champ \nSession: Race 1
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260531T101000
+SUMMARY:[R3 bLU cRU Champ] Race 2
+UID:c21ccff8-0264-49a9-99c5-9bb4d31195c9@c21c.org
+DESCRIPTION:Event: Aragon Round \nClass: R3 bLU cRU Champ \nSession: Race 2
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260710T130000
+DTEND;TZID=UTC+0100:20260710T132500
+SUMMARY:[R3 bLU cRU Champ] Superpole
+UID:42323f65-82e7-4322-b756-313edc0f88a6@4232.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: R3 bLU cRU Champ 
+ \nSession: Superpole
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260711T102000
+SUMMARY:[R3 bLU cRU Champ] Race 1
+UID:59ed1b39-be7c-4f95-9128-91fda87459aa@59ed.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260712T101000
+SUMMARY:[R3 bLU cRU Champ] Race 2
+UID:e3b42187-ec9d-421e-a3a2-f1abf2f2cdb5@e3b4.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260904T131500
+DTEND;TZID=UTC+0200:20260904T134000
+SUMMARY:[R3 bLU cRU Champ] Superpole
+UID:5019694a-6e13-43ca-9fa6-e63c11521566@5019.org
+DESCRIPTION:Event: Acerbis French Round \nClass: R3 bLU cRU Champ 
+ \nSession: Superpole
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260905T102000
+SUMMARY:[R3 bLU cRU Champ] Race 1
+UID:97e056f0-98dd-4110-b2a0-a6c4462696a6@97e0.org
+DESCRIPTION:Event: Acerbis French Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 1
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260906T101000
+SUMMARY:[R3 bLU cRU Champ] Race 2
+UID:d9c5ffa6-d198-4e3e-8bb6-ddbd4e1d7476@d9c5.org
+DESCRIPTION:Event: Acerbis French Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 2
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260925T131500
+DTEND;TZID=UTC+0200:20260925T134000
+SUMMARY:[R3 bLU cRU Champ] Superpole
+UID:e4c673ee-3836-419b-9931-0e2b3e465719@e4c6.org
+DESCRIPTION:Event: Italian Round \nClass: R3 bLU cRU Champ \nSession: 
+ Superpole
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260926T102000
+SUMMARY:[R3 bLU cRU Champ] Race 1
+UID:b8998fd4-e0a9-42ef-a896-1c8520d42608@b899.org
+DESCRIPTION:Event: Italian Round \nClass: R3 bLU cRU Champ \nSession: Race 
+ 1
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260927T101000
+SUMMARY:[R3 bLU cRU Champ] Race 2
+UID:e0c15f05-2772-49ce-a7e8-d19d41349fcb@e0c1.org
+DESCRIPTION:Event: Italian Round \nClass: R3 bLU cRU Champ \nSession: Race 
+ 2
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094853Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261009T141500
+DTEND;TZID=UTC+0100:20261009T144000
+SUMMARY:[R3 bLU cRU Champ] Superpole
+UID:429cf087-5f2f-4917-9895-03d4fd3bbc31@429c.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: R3 bLU cRU Champ 
+ \nSession: Superpole
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094854Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261010T130000
+SUMMARY:[R3 bLU cRU Champ] Race 1
+UID:78f4cf4e-d54f-4f2f-a142-5f10906f7c74@78f4.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 1
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094854Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261011T130000
+SUMMARY:[R3 bLU cRU Champ] Race 2
+UID:ef515c62-d072-4dd0-944d-f12bffa34521@ef51.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: R3 bLU cRU Champ 
+ \nSession: Race 2
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094854Z
+END:VEVENT
+END:VCALENDAR

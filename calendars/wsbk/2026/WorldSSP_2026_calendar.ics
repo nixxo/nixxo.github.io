@@ -1,0 +1,804 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+1100
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+1100
+DTSTART:19700101T000000
+TZNAME:UTC+11:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+0100
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+0200
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260220T102500
+DTEND;TZID=UTC+1100:20260220T110500
+SUMMARY:[WorldSSP] FP
+UID:f9baa86a-fedf-4d6d-a366-491fd6f05123@f9ba.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: FP
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260220T145500
+DTEND;TZID=UTC+1100:20260220T153500
+SUMMARY:[WorldSSP] Superpole
+UID:6688255d-4c36-4162-9e47-b5a9dd05adac@6688.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: Superpole
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260221T103000
+DTEND;TZID=UTC+1100:20260221T104000
+SUMMARY:[WorldSSP] WUP 1
+UID:ac7bb1a5-4e0d-4bfa-a774-14961afcd504@ac7b.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260221T143000
+SUMMARY:[WorldSSP] Race 1
+UID:57704c16-0905-4abe-9de4-376e34771544@5770.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: Race 1
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260222T105000
+DTEND;TZID=UTC+1100:20260222T110000
+SUMMARY:[WorldSSP] WUP 2
+UID:c413ba98-aefd-422f-a675-cdcf1eb10a71@c413.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+1100:20260222T143000
+SUMMARY:[WorldSSP] Race 2
+UID:d43a252f-768b-4a14-b996-7cebd35d8cc0@d43a.org
+DESCRIPTION:Event: Australian Round \nClass: WorldSSP \nSession: Race 2
+LOCATION:Phillip Island Grand Prix Circuit\, RMB 500 GP\, Back Beach Road\,
+   Cowes\, VIC\, 3922\, Phillip Island\, Australia
+URL:https://www.worldsbk.com/en/event/AUS/2026
+DTSTAMP:20260207T094324Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260327T112000
+DTEND;TZID=UTC+0100:20260327T120000
+SUMMARY:[WorldSSP] FP
+UID:f815b4e9-b95a-4a17-98bf-ee4cd3a67060@f815.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: FP
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260327T160000
+DTEND;TZID=UTC+0100:20260327T164000
+SUMMARY:[WorldSSP] Superpole
+UID:a20223a6-f09f-4d96-9fa4-fd1afc1bb341@a202.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
+ Superpole
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260328T101000
+DTEND;TZID=UTC+0100:20260328T102000
+SUMMARY:[WorldSSP] WUP 1
+UID:966567cc-8db6-480c-93be-6dab0c326531@9665.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
+ WUP 1
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260328T140000
+SUMMARY:[WorldSSP] Race 1
+UID:70552fe5-9517-47e6-bf21-f907d907ee8c@7055.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
+ Race 1
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260329T095500
+DTEND;TZID=UTC+0100:20260329T100500
+SUMMARY:[WorldSSP] WUP 2
+UID:f699e12c-b7d6-4647-b130-eb814d343780@f699.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
+ WUP 2
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260329T140000
+SUMMARY:[WorldSSP] Race 2
+UID:b5b4b9c9-a191-4a8d-972b-bff4dab72c38@b5b4.org
+DESCRIPTION:Event: Pirelli Portuguese Round \nClass: WorldSSP \nSession: 
+ Race 2
+LOCATION:Autódromo Internacional do Algarve\, Sitio do Escampadinho\, 
+ Mexilhoeira Grande\, \, 8500-148 Portimão\, Portugal
+URL:https://www.worldsbk.com/en/event/POR/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260417T112000
+DTEND;TZID=UTC+0200:20260417T120000
+SUMMARY:[WorldSSP] FP
+UID:3998211d-c2c5-491b-a438-9d8cc5b6e368@3998.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: FP
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260417T160000
+DTEND;TZID=UTC+0200:20260417T164000
+SUMMARY:[WorldSSP] Superpole
+UID:2a730208-68ec-4609-982b-768e70c717cd@2a73.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: 
+ Superpole
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260418T101000
+DTEND;TZID=UTC+0200:20260418T102000
+SUMMARY:[WorldSSP] WUP 1
+UID:372d1320-4a0b-4176-ad55-4f4050a1d21e@372d.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260418T140000
+SUMMARY:[WorldSSP] Race 1
+UID:f031d13c-3d16-4221-be02-4d4388930b49@f031.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: Race 1
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260419T095500
+DTEND;TZID=UTC+0200:20260419T100500
+SUMMARY:[WorldSSP] WUP 2
+UID:dc73f637-1428-4e56-9ba4-5daee4c5253a@dc73.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260419T140000
+SUMMARY:[WorldSSP] Race 2
+UID:19b839d0-eb3a-41ca-9d5e-3f1df70f5364@19b8.org
+DESCRIPTION:Event: Pirelli Dutch Round \nClass: WorldSSP \nSession: Race 2
+LOCATION:TT Assen Circuit\, De Haar 9\, 9405 TE Assen\,  Netherlands
+URL:https://www.worldsbk.com/en/event/NED/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260501T112000
+DTEND;TZID=UTC+0200:20260501T120000
+SUMMARY:[WorldSSP] FP
+UID:3e687b1d-d18f-4a78-a934-417cf900eb60@3e68.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSSP \nSession: FP
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260501T160000
+DTEND;TZID=UTC+0200:20260501T164000
+SUMMARY:[WorldSSP] Superpole
+UID:c3cdb71d-5e73-4256-a7d6-bb8dceebb516@c3cd.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSSP \nSession: 
+ Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260502T092000
+DTEND;TZID=UTC+0200:20260502T093000
+SUMMARY:[WorldSSP] WUP 1
+UID:232c09bd-2212-4d53-8af7-da9207b6b690@232c.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260502T140000
+SUMMARY:[WorldSSP] Race 1
+UID:27e39f51-0932-43da-b525-62632e59bb38@27e3.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSSP \nSession: Race 
+ 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260503T094000
+DTEND;TZID=UTC+0200:20260503T095000
+SUMMARY:[WorldSSP] WUP 2
+UID:d46aed6b-5fa5-43d8-85e8-79b7d3792560@d46a.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260503T140000
+SUMMARY:[WorldSSP] Race 2
+UID:d54538e8-8b33-42ca-93e8-434e856ac9b8@d545.org
+DESCRIPTION:Event: Motul Hungarian Round \nClass: WorldSSP \nSession: Race 
+ 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/HUN/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260515T094000
+DTEND;TZID=UTC+0200:20260515T102000
+SUMMARY:[WorldSSP] FP
+UID:416a0053-e2f4-407b-8aa8-ff4d4f0a40f2@416a.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSSP \nSession: FP
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260515T133500
+DTEND;TZID=UTC+0200:20260515T141500
+SUMMARY:[WorldSSP] Superpole
+UID:ec1ef776-1e40-45e9-8571-57b186ffe3e7@ec1e.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSSP \nSession: Superpole
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260516T090000
+DTEND;TZID=UTC+0200:20260516T091000
+SUMMARY:[WorldSSP] WUP 1
+UID:21348ee6-7973-46b6-8c50-2c8f7c47cecd@2134.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260516T123000
+SUMMARY:[WorldSSP] Race 1
+UID:80d1eda4-5279-49ff-8ccc-90115217ab77@80d1.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSSP \nSession: Race 1
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260517T095500
+DTEND;TZID=UTC+0200:20260517T100500
+SUMMARY:[WorldSSP] WUP 2
+UID:0fd1c5be-9b8f-4b70-973b-64663496e4bc@0fd1.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260517T140000
+SUMMARY:[WorldSSP] Race 2
+UID:e3f361ba-41b8-4704-973e-d722794ce448@e3f3.org
+DESCRIPTION:Event: Czech Round \nClass: WorldSSP \nSession: Race 2
+LOCATION:
+URL:https://www.worldsbk.com/en/event/CZE/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260529T094000
+DTEND;TZID=UTC+0200:20260529T102000
+SUMMARY:[WorldSSP] FP
+UID:73b88f5e-94ab-4f0d-b1e2-0e2a853116e1@73b8.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSSP \nSession: FP
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260529T135500
+DTEND;TZID=UTC+0200:20260529T143500
+SUMMARY:[WorldSSP] Superpole
+UID:713eebf8-a4e3-4e78-bd2d-6c730900c927@713e.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSSP \nSession: Superpole
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260530T090000
+DTEND;TZID=UTC+0200:20260530T091000
+SUMMARY:[WorldSSP] WUP 1
+UID:94486047-38b3-4c5e-85f7-f65470fb0343@9448.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260530T123000
+SUMMARY:[WorldSSP] Race 1
+UID:f0192beb-8fcd-45b9-9317-b6fbbd984013@f019.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSSP \nSession: Race 1
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260531T094000
+DTEND;TZID=UTC+0200:20260531T095000
+SUMMARY:[WorldSSP] WUP 2
+UID:9d006656-1ba4-4636-9d59-bc71621c55a9@9d00.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260531T140000
+SUMMARY:[WorldSSP] Race 2
+UID:a1cbd72c-1c3f-4d4a-bbe1-3d34bc459565@a1cb.org
+DESCRIPTION:Event: Aragon Round \nClass: WorldSSP \nSession: Race 2
+LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
+  - Spain
+URL:https://www.worldsbk.com/en/event/ARA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260612T112000
+DTEND;TZID=UTC+0200:20260612T120000
+SUMMARY:[WorldSSP] FP
+UID:0592adce-36ad-4312-8d94-a2309e2bdb68@0592.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSSP 
+ \nSession: FP
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260612T160000
+DTEND;TZID=UTC+0200:20260612T164000
+SUMMARY:[WorldSSP] Superpole
+UID:9f8160d6-7570-46c1-adb0-eae201ca11ca@9f81.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSSP 
+ \nSession: Superpole
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260613T101000
+DTEND;TZID=UTC+0200:20260613T102000
+SUMMARY:[WorldSSP] WUP 1
+UID:ba7d45c2-70cb-4160-a334-82d773e82b17@ba7d.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSSP 
+ \nSession: WUP 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260613T140000
+SUMMARY:[WorldSSP] Race 1
+UID:cf1af86f-0daa-4df3-8055-0a762f277eb8@cf1a.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSSP 
+ \nSession: Race 1
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260614T095500
+DTEND;TZID=UTC+0200:20260614T100500
+SUMMARY:[WorldSSP] WUP 2
+UID:69a21589-4f72-4c03-96a9-801f14b9d029@69a2.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSSP 
+ \nSession: WUP 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260614T151500
+SUMMARY:[WorldSSP] Race 2
+UID:479a440d-2565-49e2-9325-1f2584359c94@479a.org
+DESCRIPTION:Event: Pirelli Emilia Romagna Round \nClass: WorldSSP 
+ \nSession: Race 2
+LOCATION:Misano World Circuit “Marco Simoncelli”\, Via Daijiro Kato\, 10 
+ 47843 Misano Adriatico (RN) 
+URL:https://www.worldsbk.com/en/event/ITA/2026
+DTSTAMP:20260207T094325Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260710T112000
+DTEND;TZID=UTC+0100:20260710T120000
+SUMMARY:[WorldSSP] FP
+UID:a9c577bf-8f04-4207-ae08-976387af7004@a9c5.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: FP
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260710T160000
+DTEND;TZID=UTC+0100:20260710T164000
+SUMMARY:[WorldSSP] Superpole
+UID:2f6231f0-5701-41e5-8b6a-34197c0e7661@2f62.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: 
+ Superpole
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260711T090000
+DTEND;TZID=UTC+0100:20260711T091000
+SUMMARY:[WorldSSP] WUP 1
+UID:5f3df204-98e7-4413-8f1c-52c2efa5bab6@5f3d.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260711T140000
+SUMMARY:[WorldSSP] Race 1
+UID:a227a01e-22b8-45e2-8ffe-d6e157c00341@a227.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: Race 
+ 1
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260712T094000
+DTEND;TZID=UTC+0100:20260712T095000
+SUMMARY:[WorldSSP] WUP 2
+UID:ae363a03-d555-4b6c-821c-ee6262e9302a@ae36.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20260712T140000
+SUMMARY:[WorldSSP] Race 2
+UID:55f00ba4-ac83-45ab-9147-d667904124bc@55f0.org
+DESCRIPTION:Event: Prosecco DOC UK Round \nClass: WorldSSP \nSession: Race 
+ 2
+LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
+ United Kingdom
+URL:https://www.worldsbk.com/en/event/GBR/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260904T112000
+DTEND;TZID=UTC+0200:20260904T120000
+SUMMARY:[WorldSSP] FP
+UID:a178a732-9680-4164-977c-607bafbbbd2e@a178.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSSP \nSession: FP
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260904T160000
+DTEND;TZID=UTC+0200:20260904T164000
+SUMMARY:[WorldSSP] Superpole
+UID:c98b3277-fae6-4e3b-9971-68e7c1add13e@c98b.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSSP \nSession: 
+ Superpole
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260905T092000
+DTEND;TZID=UTC+0200:20260905T093000
+SUMMARY:[WorldSSP] WUP 1
+UID:80127292-94e0-4b08-ae9f-d4b7f529ce11@8012.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260905T140000
+SUMMARY:[WorldSSP] Race 1
+UID:c72a32dd-8bd1-40fb-a02b-d6f6fcf0ebbb@c72a.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSSP \nSession: Race 1
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260906T090000
+DTEND;TZID=UTC+0200:20260906T091000
+SUMMARY:[WorldSSP] WUP 2
+UID:c9fb2d9c-6b6a-40bf-b88e-3ea03514971c@c9fb.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260906T124000
+SUMMARY:[WorldSSP] Race 2
+UID:1eab8fdd-6b1f-43c0-9a38-0c07df177744@1eab.org
+DESCRIPTION:Event: Acerbis French Round \nClass: WorldSSP \nSession: Race 2
+LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
+ France
+URL:https://www.worldsbk.com/en/event/FRA/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260925T112000
+DTEND;TZID=UTC+0200:20260925T120000
+SUMMARY:[WorldSSP] FP
+UID:72e13d30-617f-40c8-983f-212fc1af91b9@72e1.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSSP \nSession: FP
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260925T160000
+DTEND;TZID=UTC+0200:20260925T164000
+SUMMARY:[WorldSSP] Superpole
+UID:46ffdd0a-e2a0-437c-9b04-69802818c8c4@46ff.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSSP \nSession: Superpole
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260926T092000
+DTEND;TZID=UTC+0200:20260926T093000
+SUMMARY:[WorldSSP] WUP 1
+UID:15460fff-29df-4f79-970e-73d2211b62f0@1546.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260926T140000
+SUMMARY:[WorldSSP] Race 1
+UID:f0713f9b-11d6-4bdd-83ec-de4dd51a12e7@f071.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSSP \nSession: Race 1
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260927T094000
+DTEND;TZID=UTC+0200:20260927T095000
+SUMMARY:[WorldSSP] WUP 2
+UID:d31cb91d-d7d5-4ac4-b3b7-b7c7cb37ff72@d31c.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20260927T140000
+SUMMARY:[WorldSSP] Race 2
+UID:957eab1c-6688-4b3a-b3c6-c9a7f3ebf0e1@957e.org
+DESCRIPTION:Event: Italian Round \nClass: WorldSSP \nSession: Race 2
+LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
+ 26040 (Cremona) Italy
+URL:https://www.worldsbk.com/en/event/CRE/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261009T112000
+DTEND;TZID=UTC+0100:20261009T120000
+SUMMARY:[WorldSSP] FP
+UID:a9e4983a-b86e-4526-a8aa-b61902b45e18@a9e4.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSSP \nSession: FP
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261009T160000
+DTEND;TZID=UTC+0100:20261009T164000
+SUMMARY:[WorldSSP] Superpole
+UID:f91be8fd-212e-4c9b-8bc7-e61f00f5bece@f91b.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSSP \nSession: 
+ Superpole
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261010T092000
+DTEND;TZID=UTC+0100:20261010T093000
+SUMMARY:[WorldSSP] WUP 1
+UID:508b4e65-fb20-41a0-b7b5-1f2ae36a9e94@508b.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261010T140000
+SUMMARY:[WorldSSP] Race 1
+UID:c03c587d-6319-4894-87b7-adae7d0cd346@c03c.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSSP \nSession: Race 1
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261011T093500
+DTEND;TZID=UTC+0100:20261011T094500
+SUMMARY:[WorldSSP] WUP 2
+UID:12cbae42-8118-4178-8c3c-9c030ce3a093@12cb.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0100:20261011T140000
+SUMMARY:[WorldSSP] Race 2
+UID:b381aebe-5898-4288-aab6-f94526745b02@b381.org
+DESCRIPTION:Event: Tissot Estoril Round \nClass: WorldSSP \nSession: Race 2
+LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
+ Alcabideche - Portugal
+URL:https://www.worldsbk.com/en/event/EST/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261016T113500
+DTEND;TZID=UTC+0200:20261016T121500
+SUMMARY:[WorldSSP] FP
+UID:c6585543-d2e4-4f3e-84d8-6f00bba40dd7@c658.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: FP
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261016T160000
+DTEND;TZID=UTC+0200:20261016T164000
+SUMMARY:[WorldSSP] Superpole
+UID:0bb196ca-f95d-4ebf-8aa8-5ef072783b2c@0bb1.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: 
+ Superpole
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261017T102500
+DTEND;TZID=UTC+0200:20261017T103500
+SUMMARY:[WorldSSP] WUP 1
+UID:c80d873b-c8ff-4245-895a-93d790f44cbe@c80d.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: WUP 1
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261017T140000
+SUMMARY:[WorldSSP] Race 1
+UID:5781006a-2080-4a60-94c8-23cf186503bb@5781.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: Race 
+ 1
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261018T101500
+DTEND;TZID=UTC+0200:20261018T102500
+SUMMARY:[WorldSSP] WUP 2
+UID:1c1b3fae-372a-4a47-970c-d513b88b5d24@1c1b.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: WUP 2
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0200:20261018T140000
+SUMMARY:[WorldSSP] Race 2
+UID:0556d5d9-6b82-47fc-8c38-c3c77d9b581d@0556.org
+DESCRIPTION:Event: Pirelli Spanish Round \nClass: WorldSSP \nSession: Race 
+ 2
+LOCATION:Circuito de Jerez - Angel Nieto\, Carretera Jerez-Arcos\, km 10 - 
+ Apdo de Correos 35 \, 11592 Jerez de la Frontera (Cádiz) - Spain
+URL:https://www.worldsbk.com/en/event/JER/2026
+DTSTAMP:20260207T094326Z
+END:VEVENT
+END:VCALENDAR
