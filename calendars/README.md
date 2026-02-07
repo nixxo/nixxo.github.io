@@ -26,6 +26,32 @@ Races Only
 - <a href="motogp/2026/MotoE_sprint-and-race_2026_calendar.ics">MotoE</a>
 
 
+# WorldSBK 2026 Calendars
+
+ICS files extracted from <a href="https://www.worldsbk.com/en/calendar">https://www.worldsbk.com/en/calendar</a>
+
+All sessions
+- <a href="wsbk/2026/WorldSBK_2026_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2026/WorldSSP_2026_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2026/WorldSPB_2026_calendar.ics">WorldSPB</a>
+- <a href="wsbk/2026/R3 bLU cRU Champ_2026_calendar.ics">R3 bLU cRU Champ</a>
+- <a href="wsbk/2026/WorldWCR_2026_calendar.ics">WorldWCR</a>
+
+Superpole + Races Only
+- <a href="wsbk/2026/WorldSBK_filtered_2026_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2026/WorldSSP_filtered_2026_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2026/WorldSPB_filtered_2026_calendar.ics">WorldSPB</a>
+- <a href="wsbk/2026/R3 bLU cRU Champ_filtered_2026_calendar.ics">R3 bLU cRU Champ</a>
+- <a href="wsbk/2026/WorldWCR_filtered_2026_calendar.ics">WorldWCR</a>
+
+Races Only
+- <a href="wsbk/2026/WorldSBK_races_2026_calendar.ics">WorldSBK</a>
+- <a href="wsbk/2026/WorldSSP_races_2026_calendar.ics">WorldSSP</a>
+- <a href="wsbk/2026/WorldSPB_races_2026_calendar.ics">WorldSPB</a>
+- <a href="wsbk/2026/R3 bLU cRU Champ_races_2026_calendar.ics">R3 bLU cRU Champ</a>
+- <a href="wsbk/2026/WorldWCR_races_2024_calendar.ics">WorldWCR</a>
+
+
 You can find alternatives calendars at <a href="https://mototiming.live/">mototiming.live</a> or at <a href="https://rushsync.com/">rushsync.com</a>
 
 

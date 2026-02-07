@@ -1,1 +1,1 @@
-# NEW 2025 Calendars AVAILABLE AT <a href="http://nixxo.github.io/calendars/">nixxo.github.io/calendars</a>
+# NEW 2026 Calendars AVAILABLE AT <a href="http://nixxo.github.io/calendars/">nixxo.github.io/calendars</a>
