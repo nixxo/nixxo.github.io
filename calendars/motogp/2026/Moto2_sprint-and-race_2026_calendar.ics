@@ -87,11 +87,22 @@ DTSTART;TZID=UTC+0700:20260301T131500
 SUMMARY:[Moto2] RAC - #ThaiGP
 UID:ec1557ec-5155-4ca0-a37b-a512ba601368@ec15.org
 DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
- \nSession: Race
+ \nSession: Race PART 1
 LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
 URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
  4ab3-a4cd-211ff469953e
 DTSTAMP:20260207T091726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0700:20260301T134500
+SUMMARY:[Moto2] RAC2 - #ThaiGP
+UID:0aa1b5ae-fbb1-4374-9b5e-bdee4f67ebae@0aa1.org
+DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
+ \nSession: Race PART 2
+LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
+URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
+ 4ab3-a4cd-211ff469953e
+DTSTAMP:20260303T212348Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC-0300:20260322T131500
