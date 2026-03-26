@@ -98,11 +98,22 @@ DTSTART;TZID=UTC-0300:20260322T120000
 SUMMARY:[Moto3] RAC - #BrasilGP
 UID:6513ce46-937f-42c0-b65b-a7e4e8ac667a@6513.org
 DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
- \nClass: Moto3 \nSession: Race
+ \nClass: Moto3 \nSession: Race PART 1
 LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
 URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
  4c8e-ae06-acba82ff1303
 DTSTAMP:20260207T091726Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC-0300:20260322T123000
+SUMMARY:[Moto3] RAC2 - #BrasilGP
+UID:82e9b10d-aae5-4d2e-bbc9-9d20d815987f@82e9.org
+DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
+ \nClass: Moto3 \nSession: Race PART 2
+LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
+URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
+ 4c8e-ae06-acba82ff1303
+DTSTAMP:20260326T194404Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC-0500:20260329T120000
