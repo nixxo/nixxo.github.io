@@ -1,47 +1,239 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
-BEGIN:VTIMEZONE
-TZID:UTC-0500
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:-0500
-DTSTART:19700101T000000
-TZNAME:UTC-05:00
-END:STANDARD
-END:VTIMEZONE
+PRODID:ICALENDAR-RS
+CALSCALE:GREGORIAN
+NAME:Baggers 2026 qualy-and-races
+X-WR-CALNAME:Baggers 2026 qualy-and-races
+DESCRIPTION:Calendar for the 2026 season of the Baggers championship.\n\nFi
+ lter applied: qualy-and-races\n\n by nixxo
+X-WR-CALDESC:Calendar for the 2026 season of the Baggers championship.\n\nF
+ ilter applied: qualy-and-races\n\n by nixxo
 BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260327T162500
-DTEND;TZID=UTC-0500:20260327T164500
-SUMMARY:[Baggers] QP - #AmericasGP
-UID:d0945996-93f4-4122-b5b8-4c3dddb2fbf3@d094.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Baggers \nSession: Qualifying Practice
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260327T072947Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Bag
+ gers\nSession: Qualifying Practice
+DTEND:20260327T214500Z
+DTSTART:20260327T212500Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Baggers] QP #AmericasGP
+UID:63f2bac9-4fdc-49f9-b84e-91ef6989e76e@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260328T161500
-SUMMARY:[Baggers] RAC1 - #AmericasGP
-UID:cd11feb3-da27-4d18-b488-0b67250c7e6e@cd11.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Baggers \nSession: Race Nr. 1
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260327T072947Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Bag
+ gers\nSession: Race Nr. 1
+DTEND:20260328T220000Z
+DTSTART:20260328T211500Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Baggers] RAC1 #AmericasGP
+UID:bf0fd559-1747-418a-9027-36ea52b6192f@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260329T094500
-SUMMARY:[Baggers] RAC2 - #AmericasGP
-UID:3a5b79ff-b872-4c13-9b12-a0964062dfad@3a5b.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Baggers \nSession: Race Nr. 2
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260327T072947Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Bag
+ gers\nSession: Race Nr. 2
+DTEND:20260329T153000Z
+DTSTART:20260329T144500Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Baggers] RAC2 #AmericasGP
+UID:39e11996-697a-431b-a4cd-b1236ef1c7e7@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Baggers\nSession
+ : Qualifying Practice
+DTEND:20260529T152500Z
+DTSTART:20260529T150500Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Baggers] QP #ItalianGP
+UID:575b6b68-3de1-4f11-a23a-5236b6e29f9a@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
+ a993-cb5d01bccd24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Baggers\nSession
+ : Race Nr. 1
+DTEND:20260530T105500Z
+DTSTART:20260530T101000Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Baggers] RAC1 #ItalianGP
+UID:81fb14a0-b827-4b8a-884a-3fc275774deb@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
+ a993-cb5d01bccd24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Baggers\nSession
+ : Race Nr. 2
+DTEND:20260530T145500Z
+DTSTART:20260530T141000Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Baggers] RAC2 #ItalianGP
+UID:1ebe9c07-6dd2-4a7f-984e-a20f54998dd7@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
+ a993-cb5d01bccd24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Baggers
+ \nSession: Qualifying Practice
+DTEND:20260627T103000Z
+DTSTART:20260627T101000Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Baggers] QP #DutchGP
+UID:bc5c60ba-80ab-483d-8bc1-5dbb07bdbf8f@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Baggers
+ \nSession: Race Nr. 1
+DTEND:20260627T145500Z
+DTSTART:20260627T141000Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Baggers] RAC1 #DutchGP
+UID:d11cfda3-5755-4989-85c8-959278540193@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Baggers
+ \nSession: Race Nr. 2
+DTEND:20260628T141500Z
+DTSTART:20260628T133000Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Baggers] RAC2 #DutchGP
+UID:3f1af687-37b1-4756-b726-3b50aa6c0417@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Ba
+ ggers\nSession: Qualifying Practice
+DTEND:20260808T123000Z
+DTSTART:20260808T121000Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Baggers] QP #BritishGP
+UID:966f6632-f95d-42c9-b642-de812d175eed@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Ba
+ ggers\nSession: Race Nr. 1
+DTEND:20260808T165500Z
+DTSTART:20260808T161000Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Baggers] RAC1 #BritishGP
+UID:145679f1-1313-4e76-a084-96cad63c2f4c@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Ba
+ ggers\nSession: Race Nr. 2
+DTEND:20260809T154500Z
+DTSTART:20260809T150000Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Baggers] RAC2 #BritishGP
+UID:4212b2ed-78a7-4397-b128-8e1fb4777736@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Baggers\nSession: Quali
+ fying Practice
+DTEND:20260829T103000Z
+DTSTART:20260829T101000Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Baggers] QP #AragonGP
+UID:30a22f47-5bc1-404d-869b-3480ad19b4c2@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
+ a1f0-f74044a90eb3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Baggers\nSession: Race 
+ Nr. 1
+DTEND:20260829T145500Z
+DTSTART:20260829T141000Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Baggers] RAC1 #AragonGP
+UID:c65326aa-0785-4e95-82d5-9f217e3a667f@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
+ a1f0-f74044a90eb3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Baggers\nSession: Race 
+ Nr. 2
+DTEND:20260830T074000Z
+DTSTART:20260830T065500Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Baggers] RAC2 #AragonGP
+UID:8c5248f2-b375-4fea-ab57-688750f13808@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
+ a1f0-f74044a90eb3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Baggers\nSession: Qual
+ ifying Practice
+DTEND:20260919T103000Z
+DTSTART:20260919T101000Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Baggers] QP #AustrianGP
+UID:961dfe16-76df-48cb-b025-dc1c2aad02af@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Baggers\nSession: Rac
+ e Nr. 1
+DTEND:20260919T145500Z
+DTSTART:20260919T141000Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Baggers] RAC1 #AustrianGP
+UID:a04e6f56-0d0a-46af-9783-708a5c69d4aa@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Baggers\nSession: Rac
+ e Nr. 2
+DTEND:20260920T074000Z
+DTSTART:20260920T065500Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Baggers] RAC2 #AustrianGP
+UID:6dd0b3e2-dc81-48c4-b1c8-7e6fa438684c@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
 END:VEVENT
 END:VCALENDAR

@@ -1,1673 +1,1699 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
-BEGIN:VTIMEZONE
-TZID:UTC+0700
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0700
-DTSTART:19700101T000000
-TZNAME:UTC+07:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC-0300
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:-0300
-DTSTART:19700101T000000
-TZNAME:UTC-03:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC-0500
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:-0500
-DTSTART:19700101T000000
-TZNAME:UTC-05:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+0200
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0200
-DTSTART:19700101T000000
-TZNAME:UTC+02:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+0200
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0200
-DTSTART:19700101T000000
-TZNAME:UTC+02:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+0100
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0100
-DTSTART:19700101T000000
-TZNAME:UTC+01:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+0900
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0900
-DTSTART:19700101T000000
-TZNAME:UTC+09:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+0800
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0800
-DTSTART:19700101T000000
-TZNAME:UTC+08:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+1100
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+1100
-DTSTART:19700101T000000
-TZNAME:UTC+11:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+0300
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0300
-DTSTART:19700101T000000
-TZNAME:UTC+03:00
-END:STANDARD
-END:VTIMEZONE
+PRODID:ICALENDAR-RS
+CALSCALE:GREGORIAN
+NAME:Moto2 2026 full
+X-WR-CALNAME:Moto2 2026 full
+DESCRIPTION:Calendar for the 2026 season of the Moto2 championship.\n\nFilt
+ er applied: full\n\n by nixxo
+X-WR-CALDESC:Calendar for the 2026 season of the Moto2 championship.\n\nFil
+ ter applied: full\n\n by nixxo
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0700:20260227T095000
-DTEND;TZID=UTC+0700:20260227T103000
-SUMMARY:[Moto2] FP1 - #ThaiGP
-UID:f63799d6-3e08-4784-9db2-a2a42d429995@f637.org
-DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PT GRAND PRIX OF THAILAND \nCategory: Moto2\nSession: Fr
+ ee Practice Nr. 1
+DTEND:20260227T033000Z
+DTSTART:20260227T025000Z
+LOCATION:Chang International Circuit\, 30\, 2\, Tambon Isan\, Amphoe Muean
+ g Buri Ram\, Chang Wat Buri Ram 31000\, Thailand
+SUMMARY:[Moto2] FP1 #ThaiGP
+UID:81545817-08fe-4449-9829-901ae1e92fe4@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-4a
+ b3-a4cd-211ff469953e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PT GRAND PRIX OF THAILAND \nCategory: Moto2\nSession: Pr
+ actice
+DTEND:20260227T074500Z
+DTSTART:20260227T070500Z
+LOCATION:Chang International Circuit\, 30\, 2\, Tambon Isan\, Amphoe Muean
+ g Buri Ram\, Chang Wat Buri Ram 31000\, Thailand
+SUMMARY:[Moto2] PR #ThaiGP
+UID:27b75c90-b6f3-4834-87f3-92d30ff56691@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-4a
+ b3-a4cd-211ff469953e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PT GRAND PRIX OF THAILAND \nCategory: Moto2\nSession: Fr
+ ee Practice Nr. 2
+DTEND:20260228T025500Z
+DTSTART:20260228T022500Z
+LOCATION:Chang International Circuit\, 30\, 2\, Tambon Isan\, Amphoe Muean
+ g Buri Ram\, Chang Wat Buri Ram 31000\, Thailand
+SUMMARY:[Moto2] FP2 #ThaiGP
+UID:f83f9b43-7f55-4ed6-a3b1-beffb3d9fd74@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-4a
+ b3-a4cd-211ff469953e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PT GRAND PRIX OF THAILAND \nCategory: Moto2\nSession: Qu
+ alifying Nr. 1 
+DTEND:20260228T065500Z
+DTSTART:20260228T064000Z
+LOCATION:Chang International Circuit\, 30\, 2\, Tambon Isan\, Amphoe Muean
+ g Buri Ram\, Chang Wat Buri Ram 31000\, Thailand
+SUMMARY:[Moto2] Q1 #ThaiGP
+UID:03f6aec5-8bad-49b1-8ff3-aa8b5ec8f2a4@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-4a
+ b3-a4cd-211ff469953e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PT GRAND PRIX OF THAILAND \nCategory: Moto2\nSession: Qu
+ alifying Nr. 2 
+DTEND:20260228T072000Z
+DTSTART:20260228T070500Z
+LOCATION:Chang International Circuit\, 30\, 2\, Tambon Isan\, Amphoe Muean
+ g Buri Ram\, Chang Wat Buri Ram 31000\, Thailand
+SUMMARY:[Moto2] Q2 #ThaiGP
+UID:223b34b9-2e20-4f77-bb98-5bbf1fd808b0@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-4a
+ b3-a4cd-211ff469953e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PT GRAND PRIX OF THAILAND \nCategory: Moto2\nSession: Ra
+ ce 
+DTEND:20260301T070000Z
+DTSTART:20260301T061500Z
+LOCATION:Chang International Circuit\, 30\, 2\, Tambon Isan\, Amphoe Muean
+ g Buri Ram\, Chang Wat Buri Ram 31000\, Thailand
+SUMMARY:[Moto2] RAC2 #ThaiGP
+UID:a93a11a6-146f-4189-9952-cc0eb3d36962@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-4a
+ b3-a4cd-211ff469953e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL \nCategory: M
+ oto2\nSession: Free Practice Nr. 1
+DTEND:20260320T145000Z
+DTSTART:20260320T140000Z
+LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Rodovia G
+ O 020 - Km 04 s/n Parque Lozandes - Alphaville Araguaia\, Goiânia - GO\, 
+ 74775-013\, Brazil
+SUMMARY:[Moto2] FP1 #BrasilGP
+UID:c3fa3d6d-4cf3-4218-9039-8bae6c43dcda@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-4c8e
+ -ae06-acba82ff1303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL \nCategory: M
+ oto2\nSession: Practice
+DTEND:20260320T184500Z
+DTSTART:20260320T180500Z
+LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Rodovia G
+ O 020 - Km 04 s/n Parque Lozandes - Alphaville Araguaia\, Goiânia - GO\, 
+ 74775-013\, Brazil
+SUMMARY:[Moto2] PR #BrasilGP
+UID:9f1a6a68-3a01-42db-82b6-f86608ebd1c0@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-4c8e
+ -ae06-acba82ff1303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL \nCategory: M
+ oto2\nSession: Free Practice Nr. 2
+DTEND:20260321T125500Z
+DTSTART:20260321T122500Z
+LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Rodovia G
+ O 020 - Km 04 s/n Parque Lozandes - Alphaville Araguaia\, Goiânia - GO\, 
+ 74775-013\, Brazil
+SUMMARY:[Moto2] FP2 #BrasilGP
+UID:aa1d4f14-acd8-4610-8684-e982110c265a@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-4c8e
+ -ae06-acba82ff1303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL \nCategory: M
+ oto2\nSession: Qualifying Nr. 1 
+DTEND:20260322T125500Z
+DTSTART:20260322T124000Z
+LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Rodovia G
+ O 020 - Km 04 s/n Parque Lozandes - Alphaville Araguaia\, Goiânia - GO\, 
+ 74775-013\, Brazil
+SUMMARY:[Moto2] Q1 #BrasilGP
+UID:20f33fd9-509c-49fa-bc69-5eabc93078cc@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-4c8e
+ -ae06-acba82ff1303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL \nCategory: M
+ oto2\nSession: Qualifying Nr. 2 
+DTEND:20260322T132000Z
+DTSTART:20260322T130500Z
+LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Rodovia G
+ O 020 - Km 04 s/n Parque Lozandes - Alphaville Araguaia\, Goiânia - GO\, 
+ 74775-013\, Brazil
+SUMMARY:[Moto2] Q2 #BrasilGP
+UID:2b7c0fa5-d463-419d-8ec7-8a1e08ac861d@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-4c8e
+ -ae06-acba82ff1303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL \nCategory: M
+ oto2\nSession: Race
+DTEND:20260322T171000Z
+DTSTART:20260322T162500Z
+LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Rodovia G
+ O 020 - Km 04 s/n Parque Lozandes - Alphaville Araguaia\, Goiânia - GO\, 
+ 74775-013\, Brazil
+SUMMARY:[Moto2] RAC #BrasilGP
+UID:a837bee1-dc5e-4e36-905a-b67b9f42539e@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-4c8e
+ -ae06-acba82ff1303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Mot
+ o2\nSession: Free Practice Nr. 1
+DTEND:20260327T153000Z
+DTSTART:20260327T145000Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Moto2] FP1 #AmericasGP
+UID:fbf5e960-c192-44a3-94f6-803165eb34f2@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Mot
+ o2\nSession: Practice
+DTEND:20260327T194500Z
+DTSTART:20260327T190500Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Moto2] PR #AmericasGP
+UID:560b0cf6-fcea-411b-be1e-b5bb74ec9245@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Mot
+ o2\nSession: Free Practice Nr. 2
+DTEND:20260328T145500Z
+DTSTART:20260328T142500Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Moto2] FP2 #AmericasGP
+UID:cfb0d2e3-df10-43ec-ae2b-b33d0291f782@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Mot
+ o2\nSession: Qualifying Nr. 1 
+DTEND:20260328T191000Z
+DTSTART:20260328T184000Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Moto2] Q1 #AmericasGP
+UID:76e329de-6a2a-4b54-892a-e5e85b046a8c@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Mot
+ o2\nSession: Qualifying Nr. 2 
+DTEND:20260328T193200Z
+DTSTART:20260328T191700Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Moto2] Q2 #AmericasGP
+UID:ba04feab-888d-4965-9d96-8216ed2eac71@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF THE UNITED STATES \nCategory: Mot
+ o2\nSession: Race
+DTEND:20260329T190000Z
+DTSTART:20260329T181500Z
+LOCATION:Circuit Of The Americas\, 9201 Circuit of the Americas Blvd\, Del 
+ Valle\, TX 78617\, USA
+SUMMARY:[Moto2] RAC #AmericasGP
+UID:8375047b-8567-4f2d-8f4c-c63de3edc89d@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-40
+ f1-9ba0-b0f19883e7d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nCategory: Mo
+ to2\nSession: Free Practice Nr. 1
+DTEND:20260424T083000Z
+DTSTART:20260424T075000Z
+LOCATION:Circuito de Jerez - Ángel Nieto\, Carretera de Arcos-Jerez de la 
+ Frontera\, Km 10\, 11405 Jerez de la Frontera\, Cádiz\, Spain
+SUMMARY:[Moto2] FP1 #SpanishGP
+UID:011c2984-b52b-4f5d-a4ad-7feb532c11e4@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-4aa
+ 4-9e83-d3610e0f1d98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nCategory: Mo
+ to2\nSession: Practice
+DTEND:20260424T124500Z
+DTSTART:20260424T120500Z
+LOCATION:Circuito de Jerez - Ángel Nieto\, Carretera de Arcos-Jerez de la 
+ Frontera\, Km 10\, 11405 Jerez de la Frontera\, Cádiz\, Spain
+SUMMARY:[Moto2] PR #SpanishGP
+UID:100b5c96-dc07-4f69-aaad-ff9350959f60@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-4aa
+ 4-9e83-d3610e0f1d98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nCategory: Mo
+ to2\nSession: Free Practice Nr. 2
+DTEND:20260425T075500Z
+DTSTART:20260425T072500Z
+LOCATION:Circuito de Jerez - Ángel Nieto\, Carretera de Arcos-Jerez de la 
+ Frontera\, Km 10\, 11405 Jerez de la Frontera\, Cádiz\, Spain
+SUMMARY:[Moto2] FP2 #SpanishGP
+UID:b9fd2209-aa7f-4488-808c-a1d5247e0c52@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-4aa
+ 4-9e83-d3610e0f1d98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nCategory: Mo
+ to2\nSession: Qualifying Nr. 1 
+DTEND:20260425T115500Z
+DTSTART:20260425T114000Z
+LOCATION:Circuito de Jerez - Ángel Nieto\, Carretera de Arcos-Jerez de la 
+ Frontera\, Km 10\, 11405 Jerez de la Frontera\, Cádiz\, Spain
+SUMMARY:[Moto2] Q1 #SpanishGP
+UID:8060085b-d17e-48f6-b937-ec721e95ac7f@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-4aa
+ 4-9e83-d3610e0f1d98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nCategory: Mo
+ to2\nSession: Qualifying Nr. 2 
+DTEND:20260425T122000Z
+DTSTART:20260425T120500Z
+LOCATION:Circuito de Jerez - Ángel Nieto\, Carretera de Arcos-Jerez de la 
+ Frontera\, Km 10\, 11405 Jerez de la Frontera\, Cádiz\, Spain
+SUMMARY:[Moto2] Q2 #SpanishGP
+UID:c0a7817b-e3a8-45aa-98b5-251ada026dae@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-4aa
+ 4-9e83-d3610e0f1d98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nCategory: Mo
+ to2\nSession: Race
+DTEND:20260426T110000Z
+DTSTART:20260426T101500Z
+LOCATION:Circuito de Jerez - Ángel Nieto\, Carretera de Arcos-Jerez de la 
+ Frontera\, Km 10\, 11405 Jerez de la Frontera\, Cádiz\, Spain
+SUMMARY:[Moto2] RAC #SpanishGP
+UID:a57b833e-4f09-4837-8150-c1ca96577f84@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-4aa
+ 4-9e83-d3610e0f1d98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF FRANCE \nCategory: Moto2\nSessi
+ on: Free Practice Nr. 1
+DTEND:20260508T083000Z
+DTSTART:20260508T075000Z
+LOCATION:Le Mans\, Le Mans\, France
+SUMMARY:[Moto2] FP1 #FrenchGP
+UID:d64f166b-4704-4207-8c84-0e43223fe956@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-4d1e
+ -b658-82962baf3fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF FRANCE \nCategory: Moto2\nSessi
+ on: Practice
+DTEND:20260508T124500Z
+DTSTART:20260508T120500Z
+LOCATION:Le Mans\, Le Mans\, France
+SUMMARY:[Moto2] PR #FrenchGP
+UID:23836831-c64f-4b97-be71-658a81ce3a37@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-4d1e
+ -b658-82962baf3fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF FRANCE \nCategory: Moto2\nSessi
+ on: Free Practice Nr. 2
+DTEND:20260509T075500Z
+DTSTART:20260509T072500Z
+LOCATION:Le Mans\, Le Mans\, France
+SUMMARY:[Moto2] FP2 #FrenchGP
+UID:8c8cf8a7-b177-4e7e-aed5-d00d5ded9a6f@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-4d1e
+ -b658-82962baf3fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF FRANCE \nCategory: Moto2\nSessi
+ on: Qualifying Nr. 1 
+DTEND:20260509T115500Z
+DTSTART:20260509T114000Z
+LOCATION:Le Mans\, Le Mans\, France
+SUMMARY:[Moto2] Q1 #FrenchGP
+UID:bf6123d5-aba7-4d62-81aa-8727ce803a28@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-4d1e
+ -b658-82962baf3fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF FRANCE \nCategory: Moto2\nSessi
+ on: Qualifying Nr. 2 
+DTEND:20260509T122000Z
+DTSTART:20260509T120500Z
+LOCATION:Le Mans\, Le Mans\, France
+SUMMARY:[Moto2] Q2 #FrenchGP
+UID:59825dc5-1595-4d2e-a6b9-6d12a376360c@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-4d1e
+ -b658-82962baf3fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF FRANCE \nCategory: Moto2\nSessi
+ on: Race
+DTEND:20260510T110500Z
+DTSTART:20260510T102000Z
+LOCATION:Le Mans\, Le Mans\, France
+SUMMARY:[Moto2] RAC #FrenchGP
+UID:02173c74-71a0-440b-a6ac-ed51dbb22776@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-4d1e
+ -b658-82962baf3fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CATALUNYA \nCategory: Moto2
  \nSession: Free Practice Nr. 1
-LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
-URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
- 4ab3-a4cd-211ff469953e
-DTSTAMP:20260207T091726Z
+DTEND:20260515T083000Z
+DTSTART:20260515T075000Z
+LOCATION:Circuit de Barcelona-Catalunya\, Carrer Mas Moreneta\, s/n\, 08160
+ \, Barcelona\, Spain
+SUMMARY:[Moto2] FP1 #CatalanGP
+UID:9618b7c6-8218-463e-849f-250e0b2cf4ba@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-4
+ e17-a903-4be204fa3496
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0700:20260227T140500
-DTEND;TZID=UTC+0700:20260227T144500
-SUMMARY:[Moto2] PR - #ThaiGP
-UID:70b3caf2-f895-465a-97a7-0f7a3ffeb95d@70b3.org
-DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CATALUNYA \nCategory: Moto2
  \nSession: Practice
-LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
-URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
- 4ab3-a4cd-211ff469953e
-DTSTAMP:20260207T091726Z
+DTEND:20260515T124500Z
+DTSTART:20260515T120500Z
+LOCATION:Circuit de Barcelona-Catalunya\, Carrer Mas Moreneta\, s/n\, 08160
+ \, Barcelona\, Spain
+SUMMARY:[Moto2] PR #CatalanGP
+UID:821453a1-4ca6-4b15-baa2-60d36b08d8fd@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-4
+ e17-a903-4be204fa3496
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0700:20260228T092500
-DTEND;TZID=UTC+0700:20260228T095500
-SUMMARY:[Moto2] FP2 - #ThaiGP
-UID:ed70be39-6307-469f-b3fa-1bbf9dccec53@ed70.org
-DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CATALUNYA \nCategory: Moto2
  \nSession: Free Practice Nr. 2
-LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
-URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
- 4ab3-a4cd-211ff469953e
-DTSTAMP:20260207T091726Z
+DTEND:20260516T075500Z
+DTSTART:20260516T072500Z
+LOCATION:Circuit de Barcelona-Catalunya\, Carrer Mas Moreneta\, s/n\, 08160
+ \, Barcelona\, Spain
+SUMMARY:[Moto2] FP2 #CatalanGP
+UID:b1e4020b-166d-4a9d-adf1-1e286a2121c9@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-4
+ e17-a903-4be204fa3496
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0700:20260228T134000
-DTEND;TZID=UTC+0700:20260228T135500
-SUMMARY:[Moto2] Q1 - #ThaiGP
-UID:e00ffad4-877c-4ede-993d-fef8c9829f10@e00f.org
-DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
-URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
- 4ab3-a4cd-211ff469953e
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CATALUNYA \nCategory: Moto2
+ \nSession: Qualifying Nr. 1 
+DTEND:20260516T115500Z
+DTSTART:20260516T114000Z
+LOCATION:Circuit de Barcelona-Catalunya\, Carrer Mas Moreneta\, s/n\, 08160
+ \, Barcelona\, Spain
+SUMMARY:[Moto2] Q1 #CatalanGP
+UID:af6b1224-072f-460e-a9eb-e32ffa82d7cf@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-4
+ e17-a903-4be204fa3496
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0700:20260228T140500
-DTEND;TZID=UTC+0700:20260228T142000
-SUMMARY:[Moto2] Q2 - #ThaiGP
-UID:4a0d16bb-709c-4c9a-a623-7708c20fb409@4a0d.org
-DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
-URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
- 4ab3-a4cd-211ff469953e
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CATALUNYA \nCategory: Moto2
+ \nSession: Qualifying Nr. 2 
+DTEND:20260516T122000Z
+DTSTART:20260516T120500Z
+LOCATION:Circuit de Barcelona-Catalunya\, Carrer Mas Moreneta\, s/n\, 08160
+ \, Barcelona\, Spain
+SUMMARY:[Moto2] Q2 #CatalanGP
+UID:12e35276-bfda-4633-b558-c64638252186@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-4
+ e17-a903-4be204fa3496
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0700:20260301T131500
-SUMMARY:[Moto2] RAC - #ThaiGP
-UID:ec1557ec-5155-4ca0-a37b-a512ba601368@ec15.org
-DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
- \nSession: Race PART 1
-LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
-URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
- 4ab3-a4cd-211ff469953e
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0700:20260301T134500
-SUMMARY:[Moto2] RAC2 - #ThaiGP
-UID:0aa1b5ae-fbb1-4374-9b5e-bdee4f67ebae@0aa1.org
-DESCRIPTION:Event: GP1 - PT GRAND PRIX OF THAILAND \nClass: Moto2 
- \nSession: Race PART 2
-LOCATION:Chang International Circuit\, Tambon Isan\, Thailand
-URL:https://www.motogp.com/en/calendar/2026/event/thailand/364a0bd9-d3c2-
- 4ab3-a4cd-211ff469953e
-DTSTAMP:20260303T212348Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0300:20260320T110000
-DTEND;TZID=UTC-0300:20260320T115000
-SUMMARY:[Moto2] FP1 - #BrasilGP
-UID:d26f69d0-ff7c-4de0-91e8-5e4294485df9@d26f.org
-DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
- \nClass: Moto2 \nSession: Free Practice Nr. 1
-LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
-URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
- 4c8e-ae06-acba82ff1303
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0300:20260320T150500
-DTEND;TZID=UTC-0300:20260320T154500
-SUMMARY:[Moto2] PR - #BrasilGP
-UID:1b031e87-99b8-4a32-b3cb-31326ded7b7a@1b03.org
-DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
- \nClass: Moto2 \nSession: Practice
-LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
-URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
- 4c8e-ae06-acba82ff1303
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0300:20260321T092500
-DTEND;TZID=UTC-0300:20260321T095500
-SUMMARY:[Moto2] FP2 - #BrasilGP
-UID:bccc9c99-25af-4cc8-bec0-5758da46b42a@bccc.org
-DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
- \nClass: Moto2 \nSession: Free Practice Nr. 2
-LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
-URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
- 4c8e-ae06-acba82ff1303
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0300:20260322T094000
-DTEND;TZID=UTC-0300:20260322T095500
-SUMMARY:[Moto2] Q1 - #BrasilGP
-UID:5390b7a0-de55-495e-9b46-3a2ab806c752@5390.org
-DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
- \nClass: Moto2 \nSession: Qualifying Nr. 1
-LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
-URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
- 4c8e-ae06-acba82ff1303
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0300:20260322T100500
-DTEND;TZID=UTC-0300:20260322T102000
-SUMMARY:[Moto2] Q2 - #BrasilGP
-UID:fd9f14c8-5208-482c-bd32-e1a906b7bde1@fd9f.org
-DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
- \nClass: Moto2 \nSession: Qualifying Nr. 2
-LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
-URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
- 4c8e-ae06-acba82ff1303
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0300:20260322T132500
-SUMMARY:[Moto2] RAC - #BrasilGP
-UID:d8fef0c4-1757-47a0-92dc-9fe72094b4f3@d8fe.org
-DESCRIPTION:Event: GP2 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF BRAZIL 
- \nClass: Moto2 \nSession: Race
-LOCATION:Autódromo Internacional de Goiânia – Ayrton Senna\, Brazil
-URL:https://www.motogp.com/en/calendar/2026/event/brasil/11588b5a-f76c-
- 4c8e-ae06-acba82ff1303
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260327T095000
-DTEND;TZID=UTC-0500:20260327T103000
-SUMMARY:[Moto2] FP1 - #AmericasGP
-UID:9b0086be-770f-4e67-902c-3866b4e93e10@9b00.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Moto2 \nSession: Free Practice Nr. 1
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260327T140500
-DTEND;TZID=UTC-0500:20260327T144500
-SUMMARY:[Moto2] PR - #AmericasGP
-UID:614e3d66-1196-486f-8428-f52753d6a7b6@614e.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Moto2 \nSession: Practice
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260328T092500
-DTEND;TZID=UTC-0500:20260328T095500
-SUMMARY:[Moto2] FP2 - #AmericasGP
-UID:beb28ed6-74ad-4da7-8f4d-74fcc0940739@beb2.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Moto2 \nSession: Free Practice Nr. 2
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260328T134000
-DTEND;TZID=UTC-0500:20260328T141000
-SUMMARY:[Moto2] Q1 - #AmericasGP
-UID:a05455f2-90cb-4311-8796-c598125c4367@a054.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Moto2 \nSession: Qualifying Nr. 1
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260328T141700
-DTEND;TZID=UTC-0500:20260328T143200
-SUMMARY:[Moto2] Q2 - #AmericasGP
-UID:39fb3d58-ba23-46aa-93ac-4e56af145835@39fb.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Moto2 \nSession: Qualifying Nr. 2
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC-0500:20260329T131500
-SUMMARY:[Moto2] RAC - #AmericasGP
-UID:61717128-5373-4e17-9d35-6a3d612cd84f@6171.org
-DESCRIPTION:Event: GP3 - RED BULL GRAND PRIX OF THE UNITED STATES \nClass: 
- Moto2 \nSession: Race
-LOCATION:Circuit Of The Americas\, United States
-URL:https://www.motogp.com/en/calendar/2026/event/americas/8c83648e-8ec9-
- 40f1-9ba0-b0f19883e7d7
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260424T095000
-DTEND;TZID=UTC+0200:20260424T103000
-SUMMARY:[Moto2] FP1 - #SpanishGP
-UID:39569074-0faa-44af-95a4-295139cd9b13@3956.org
-DESCRIPTION:Event: GP4 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nClass:
-  Moto2 \nSession: Free Practice Nr. 1
-LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-
- 4aa4-9e83-d3610e0f1d98
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260424T140500
-DTEND;TZID=UTC+0200:20260424T144500
-SUMMARY:[Moto2] PR - #SpanishGP
-UID:df01389c-1ea2-4b21-bfa1-ae1e6ed48ce4@df01.org
-DESCRIPTION:Event: GP4 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nClass:
-  Moto2 \nSession: Practice
-LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-
- 4aa4-9e83-d3610e0f1d98
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260425T092500
-DTEND;TZID=UTC+0200:20260425T095500
-SUMMARY:[Moto2] FP2 - #SpanishGP
-UID:34ed9ece-80f1-4a90-a570-367eb86b9cd9@34ed.org
-DESCRIPTION:Event: GP4 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nClass:
-  Moto2 \nSession: Free Practice Nr. 2
-LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-
- 4aa4-9e83-d3610e0f1d98
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260425T134000
-DTEND;TZID=UTC+0200:20260425T135500
-SUMMARY:[Moto2] Q1 - #SpanishGP
-UID:52913881-ca68-451a-aaec-5299bad2d573@5291.org
-DESCRIPTION:Event: GP4 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nClass:
-  Moto2 \nSession: Qualifying Nr. 1
-LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-
- 4aa4-9e83-d3610e0f1d98
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260425T140500
-DTEND;TZID=UTC+0200:20260425T142000
-SUMMARY:[Moto2] Q2 - #SpanishGP
-UID:c2d79a8f-a500-46b3-83fd-a782f5be9001@c2d7.org
-DESCRIPTION:Event: GP4 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nClass:
-  Moto2 \nSession: Qualifying Nr. 2
-LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-
- 4aa4-9e83-d3610e0f1d98
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260426T121500
-SUMMARY:[Moto2] RAC - #SpanishGP
-UID:889ebc2d-fdeb-4893-98d7-a3e6dbaf3680@889e.org
-DESCRIPTION:Event: GP4 - ESTRELLA GALICIA 0\,0 GRAND PRIX OF SPAIN \nClass:
-  Moto2 \nSession: Race
-LOCATION:Circuito de Jerez - Ángel Nieto\, Jerez de la Frontera\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/españa/a24be69b-8472-
- 4aa4-9e83-d3610e0f1d98
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260508T095000
-DTEND;TZID=UTC+0200:20260508T103000
-SUMMARY:[Moto2] FP1 - #FrenchGP
-UID:56a0fef7-e172-4d06-9cbc-84688f3d0c34@56a0.org
-DESCRIPTION:Event: GP5 - MICHELIN® GRAND PRIX OF FRANCE \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Le Mans\, France
-URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-
- 4d1e-b658-82962baf3fa3
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260508T140500
-DTEND;TZID=UTC+0200:20260508T144500
-SUMMARY:[Moto2] PR - #FrenchGP
-UID:bb34eb90-13e6-4d8f-88f9-bff39a8c6156@bb34.org
-DESCRIPTION:Event: GP5 - MICHELIN® GRAND PRIX OF FRANCE \nClass: Moto2 
- \nSession: Practice
-LOCATION:Le Mans\, France
-URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-
- 4d1e-b658-82962baf3fa3
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260509T092500
-DTEND;TZID=UTC+0200:20260509T095500
-SUMMARY:[Moto2] FP2 - #FrenchGP
-UID:7c4416bd-a74b-4666-8987-346f2b90101b@7c44.org
-DESCRIPTION:Event: GP5 - MICHELIN® GRAND PRIX OF FRANCE \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Le Mans\, France
-URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-
- 4d1e-b658-82962baf3fa3
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260509T134000
-DTEND;TZID=UTC+0200:20260509T135500
-SUMMARY:[Moto2] Q1 - #FrenchGP
-UID:43fe9ecc-5618-43a9-bcf6-c068aef35910@43fe.org
-DESCRIPTION:Event: GP5 - MICHELIN® GRAND PRIX OF FRANCE \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Le Mans\, France
-URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-
- 4d1e-b658-82962baf3fa3
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260509T140500
-DTEND;TZID=UTC+0200:20260509T142000
-SUMMARY:[Moto2] Q2 - #FrenchGP
-UID:99e20b7e-7e38-4d45-b557-c587a3d5f6e4@99e2.org
-DESCRIPTION:Event: GP5 - MICHELIN® GRAND PRIX OF FRANCE \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Le Mans\, France
-URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-
- 4d1e-b658-82962baf3fa3
-DTSTAMP:20260207T091726Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260510T122000
-SUMMARY:[Moto2] RAC - #FrenchGP
-UID:7ac68510-e162-4fdc-9a88-4de02674602f@7ac6.org
-DESCRIPTION:Event: GP5 - MICHELIN® GRAND PRIX OF FRANCE \nClass: Moto2 
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CATALUNYA \nCategory: Moto2
  \nSession: Race
-LOCATION:Le Mans\, France
-URL:https://www.motogp.com/en/calendar/2026/event/france/4237f175-c6a4-
- 4d1e-b658-82962baf3fa3
-DTSTAMP:20260207T091726Z
+DTEND:20260517T110000Z
+DTSTART:20260517T101500Z
+LOCATION:Circuit de Barcelona-Catalunya\, Carrer Mas Moreneta\, s/n\, 08160
+ \, Barcelona\, Spain
+SUMMARY:[Moto2] RAC #CatalanGP
+UID:1cc9044e-6c59-452f-9935-47502b339245@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-4
+ e17-a903-4be204fa3496
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260515T095000
-DTEND;TZID=UTC+0200:20260515T103000
-SUMMARY:[Moto2] FP1 - #CatalanGP
-UID:830d9968-e7f6-4a3d-9249-eea8c434fc6c@830d.org
-DESCRIPTION:Event: GP6 - MONSTER ENERGY GRAND PRIX OF CATALUNYA \nClass: 
- Moto2 \nSession: Free Practice Nr. 1
-LOCATION:Circuit de Barcelona-Catalunya\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-
- 4e17-a903-4be204fa3496
-DTSTAMP:20260316T204410Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260515T140500
-DTEND;TZID=UTC+0200:20260515T144500
-SUMMARY:[Moto2] PR - #CatalanGP
-UID:fc7d24a4-fc81-4ddf-a168-104dd3cf9fe8@fc7d.org
-DESCRIPTION:Event: GP6 - MONSTER ENERGY GRAND PRIX OF CATALUNYA \nClass: 
- Moto2 \nSession: Practice
-LOCATION:Circuit de Barcelona-Catalunya\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-
- 4e17-a903-4be204fa3496
-DTSTAMP:20260316T204410Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260516T092500
-DTEND;TZID=UTC+0200:20260516T095500
-SUMMARY:[Moto2] FP2 - #CatalanGP
-UID:457269b8-3aaf-467e-9e93-72b40d3d8f66@4572.org
-DESCRIPTION:Event: GP6 - MONSTER ENERGY GRAND PRIX OF CATALUNYA \nClass: 
- Moto2 \nSession: Free Practice Nr. 2
-LOCATION:Circuit de Barcelona-Catalunya\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-
- 4e17-a903-4be204fa3496
-DTSTAMP:20260316T204410Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260516T134000
-DTEND;TZID=UTC+0200:20260516T135500
-SUMMARY:[Moto2] Q1 - #CatalanGP
-UID:aa49ef36-fde1-4fb3-8710-85c6c7bbc1e9@aa49.org
-DESCRIPTION:Event: GP6 - MONSTER ENERGY GRAND PRIX OF CATALUNYA \nClass: 
- Moto2 \nSession: Qualifying Nr. 1
-LOCATION:Circuit de Barcelona-Catalunya\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-
- 4e17-a903-4be204fa3496
-DTSTAMP:20260316T204410Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260516T140500
-DTEND;TZID=UTC+0200:20260516T142000
-SUMMARY:[Moto2] Q2 - #CatalanGP
-UID:4b55fae9-f15e-422f-9669-a80897b21a11@4b55.org
-DESCRIPTION:Event: GP6 - MONSTER ENERGY GRAND PRIX OF CATALUNYA \nClass: 
- Moto2 \nSession: Qualifying Nr. 2
-LOCATION:Circuit de Barcelona-Catalunya\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-
- 4e17-a903-4be204fa3496
-DTSTAMP:20260316T204410Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260517T121500
-SUMMARY:[Moto2] RAC - #CatalanGP
-UID:0af2783e-1047-4b3a-8323-df1b5e2a0d3e@0af2.org
-DESCRIPTION:Event: GP6 - MONSTER ENERGY GRAND PRIX OF CATALUNYA \nClass: 
- Moto2 \nSession: Race
-LOCATION:Circuit de Barcelona-Catalunya\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/catalunya/200bf59d-3db2-
- 4e17-a903-4be204fa3496
-DTSTAMP:20260316T204410Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260529T095000
-DTEND;TZID=UTC+0200:20260529T103000
-SUMMARY:[Moto2] FP1 - #ItalianGP
-UID:5ff1f4d0-41b8-4b8b-88d8-0b036f206632@5ff1.org
-DESCRIPTION:Event: GP7 - BREMBO GRAND PRIX OF ITALY \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
- Italy
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Moto2\nSession: F
+ ree Practice Nr. 1
+DTEND:20260529T083000Z
+DTSTART:20260529T075000Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Moto2] FP1 #ItalianGP
+UID:c9d4c9e1-24ea-42a3-b5bd-76ac35fa0284@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
  a993-cb5d01bccd24
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260529T140500
-DTEND;TZID=UTC+0200:20260529T144500
-SUMMARY:[Moto2] PR - #ItalianGP
-UID:9c0d8a7c-51f2-4b8a-ba31-8b3af76a19b2@9c0d.org
-DESCRIPTION:Event: GP7 - BREMBO GRAND PRIX OF ITALY \nClass: Moto2 
- \nSession: Practice
-LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
- Italy
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Moto2\nSession: P
+ ractice
+DTEND:20260529T124500Z
+DTSTART:20260529T120500Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Moto2] PR #ItalianGP
+UID:3390df51-2c59-4a73-8aef-5048bd340ca6@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
  a993-cb5d01bccd24
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260530T092500
-DTEND;TZID=UTC+0200:20260530T095500
-SUMMARY:[Moto2] FP2 - #ItalianGP
-UID:f0246042-10d5-474c-924e-43043fbb364e@f024.org
-DESCRIPTION:Event: GP7 - BREMBO GRAND PRIX OF ITALY \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
- Italy
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Moto2\nSession: F
+ ree Practice Nr. 2
+DTEND:20260530T075500Z
+DTSTART:20260530T072500Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Moto2] FP2 #ItalianGP
+UID:5e0b6579-cc72-4515-8163-893aefbe294f@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
  a993-cb5d01bccd24
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260530T134000
-DTEND;TZID=UTC+0200:20260530T135500
-SUMMARY:[Moto2] Q1 - #ItalianGP
-UID:1c1fa8b0-3b44-4a8e-a0ff-4e8d7d5b094e@1c1f.org
-DESCRIPTION:Event: GP7 - BREMBO GRAND PRIX OF ITALY \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
- Italy
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Moto2\nSession: Q
+ ualifying Nr. 1 
+DTEND:20260530T115500Z
+DTSTART:20260530T114000Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Moto2] Q1 #ItalianGP
+UID:9712f7f6-587e-46e4-a539-878685f29c49@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
  a993-cb5d01bccd24
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260530T140500
-DTEND;TZID=UTC+0200:20260530T142000
-SUMMARY:[Moto2] Q2 - #ItalianGP
-UID:82981e76-39a4-41d2-bf95-5e438580bab0@8298.org
-DESCRIPTION:Event: GP7 - BREMBO GRAND PRIX OF ITALY \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
- Italy
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Moto2\nSession: Q
+ ualifying Nr. 2 
+DTEND:20260530T122000Z
+DTSTART:20260530T120500Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Moto2] Q2 #ItalianGP
+UID:4f9f6a9e-be51-486f-92ce-add8a320ed25@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
  a993-cb5d01bccd24
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260531T121500
-SUMMARY:[Moto2] RAC - #ItalianGP
-UID:c25b28b8-805b-452c-9222-d92424d05042@c25b.org
-DESCRIPTION:Event: GP7 - BREMBO GRAND PRIX OF ITALY \nClass: Moto2 
- \nSession: Race
-LOCATION:Autodromo Internazionale del Mugello\, Scarperia e San Piero\, 
- Italy
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: BREMBO GRAND PRIX OF ITALY \nCategory: Moto2\nSession: R
+ ace
+DTEND:20260531T110000Z
+DTSTART:20260531T101500Z
+LOCATION:Autodromo Internazionale del Mugello\, Località Senni\, 15\, 500
+ 38 Scarperia e San Piero FI\, Italy
+SUMMARY:[Moto2] RAC #ItalianGP
+UID:2d1aa847-96d0-4a2d-9b40-dc3cfe0febfa@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/italy/bf2104f9-f5cc-4a99-
  a993-cb5d01bccd24
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260605T095000
-DTEND;TZID=UTC+0200:20260605T103000
-SUMMARY:[Moto2] FP1 - #HungarianGP
-UID:1ba3edfa-0d8f-4daa-b449-d9bf38093aa2@1ba3.org
-DESCRIPTION:Event: GP8 - GRAND PRIX OF HUNGARY \nClass: Moto2 \nSession: 
- Free Practice Nr. 1
-LOCATION:Balaton Park\, Balaton\, Hungary
-URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-
- 433f-83d4-e55d1b95ccc3
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF HUNGARY \nCategory: Moto2\nSession: Free P
+ ractice Nr. 1
+DTEND:20260605T083600Z
+DTSTART:20260605T075000Z
+LOCATION:Balaton Park\, Balaton\, Balatonfőkajár\, Park St 1\, 8164 Hunga
+ ry
+SUMMARY:[Moto2] FP1 #HungarianGP
+UID:c0161e9a-47ba-4573-b90f-77743ef80974@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
+ f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260605T140500
-DTEND;TZID=UTC+0200:20260605T144500
-SUMMARY:[Moto2] PR - #HungarianGP
-UID:0a22ccc2-8914-48e4-8929-517f7d397cc6@0a22.org
-DESCRIPTION:Event: GP8 - GRAND PRIX OF HUNGARY \nClass: Moto2 \nSession: 
- Practice
-LOCATION:Balaton Park\, Balaton\, Hungary
-URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-
- 433f-83d4-e55d1b95ccc3
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF HUNGARY \nCategory: Moto2\nSession: Practi
+ ce
+DTEND:20260605T124500Z
+DTSTART:20260605T120500Z
+LOCATION:Balaton Park\, Balaton\, Balatonfőkajár\, Park St 1\, 8164 Hunga
+ ry
+SUMMARY:[Moto2] PR #HungarianGP
+UID:d42b0b96-f681-4b60-adde-39452d5da186@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
+ f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260606T092500
-DTEND;TZID=UTC+0200:20260606T095500
-SUMMARY:[Moto2] FP2 - #HungarianGP
-UID:17d5eacd-43ed-4a9c-897c-56137694e783@17d5.org
-DESCRIPTION:Event: GP8 - GRAND PRIX OF HUNGARY \nClass: Moto2 \nSession: 
- Free Practice Nr. 2
-LOCATION:Balaton Park\, Balaton\, Hungary
-URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-
- 433f-83d4-e55d1b95ccc3
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF HUNGARY \nCategory: Moto2\nSession: Free P
+ ractice Nr. 2
+DTEND:20260606T075500Z
+DTSTART:20260606T072500Z
+LOCATION:Balaton Park\, Balaton\, Balatonfőkajár\, Park St 1\, 8164 Hunga
+ ry
+SUMMARY:[Moto2] FP2 #HungarianGP
+UID:b30e014c-c72e-4b7b-9e84-90ce2914bfc3@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
+ f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260606T134000
-DTEND;TZID=UTC+0200:20260606T135500
-SUMMARY:[Moto2] Q1 - #HungarianGP
-UID:d67ff376-fcc9-4e38-ad2e-77d36bfd632a@d67f.org
-DESCRIPTION:Event: GP8 - GRAND PRIX OF HUNGARY \nClass: Moto2 \nSession: 
- Qualifying Nr. 1
-LOCATION:Balaton Park\, Balaton\, Hungary
-URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-
- 433f-83d4-e55d1b95ccc3
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF HUNGARY \nCategory: Moto2\nSession: Qualif
+ ying Nr. 1 
+DTEND:20260606T115500Z
+DTSTART:20260606T114000Z
+LOCATION:Balaton Park\, Balaton\, Balatonfőkajár\, Park St 1\, 8164 Hunga
+ ry
+SUMMARY:[Moto2] Q1 #HungarianGP
+UID:81a2c042-faa4-4d5e-8ff5-efed9302d851@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
+ f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260606T140500
-DTEND;TZID=UTC+0200:20260606T142000
-SUMMARY:[Moto2] Q2 - #HungarianGP
-UID:147982ce-cb6c-45a5-a0ab-0aaab590a92b@1479.org
-DESCRIPTION:Event: GP8 - GRAND PRIX OF HUNGARY \nClass: Moto2 \nSession: 
- Qualifying Nr. 2
-LOCATION:Balaton Park\, Balaton\, Hungary
-URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-
- 433f-83d4-e55d1b95ccc3
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF HUNGARY \nCategory: Moto2\nSession: Qualif
+ ying Nr. 2 
+DTEND:20260606T122000Z
+DTSTART:20260606T120500Z
+LOCATION:Balaton Park\, Balaton\, Balatonfőkajár\, Park St 1\, 8164 Hunga
+ ry
+SUMMARY:[Moto2] Q2 #HungarianGP
+UID:ef19d802-abd6-49a9-ac34-c8f933d0e0bc@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
+ f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260607T121500
-SUMMARY:[Moto2] RAC - #HungarianGP
-UID:ca3c0ca3-546d-4a71-b1cd-b61de86f153a@ca3c.org
-DESCRIPTION:Event: GP8 - GRAND PRIX OF HUNGARY \nClass: Moto2 \nSession: 
- Race
-LOCATION:Balaton Park\, Balaton\, Hungary
-URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-
- 433f-83d4-e55d1b95ccc3
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF HUNGARY \nCategory: Moto2\nSession: Race
+DTEND:20260607T110000Z
+DTSTART:20260607T101500Z
+LOCATION:Balaton Park\, Balaton\, Balatonfőkajár\, Park St 1\, 8164 Hunga
+ ry
+SUMMARY:[Moto2] RAC #HungarianGP
+UID:39faeedc-40fc-4261-93d9-acae19e08d3e@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
+ f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260619T095000
-DTEND;TZID=UTC+0200:20260619T103000
-SUMMARY:[Moto2] FP1 - #CzechGP
-UID:dc068b34-ade1-4fa2-962d-cf82532527ea@dc06.org
-DESCRIPTION:Event: GP9 - GRAND PRIX OF CZECHIA \nClass: Moto2 \nSession: 
- Free Practice Nr. 1
-LOCATION:Automotodrom Brno\, Czechia
-URL:https://www.motogp.com/en/calendar/2026/event/czeck 
- republiky/c2018c5e-fb82-4058-b359-1b7d9769e703
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
+ Session: Free Practice Nr. 1
+DTEND:20260619T083000Z
+DTSTART:20260619T075000Z
+LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
+ zechia
+SUMMARY:[Moto2] FP1 #CzechGP
+UID:f6518c79-af87-49ab-be07-c3f68699d6d0@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
+ fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260619T140500
-DTEND;TZID=UTC+0200:20260619T144500
-SUMMARY:[Moto2] PR - #CzechGP
-UID:d5e63869-bdce-4bcd-a199-1aa195bc0b28@d5e6.org
-DESCRIPTION:Event: GP9 - GRAND PRIX OF CZECHIA \nClass: Moto2 \nSession: 
- Practice
-LOCATION:Automotodrom Brno\, Czechia
-URL:https://www.motogp.com/en/calendar/2026/event/czeck 
- republiky/c2018c5e-fb82-4058-b359-1b7d9769e703
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
+ Session: Practice
+DTEND:20260619T124500Z
+DTSTART:20260619T120500Z
+LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
+ zechia
+SUMMARY:[Moto2] PR #CzechGP
+UID:ff3d1881-0d4b-4f5f-aece-2756bd166206@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
+ fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260620T092500
-DTEND;TZID=UTC+0200:20260620T095500
-SUMMARY:[Moto2] FP2 - #CzechGP
-UID:406d9a63-f9ce-47de-83fe-d91a2b39f42c@406d.org
-DESCRIPTION:Event: GP9 - GRAND PRIX OF CZECHIA \nClass: Moto2 \nSession: 
- Free Practice Nr. 2
-LOCATION:Automotodrom Brno\, Czechia
-URL:https://www.motogp.com/en/calendar/2026/event/czeck 
- republiky/c2018c5e-fb82-4058-b359-1b7d9769e703
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
+ Session: Free Practice Nr. 2
+DTEND:20260620T075500Z
+DTSTART:20260620T072500Z
+LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
+ zechia
+SUMMARY:[Moto2] FP2 #CzechGP
+UID:fea3bfde-6dfe-4fcf-9c92-f30c70fe7064@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
+ fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260620T134000
-DTEND;TZID=UTC+0200:20260620T135500
-SUMMARY:[Moto2] Q1 - #CzechGP
-UID:6d6e300e-978a-4b10-af37-e35105090c34@6d6e.org
-DESCRIPTION:Event: GP9 - GRAND PRIX OF CZECHIA \nClass: Moto2 \nSession: 
- Qualifying Nr. 1
-LOCATION:Automotodrom Brno\, Czechia
-URL:https://www.motogp.com/en/calendar/2026/event/czeck 
- republiky/c2018c5e-fb82-4058-b359-1b7d9769e703
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
+ Session: Qualifying Nr. 1 
+DTEND:20260620T115500Z
+DTSTART:20260620T114000Z
+LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
+ zechia
+SUMMARY:[Moto2] Q1 #CzechGP
+UID:f8a57e3c-5d95-4d39-a795-ec9abae539b2@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
+ fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260620T140500
-DTEND;TZID=UTC+0200:20260620T142000
-SUMMARY:[Moto2] Q2 - #CzechGP
-UID:f38a15c5-2b41-4d65-bffd-03a00719c87d@f38a.org
-DESCRIPTION:Event: GP9 - GRAND PRIX OF CZECHIA \nClass: Moto2 \nSession: 
- Qualifying Nr. 2
-LOCATION:Automotodrom Brno\, Czechia
-URL:https://www.motogp.com/en/calendar/2026/event/czeck 
- republiky/c2018c5e-fb82-4058-b359-1b7d9769e703
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
+ Session: Qualifying Nr. 2 
+DTEND:20260620T122000Z
+DTSTART:20260620T120500Z
+LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
+ zechia
+SUMMARY:[Moto2] Q2 #CzechGP
+UID:d872734b-be5a-4481-93f3-4231116b6f56@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
+ fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260621T121500
-SUMMARY:[Moto2] RAC - #CzechGP
-UID:2aad0bd1-0ba5-452a-94f1-27501ace180d@2aad.org
-DESCRIPTION:Event: GP9 - GRAND PRIX OF CZECHIA \nClass: Moto2 \nSession: 
- Race
-LOCATION:Automotodrom Brno\, Czechia
-URL:https://www.motogp.com/en/calendar/2026/event/czeck 
- republiky/c2018c5e-fb82-4058-b359-1b7d9769e703
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
+ Session: Race
+DTEND:20260621T110000Z
+DTSTART:20260621T101500Z
+LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
+ zechia
+SUMMARY:[Moto2] RAC #CzechGP
+UID:4be08b38-983b-4547-a710-995af137b598@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
+ fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260626T095000
-DTEND;TZID=UTC+0200:20260626T103000
-SUMMARY:[Moto2] FP1 - #DutchGP
-UID:3048186a-95d7-4167-b1f0-beb215f9730e@3048.org
-DESCRIPTION:Event: GP10 - GRAND PRIX OF THE NETHERLANDS \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:TT Circuit Assen\, Assen\, Netherlands
-URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-
- d307-4d45-b1ed-b1cb5e811975
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
+ Session: Free Practice Nr. 1
+DTEND:20260626T083000Z
+DTSTART:20260626T075000Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Moto2] FP1 #DutchGP
+UID:55c2dd0b-df0e-462d-80f0-27e59639f306@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260626T140500
-DTEND;TZID=UTC+0200:20260626T144500
-SUMMARY:[Moto2] PR - #DutchGP
-UID:ca25410d-8eba-406a-b2fc-1fc90367ada2@ca25.org
-DESCRIPTION:Event: GP10 - GRAND PRIX OF THE NETHERLANDS \nClass: Moto2 
- \nSession: Practice
-LOCATION:TT Circuit Assen\, Assen\, Netherlands
-URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-
- d307-4d45-b1ed-b1cb5e811975
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
+ Session: Practice
+DTEND:20260626T124500Z
+DTSTART:20260626T120500Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Moto2] PR #DutchGP
+UID:004de0f1-e153-4c32-bd92-3cd43ab62a39@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260627T092500
-DTEND;TZID=UTC+0200:20260627T095500
-SUMMARY:[Moto2] FP2 - #DutchGP
-UID:3b39f638-448c-4903-b4d9-75d14b3fe040@3b39.org
-DESCRIPTION:Event: GP10 - GRAND PRIX OF THE NETHERLANDS \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:TT Circuit Assen\, Assen\, Netherlands
-URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-
- d307-4d45-b1ed-b1cb5e811975
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
+ Session: Free Practice Nr. 2
+DTEND:20260627T075500Z
+DTSTART:20260627T072500Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Moto2] FP2 #DutchGP
+UID:3da2a233-3171-4fd7-9445-cd81cfd1aa7b@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260627T134000
-DTEND;TZID=UTC+0200:20260627T135500
-SUMMARY:[Moto2] Q1 - #DutchGP
-UID:cd8a79ce-aad4-481a-bd30-2008fcaa112d@cd8a.org
-DESCRIPTION:Event: GP10 - GRAND PRIX OF THE NETHERLANDS \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:TT Circuit Assen\, Assen\, Netherlands
-URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-
- d307-4d45-b1ed-b1cb5e811975
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
+ Session: Qualifying Nr. 1 
+DTEND:20260627T115500Z
+DTSTART:20260627T114000Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Moto2] Q1 #DutchGP
+UID:ee603851-a21a-4fc1-91ee-b3aea4d17b6a@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260627T140500
-DTEND;TZID=UTC+0200:20260627T142000
-SUMMARY:[Moto2] Q2 - #DutchGP
-UID:1e3419f0-4fef-47ca-9524-7c046d464437@1e34.org
-DESCRIPTION:Event: GP10 - GRAND PRIX OF THE NETHERLANDS \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:TT Circuit Assen\, Assen\, Netherlands
-URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-
- d307-4d45-b1ed-b1cb5e811975
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
+ Session: Qualifying Nr. 2 
+DTEND:20260627T122000Z
+DTSTART:20260627T120500Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Moto2] Q2 #DutchGP
+UID:2c947261-dab9-4105-838d-3d74586bdf73@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260628T121500
-SUMMARY:[Moto2] RAC - #DutchGP
-UID:24d9b0c5-ccb6-4d6a-a1db-1e704cfe75a6@24d9.org
-DESCRIPTION:Event: GP10 - GRAND PRIX OF THE NETHERLANDS \nClass: Moto2 
- \nSession: Race
-LOCATION:TT Circuit Assen\, Assen\, Netherlands
-URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-
- d307-4d45-b1ed-b1cb5e811975
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
+ Session: Race
+DTEND:20260628T110000Z
+DTSTART:20260628T101500Z
+LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
+SUMMARY:[Moto2] RAC #DutchGP
+UID:efa81c32-5cfd-46c0-9438-22fa9977c608@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
+ -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260710T095000
-DTEND;TZID=UTC+0200:20260710T103000
-SUMMARY:[Moto2] FP1 - #GermanGP
-UID:b6e83046-3256-450e-aad5-8f5b0a48a25e@b6e8.org
-DESCRIPTION:Event: GP11 - LIQUI MOLY GRAND PRIX OF GERMANY \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Sachsenring\, Oberlungwitz\, Germany
-URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-
- 4dc2-bc42-7664842f6409
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: LIQUI MOLY GRAND PRIX OF GERMANY \nCategory: Moto2\nSess
+ ion: Free Practice Nr. 1
+DTEND:20260710T083000Z
+DTSTART:20260710T075000Z
+LOCATION:Sachsenring\, Am Sachsenring 2\, 09353 Oberlungwitz\, Germany
+SUMMARY:[Moto2] FP1 #GermanGP
+UID:d739ed74-ee7e-46c9-8eef-e78d6fb1dfd2@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-4dc
+ 2-bc42-7664842f6409
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260710T140500
-DTEND;TZID=UTC+0200:20260710T144500
-SUMMARY:[Moto2] PR - #GermanGP
-UID:82be2ba3-4343-4a44-b563-3fbb05e6a491@82be.org
-DESCRIPTION:Event: GP11 - LIQUI MOLY GRAND PRIX OF GERMANY \nClass: Moto2 
- \nSession: Practice
-LOCATION:Sachsenring\, Oberlungwitz\, Germany
-URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-
- 4dc2-bc42-7664842f6409
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: LIQUI MOLY GRAND PRIX OF GERMANY \nCategory: Moto2\nSess
+ ion: Practice
+DTEND:20260710T124500Z
+DTSTART:20260710T120500Z
+LOCATION:Sachsenring\, Am Sachsenring 2\, 09353 Oberlungwitz\, Germany
+SUMMARY:[Moto2] PR #GermanGP
+UID:809c5de0-a2f4-45a5-a62d-e66df68b5741@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-4dc
+ 2-bc42-7664842f6409
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260711T092500
-DTEND;TZID=UTC+0200:20260711T095500
-SUMMARY:[Moto2] FP2 - #GermanGP
-UID:d3f1317c-a666-4fad-ad7c-d83150accf84@d3f1.org
-DESCRIPTION:Event: GP11 - LIQUI MOLY GRAND PRIX OF GERMANY \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Sachsenring\, Oberlungwitz\, Germany
-URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-
- 4dc2-bc42-7664842f6409
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: LIQUI MOLY GRAND PRIX OF GERMANY \nCategory: Moto2\nSess
+ ion: Free Practice Nr. 2
+DTEND:20260711T075500Z
+DTSTART:20260711T072500Z
+LOCATION:Sachsenring\, Am Sachsenring 2\, 09353 Oberlungwitz\, Germany
+SUMMARY:[Moto2] FP2 #GermanGP
+UID:768e696b-cf36-4b04-989b-56fdc1463f85@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-4dc
+ 2-bc42-7664842f6409
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260711T134000
-DTEND;TZID=UTC+0200:20260711T135500
-SUMMARY:[Moto2] Q1 - #GermanGP
-UID:963e4014-1be4-44ce-9c15-845bf1013fc4@963e.org
-DESCRIPTION:Event: GP11 - LIQUI MOLY GRAND PRIX OF GERMANY \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Sachsenring\, Oberlungwitz\, Germany
-URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-
- 4dc2-bc42-7664842f6409
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: LIQUI MOLY GRAND PRIX OF GERMANY \nCategory: Moto2\nSess
+ ion: Qualifying Nr. 1 
+DTEND:20260711T115500Z
+DTSTART:20260711T114000Z
+LOCATION:Sachsenring\, Am Sachsenring 2\, 09353 Oberlungwitz\, Germany
+SUMMARY:[Moto2] Q1 #GermanGP
+UID:2f366d2b-9757-4cac-8788-3368d6d73dbf@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-4dc
+ 2-bc42-7664842f6409
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260711T140500
-DTEND;TZID=UTC+0200:20260711T142000
-SUMMARY:[Moto2] Q2 - #GermanGP
-UID:acd1bcf0-d376-4f2b-a59f-328f78dbfcfa@acd1.org
-DESCRIPTION:Event: GP11 - LIQUI MOLY GRAND PRIX OF GERMANY \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Sachsenring\, Oberlungwitz\, Germany
-URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-
- 4dc2-bc42-7664842f6409
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: LIQUI MOLY GRAND PRIX OF GERMANY \nCategory: Moto2\nSess
+ ion: Qualifying Nr. 2 
+DTEND:20260711T122000Z
+DTSTART:20260711T120500Z
+LOCATION:Sachsenring\, Am Sachsenring 2\, 09353 Oberlungwitz\, Germany
+SUMMARY:[Moto2] Q2 #GermanGP
+UID:221fb248-e036-403e-ad1d-19e17e47ecc6@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-4dc
+ 2-bc42-7664842f6409
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260712T121500
-SUMMARY:[Moto2] RAC - #GermanGP
-UID:f289f467-28d6-41db-b1c2-4d4b5fe4e8d9@f289.org
-DESCRIPTION:Event: GP11 - LIQUI MOLY GRAND PRIX OF GERMANY \nClass: Moto2 
- \nSession: Race
-LOCATION:Sachsenring\, Oberlungwitz\, Germany
-URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-
- 4dc2-bc42-7664842f6409
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: LIQUI MOLY GRAND PRIX OF GERMANY \nCategory: Moto2\nSess
+ ion: Race
+DTEND:20260712T110000Z
+DTSTART:20260712T101500Z
+LOCATION:Sachsenring\, Am Sachsenring 2\, 09353 Oberlungwitz\, Germany
+SUMMARY:[Moto2] RAC #GermanGP
+UID:bc92d6f4-73d9-45e5-b933-4ecb73db9761@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/germany/259be6f4-c23c-4dc
+ 2-bc42-7664842f6409
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260807T105000
-DTEND;TZID=UTC+0100:20260807T113000
-SUMMARY:[Moto2] FP1 - #BritishGP
-UID:8107a7c7-c2d2-4cdb-b3b8-18a3ee38d8d2@8107.org
-DESCRIPTION:Event: GP12 - QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 
- \nClass: Moto2 \nSession: Free Practice Nr. 1
-LOCATION:Silverstone Circuit\, United Kingdom
-URL:https://www.motogp.com/en/calendar/2026/event/great 
- britain/41aa319a-8ec5-49d6-aa99-4e2059c88098
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Mo
+ to2\nSession: Free Practice Nr. 1
+DTEND:20260807T103000Z
+DTSTART:20260807T095000Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Moto2] FP1 #BritishGP
+UID:23eefec4-5b91-46da-8369-b713f1f4479d@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260807T150500
-DTEND;TZID=UTC+0100:20260807T154500
-SUMMARY:[Moto2] PR - #BritishGP
-UID:3d8f112c-55c4-4403-928b-70e786437f9b@3d8f.org
-DESCRIPTION:Event: GP12 - QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 
- \nClass: Moto2 \nSession: Practice
-LOCATION:Silverstone Circuit\, United Kingdom
-URL:https://www.motogp.com/en/calendar/2026/event/great 
- britain/41aa319a-8ec5-49d6-aa99-4e2059c88098
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Mo
+ to2\nSession: Practice
+DTEND:20260807T144500Z
+DTSTART:20260807T140500Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Moto2] PR #BritishGP
+UID:14ead14b-a584-4cd9-ac70-093ed10b8df8@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260808T102500
-DTEND;TZID=UTC+0100:20260808T105500
-SUMMARY:[Moto2] FP2 - #BritishGP
-UID:f3e2bcdb-c4f2-4882-a7f4-417205589b37@f3e2.org
-DESCRIPTION:Event: GP12 - QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 
- \nClass: Moto2 \nSession: Free Practice Nr. 2
-LOCATION:Silverstone Circuit\, United Kingdom
-URL:https://www.motogp.com/en/calendar/2026/event/great 
- britain/41aa319a-8ec5-49d6-aa99-4e2059c88098
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Mo
+ to2\nSession: Free Practice Nr. 2
+DTEND:20260808T095500Z
+DTSTART:20260808T092500Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Moto2] FP2 #BritishGP
+UID:4c6f136a-d181-4d3d-886d-0c6a08c145bd@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260808T144000
-DTEND;TZID=UTC+0100:20260808T145500
-SUMMARY:[Moto2] Q1 - #BritishGP
-UID:61290cf0-c646-408b-a48b-2d8d938d1a9e@6129.org
-DESCRIPTION:Event: GP12 - QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 
- \nClass: Moto2 \nSession: Qualifying Nr. 1
-LOCATION:Silverstone Circuit\, United Kingdom
-URL:https://www.motogp.com/en/calendar/2026/event/great 
- britain/41aa319a-8ec5-49d6-aa99-4e2059c88098
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Mo
+ to2\nSession: Qualifying Nr. 1 
+DTEND:20260808T135500Z
+DTSTART:20260808T134000Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Moto2] Q1 #BritishGP
+UID:caa96810-bb28-4fc6-b614-634247d17c9d@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260808T150500
-DTEND;TZID=UTC+0100:20260808T152000
-SUMMARY:[Moto2] Q2 - #BritishGP
-UID:52e40541-b9de-435e-b733-55ae42bfc731@52e4.org
-DESCRIPTION:Event: GP12 - QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 
- \nClass: Moto2 \nSession: Qualifying Nr. 2
-LOCATION:Silverstone Circuit\, United Kingdom
-URL:https://www.motogp.com/en/calendar/2026/event/great 
- britain/41aa319a-8ec5-49d6-aa99-4e2059c88098
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Mo
+ to2\nSession: Qualifying Nr. 2 
+DTEND:20260808T142000Z
+DTSTART:20260808T140500Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Moto2] Q2 #BritishGP
+UID:d3fe2a62-1a4a-4e20-8ee1-e4c6ddd19880@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260809T111500
-SUMMARY:[Moto2] RAC - #BritishGP
-UID:cbdd1cc1-6101-4a3a-a5e2-995c99113fa5@cbdd.org
-DESCRIPTION:Event: GP12 - QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 
- \nClass: Moto2 \nSession: Race
-LOCATION:Silverstone Circuit\, United Kingdom
-URL:https://www.motogp.com/en/calendar/2026/event/great 
- britain/41aa319a-8ec5-49d6-aa99-4e2059c88098
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN \nCategory: Mo
+ to2\nSession: Race
+DTEND:20260809T110000Z
+DTSTART:20260809T101500Z
+LOCATION:Silverstone Circuit\, Hilton Garden Inn\, Silverstone Circuit\, To
+ wcester NN12 8TL\, UK
+SUMMARY:[Moto2] RAC #BritishGP
+UID:24464048-f654-4bf8-b530-8ef0b7e0330c@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
+ c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260828T095000
-DTEND;TZID=UTC+0200:20260828T103000
-SUMMARY:[Moto2] FP1 - #AragonGP
-UID:26b0923b-6898-4b62-be29-0a0d2e007615@26b0.org
-DESCRIPTION:Event: GP13 - GRAND PRIX OF ARAGON \nClass: Moto2 \nSession: 
- Free Practice Nr. 1
-LOCATION:MotorLand Aragón\, Spain
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Free Pr
+ actice Nr. 1
+DTEND:20260828T083000Z
+DTSTART:20260828T075000Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Moto2] FP1 #AragonGP
+UID:b701a7e7-771f-47d0-a216-665f61eb2915@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260828T140500
-DTEND;TZID=UTC+0200:20260828T144500
-SUMMARY:[Moto2] PR - #AragonGP
-UID:b2d04682-b8a9-4acb-861d-8b1a5417ba11@b2d0.org
-DESCRIPTION:Event: GP13 - GRAND PRIX OF ARAGON \nClass: Moto2 \nSession: 
- Practice
-LOCATION:MotorLand Aragón\, Spain
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Practic
+ e
+DTEND:20260828T124500Z
+DTSTART:20260828T120500Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Moto2] PR #AragonGP
+UID:48a13251-e863-43f2-8ee8-46b765ed0122@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260829T092500
-DTEND;TZID=UTC+0200:20260829T095500
-SUMMARY:[Moto2] FP2 - #AragonGP
-UID:cb05cc80-0ae4-403e-abaa-f43f8b7c84ba@cb05.org
-DESCRIPTION:Event: GP13 - GRAND PRIX OF ARAGON \nClass: Moto2 \nSession: 
- Free Practice Nr. 2
-LOCATION:MotorLand Aragón\, Spain
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Free Pr
+ actice Nr. 2
+DTEND:20260829T075500Z
+DTSTART:20260829T072500Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Moto2] FP2 #AragonGP
+UID:42f7389a-84e4-4a59-a18a-00ac6a4dbb58@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260829T134000
-DTEND;TZID=UTC+0200:20260829T135500
-SUMMARY:[Moto2] Q1 - #AragonGP
-UID:a367fa7b-1b95-4d67-ac0b-c007072b827c@a367.org
-DESCRIPTION:Event: GP13 - GRAND PRIX OF ARAGON \nClass: Moto2 \nSession: 
- Qualifying Nr. 1
-LOCATION:MotorLand Aragón\, Spain
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Qualify
+ ing Nr. 1 
+DTEND:20260829T115500Z
+DTSTART:20260829T114000Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Moto2] Q1 #AragonGP
+UID:575626ed-65a0-40d6-9a30-51415993b528@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260829T140500
-DTEND;TZID=UTC+0200:20260829T142000
-SUMMARY:[Moto2] Q2 - #AragonGP
-UID:5f61f641-aacd-4a0b-a55c-fe86fa08ef8a@5f61.org
-DESCRIPTION:Event: GP13 - GRAND PRIX OF ARAGON \nClass: Moto2 \nSession: 
- Qualifying Nr. 2
-LOCATION:MotorLand Aragón\, Spain
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Qualify
+ ing Nr. 2 
+DTEND:20260829T122000Z
+DTSTART:20260829T120500Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Moto2] Q2 #AragonGP
+UID:8ac5f75a-2ba4-4f8b-9e95-f99187d7db5d@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260830T121500
-SUMMARY:[Moto2] RAC - #AragonGP
-UID:5f0306ab-befb-4194-80bf-1bcd1112ede2@5f03.org
-DESCRIPTION:Event: GP13 - GRAND PRIX OF ARAGON \nClass: Moto2 \nSession: 
- Race
-LOCATION:MotorLand Aragón\, Spain
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Race
+DTEND:20260830T110000Z
+DTSTART:20260830T101500Z
+LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
+SUMMARY:[Moto2] RAC #AragonGP
+UID:74352f25-1fe9-4336-b2af-383b19c615ce@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260911T095000
-DTEND;TZID=UTC+0200:20260911T103000
-SUMMARY:[Moto2] FP1 - #SanMarinoGP
-UID:83162f92-b707-4f96-b13f-933bbcc283d2@8316.org
-DESCRIPTION:Event: GP14 - RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI 
- RIVIERA \nClass: Moto2 \nSession: Free Practice Nr. 1
-LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
-URL:https://www.motogp.com/en/calendar/2026/event/san 
- marino/537f71f7-25ea-4cb2-a259-70b0da576cc6
-DTSTAMP:20260316T204410Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIER
+ A \nCategory: Moto2\nSession: Free Practice Nr. 1
+DTEND:20260911T083000Z
+DTSTART:20260911T075000Z
+LOCATION:Misano World Circuit Marco Simoncelli\, Viale Daijiro Kato\, 10\, 
+ 47843 Misano Adriatico RN\, Italy
+SUMMARY:[Moto2] FP1 #SanMarinoGP
+UID:0e2bd6e0-9756-41ef-9bd3-79a76dbf2577@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
+ 4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260911T140500
-DTEND;TZID=UTC+0200:20260911T144500
-SUMMARY:[Moto2] PR - #SanMarinoGP
-UID:0477d0de-1197-473b-837c-c08d29f15613@0477.org
-DESCRIPTION:Event: GP14 - RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI 
- RIVIERA \nClass: Moto2 \nSession: Practice
-LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
-URL:https://www.motogp.com/en/calendar/2026/event/san 
- marino/537f71f7-25ea-4cb2-a259-70b0da576cc6
-DTSTAMP:20260316T204410Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIER
+ A \nCategory: Moto2\nSession: Practice
+DTEND:20260911T124500Z
+DTSTART:20260911T120500Z
+LOCATION:Misano World Circuit Marco Simoncelli\, Viale Daijiro Kato\, 10\, 
+ 47843 Misano Adriatico RN\, Italy
+SUMMARY:[Moto2] PR #SanMarinoGP
+UID:3c90bde3-2d33-451a-b35f-a40e66c0742f@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
+ 4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260912T092500
-DTEND;TZID=UTC+0200:20260912T095500
-SUMMARY:[Moto2] FP2 - #SanMarinoGP
-UID:dbbfadb8-e8f0-47c9-beba-4e76fe270b19@dbbf.org
-DESCRIPTION:Event: GP14 - RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI 
- RIVIERA \nClass: Moto2 \nSession: Free Practice Nr. 2
-LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
-URL:https://www.motogp.com/en/calendar/2026/event/san 
- marino/537f71f7-25ea-4cb2-a259-70b0da576cc6
-DTSTAMP:20260316T204410Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIER
+ A \nCategory: Moto2\nSession: Free Practice Nr. 2
+DTEND:20260912T075500Z
+DTSTART:20260912T072500Z
+LOCATION:Misano World Circuit Marco Simoncelli\, Viale Daijiro Kato\, 10\, 
+ 47843 Misano Adriatico RN\, Italy
+SUMMARY:[Moto2] FP2 #SanMarinoGP
+UID:ad9ac76a-ea71-40a1-b392-9a658fa5b292@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
+ 4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260912T134000
-DTEND;TZID=UTC+0200:20260912T135500
-SUMMARY:[Moto2] Q1 - #SanMarinoGP
-UID:7bf964b6-191a-4dfd-b846-bd01c835af78@7bf9.org
-DESCRIPTION:Event: GP14 - RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI 
- RIVIERA \nClass: Moto2 \nSession: Qualifying Nr. 1
-LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
-URL:https://www.motogp.com/en/calendar/2026/event/san 
- marino/537f71f7-25ea-4cb2-a259-70b0da576cc6
-DTSTAMP:20260316T204410Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIER
+ A \nCategory: Moto2\nSession: Qualifying Nr. 1 
+DTEND:20260912T115500Z
+DTSTART:20260912T114000Z
+LOCATION:Misano World Circuit Marco Simoncelli\, Viale Daijiro Kato\, 10\, 
+ 47843 Misano Adriatico RN\, Italy
+SUMMARY:[Moto2] Q1 #SanMarinoGP
+UID:6c0aa843-697b-40d5-9a03-4b0800fb510e@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
+ 4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260912T140500
-DTEND;TZID=UTC+0200:20260912T142000
-SUMMARY:[Moto2] Q2 - #SanMarinoGP
-UID:e689a499-97a8-4087-ae2f-25ac53e5d5e2@e689.org
-DESCRIPTION:Event: GP14 - RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI 
- RIVIERA \nClass: Moto2 \nSession: Qualifying Nr. 2
-LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
-URL:https://www.motogp.com/en/calendar/2026/event/san 
- marino/537f71f7-25ea-4cb2-a259-70b0da576cc6
-DTSTAMP:20260316T204410Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIER
+ A \nCategory: Moto2\nSession: Qualifying Nr. 2 
+DTEND:20260912T122000Z
+DTSTART:20260912T120500Z
+LOCATION:Misano World Circuit Marco Simoncelli\, Viale Daijiro Kato\, 10\, 
+ 47843 Misano Adriatico RN\, Italy
+SUMMARY:[Moto2] Q2 #SanMarinoGP
+UID:478609e5-1493-4579-bfb0-e5441f719fbc@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
+ 4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260913T121500
-SUMMARY:[Moto2] RAC - #SanMarinoGP
-UID:ef900670-00d1-429d-b294-0ab94e1693e3@ef90.org
-DESCRIPTION:Event: GP14 - RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI 
- RIVIERA \nClass: Moto2 \nSession: Race
-LOCATION:Misano World Circuit Marco Simoncelli\, Santa Monica-Cella\, Italy
-URL:https://www.motogp.com/en/calendar/2026/event/san 
- marino/537f71f7-25ea-4cb2-a259-70b0da576cc6
-DTSTAMP:20260316T204410Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIER
+ A \nCategory: Moto2\nSession: Race
+DTEND:20260913T110000Z
+DTSTART:20260913T101500Z
+LOCATION:Misano World Circuit Marco Simoncelli\, Viale Daijiro Kato\, 10\, 
+ 47843 Misano Adriatico RN\, Italy
+SUMMARY:[Moto2] RAC #SanMarinoGP
+UID:6cdf55f6-9224-406f-9a7c-2895e3cf9875@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
+ 4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260918T095000
-DTEND;TZID=UTC+0200:20260918T103000
-SUMMARY:[Moto2] FP1 - #AustrianGP
-UID:046114a6-bdef-47f2-84da-e89d64d7f664@0461.org
-DESCRIPTION:Event: GP15 - GRAND PRIX OF AUSTRIA \nClass: Moto2 \nSession: 
- Free Practice Nr. 1
-LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
-URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-
- 402c-ba1e-33fa14670cbe
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto2\nSession: Free P
+ ractice Nr. 1
+DTEND:20260918T083000Z
+DTSTART:20260918T075000Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Moto2] FP1 #AustrianGP
+UID:431a9bf8-de63-4c2d-9a87-56efdf28fd01@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260918T140500
-DTEND;TZID=UTC+0200:20260918T144500
-SUMMARY:[Moto2] PR - #AustrianGP
-UID:21e15fac-811a-42be-b258-7a0e3071e674@21e1.org
-DESCRIPTION:Event: GP15 - GRAND PRIX OF AUSTRIA \nClass: Moto2 \nSession: 
- Practice
-LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
-URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-
- 402c-ba1e-33fa14670cbe
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto2\nSession: Practi
+ ce
+DTEND:20260918T124500Z
+DTSTART:20260918T120500Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Moto2] PR #AustrianGP
+UID:4e09a67b-5bdf-4372-9997-8c4a9eb0b891@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260919T092500
-DTEND;TZID=UTC+0200:20260919T095500
-SUMMARY:[Moto2] FP2 - #AustrianGP
-UID:9a19137c-a199-4ce0-bff3-a7a51c0592e7@9a19.org
-DESCRIPTION:Event: GP15 - GRAND PRIX OF AUSTRIA \nClass: Moto2 \nSession: 
- Free Practice Nr. 2
-LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
-URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-
- 402c-ba1e-33fa14670cbe
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto2\nSession: Free P
+ ractice Nr. 2
+DTEND:20260919T075500Z
+DTSTART:20260919T072500Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Moto2] FP2 #AustrianGP
+UID:5d61e2da-f2f7-4c95-9af9-3736cdc34024@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260919T134000
-DTEND;TZID=UTC+0200:20260919T135500
-SUMMARY:[Moto2] Q1 - #AustrianGP
-UID:650a95ae-8874-4fa8-a6cd-4dd4e6ee2370@650a.org
-DESCRIPTION:Event: GP15 - GRAND PRIX OF AUSTRIA \nClass: Moto2 \nSession: 
- Qualifying Nr. 1
-LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
-URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-
- 402c-ba1e-33fa14670cbe
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto2\nSession: Qualif
+ ying Nr. 1 
+DTEND:20260919T115500Z
+DTSTART:20260919T114000Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Moto2] Q1 #AustrianGP
+UID:a6b7305a-3620-4856-8368-1821a99fae6f@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260919T140500
-DTEND;TZID=UTC+0200:20260919T142000
-SUMMARY:[Moto2] Q2 - #AustrianGP
-UID:84cc7483-4e2f-4d1e-bcc3-4d17da3681bb@84cc.org
-DESCRIPTION:Event: GP15 - GRAND PRIX OF AUSTRIA \nClass: Moto2 \nSession: 
- Qualifying Nr. 2
-LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
-URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-
- 402c-ba1e-33fa14670cbe
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto2\nSession: Qualif
+ ying Nr. 2 
+DTEND:20260919T122000Z
+DTSTART:20260919T120500Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Moto2] Q2 #AustrianGP
+UID:90a7976e-91da-49d2-9cdf-716062d92fef@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260920T121500
-SUMMARY:[Moto2] RAC - #AustrianGP
-UID:89339d14-8341-4a49-acff-734b9f32f9b7@8933.org
-DESCRIPTION:Event: GP15 - GRAND PRIX OF AUSTRIA \nClass: Moto2 \nSession: 
- Race
-LOCATION:Red Bull Ring - Spielberg\, Spielberg\, Austria
-URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-
- 402c-ba1e-33fa14670cbe
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto2\nSession: Race
+DTEND:20260920T110000Z
+DTSTART:20260920T101500Z
+LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
+ , Austria
+SUMMARY:[Moto2] RAC #AustrianGP
+UID:f54efa9d-c105-4d2e-972d-657351c4e1ca@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
+ c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0900:20261002T095000
-DTEND;TZID=UTC+0900:20261002T103000
-SUMMARY:[Moto2] FP1 - #JapaneseGP
-UID:8134f468-56f9-45a3-9dae-bf6e1420d0a1@8134.org
-DESCRIPTION:Event: GP16 - MOTUL GRAND PRIX OF JAPAN \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Mobility Resort Motegi\, Motegi\, Japan
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF JAPAN \nCategory: Moto2\nSession: Fr
+ ee Practice Nr. 1
+DTEND:20261002T013000Z
+DTSTART:20261002T005000Z
+LOCATION:Mobility Resort Motegi\, Mobility Resort Motegi\, 120-1 Hiyama\, M
+ otegi\, Haga District\, Tochigi 321-3533\, Japan
+SUMMARY:[Moto2] FP1 #JapaneseGP
+UID:16e0eef7-ba97-43f1-b131-d00f298020e1@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/japan/a87453f0-3ed0-4469-
  993a-1486af92d879
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0900:20261002T140500
-DTEND;TZID=UTC+0900:20261002T144500
-SUMMARY:[Moto2] PR - #JapaneseGP
-UID:fd085b64-0484-4f4b-8f0c-57178290f77e@fd08.org
-DESCRIPTION:Event: GP16 - MOTUL GRAND PRIX OF JAPAN \nClass: Moto2 
- \nSession: Practice
-LOCATION:Mobility Resort Motegi\, Motegi\, Japan
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF JAPAN \nCategory: Moto2\nSession: Pr
+ actice
+DTEND:20261002T054500Z
+DTSTART:20261002T050500Z
+LOCATION:Mobility Resort Motegi\, Mobility Resort Motegi\, 120-1 Hiyama\, M
+ otegi\, Haga District\, Tochigi 321-3533\, Japan
+SUMMARY:[Moto2] PR #JapaneseGP
+UID:602896fa-ef85-4d09-9da8-8237400ebcf4@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/japan/a87453f0-3ed0-4469-
  993a-1486af92d879
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0900:20261003T092500
-DTEND;TZID=UTC+0900:20261003T095500
-SUMMARY:[Moto2] FP2 - #JapaneseGP
-UID:f7e25d69-d764-4151-8a01-e935e0ed63fc@f7e2.org
-DESCRIPTION:Event: GP16 - MOTUL GRAND PRIX OF JAPAN \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Mobility Resort Motegi\, Motegi\, Japan
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF JAPAN \nCategory: Moto2\nSession: Fr
+ ee Practice Nr. 2
+DTEND:20261003T005500Z
+DTSTART:20261003T002500Z
+LOCATION:Mobility Resort Motegi\, Mobility Resort Motegi\, 120-1 Hiyama\, M
+ otegi\, Haga District\, Tochigi 321-3533\, Japan
+SUMMARY:[Moto2] FP2 #JapaneseGP
+UID:43c63506-54eb-4a77-a2d5-77cc403bd123@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/japan/a87453f0-3ed0-4469-
  993a-1486af92d879
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0900:20261003T134000
-DTEND;TZID=UTC+0900:20261003T135500
-SUMMARY:[Moto2] Q1 - #JapaneseGP
-UID:706a923d-4516-4baf-af8c-8b85fbc2cf61@706a.org
-DESCRIPTION:Event: GP16 - MOTUL GRAND PRIX OF JAPAN \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Mobility Resort Motegi\, Motegi\, Japan
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF JAPAN \nCategory: Moto2\nSession: Qu
+ alifying Nr. 1 
+DTEND:20261003T045500Z
+DTSTART:20261003T044000Z
+LOCATION:Mobility Resort Motegi\, Mobility Resort Motegi\, 120-1 Hiyama\, M
+ otegi\, Haga District\, Tochigi 321-3533\, Japan
+SUMMARY:[Moto2] Q1 #JapaneseGP
+UID:58cd8565-fa48-41b7-b737-63a5739a681a@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/japan/a87453f0-3ed0-4469-
  993a-1486af92d879
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0900:20261003T140500
-DTEND;TZID=UTC+0900:20261003T142000
-SUMMARY:[Moto2] Q2 - #JapaneseGP
-UID:0a4c6e80-fd9a-4ed6-8e2b-b7e8fd7a87ce@0a4c.org
-DESCRIPTION:Event: GP16 - MOTUL GRAND PRIX OF JAPAN \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Mobility Resort Motegi\, Motegi\, Japan
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF JAPAN \nCategory: Moto2\nSession: Qu
+ alifying Nr. 2 
+DTEND:20261003T052000Z
+DTSTART:20261003T050500Z
+LOCATION:Mobility Resort Motegi\, Mobility Resort Motegi\, 120-1 Hiyama\, M
+ otegi\, Haga District\, Tochigi 321-3533\, Japan
+SUMMARY:[Moto2] Q2 #JapaneseGP
+UID:b734cbc0-32e8-4859-8872-87b94d881663@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/japan/a87453f0-3ed0-4469-
  993a-1486af92d879
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0900:20261004T121500
-SUMMARY:[Moto2] RAC - #JapaneseGP
-UID:2c13ba60-744a-4670-9823-eb32018649e1@2c13.org
-DESCRIPTION:Event: GP16 - MOTUL GRAND PRIX OF JAPAN \nClass: Moto2 
- \nSession: Race
-LOCATION:Mobility Resort Motegi\, Motegi\, Japan
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF JAPAN \nCategory: Moto2\nSession: Ra
+ ce
+DTEND:20261004T040000Z
+DTSTART:20261004T031500Z
+LOCATION:Mobility Resort Motegi\, Mobility Resort Motegi\, 120-1 Hiyama\, M
+ otegi\, Haga District\, Tochigi 321-3533\, Japan
+SUMMARY:[Moto2] RAC #JapaneseGP
+UID:bdae0745-deac-4ba2-9879-afcf103824da@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/japan/a87453f0-3ed0-4469-
  993a-1486af92d879
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261009T095000
-DTEND;TZID=UTC+0800:20261009T103000
-SUMMARY:[Moto2] FP1 - #IndonesianGP
-UID:1c15fd0c-c931-4d48-b67f-62ac9e0410ee@1c15.org
-DESCRIPTION:Event: GP17 - PERTAMINA GRAND PRIX OF INDONESIA \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Pertamina Mandalika International Circuit\, Indonesia
-URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-
- 4847-bacf-2290d7cc903c
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PERTAMINA GRAND PRIX OF INDONESIA \nCategory: Moto2\nSes
+ sion: Free Practice Nr. 1
+DTEND:20261009T023000Z
+DTSTART:20261009T015000Z
+LOCATION:Pertamina Mandalika International Circuit\, Lombok\, West Nusa Ten
+ ggara\, Indonesia
+SUMMARY:[Moto2] FP1 #IndonesianGP
+UID:84d987ed-9e9c-493b-9f0b-7a6f75139d2d@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-4
+ 847-bacf-2290d7cc903c
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261009T140500
-DTEND;TZID=UTC+0800:20261009T144500
-SUMMARY:[Moto2] PR - #IndonesianGP
-UID:c1a0813c-0be5-4154-9ddb-d4b3ba223b5b@c1a0.org
-DESCRIPTION:Event: GP17 - PERTAMINA GRAND PRIX OF INDONESIA \nClass: Moto2 
- \nSession: Practice
-LOCATION:Pertamina Mandalika International Circuit\, Indonesia
-URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-
- 4847-bacf-2290d7cc903c
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PERTAMINA GRAND PRIX OF INDONESIA \nCategory: Moto2\nSes
+ sion: Practice
+DTEND:20261009T064500Z
+DTSTART:20261009T060500Z
+LOCATION:Pertamina Mandalika International Circuit\, Lombok\, West Nusa Ten
+ ggara\, Indonesia
+SUMMARY:[Moto2] PR #IndonesianGP
+UID:f550c798-b2bb-48e6-86b9-fd9eac556a65@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-4
+ 847-bacf-2290d7cc903c
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261010T092500
-DTEND;TZID=UTC+0800:20261010T095500
-SUMMARY:[Moto2] FP2 - #IndonesianGP
-UID:34fee041-6969-4fc9-9409-6c43ffe6c45c@34fe.org
-DESCRIPTION:Event: GP17 - PERTAMINA GRAND PRIX OF INDONESIA \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Pertamina Mandalika International Circuit\, Indonesia
-URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-
- 4847-bacf-2290d7cc903c
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PERTAMINA GRAND PRIX OF INDONESIA \nCategory: Moto2\nSes
+ sion: Free Practice Nr. 2
+DTEND:20261010T015500Z
+DTSTART:20261010T012500Z
+LOCATION:Pertamina Mandalika International Circuit\, Lombok\, West Nusa Ten
+ ggara\, Indonesia
+SUMMARY:[Moto2] FP2 #IndonesianGP
+UID:d7a9eac5-a24a-4b87-a8c6-5fb279ba62db@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-4
+ 847-bacf-2290d7cc903c
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261010T134000
-DTEND;TZID=UTC+0800:20261010T135500
-SUMMARY:[Moto2] Q1 - #IndonesianGP
-UID:643c9a6c-bcfc-4234-bd11-c0238337e2c1@643c.org
-DESCRIPTION:Event: GP17 - PERTAMINA GRAND PRIX OF INDONESIA \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Pertamina Mandalika International Circuit\, Indonesia
-URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-
- 4847-bacf-2290d7cc903c
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PERTAMINA GRAND PRIX OF INDONESIA \nCategory: Moto2\nSes
+ sion: Qualifying Nr. 1 
+DTEND:20261010T055500Z
+DTSTART:20261010T054000Z
+LOCATION:Pertamina Mandalika International Circuit\, Lombok\, West Nusa Ten
+ ggara\, Indonesia
+SUMMARY:[Moto2] Q1 #IndonesianGP
+UID:d7bfd052-7635-46db-a77a-cac9b05e76d5@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-4
+ 847-bacf-2290d7cc903c
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261010T140500
-DTEND;TZID=UTC+0800:20261010T142000
-SUMMARY:[Moto2] Q2 - #IndonesianGP
-UID:c30e40c0-8c2c-42c9-9e3c-bdb222f6de35@c30e.org
-DESCRIPTION:Event: GP17 - PERTAMINA GRAND PRIX OF INDONESIA \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Pertamina Mandalika International Circuit\, Indonesia
-URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-
- 4847-bacf-2290d7cc903c
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PERTAMINA GRAND PRIX OF INDONESIA \nCategory: Moto2\nSes
+ sion: Qualifying Nr. 2 
+DTEND:20261010T062000Z
+DTSTART:20261010T060500Z
+LOCATION:Pertamina Mandalika International Circuit\, Lombok\, West Nusa Ten
+ ggara\, Indonesia
+SUMMARY:[Moto2] Q2 #IndonesianGP
+UID:066a3e6a-2d24-4e35-ab5d-9f6181183d85@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-4
+ 847-bacf-2290d7cc903c
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261011T121500
-SUMMARY:[Moto2] RAC - #IndonesianGP
-UID:ea9abb49-9a47-4cd4-9987-c50229cba9a0@ea9a.org
-DESCRIPTION:Event: GP17 - PERTAMINA GRAND PRIX OF INDONESIA \nClass: Moto2 
- \nSession: Race
-LOCATION:Pertamina Mandalika International Circuit\, Indonesia
-URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-
- 4847-bacf-2290d7cc903c
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PERTAMINA GRAND PRIX OF INDONESIA \nCategory: Moto2\nSes
+ sion: Race
+DTEND:20261011T050000Z
+DTSTART:20261011T041500Z
+LOCATION:Pertamina Mandalika International Circuit\, Lombok\, West Nusa Ten
+ ggara\, Indonesia
+SUMMARY:[Moto2] RAC #IndonesianGP
+UID:8b582072-0395-4c11-a123-4bce064f2532@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-4
+ 847-bacf-2290d7cc903c
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+1100:20261023T095000
-DTEND;TZID=UTC+1100:20261023T103000
-SUMMARY:[Moto2] FP1 - #AustralianGP
-UID:ade740b6-8a7e-4e57-97f3-2aad5e03ff24@ade7.org
-DESCRIPTION:Event: GP18 - GRAND PRIX OF AUSTRALIA \nClass: Moto2 \nSession:
-  Free Practice Nr. 1
-LOCATION:Phillip Island\, Australia
-URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-
- 4455-9d65-f99c49d25b17
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto2\nSession: Fre
+ e Practice Nr. 1
+DTEND:20261022T233000Z
+DTSTART:20261022T225000Z
+LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
+SUMMARY:[Moto2] FP1 #AustralianGP
+UID:33bc35e5-0bf4-4619-8a6e-ca63add82641@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
+ 455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+1100:20261023T140500
-DTEND;TZID=UTC+1100:20261023T144500
-SUMMARY:[Moto2] PR - #AustralianGP
-UID:38a79193-a815-4f3e-8900-332340e85eb4@38a7.org
-DESCRIPTION:Event: GP18 - GRAND PRIX OF AUSTRALIA \nClass: Moto2 \nSession:
-  Practice
-LOCATION:Phillip Island\, Australia
-URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-
- 4455-9d65-f99c49d25b17
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto2\nSession: Prac
+ tice
+DTEND:20261023T034500Z
+DTSTART:20261023T030500Z
+LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
+SUMMARY:[Moto2] PR #AustralianGP
+UID:099a2492-b46c-4170-8649-9b3640dfbb8d@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
+ 455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+1100:20261024T092500
-DTEND;TZID=UTC+1100:20261024T095500
-SUMMARY:[Moto2] FP2 - #AustralianGP
-UID:6ab7ebd7-c382-40a3-8d26-9e3a0421e9cd@6ab7.org
-DESCRIPTION:Event: GP18 - GRAND PRIX OF AUSTRALIA \nClass: Moto2 \nSession:
-  Free Practice Nr. 2
-LOCATION:Phillip Island\, Australia
-URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-
- 4455-9d65-f99c49d25b17
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto2\nSession: Fre
+ e Practice Nr. 2
+DTEND:20261023T225500Z
+DTSTART:20261023T222500Z
+LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
+SUMMARY:[Moto2] FP2 #AustralianGP
+UID:59a02e82-33b5-4ab0-a310-97ed6761fd64@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
+ 455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+1100:20261024T134000
-DTEND;TZID=UTC+1100:20261024T135500
-SUMMARY:[Moto2] Q1 - #AustralianGP
-UID:3e393cb3-cf32-4b6a-8662-3aa0e42f0457@3e39.org
-DESCRIPTION:Event: GP18 - GRAND PRIX OF AUSTRALIA \nClass: Moto2 \nSession:
-  Qualifying Nr. 1
-LOCATION:Phillip Island\, Australia
-URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-
- 4455-9d65-f99c49d25b17
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto2\nSession: Qual
+ ifying Nr. 1 
+DTEND:20261024T025500Z
+DTSTART:20261024T024000Z
+LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
+SUMMARY:[Moto2] Q1 #AustralianGP
+UID:45bb86be-e9e1-4168-9d0e-4705fa934869@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
+ 455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+1100:20261024T140500
-DTEND;TZID=UTC+1100:20261024T142000
-SUMMARY:[Moto2] Q2 - #AustralianGP
-UID:62d17fe0-3476-43e4-b010-0c99c08668cd@62d1.org
-DESCRIPTION:Event: GP18 - GRAND PRIX OF AUSTRALIA \nClass: Moto2 \nSession:
-  Qualifying Nr. 2
-LOCATION:Phillip Island\, Australia
-URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-
- 4455-9d65-f99c49d25b17
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto2\nSession: Qual
+ ifying Nr. 2 
+DTEND:20261024T032000Z
+DTSTART:20261024T030500Z
+LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
+SUMMARY:[Moto2] Q2 #AustralianGP
+UID:af787386-65b6-4dcd-af98-1207d39f822a@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
+ 455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+1100:20261025T121500
-SUMMARY:[Moto2] RAC - #AustralianGP
-UID:8dfc9b14-ce45-49f9-9ace-8471653d935b@8dfc.org
-DESCRIPTION:Event: GP18 - GRAND PRIX OF AUSTRALIA \nClass: Moto2 \nSession:
-  Race
-LOCATION:Phillip Island\, Australia
-URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-
- 4455-9d65-f99c49d25b17
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto2\nSession: Race
+DTEND:20261025T020000Z
+DTSTART:20261025T011500Z
+LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
+SUMMARY:[Moto2] RAC #AustralianGP
+UID:8ca6b9c1-099a-4a7d-8ff1-f6da65b71d10@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
+ 455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261030T095000
-DTEND;TZID=UTC+0800:20261030T103000
-SUMMARY:[Moto2] FP1 - #MalaysianGP
-UID:e9db7589-1923-4f2a-bdad-489bc6b2999c@e9db.org
-DESCRIPTION:Event: GP19 - PETRONAS GRAND PRIX OF MALAYSIA \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
-URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-
- 4d4a-9532-99c82547baad
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PETRONAS GRAND PRIX OF MALAYSIA \nCategory: Moto2\nSessi
+ on: Free Practice Nr. 1
+DTEND:20261030T023000Z
+DTSTART:20261030T015000Z
+LOCATION:Petronas Sepang International Circuit\, Jalan Pekeliling\, 64000 S
+ epang\, Selangor\, Malaysia
+SUMMARY:[Moto2] FP1 #MalaysianGP
+UID:cb2149c8-e8a9-439b-afea-bc84e370d164@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-4d
+ 4a-9532-99c82547baad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261030T140500
-DTEND;TZID=UTC+0800:20261030T144500
-SUMMARY:[Moto2] PR - #MalaysianGP
-UID:211eff27-73da-41b5-9ae0-d78c7e758110@211e.org
-DESCRIPTION:Event: GP19 - PETRONAS GRAND PRIX OF MALAYSIA \nClass: Moto2 
- \nSession: Practice
-LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
-URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-
- 4d4a-9532-99c82547baad
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PETRONAS GRAND PRIX OF MALAYSIA \nCategory: Moto2\nSessi
+ on: Practice
+DTEND:20261030T064500Z
+DTSTART:20261030T060500Z
+LOCATION:Petronas Sepang International Circuit\, Jalan Pekeliling\, 64000 S
+ epang\, Selangor\, Malaysia
+SUMMARY:[Moto2] PR #MalaysianGP
+UID:4990781c-6519-40b4-8cbb-47b4edf847a6@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-4d
+ 4a-9532-99c82547baad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261031T092500
-DTEND;TZID=UTC+0800:20261031T095500
-SUMMARY:[Moto2] FP2 - #MalaysianGP
-UID:07ff2572-f6bd-4050-b8cf-091c7b290911@07ff.org
-DESCRIPTION:Event: GP19 - PETRONAS GRAND PRIX OF MALAYSIA \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
-URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-
- 4d4a-9532-99c82547baad
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PETRONAS GRAND PRIX OF MALAYSIA \nCategory: Moto2\nSessi
+ on: Free Practice Nr. 2
+DTEND:20261031T015500Z
+DTSTART:20261031T012500Z
+LOCATION:Petronas Sepang International Circuit\, Jalan Pekeliling\, 64000 S
+ epang\, Selangor\, Malaysia
+SUMMARY:[Moto2] FP2 #MalaysianGP
+UID:03883752-e8b6-42d2-9ee7-29bddcfacd9d@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-4d
+ 4a-9532-99c82547baad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261031T134000
-DTEND;TZID=UTC+0800:20261031T135500
-SUMMARY:[Moto2] Q1 - #MalaysianGP
-UID:4fc37560-f400-4279-80e5-650ff4e66cae@4fc3.org
-DESCRIPTION:Event: GP19 - PETRONAS GRAND PRIX OF MALAYSIA \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
-URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-
- 4d4a-9532-99c82547baad
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PETRONAS GRAND PRIX OF MALAYSIA \nCategory: Moto2\nSessi
+ on: Qualifying Nr. 1 
+DTEND:20261031T055500Z
+DTSTART:20261031T054000Z
+LOCATION:Petronas Sepang International Circuit\, Jalan Pekeliling\, 64000 S
+ epang\, Selangor\, Malaysia
+SUMMARY:[Moto2] Q1 #MalaysianGP
+UID:a19722f3-4642-4a0d-9b0d-7650b6b67f5a@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-4d
+ 4a-9532-99c82547baad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261031T140500
-DTEND;TZID=UTC+0800:20261031T142000
-SUMMARY:[Moto2] Q2 - #MalaysianGP
-UID:e17f2fba-3405-4e43-a825-a7406dca8256@e17f.org
-DESCRIPTION:Event: GP19 - PETRONAS GRAND PRIX OF MALAYSIA \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
-URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-
- 4d4a-9532-99c82547baad
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PETRONAS GRAND PRIX OF MALAYSIA \nCategory: Moto2\nSessi
+ on: Qualifying Nr. 2 
+DTEND:20261031T062000Z
+DTSTART:20261031T060500Z
+LOCATION:Petronas Sepang International Circuit\, Jalan Pekeliling\, 64000 S
+ epang\, Selangor\, Malaysia
+SUMMARY:[Moto2] Q2 #MalaysianGP
+UID:43989866-f93e-4bb2-9179-07b962ceab68@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-4d
+ 4a-9532-99c82547baad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0800:20261101T131500
-SUMMARY:[Moto2] RAC - #MalaysianGP
-UID:a74f5ea2-302f-472f-8a7c-d9b995642ce6@a74f.org
-DESCRIPTION:Event: GP19 - PETRONAS GRAND PRIX OF MALAYSIA \nClass: Moto2 
- \nSession: Race
-LOCATION:Petronas Sepang International Circuit\, Sepang\, Malaysia
-URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-
- 4d4a-9532-99c82547baad
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: PETRONAS GRAND PRIX OF MALAYSIA \nCategory: Moto2\nSessi
+ on: Race
+DTEND:20261101T060000Z
+DTSTART:20261101T051500Z
+LOCATION:Petronas Sepang International Circuit\, Jalan Pekeliling\, 64000 S
+ epang\, Selangor\, Malaysia
+SUMMARY:[Moto2] RAC #MalaysianGP
+UID:a5ab31bd-807f-4341-a562-9058436c29c2@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/malaysia/d1aedfce-d7c8-4d
+ 4a-9532-99c82547baad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0300:20261106T145000
-DTEND;TZID=UTC+0300:20261106T153000
-SUMMARY:[Moto2] FP1 - #QatarGP
-UID:a9805eeb-afd4-4074-9687-686bdf30014b@a980.org
-DESCRIPTION:Event: GP20 - QATAR AIRWAYS GRAND PRIX OF QATAR \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Lusail International Circuit\, Doha\, Qatar
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF QATAR \nCategory: Moto2\nSes
+ sion: Free Practice Nr. 1
+DTEND:20261106T123000Z
+DTSTART:20261106T115000Z
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road، Doh
+ a\, Qatar
+SUMMARY:[Moto2] FP1 #QatarGP
+UID:cdfffd26-3797-46ae-90ab-77f2af4b7393@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/qatar/3f3d3f5e-851c-42d2-
  887a-8ce8b41fa908
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0300:20261106T190500
-DTEND;TZID=UTC+0300:20261106T194500
-SUMMARY:[Moto2] PR - #QatarGP
-UID:0220304f-5fd4-4af9-ad95-e5adcdf4f008@0220.org
-DESCRIPTION:Event: GP20 - QATAR AIRWAYS GRAND PRIX OF QATAR \nClass: Moto2 
- \nSession: Practice
-LOCATION:Lusail International Circuit\, Doha\, Qatar
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF QATAR \nCategory: Moto2\nSes
+ sion: Practice
+DTEND:20261106T164500Z
+DTSTART:20261106T160500Z
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road، Doh
+ a\, Qatar
+SUMMARY:[Moto2] PR #QatarGP
+UID:dbca4203-aa51-4e28-a0e2-b4052abc5580@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/qatar/3f3d3f5e-851c-42d2-
  887a-8ce8b41fa908
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0300:20261107T141500
-DTEND;TZID=UTC+0300:20261107T144500
-SUMMARY:[Moto2] FP2 - #QatarGP
-UID:bb5c7ca3-2ce2-4249-82a2-d82e07b370c7@bb5c.org
-DESCRIPTION:Event: GP20 - QATAR AIRWAYS GRAND PRIX OF QATAR \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Lusail International Circuit\, Doha\, Qatar
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF QATAR \nCategory: Moto2\nSes
+ sion: Free Practice Nr. 2
+DTEND:20261107T114500Z
+DTSTART:20261107T111500Z
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road، Doh
+ a\, Qatar
+SUMMARY:[Moto2] FP2 #QatarGP
+UID:28312009-3486-4592-be7f-df5582328e6e@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/qatar/3f3d3f5e-851c-42d2-
  887a-8ce8b41fa908
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0300:20261107T184000
-DTEND;TZID=UTC+0300:20261107T185500
-SUMMARY:[Moto2] Q1 - #QatarGP
-UID:099090e5-6b04-41dc-8e64-a0ec0aead35e@0990.org
-DESCRIPTION:Event: GP20 - QATAR AIRWAYS GRAND PRIX OF QATAR \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Lusail International Circuit\, Doha\, Qatar
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF QATAR \nCategory: Moto2\nSes
+ sion: Qualifying Nr. 1 
+DTEND:20261107T155500Z
+DTSTART:20261107T154000Z
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road، Doh
+ a\, Qatar
+SUMMARY:[Moto2] Q1 #QatarGP
+UID:b4ff245e-58d4-4b0b-9ded-408db1a92752@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/qatar/3f3d3f5e-851c-42d2-
  887a-8ce8b41fa908
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0300:20261107T190500
-DTEND;TZID=UTC+0300:20261107T192000
-SUMMARY:[Moto2] Q2 - #QatarGP
-UID:32e6c833-a556-4371-8f97-e44805f8a0e9@32e6.org
-DESCRIPTION:Event: GP20 - QATAR AIRWAYS GRAND PRIX OF QATAR \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Lusail International Circuit\, Doha\, Qatar
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF QATAR \nCategory: Moto2\nSes
+ sion: Qualifying Nr. 2 
+DTEND:20261107T162000Z
+DTSTART:20261107T160500Z
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road، Doh
+ a\, Qatar
+SUMMARY:[Moto2] Q2 #QatarGP
+UID:0a1e6dac-0c28-45cc-8b11-b72a98b762bb@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/qatar/3f3d3f5e-851c-42d2-
  887a-8ce8b41fa908
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0300:20261108T181500
-SUMMARY:[Moto2] RAC - #QatarGP
-UID:55f8d59a-3a30-47d8-8c50-ba92213df40a@55f8.org
-DESCRIPTION:Event: GP20 - QATAR AIRWAYS GRAND PRIX OF QATAR \nClass: Moto2 
- \nSession: Race
-LOCATION:Lusail International Circuit\, Doha\, Qatar
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF QATAR \nCategory: Moto2\nSes
+ sion: Race
+DTEND:20261108T160000Z
+DTSTART:20261108T151500Z
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road، Doh
+ a\, Qatar
+SUMMARY:[Moto2] RAC #QatarGP
+UID:9c251fa0-c90d-4ff1-90b7-413604c5e84d@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/qatar/3f3d3f5e-851c-42d2-
  887a-8ce8b41fa908
-DTSTAMP:20260207T091726Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261120T095000Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: REPSOL GRAND PRIX OF PORTUGAL \nCategory: Moto2\nSession
+ : Free Practice Nr. 1
 DTEND:20261120T103000Z
-SUMMARY:[Moto2] FP1 - #PortugueseGP
-UID:443695ce-a9ef-40f5-969b-d42277fd5fd2@4436.org
-DESCRIPTION:Event: GP21 - REPSOL GRAND PRIX OF PORTUGAL \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
-URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-
- 4a6f-813e-7ad2c68302a3
-DTSTAMP:20260207T091726Z
+DTSTART:20261120T095000Z
+LOCATION:Autódromo Internacional do Algarve\, Sítio do Escampadinho\, Mex
+ ilhoeira Grande\, 8500-148 Portimão\, Portugal
+SUMMARY:[Moto2] FP1 #PortugueseGP
+UID:5b87f68f-0108-478e-b900-f16293edfbd9@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-4a
+ 6f-813e-7ad2c68302a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261120T140500Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: REPSOL GRAND PRIX OF PORTUGAL \nCategory: Moto2\nSession
+ : Practice
 DTEND:20261120T144500Z
-SUMMARY:[Moto2] PR - #PortugueseGP
-UID:d9637ab6-bcd4-4194-808c-47029b1e2456@d963.org
-DESCRIPTION:Event: GP21 - REPSOL GRAND PRIX OF PORTUGAL \nClass: Moto2 
- \nSession: Practice
-LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
-URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-
- 4a6f-813e-7ad2c68302a3
-DTSTAMP:20260207T091726Z
+DTSTART:20261120T140500Z
+LOCATION:Autódromo Internacional do Algarve\, Sítio do Escampadinho\, Mex
+ ilhoeira Grande\, 8500-148 Portimão\, Portugal
+SUMMARY:[Moto2] PR #PortugueseGP
+UID:50ceefb4-f367-4956-a26e-5371bf8875b3@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-4a
+ 6f-813e-7ad2c68302a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261121T092500Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: REPSOL GRAND PRIX OF PORTUGAL \nCategory: Moto2\nSession
+ : Free Practice Nr. 2
 DTEND:20261121T095500Z
-SUMMARY:[Moto2] FP2 - #PortugueseGP
-UID:536407f2-f461-44e2-aaa6-b2b61ce0a86e@5364.org
-DESCRIPTION:Event: GP21 - REPSOL GRAND PRIX OF PORTUGAL \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
-URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-
- 4a6f-813e-7ad2c68302a3
-DTSTAMP:20260207T091726Z
+DTSTART:20261121T092500Z
+LOCATION:Autódromo Internacional do Algarve\, Sítio do Escampadinho\, Mex
+ ilhoeira Grande\, 8500-148 Portimão\, Portugal
+SUMMARY:[Moto2] FP2 #PortugueseGP
+UID:4ed0d2b8-8ca8-484f-90f2-43090db5c607@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-4a
+ 6f-813e-7ad2c68302a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261121T134000Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: REPSOL GRAND PRIX OF PORTUGAL \nCategory: Moto2\nSession
+ : Qualifying Nr. 1 
 DTEND:20261121T135500Z
-SUMMARY:[Moto2] Q1 - #PortugueseGP
-UID:c1cc1442-74ff-4374-a12c-54a0fe2360cc@c1cc.org
-DESCRIPTION:Event: GP21 - REPSOL GRAND PRIX OF PORTUGAL \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
-URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-
- 4a6f-813e-7ad2c68302a3
-DTSTAMP:20260207T091726Z
+DTSTART:20261121T134000Z
+LOCATION:Autódromo Internacional do Algarve\, Sítio do Escampadinho\, Mex
+ ilhoeira Grande\, 8500-148 Portimão\, Portugal
+SUMMARY:[Moto2] Q1 #PortugueseGP
+UID:3988d286-3b2d-47d6-9a4a-ab1cf8841593@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-4a
+ 6f-813e-7ad2c68302a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261121T140500Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: REPSOL GRAND PRIX OF PORTUGAL \nCategory: Moto2\nSession
+ : Qualifying Nr. 2 
 DTEND:20261121T142000Z
-SUMMARY:[Moto2] Q2 - #PortugueseGP
-UID:9110f217-9f41-4ad4-bb5e-8beed4636be1@9110.org
-DESCRIPTION:Event: GP21 - REPSOL GRAND PRIX OF PORTUGAL \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
-URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-
- 4a6f-813e-7ad2c68302a3
-DTSTAMP:20260207T091726Z
+DTSTART:20261121T140500Z
+LOCATION:Autódromo Internacional do Algarve\, Sítio do Escampadinho\, Mex
+ ilhoeira Grande\, 8500-148 Portimão\, Portugal
+SUMMARY:[Moto2] Q2 #PortugueseGP
+UID:3cb6174d-979f-4de1-a064-4fd85abcd9a6@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-4a
+ 6f-813e-7ad2c68302a3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: REPSOL GRAND PRIX OF PORTUGAL \nCategory: Moto2\nSession
+ : Race
+DTEND:20261122T120000Z
 DTSTART:20261122T111500Z
-SUMMARY:[Moto2] RAC - #PortugueseGP
-UID:b278af17-f0d3-456f-bb8e-b3c864d3743d@b278.org
-DESCRIPTION:Event: GP21 - REPSOL GRAND PRIX OF PORTUGAL \nClass: Moto2 
- \nSession: Race
-LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
-URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-
- 4a6f-813e-7ad2c68302a3
-DTSTAMP:20260207T091726Z
+LOCATION:Autódromo Internacional do Algarve\, Sítio do Escampadinho\, Mex
+ ilhoeira Grande\, 8500-148 Portimão\, Portugal
+SUMMARY:[Moto2] RAC #PortugueseGP
+UID:71a6cd48-f811-457f-8bff-404cb2f32490@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/portugal/c7f7626b-807f-4a
+ 6f-813e-7ad2c68302a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261127T095000
-DTEND;TZID=UTC+0100:20261127T103000
-SUMMARY:[Moto2] FP1 - #ValenciaGP
-UID:314b7643-8a41-4bf7-a6dd-d9346c91184c@314b.org
-DESCRIPTION:Event: GP22 - MOTUL GRAND PRIX OF VALENCIA \nClass: Moto2 
- \nSession: Free Practice Nr. 1
-LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-
- 459e-9714-338814e7537f
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF VALENCIA\nCategory: Moto2\nSession: 
+ Free Practice Nr. 1
+DTEND:20261127T093000Z
+DTSTART:20261127T085000Z
+LOCATION:Circuit Ricardo Tormo\, Salida\, Autovía del Este\, 334\, 46380 M
+ adrid\, Valencia\, Spain
+SUMMARY:[Moto2] FP1 #ValenciaGP
+UID:fed00d5a-2d10-4093-a6d4-4275a7cb9dc0@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-45
+ 9e-9714-338814e7537f
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261127T140500
-DTEND;TZID=UTC+0100:20261127T144500
-SUMMARY:[Moto2] PR - #ValenciaGP
-UID:26c8f750-67a6-4a59-a34d-8a670c183e0e@26c8.org
-DESCRIPTION:Event: GP22 - MOTUL GRAND PRIX OF VALENCIA \nClass: Moto2 
- \nSession: Practice
-LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-
- 459e-9714-338814e7537f
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF VALENCIA\nCategory: Moto2\nSession: 
+ Practice
+DTEND:20261127T134500Z
+DTSTART:20261127T130500Z
+LOCATION:Circuit Ricardo Tormo\, Salida\, Autovía del Este\, 334\, 46380 M
+ adrid\, Valencia\, Spain
+SUMMARY:[Moto2] PR #ValenciaGP
+UID:31174982-03e5-4d26-90d9-9571aff776ab@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-45
+ 9e-9714-338814e7537f
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261128T092500
-DTEND;TZID=UTC+0100:20261128T095500
-SUMMARY:[Moto2] FP2 - #ValenciaGP
-UID:116d03c6-91b7-45b3-87a5-56f0f22507d1@116d.org
-DESCRIPTION:Event: GP22 - MOTUL GRAND PRIX OF VALENCIA \nClass: Moto2 
- \nSession: Free Practice Nr. 2
-LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-
- 459e-9714-338814e7537f
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF VALENCIA\nCategory: Moto2\nSession: 
+ Free Practice Nr. 2
+DTEND:20261128T085500Z
+DTSTART:20261128T082500Z
+LOCATION:Circuit Ricardo Tormo\, Salida\, Autovía del Este\, 334\, 46380 M
+ adrid\, Valencia\, Spain
+SUMMARY:[Moto2] FP2 #ValenciaGP
+UID:6456e6f4-9829-4684-902a-7c11ea6b4f68@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-45
+ 9e-9714-338814e7537f
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261128T134000
-DTEND;TZID=UTC+0100:20261128T135500
-SUMMARY:[Moto2] Q1 - #ValenciaGP
-UID:8980441e-f6ab-4c2a-ad3c-aeedf90b03db@8980.org
-DESCRIPTION:Event: GP22 - MOTUL GRAND PRIX OF VALENCIA \nClass: Moto2 
- \nSession: Qualifying Nr. 1
-LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-
- 459e-9714-338814e7537f
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF VALENCIA\nCategory: Moto2\nSession: 
+ Qualifying Nr. 1 
+DTEND:20261128T125500Z
+DTSTART:20261128T124000Z
+LOCATION:Circuit Ricardo Tormo\, Salida\, Autovía del Este\, 334\, 46380 M
+ adrid\, Valencia\, Spain
+SUMMARY:[Moto2] Q1 #ValenciaGP
+UID:e070e8c9-b137-4bd0-81c0-5bdd2713e1e7@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-45
+ 9e-9714-338814e7537f
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261128T140500
-DTEND;TZID=UTC+0100:20261128T142000
-SUMMARY:[Moto2] Q2 - #ValenciaGP
-UID:a0a74522-ca0b-4cbf-8d93-1427c8b89d3b@a0a7.org
-DESCRIPTION:Event: GP22 - MOTUL GRAND PRIX OF VALENCIA \nClass: Moto2 
- \nSession: Qualifying Nr. 2
-LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-
- 459e-9714-338814e7537f
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF VALENCIA\nCategory: Moto2\nSession: 
+ Qualifying Nr. 2 
+DTEND:20261128T132000Z
+DTSTART:20261128T130500Z
+LOCATION:Circuit Ricardo Tormo\, Salida\, Autovía del Este\, 334\, 46380 M
+ adrid\, Valencia\, Spain
+SUMMARY:[Moto2] Q2 #ValenciaGP
+UID:7865254f-1269-4c23-9c86-6080640a7805@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-45
+ 9e-9714-338814e7537f
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261129T121500
-SUMMARY:[Moto2] RAC - #ValenciaGP
-UID:ea067616-deef-4d91-ace1-4b6578544e46@ea06.org
-DESCRIPTION:Event: GP22 - MOTUL GRAND PRIX OF VALENCIA \nClass: Moto2 
- \nSession: Race
-LOCATION:Circuit Ricardo Tormo\, Cheste\, Spain
-URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-
- 459e-9714-338814e7537f
-DTSTAMP:20260207T091726Z
+DTSTAMP:20260615T102110Z
+DESCRIPTION:Round: MOTUL GRAND PRIX OF VALENCIA\nCategory: Moto2\nSession: 
+ Race
+DTEND:20261129T120000Z
+DTSTART:20261129T111500Z
+LOCATION:Circuit Ricardo Tormo\, Salida\, Autovía del Este\, 334\, 46380 M
+ adrid\, Valencia\, Spain
+SUMMARY:[Moto2] RAC #ValenciaGP
+UID:42a96ebe-f78b-40cf-8ebd-2ce11dc11675@codeberg.org_nixxo
+URL:https://www.motogp.com/en/calendar/2026/event/valencia/6ad2859f-51c4-45
+ 9e-9714-338814e7537f
 END:VEVENT
 END:VCALENDAR
