@@ -1,152 +1,143 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
-BEGIN:VTIMEZONE
-TZID:UTC+0200
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0200
-DTSTART:19700101T000000
-TZNAME:UTC+02:00
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC+0100
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0100
-DTSTART:19700101T000000
-TZNAME:UTC+01:00
-END:STANDARD
-END:VTIMEZONE
+PRODID:ICALENDAR-RS
+CALSCALE:GREGORIAN
+NAME:R3 World Cup 2026 races-only
+X-WR-CALNAME:R3 World Cup 2026 races-only
+DESCRIPTION:Calendar for the 2026 season of the Yamaha R3 BLU CRU World Cu
+ p championship.\n\nFilter applied: races-only\n\n by nixxo
+X-WR-CALDESC:Calendar for the 2026 season of the Yamaha R3 BLU CRU World Cu
+ p championship.\n\nFilter applied: races-only\n\n by nixxo
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260502T102000
-DTEND;TZID=UTC+0200:20260502T104500
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:9e6d0350-a91e-4df3-8be8-9d3f6c5ddc90@9e6d.org
-DESCRIPTION:Event: Motul Hungarian Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 1
-LOCATION:
-URL:https://www.worldsbk.com/en/event/HUN/2026
-DTSTAMP:20260207T094852Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Motul Hungarian Round\nCategory: Yamaha R3 BLU CRU Worl
+ d Cup\nSession: Race 1
+DTEND:20260502T083000Z
+DTSTART:20260502T082000Z
+LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+SUMMARY:[R3 World Cup] Race 1
+UID:2026-HUN-YR3EC-001@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260503T101000
-DTEND;TZID=UTC+0200:20260503T103800
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:f73a0feb-c9b0-4465-bfb3-82ec34dd17c4@f73a.org
-DESCRIPTION:Event: Motul Hungarian Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 2
-LOCATION:
-URL:https://www.worldsbk.com/en/event/HUN/2026
-DTSTAMP:20260207T094852Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Motul Hungarian Round\nCategory: Yamaha R3 BLU CRU Worl
+ d Cup\nSession: Race 2
+DTEND:20260503T081900Z
+DTSTART:20260503T081000Z
+LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+SUMMARY:[R3 World Cup] Race 2
+UID:2026-HUN-YR3EC-002@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260530T102000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:509d604d-51a2-4a2d-be28-e4064d3e8428@509d.org
-DESCRIPTION:Event: Aragon Round \nClass: R3 bLU cRU Champ \nSession: Race 1
-LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
-  - Spain
-URL:https://www.worldsbk.com/en/event/ARA/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Aragon Round\nCategory: Yamaha R3 BLU CRU World Cup\nSes
+ sion: Race 1
+DTEND:20260530T082900Z
+DTSTART:20260530T082000Z
+LOCATION:Motorland Aragón\, Alcañiz\, ESP
+SUMMARY:[R3 World Cup] Race 1
+UID:2026-ARA-YR3EC-001@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260531T101000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:c21ccff8-0264-49a9-99c5-9bb4d31195c9@c21c.org
-DESCRIPTION:Event: Aragon Round \nClass: R3 bLU cRU Champ \nSession: Race 2
-LOCATION:MotorLand Aragón\, Ctra. TE- V- 7033 KM. 1. 44600 Alcañiz (Teruel)
-  - Spain
-URL:https://www.worldsbk.com/en/event/ARA/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Aragon Round\nCategory: Yamaha R3 BLU CRU World Cup\nSes
+ sion: Race 2
+DTEND:20260531T081900Z
+DTSTART:20260531T081000Z
+LOCATION:Motorland Aragón\, Alcañiz\, ESP
+SUMMARY:[R3 World Cup] Race 2
+UID:2026-ARA-YR3EC-002@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260711T102000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:59ed1b39-be7c-4f95-9128-91fda87459aa@59ed.org
-DESCRIPTION:Event: Prosecco DOC UK Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 1
-LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
- United Kingdom
-URL:https://www.worldsbk.com/en/event/GBR/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Yamaha R3 BLU CRU Worl
+ d Cup\nSession: Race 1
+DTEND:20260711T100500Z
+DTSTART:20260711T092000Z
+LOCATION:Donington Park\, Leicestershire\, GBR
+SUMMARY:[R3 World Cup] Race 1
+UID:2026-GBR-YR3EC-001@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20260712T101000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:e3b42187-ec9d-421e-a3a2-f1abf2f2cdb5@e3b4.org
-DESCRIPTION:Event: Prosecco DOC UK Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 2
-LOCATION:Donington Park Circuit\, Castle Donington\, Derby\, DE74 2RP\, 
- United Kingdom
-URL:https://www.worldsbk.com/en/event/GBR/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Yamaha R3 BLU CRU Worl
+ d Cup\nSession: Race 2
+DTEND:20260712T095500Z
+DTSTART:20260712T091000Z
+LOCATION:Donington Park\, Leicestershire\, GBR
+SUMMARY:[R3 World Cup] Race 2
+UID:2026-GBR-YR3EC-002@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260905T102000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:97e056f0-98dd-4110-b2a0-a6c4462696a6@97e0.org
-DESCRIPTION:Event: Acerbis French Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 1
-LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
- France
-URL:https://www.worldsbk.com/en/event/FRA/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Acerbis French Round\nCategory: Yamaha R3 BLU CRU World 
+ Cup\nSession: Race 1
+DTEND:20260905T090500Z
+DTSTART:20260905T082000Z
+LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
+SUMMARY:[R3 World Cup] Race 1
+UID:2026-FRA-YR3EC-001@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260906T101000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:d9c5ffa6-d198-4e3e-8bb6-ddbd4e1d7476@d9c5.org
-DESCRIPTION:Event: Acerbis French Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 2
-LOCATION:Circuit de Nevers Magny-Cours\, Technopole - 58470 Magny-Cours - 
- France
-URL:https://www.worldsbk.com/en/event/FRA/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Acerbis French Round\nCategory: Yamaha R3 BLU CRU World 
+ Cup\nSession: Race 2
+DTEND:20260906T085500Z
+DTSTART:20260906T081000Z
+LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
+SUMMARY:[R3 World Cup] Race 2
+UID:2026-FRA-YR3EC-002@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260926T102000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:b8998fd4-e0a9-42ef-a896-1c8520d42608@b899.org
-DESCRIPTION:Event: Italian Round \nClass: R3 bLU cRU Champ \nSession: Race 
- 1
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
-URL:https://www.worldsbk.com/en/event/CRE/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: EICMA Italian Round\nCategory: Yamaha R3 BLU CRU World C
+ up\nSession: Race 1
+DTEND:20260926T090500Z
+DTSTART:20260926T082000Z
+LOCATION:Cremona Circuit\, Cremona\, ITA
+SUMMARY:[R3 World Cup] Race 1
+UID:2026-CRE-YR3EC-001@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0200:20260927T101000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:e0c15f05-2772-49ce-a7e8-d19d41349fcb@e0c1.org
-DESCRIPTION:Event: Italian Round \nClass: R3 bLU cRU Champ \nSession: Race 
- 2
-LOCATION:Cremona Circuit\, Strada Giuseppina\, 2\, San Martino del Lago - 
- 26040 (Cremona) Italy
-URL:https://www.worldsbk.com/en/event/CRE/2026
-DTSTAMP:20260207T094853Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: EICMA Italian Round\nCategory: Yamaha R3 BLU CRU World C
+ up\nSession: Race 2
+DTEND:20260927T085500Z
+DTSTART:20260927T081000Z
+LOCATION:Cremona Circuit\, Cremona\, ITA
+SUMMARY:[R3 World Cup] Race 2
+UID:2026-CRE-YR3EC-002@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261010T130000
-SUMMARY:[R3 bLU cRU Champ] Race 1
-UID:78f4cf4e-d54f-4f2f-a142-5f10906f7c74@78f4.org
-DESCRIPTION:Event: Tissot Estoril Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 1
-LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
- Alcabideche - Portugal
-URL:https://www.worldsbk.com/en/event/EST/2026
-DTSTAMP:20260207T094854Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Tissot Estoril Round\nCategory: Yamaha R3 BLU CRU World 
+ Cup\nSession: Race 1
+DTEND:20261010T124500Z
+DTSTART:20261010T120000Z
+LOCATION:Circuito Estoril\, Alcabideche\, POR
+SUMMARY:[R3 World Cup] Race 1
+UID:2026-EST-YR3EC-001@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC+0100:20261011T130000
-SUMMARY:[R3 bLU cRU Champ] Race 2
-UID:ef515c62-d072-4dd0-944d-f12bffa34521@ef51.org
-DESCRIPTION:Event: Tissot Estoril Round \nClass: R3 bLU cRU Champ 
- \nSession: Race 2
-LOCATION:Circuito Estoril\, Av. Alfredo César Torres\, 2646 - 901 
- Alcabideche - Portugal
-URL:https://www.worldsbk.com/en/event/EST/2026
-DTSTAMP:20260207T094854Z
+DTSTAMP:20260615T093533Z
+DESCRIPTION:Round: Tissot Estoril Round\nCategory: Yamaha R3 BLU CRU World 
+ Cup\nSession: Race 2
+DTEND:20261011T124500Z
+DTSTART:20261011T120000Z
+LOCATION:Circuito Estoril\, Alcabideche\, POR
+SUMMARY:[R3 World Cup] Race 2
+UID:2026-EST-YR3EC-002@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 END:VCALENDAR
