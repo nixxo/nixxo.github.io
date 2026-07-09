@@ -841,111 +841,111 @@ URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
  f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Free Practice Nr. 1
 DTEND:20260619T093000Z
 DTSTART:20260619T084500Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] FP1 #CzechGP
 UID:8b55c08a-5b85-4254-ae67-f42be098c902@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Practice
 DTEND:20260619T140000Z
 DTSTART:20260619T130000Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] PR #CzechGP
 UID:f608fbd4-da31-44df-9f0e-5958882799f4@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Free Practice Nr. 2
 DTEND:20260620T084000Z
 DTSTART:20260620T081000Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] FP2 #CzechGP
 UID:51e4380e-13c8-40db-b6f3-86bb0d2a2e55@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Qualifying Nr. 1 
 DTEND:20260620T090500Z
 DTSTART:20260620T085000Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] Q1 #CzechGP
 UID:b7410d0e-88c8-450a-a059-7592ea0e0d84@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Qualifying Nr. 2 
 DTEND:20260620T093000Z
 DTSTART:20260620T091500Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] Q2 #CzechGP
 UID:7aec54aa-17a5-4a3e-9405-c50ac1e04ae8@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Tissot Sprint
 DTEND:20260620T134500Z
 DTSTART:20260620T130000Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] SPR #CzechGP
 UID:dff206e1-387d-4368-807b-ba8b851d4693@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Warm Up
 DTEND:20260621T075000Z
 DTSTART:20260621T074000Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] WUP #CzechGP
 UID:d2cd61f9-46d8-4c4d-975a-9cf6e0e01972@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: MotoGP\
  nSession: Grand Prix
 DTEND:20260621T124500Z
 DTSTART:20260621T120000Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[MotoGP] RAC #CzechGP
 UID:67fc8496-5c86-4cb9-8d79-2e510398d6eb@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: MotoGP\
  nSession: Free Practice Nr. 1
 DTEND:20260626T093000Z
@@ -957,10 +957,10 @@ URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
  -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: MotoGP\
  nSession: Practice
-DTEND:20260626T140000Z
+DTEND:20260626T140500Z
 DTSTART:20260626T130000Z
 LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
 SUMMARY:[MotoGP] PR #DutchGP
@@ -1241,9 +1241,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
  c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Free P
- ractice Nr. 1
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Free Practice Nr. 1
 DTEND:20260828T093000Z
 DTSTART:20260828T084500Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -1253,9 +1253,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Practi
- ce
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Practice
 DTEND:20260828T140000Z
 DTSTART:20260828T130000Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -1265,9 +1265,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Free P
- ractice Nr. 2
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Free Practice Nr. 2
 DTEND:20260829T084000Z
 DTSTART:20260829T081000Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -1277,9 +1277,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Qualif
- ying Nr. 1 
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Qualifying Nr. 1 
 DTEND:20260829T090500Z
 DTSTART:20260829T085000Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -1289,9 +1289,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Qualif
- ying Nr. 2 
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Qualifying Nr. 2 
 DTEND:20260829T093000Z
 DTSTART:20260829T091500Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -1301,9 +1301,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Tisso
- t Sprint
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Tissot Sprint
 DTEND:20260829T134500Z
 DTSTART:20260829T130000Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -1313,9 +1313,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Warm U
- p
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Warm Up
 DTEND:20260830T075000Z
 DTSTART:20260830T074000Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -1325,9 +1325,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: MotoGP\nSession: Grand 
- Prix
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: MotoGP\nSess
+ ion: Grand Prix
 DTEND:20260830T124500Z
 DTSTART:20260830T120000Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain

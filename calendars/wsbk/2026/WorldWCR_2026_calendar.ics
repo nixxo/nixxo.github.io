@@ -295,18 +295,18 @@ UID:2026-GBR-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260709T201342Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 1
-DTEND:20260711T083000Z
-DTSTART:20260711T082000Z
+DTEND:20260711T081000Z
+DTSTART:20260711T080000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldWCR] Warm Up 1
 UID:2026-GBR-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260709T201342Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20260711T124500Z

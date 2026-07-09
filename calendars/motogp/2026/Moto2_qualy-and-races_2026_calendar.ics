@@ -320,49 +320,49 @@ URL:https://www.motogp.com/en/calendar/2026/event/hungria/a37708ab-914c-433
  f-83d4-e55d1b95ccc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
  Session: Qualifying Nr. 1 
 DTEND:20260620T115500Z
 DTSTART:20260620T114000Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[Moto2] Q1 #CzechGP
 UID:f8a57e3c-5d95-4d39-a795-ec9abae539b2@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
  Session: Qualifying Nr. 2 
 DTEND:20260620T122000Z
 DTSTART:20260620T120500Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[Moto2] Q2 #CzechGP
 UID:d872734b-be5a-4481-93f3-4231116b6f56@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: MONSTER ENERGY GRAND PRIX OF CZECHIA \nCategory: Moto2\n
  Session: Race
 DTEND:20260621T110000Z
 DTSTART:20260621T101500Z
-LOCATION:Automotodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačice\, C
- zechia
+LOCATION:CREDITAS Autodrom Brno\, Masarykův okruh 201\, 664 81 Ostrovačic
+ e\, Czechia
 SUMMARY:[Moto2] RAC #CzechGP
 UID:4be08b38-983b-4547-a710-995af137b598@codeberg.org_nixxo
 URL:https://www.motogp.com/en/calendar/2026/event/czeck republiky/c2018c5e-
  fb82-4058-b359-1b7d9769e703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
  Session: Qualifying Nr. 1 
-DTEND:20260627T115500Z
+DTEND:20260627T115800Z
 DTSTART:20260627T114000Z
 LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
 SUMMARY:[Moto2] Q1 #DutchGP
@@ -371,11 +371,11 @@ URL:https://www.motogp.com/en/calendar/2026/event/netherlands/47c25c37-d307
  -4d45-b1ed-b1cb5e811975
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
+DTSTAMP:20260709T201154Z
 DESCRIPTION:Round: TISSOT GRAND PRIX OF THE NETHERLANDS \nCategory: Moto2\n
  Session: Qualifying Nr. 2 
-DTEND:20260627T122000Z
-DTSTART:20260627T120500Z
+DTEND:20260627T122300Z
+DTSTART:20260627T120800Z
 LOCATION:TT Circuit Assen\, De Haar 9\, 9405 TE Assen\, Netherlands
 SUMMARY:[Moto2] Q2 #DutchGP
 UID:2c947261-dab9-4105-838d-3d74586bdf73@codeberg.org_nixxo
@@ -470,9 +470,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/great britain/41aa319a-8e
  c5-49d6-aa99-4e2059c88098
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Qualify
- ing Nr. 1 
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: Moto2\nSessi
+ on: Qualifying Nr. 1 
 DTEND:20260829T115500Z
 DTSTART:20260829T114000Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -482,9 +482,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Qualify
- ing Nr. 2 
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: Moto2\nSessi
+ on: Qualifying Nr. 2 
 DTEND:20260829T122000Z
 DTSTART:20260829T120500Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
@@ -494,8 +494,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T102110Z
-DESCRIPTION:Round: GRAND PRIX OF ARAGON \nCategory: Moto2\nSession: Race
+DTSTAMP:20260709T201154Z
+DESCRIPTION:Round: MICHELIN® GRAND PRIX OF ARAGON \nCategory: Moto2\nSessi
+ on: Race
 DTEND:20260830T110000Z
 DTSTART:20260830T101500Z
 LOCATION:MotorLand Aragón\, Crta\, A-2404\, km 1\, 44600\, Teruel\, Spain
