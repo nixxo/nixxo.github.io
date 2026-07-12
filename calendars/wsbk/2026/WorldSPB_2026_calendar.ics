@@ -48,7 +48,7 @@ DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Sportbike\nSes
 DTEND:20260328T120500Z
 DTSTART:20260328T120000Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
-SUMMARY:[WorldSPB] Race 1 - Red Flag 
+SUMMARY:[WorldSPB] Race 1 - Red Flag
 UID:2026-POR-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
@@ -103,7 +103,7 @@ DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Sportbike\nSession
 DTEND:20260417T123500Z
 DTSTART:20260417T121000Z
 LOCATION:TT Circuit Assen\, Assen\, NED
-SUMMARY:[WorldSPB] Superpole            
+SUMMARY:[WorldSPB] Superpole
 UID:2026-NED-SPB-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
@@ -255,7 +255,7 @@ DESCRIPTION:Round: Aragon Round\nCategory: World Sportbike\nSession: Race
 DTEND:20260530T132000Z
 DTSTART:20260530T131500Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
-SUMMARY:[WorldSPB] Race 1 - Red Flag 
+SUMMARY:[WorldSPB] Race 1 - Red Flag
 UID:2026-ARA-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
@@ -308,7 +308,7 @@ DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Sportbike\
 DTEND:20260612T123500Z
 DTSTART:20260612T121000Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
-SUMMARY:[WorldSPB] Superpole           
+SUMMARY:[WorldSPB] Superpole
 UID:2026-ITA-SPB-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT

@@ -236,10 +236,10 @@ UID:2026-ITA-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Superbike\nSessio
  n: Race 1
-DTEND:20260711T151500Z
+DTEND:20260711T145300Z
 DTSTART:20260711T143000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSBK] Race 1
@@ -247,10 +247,10 @@ UID:2026-GBR-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Superbike\nSessio
- n: Tissot Superpoile Race
-DTEND:20260712T105500Z
+ n: Tissot Superpole Race
+DTEND:20260712T102000Z
 DTSTART:20260712T101000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSBK] Superpole Race
@@ -258,10 +258,10 @@ UID:2026-GBR-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Superbike\nSessio
  n: Race 2
-DTEND:20260712T151500Z
+DTEND:20260712T145300Z
 DTSTART:20260712T143000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSBK] Race 2

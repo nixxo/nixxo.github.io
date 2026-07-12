@@ -70,7 +70,7 @@ DESCRIPTION:Round: Aragon Round\nCategory: Yamaha R3 BLU CRU World Cup\nSes
 DTEND:20260529T114000Z
 DTSTART:20260529T111500Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
-SUMMARY:[R3 World Cup] Superpole           
+SUMMARY:[R3 World Cup] Superpole
 UID:2026-ARA-YR3EC-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
@@ -119,10 +119,10 @@ UID:2026-GBR-YR3EC-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 1
-DTEND:20260711T100500Z
+DTEND:20260711T093000Z
 DTSTART:20260711T092000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[R3 World Cup] Race 1
@@ -130,10 +130,10 @@ UID:2026-GBR-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 2
-DTEND:20260712T095500Z
+DTEND:20260712T092000Z
 DTSTART:20260712T091000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[R3 World Cup] Race 2

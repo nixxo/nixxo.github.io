@@ -48,7 +48,7 @@ DESCRIPTION:Round: Pirelli Dutch Round\nCategory: Women's Circuit Racing\nS
 DTEND:20260417T152000Z
 DTSTART:20260417T145500Z
 LOCATION:TT Circuit Assen\, Assen\, NED
-SUMMARY:[WorldWCR] Superpole           
+SUMMARY:[WorldWCR] Superpole
 UID:2026-NED-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
@@ -81,7 +81,7 @@ DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
 DTEND:20260501T123500Z
 DTSTART:20260501T121000Z
 LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
-SUMMARY:[WorldWCR] Superpole     
+SUMMARY:[WorldWCR] Superpole
 UID:2026-HUN-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
@@ -114,7 +114,7 @@ DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit
 DTEND:20260612T115500Z
 DTSTART:20260612T113000Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
-SUMMARY:[WorldWCR] Superpole          
+SUMMARY:[WorldWCR] Superpole
 UID:2026-ITA-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
@@ -152,10 +152,10 @@ UID:2026-GBR-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
-DTEND:20260711T124500Z
+DTEND:20260711T121200Z
 DTSTART:20260711T120000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldWCR] Race 1
@@ -163,10 +163,10 @@ UID:2026-GBR-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
-DTEND:20260712T124500Z
+DTEND:20260712T121200Z
 DTSTART:20260712T120000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldWCR] Race 2

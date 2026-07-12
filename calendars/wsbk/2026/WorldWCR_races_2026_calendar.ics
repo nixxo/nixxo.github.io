@@ -97,10 +97,10 @@ UID:2026-ITA-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
-DTEND:20260711T124500Z
+DTEND:20260711T121200Z
 DTSTART:20260711T120000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldWCR] Race 1
@@ -108,10 +108,10 @@ UID:2026-GBR-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
-DTEND:20260712T124500Z
+DTEND:20260712T121200Z
 DTSTART:20260712T120000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldWCR] Race 2

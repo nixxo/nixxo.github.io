@@ -92,7 +92,7 @@ DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Supersport\nSe
 DTEND:20260327T154000Z
 DTSTART:20260327T150000Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
-SUMMARY:[WorldSSP] Superpole             
+SUMMARY:[WorldSSP] Superpole
 UID:2026-POR-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
@@ -224,7 +224,7 @@ DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
 DTEND:20260501T144000Z
 DTSTART:20260501T140000Z
 LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
-SUMMARY:[WorldSSP] Superpole            
+SUMMARY:[WorldSSP] Superpole
 UID:2026-HUN-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
@@ -290,7 +290,7 @@ DESCRIPTION:Round: Czech Round\nCategory: World Supersport\nSession: Tisso
 DTEND:20260515T123500Z
 DTSTART:20260515T115500Z
 LOCATION:Most Autodrom\, Most\, CZE
-SUMMARY:[WorldSSP] Superpole     
+SUMMARY:[WorldSSP] Superpole
 UID:2026-CZE-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
@@ -354,7 +354,7 @@ DESCRIPTION:Round: Aragon Round\nCategory: World Supersport\nSession: Tisso
 DTEND:20260529T123500Z
 DTSTART:20260529T115500Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
-SUMMARY:[WorldSSP] Superpole        
+SUMMARY:[WorldSSP] Superpole
 UID:2026-ARA-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
@@ -420,7 +420,7 @@ DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Supersport
 DTEND:20260612T144000Z
 DTSTART:20260612T140000Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
-SUMMARY:[WorldSSP] Superpole            
+SUMMARY:[WorldSSP] Superpole
 UID:2026-ITA-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
@@ -469,9 +469,9 @@ UID:2026-ITA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
- on: Free Practice 1st Session
+ on: Free Practice
 DTEND:20260710T110000Z
 DTSTART:20260710T102000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
@@ -480,18 +480,18 @@ UID:2026-GBR-SSP-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Tissot Superpole
-DTEND:20260710T154000Z
-DTSTART:20260710T150000Z
+DTEND:20260710T160000Z
+DTSTART:20260710T152000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSSP] Superpole
 UID:2026-GBR-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260709T201342Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Warm Up 1
 DTEND:20260711T083000Z
@@ -502,10 +502,10 @@ UID:2026-GBR-SSP-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260709T201342Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Race 1
-DTEND:20260711T134500Z
+DTEND:20260711T131900Z
 DTSTART:20260711T130000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSSP] Race 1
@@ -524,10 +524,10 @@ UID:2026-GBR-SSP-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260712T081052Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Race 2
-DTEND:20260712T134500Z
+DTEND:20260712T131900Z
 DTSTART:20260712T130000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSSP] Race 2
