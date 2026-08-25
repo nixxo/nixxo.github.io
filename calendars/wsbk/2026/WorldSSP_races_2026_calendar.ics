@@ -9,7 +9,7 @@ DESCRIPTION:Calendar for the 2026 season of the World Supersport championsh
 X-WR-CALDESC:Calendar for the 2026 season of the World Supersport champions
  hip.\n\nFilter applied: races-only\n\n by nixxo
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Australian Round\nCategory: World Supersport\nSession: R
  ace 1
 DTEND:20260221T034800Z
@@ -20,7 +20,7 @@ UID:2026-AUS-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-AUS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Australian Round\nCategory: World Supersport\nSession: R
  ace 2
 DTEND:20260222T034800Z
@@ -31,7 +31,7 @@ UID:2026-AUS-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-AUS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Supersport\nSe
  ssion: Race 1
 DTEND:20260328T131700Z
@@ -42,7 +42,7 @@ UID:2026-POR-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Supersport\nSe
  ssion: Race 2
 DTEND:20260329T121700Z
@@ -53,7 +53,7 @@ UID:2026-POR-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Supersport\nSession
  : Race 1
 DTEND:20260418T121800Z
@@ -64,7 +64,7 @@ UID:2026-NED-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Supersport\nSession
  : Race 2
 DTEND:20260419T121800Z
@@ -75,7 +75,7 @@ UID:2026-NED-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Race 1
 DTEND:20260502T121800Z
@@ -86,7 +86,7 @@ UID:2026-HUN-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Race 2
 DTEND:20260503T121800Z
@@ -97,7 +97,7 @@ UID:2026-HUN-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Czech Round\nCategory: World Supersport\nSession: Race 1
 DTEND:20260516T104900Z
 DTSTART:20260516T103000Z
@@ -107,7 +107,7 @@ UID:2026-CZE-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Czech Round\nCategory: World Supersport\nSession: Race 2
 DTEND:20260517T121900Z
 DTSTART:20260517T120000Z
@@ -117,7 +117,7 @@ UID:2026-CZE-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Supersport\nSession: Race 
  1
 DTEND:20260530T104500Z
@@ -128,7 +128,7 @@ UID:2026-ARA-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Supersport\nSession: Race 
  2
 DTEND:20260531T121500Z
@@ -139,7 +139,7 @@ UID:2026-ARA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Supersport
  \nSession: Race 1
 DTEND:20260613T121800Z
@@ -150,7 +150,7 @@ UID:2026-ITA-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Supersport
  \nSession: Race 2
 DTEND:20260614T133300Z
@@ -161,7 +161,7 @@ UID:2026-ITA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Race 1
 DTEND:20260711T131900Z
@@ -172,7 +172,7 @@ UID:2026-GBR-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Race 2
 DTEND:20260712T131900Z
@@ -183,7 +183,7 @@ UID:2026-GBR-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
  n: Race 1
 DTEND:20260905T124500Z
@@ -194,7 +194,7 @@ UID:2026-FRA-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
  n: Race 2
 DTEND:20260906T112500Z
@@ -205,7 +205,7 @@ UID:2026-FRA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Supersport\nSession
  : Race 1
 DTEND:20260926T124500Z
@@ -216,7 +216,7 @@ UID:2026-CRE-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Supersport\nSession
  : Race 2
 DTEND:20260927T124500Z
@@ -227,7 +227,7 @@ UID:2026-CRE-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Supersport\nSessio
  n: Race 1
 DTEND:20261010T134500Z
@@ -238,7 +238,7 @@ UID:2026-EST-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Supersport\nSessio
  n: Race 2
 DTEND:20261011T134500Z
@@ -249,7 +249,7 @@ UID:2026-EST-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Race 1
 DTEND:20261017T124500Z
@@ -261,7 +261,7 @@ UID:2026-JER-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Race 2
 DTEND:20261018T124500Z

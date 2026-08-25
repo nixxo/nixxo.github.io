@@ -9,9 +9,9 @@ DESCRIPTION:Calendar for the 2026 season of the World Sportbike championshi
 X-WR-CALDESC:Calendar for the 2026 season of the World Sportbike championsh
  ip.\n\nFilter applied: races-only\n\n by nixxo
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Sportbike\nSes
- sion: Race 1 - Red Flag 
+ sion: Race 1 - Red Flag
 DTEND:20260328T120500Z
 DTSTART:20260328T120000Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
@@ -20,7 +20,7 @@ UID:2026-POR-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Sportbike\nSes
  sion: Race 1
 DTEND:20260328T121000Z
@@ -31,7 +31,7 @@ UID:2026-POR-SPB-101@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Sportbike\nSes
  sion: Race 2
 DTEND:20260329T111100Z
@@ -42,7 +42,7 @@ UID:2026-POR-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Sportbike\nSession
  : Race 1
 DTEND:20260418T111200Z
@@ -53,7 +53,7 @@ UID:2026-NED-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Sportbike\nSession
  : Race 2
 DTEND:20260419T111200Z
@@ -64,7 +64,7 @@ UID:2026-NED-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Czech Round\nCategory: World Sportbike\nSession: Race 1
 DTEND:20260516T132700Z
 DTSTART:20260516T131500Z
@@ -74,7 +74,7 @@ UID:2026-CZE-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Czech Round\nCategory: World Sportbike\nSession: Race 2
 DTEND:20260517T111200Z
 DTSTART:20260517T110000Z
@@ -84,9 +84,9 @@ UID:2026-CZE-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Sportbike\nSession: Race 
- 1 - Red Flag 
+ 1 - Red Flag
 DTEND:20260530T132000Z
 DTSTART:20260530T131500Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
@@ -95,7 +95,7 @@ UID:2026-ARA-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Sportbike\nSession: Race 1
 DTEND:20260530T132500Z
 DTSTART:20260530T132000Z
@@ -105,7 +105,7 @@ UID:2026-ARA-SPB-101@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Sportbike\nSession: Race 2
 DTEND:20260531T111100Z
 DTSTART:20260531T110000Z
@@ -115,7 +115,7 @@ UID:2026-ARA-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Sportbike\
  nSession: Race 1
 DTEND:20260613T111200Z
@@ -126,7 +126,7 @@ UID:2026-ITA-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Sportbike\
  nSession: Race 2
 DTEND:20260614T105700Z
@@ -137,7 +137,7 @@ UID:2026-ITA-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Sportbike\nSession
  : Race 1
 DTEND:20260905T114500Z
@@ -148,7 +148,7 @@ UID:2026-FRA-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Sportbike\nSession
  : Race 2
 DTEND:20260906T140000Z
@@ -159,7 +159,7 @@ UID:2026-FRA-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Sportbike\nSession
  : Race 1
 DTEND:20260926T114500Z
@@ -170,7 +170,7 @@ UID:2026-CRE-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Sportbike\nSession
  : Race 2
 DTEND:20260927T114500Z
@@ -181,7 +181,7 @@ UID:2026-CRE-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Race 1
 DTEND:20261017T114500Z
@@ -193,7 +193,7 @@ UID:2026-JER-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Race 2
 DTEND:20261018T114500Z

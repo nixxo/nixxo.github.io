@@ -9,9 +9,9 @@ DESCRIPTION:Calendar for the 2026 season of the Women's Circuit Racing cham
 X-WR-CALDESC:Calendar for the 2026 season of the Women's Circuit Racing cha
  mpionship.\n\nFilter applied: full\n\n by nixxo
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: Women's Circuit Raci
- ng\nSession: Free Practice 
+ ng\nSession: Free Practice
 DTEND:20260327T082500Z
 DTSTART:20260327T080000Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
@@ -20,7 +20,7 @@ UID:2026-POR-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: Women's Circuit Raci
  ng\nSession: Tissot Superpole
 DTEND:20260327T125500Z
@@ -31,7 +31,7 @@ UID:2026-POR-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: Women's Circuit Raci
  ng\nSession: Warm Up 1
 DTEND:20260328T081000Z
@@ -42,7 +42,7 @@ UID:2026-POR-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: Women's Circuit Raci
  ng\nSession: Race 1
 DTEND:20260328T111100Z
@@ -53,7 +53,7 @@ UID:2026-POR-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: Women's Circuit Raci
  ng\nSession: Warm Up 2
 DTEND:20260329T070500Z
@@ -64,7 +64,7 @@ UID:2026-POR-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: Women's Circuit Raci
  ng\nSession: Race 2
 DTEND:20260329T101100Z
@@ -75,9 +75,9 @@ UID:2026-POR-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: Women's Circuit Racing\nS
- ession: Free Practice 
+ ession: Free Practice
 DTEND:20260417T104000Z
 DTSTART:20260417T101500Z
 LOCATION:TT Circuit Assen\, Assen\, NED
@@ -86,7 +86,7 @@ UID:2026-NED-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: Women's Circuit Racing\nS
  ession: Tissot Superpole
 DTEND:20260417T152000Z
@@ -97,7 +97,7 @@ UID:2026-NED-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: Women's Circuit Racing\nS
  ession: Warm Up 1
 DTEND:20260418T071000Z
@@ -108,7 +108,7 @@ UID:2026-NED-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: Women's Circuit Racing\nS
  ession: Race 1
 DTEND:20260418T100800Z
@@ -119,7 +119,7 @@ UID:2026-NED-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: Women's Circuit Racing\nS
  ession: Warm Up 2
 DTEND:20260419T070500Z
@@ -130,7 +130,7 @@ UID:2026-NED-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: Women's Circuit Racing\nS
  ession: Race 2
 DTEND:20260419T101200Z
@@ -141,9 +141,9 @@ UID:2026-NED-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
- nSession: Free Practice 
+ nSession: Free Practice
 DTEND:20260501T080500Z
 DTSTART:20260501T074000Z
 LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
@@ -152,7 +152,7 @@ UID:2026-HUN-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Tissot Superpole
 DTEND:20260501T123500Z
@@ -163,7 +163,7 @@ UID:2026-HUN-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 1
 DTEND:20260502T071000Z
@@ -174,7 +174,7 @@ UID:2026-HUN-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20260502T110900Z
@@ -185,7 +185,7 @@ UID:2026-HUN-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 2
 DTEND:20260503T071000Z
@@ -196,7 +196,7 @@ UID:2026-HUN-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
 DTEND:20260503T111100Z
@@ -207,9 +207,9 @@ UID:2026-HUN-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
- Racing\nSession: Free Practice 
+ Racing\nSession: Free Practice
 DTEND:20260612T072500Z
 DTSTART:20260612T070000Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
@@ -218,7 +218,7 @@ UID:2026-ITA-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
  Racing\nSession: Tissot Superpole
 DTEND:20260612T115500Z
@@ -229,7 +229,7 @@ UID:2026-ITA-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
  Racing\nSession: Warm Up 1
 DTEND:20260613T071000Z
@@ -240,7 +240,7 @@ UID:2026-ITA-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
  Racing\nSession: Race 1
 DTEND:20260613T101200Z
@@ -251,7 +251,7 @@ UID:2026-ITA-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
  Racing\nSession: Warm Up 2
 DTEND:20260614T070500Z
@@ -262,7 +262,7 @@ UID:2026-ITA-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
  Racing\nSession: Race 2
 DTEND:20260614T100200Z
@@ -273,7 +273,7 @@ UID:2026-ITA-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Free Practice
 DTEND:20260710T090500Z
@@ -284,7 +284,7 @@ UID:2026-GBR-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Tissot Superpole
 DTEND:20260710T133500Z
@@ -295,7 +295,7 @@ UID:2026-GBR-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260709T201342Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 1
 DTEND:20260711T081000Z
@@ -306,7 +306,7 @@ UID:2026-GBR-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20260711T121200Z
@@ -317,7 +317,7 @@ UID:2026-GBR-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 2
 DTEND:20260712T081000Z
@@ -328,7 +328,7 @@ UID:2026-GBR-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
 DTEND:20260712T121200Z
@@ -339,7 +339,7 @@ UID:2026-GBR-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Free Practice 1st Session
 DTEND:20261016T074000Z
@@ -351,7 +351,7 @@ UID:2026-JER-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Tissot Superpole
 DTEND:20261016T115500Z
@@ -363,7 +363,7 @@ UID:2026-JER-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 1
 DTEND:20261017T072500Z
@@ -375,7 +375,7 @@ UID:2026-JER-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20261017T104500Z
@@ -387,7 +387,7 @@ UID:2026-JER-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 2
 DTEND:20261018T072500Z
@@ -399,7 +399,7 @@ UID:2026-JER-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
 DTEND:20261018T104500Z

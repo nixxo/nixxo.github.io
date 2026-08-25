@@ -9,7 +9,7 @@ DESCRIPTION:Calendar for the 2026 season of the Yamaha R3 BLU CRU World Cu
 X-WR-CALDESC:Calendar for the 2026 season of the Yamaha R3 BLU CRU World Cu
  p championship.\n\nFilter applied: races-only\n\n by nixxo
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 1
 DTEND:20260502T083000Z
@@ -20,7 +20,7 @@ UID:2026-HUN-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 2
 DTEND:20260503T081900Z
@@ -31,7 +31,7 @@ UID:2026-HUN-YR3EC-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: Yamaha R3 BLU CRU World Cup\nSes
  sion: Race 1
 DTEND:20260530T082900Z
@@ -42,7 +42,7 @@ UID:2026-ARA-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: Yamaha R3 BLU CRU World Cup\nSes
  sion: Race 2
 DTEND:20260531T081900Z
@@ -53,7 +53,7 @@ UID:2026-ARA-YR3EC-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 1
 DTEND:20260711T093000Z
@@ -64,7 +64,7 @@ UID:2026-GBR-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 2
 DTEND:20260712T092000Z
@@ -75,7 +75,7 @@ UID:2026-GBR-YR3EC-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: Yamaha R3 BLU CRU World 
  Cup\nSession: Race 1
 DTEND:20260905T090500Z
@@ -86,7 +86,7 @@ UID:2026-FRA-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: Yamaha R3 BLU CRU World 
  Cup\nSession: Race 2
 DTEND:20260906T085500Z
@@ -97,7 +97,7 @@ UID:2026-FRA-YR3EC-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: Yamaha R3 BLU CRU World C
  up\nSession: Race 1
 DTEND:20260926T090500Z
@@ -108,7 +108,7 @@ UID:2026-CRE-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: Yamaha R3 BLU CRU World C
  up\nSession: Race 2
 DTEND:20260927T085500Z
@@ -119,7 +119,7 @@ UID:2026-CRE-YR3EC-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: Yamaha R3 BLU CRU World 
  Cup\nSession: Race 1
 DTEND:20261010T124500Z
@@ -130,7 +130,7 @@ UID:2026-EST-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: Yamaha R3 BLU CRU World 
  Cup\nSession: Race 2
 DTEND:20261011T124500Z

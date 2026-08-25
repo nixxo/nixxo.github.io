@@ -9,7 +9,7 @@ DESCRIPTION:Calendar for the 2026 season of the World Superbike championshi
 X-WR-CALDESC:Calendar for the 2026 season of the World Superbike championsh
  ip.\n\nFilter applied: races-only\n\n by nixxo
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Australian Round\nCategory: World Superbike\nSession: Ra
  ce 1
 DTEND:20260221T052200Z
@@ -20,7 +20,7 @@ UID:2026-AUS-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-AUS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Australian Round\nCategory: World Superbike\nSession: Ti
  ssot Superpole Race
 DTEND:20260222T021000Z
@@ -31,7 +31,7 @@ UID:2026-AUS-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-AUS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Australian Round\nCategory: World Superbike\nSession: Ra
  ce 2
 DTEND:20260222T052200Z
@@ -42,7 +42,7 @@ UID:2026-AUS-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-AUS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Superbike\nSes
  sion: Race 1
 DTEND:20260328T145000Z
@@ -53,7 +53,7 @@ UID:2026-POR-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Superbike\nSes
  sion: Tissot Superpole Race
 DTEND:20260329T092000Z
@@ -64,7 +64,7 @@ UID:2026-POR-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Superbike\nSes
  sion: Race 2
 DTEND:20260329T135000Z
@@ -75,7 +75,7 @@ UID:2026-POR-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Superbike\nSession
  : Race 1
 DTEND:20260418T135100Z
@@ -86,7 +86,7 @@ UID:2026-NED-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Superbike\nSession
  : Tissot Superpole Race
 DTEND:20260419T092000Z
@@ -97,7 +97,7 @@ UID:2026-NED-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Superbike\nSession
  : Race 2
 DTEND:20260419T135100Z
@@ -108,7 +108,7 @@ UID:2026-NED-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Superbike\nSessio
  n: Race 1
 DTEND:20260502T135100Z
@@ -119,7 +119,7 @@ UID:2026-HUN-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Superbike\nSessio
  n: Tissot Superpole Race
 DTEND:20260503T091800Z
@@ -130,7 +130,7 @@ UID:2026-HUN-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Superbike\nSessio
  n: Race 2
 DTEND:20260503T135100Z
@@ -141,7 +141,7 @@ UID:2026-HUN-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Czech Round\nCategory: World Superbike\nSession: Race 1
 DTEND:20260516T122100Z
 DTSTART:20260516T120000Z
@@ -151,7 +151,7 @@ UID:2026-CZE-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Czech Round\nCategory: World Superbike\nSession: Tissot 
  Superpole Race
 DTEND:20260517T092000Z
@@ -162,7 +162,7 @@ UID:2026-CZE-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Czech Round\nCategory: World Superbike\nSession: Race 2
 DTEND:20260517T135200Z
 DTSTART:20260517T133000Z
@@ -172,7 +172,7 @@ UID:2026-CZE-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Superbike\nSession: Race 1
 DTEND:20260530T121800Z
 DTSTART:20260530T120000Z
@@ -182,7 +182,7 @@ UID:2026-ARA-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Superbike\nSession: Tisso
  t Superpole Race
 DTEND:20260531T092000Z
@@ -193,7 +193,7 @@ UID:2026-ARA-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Superbike\nSession: Race 2
 DTEND:20260531T134800Z
 DTSTART:20260531T133000Z
@@ -203,7 +203,7 @@ UID:2026-ARA-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Superbike\
  nSession: Race 1
 DTEND:20260613T135100Z
@@ -214,7 +214,7 @@ UID:2026-ITA-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Superbike\
  nSession: Tissot Superpole Race
 DTEND:20260614T091000Z
@@ -225,7 +225,7 @@ UID:2026-ITA-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Superbike\
  nSession: Race 2
 DTEND:20260614T122100Z
@@ -236,7 +236,7 @@ UID:2026-ITA-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Superbike\nSessio
  n: Race 1
 DTEND:20260711T145300Z
@@ -247,7 +247,7 @@ UID:2026-GBR-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Superbike\nSessio
  n: Tissot Superpole Race
 DTEND:20260712T102000Z
@@ -258,7 +258,7 @@ UID:2026-GBR-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260712T081052Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Superbike\nSessio
  n: Race 2
 DTEND:20260712T145300Z
@@ -269,7 +269,7 @@ UID:2026-GBR-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Superbike\nSession
  : Race 1
 DTEND:20260905T141500Z
@@ -280,7 +280,7 @@ UID:2026-FRA-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Superbike\nSession
  : Tissot Superpoile Race
 DTEND:20260906T095500Z
@@ -291,7 +291,7 @@ UID:2026-FRA-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Superbike\nSession
  : Race 2
 DTEND:20260906T124500Z
@@ -302,7 +302,7 @@ UID:2026-FRA-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Superbike\nSession
  : Race 1
 DTEND:20260926T141500Z
@@ -313,7 +313,7 @@ UID:2026-CRE-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Superbike\nSession
  : Tissot Superpoile Race
 DTEND:20260927T095500Z
@@ -324,7 +324,7 @@ UID:2026-CRE-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Superbike\nSession
  : Race 2
 DTEND:20260927T141500Z
@@ -335,7 +335,7 @@ UID:2026-CRE-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Superbike\nSession
  : Race 1
 DTEND:20261010T151500Z
@@ -346,7 +346,7 @@ UID:2026-EST-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Superbike\nSession
  : Tissot Superpoile Race
 DTEND:20261011T105500Z
@@ -357,7 +357,7 @@ UID:2026-EST-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Superbike\nSession
  : Race 2
 DTEND:20261011T151500Z
@@ -368,7 +368,7 @@ UID:2026-EST-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
  n: Race 1
 DTEND:20261017T141500Z
@@ -380,7 +380,7 @@ UID:2026-JER-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
  n: Tissot Superpoile Race
 DTEND:20261018T095500Z
@@ -392,7 +392,7 @@ UID:2026-JER-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260615T093533Z
+DTSTAMP:20260825T100321Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
  n: Race 2
 DTEND:20261018T141500Z
