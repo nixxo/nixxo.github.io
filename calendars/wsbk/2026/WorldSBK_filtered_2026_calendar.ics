@@ -357,9 +357,9 @@ UID:2026-GBR-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Superbike\nSession
- : Tissot Superpole
+ : Tissor Superpole
 DTEND:20260905T093000Z
 DTSTART:20260905T091500Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
@@ -368,10 +368,10 @@ UID:2026-FRA-SBK-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Superbike\nSession
  : Race 1
-DTEND:20260905T141500Z
+DTEND:20260905T135100Z
 DTSTART:20260905T133000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSBK] Race 1
@@ -379,10 +379,10 @@ UID:2026-FRA-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Superbike\nSession
- : Tissot Superpoile Race
-DTEND:20260906T095500Z
+ : Tissot Superpole Race
+DTEND:20260906T092000Z
 DTSTART:20260906T091000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSBK] Superpole Race
@@ -390,10 +390,10 @@ UID:2026-FRA-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Superbike\nSession
  : Race 2
-DTEND:20260906T124500Z
+DTEND:20260906T122100Z
 DTSTART:20260906T120000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSBK] Race 2

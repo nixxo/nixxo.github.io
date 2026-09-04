@@ -390,10 +390,10 @@ UID:2026-FRA-SPB-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Sportbike\nSession
  : Race 1
-DTEND:20260905T114500Z
+DTEND:20260905T111100Z
 DTSTART:20260905T110000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSPB] Race 1
@@ -412,10 +412,10 @@ UID:2026-FRA-SPB-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Sportbike\nSession
  : Race 2
-DTEND:20260906T140000Z
+DTEND:20260906T132600Z
 DTSTART:20260906T131500Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSPB] Race 2

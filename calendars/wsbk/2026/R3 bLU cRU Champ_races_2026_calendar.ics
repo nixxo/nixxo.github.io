@@ -75,10 +75,10 @@ UID:2026-GBR-YR3EC-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: Yamaha R3 BLU CRU World 
  Cup\nSession: Race 1
-DTEND:20260905T090500Z
+DTEND:20260905T082900Z
 DTSTART:20260905T082000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[R3 World Cup] Race 1
@@ -86,10 +86,10 @@ UID:2026-FRA-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: Yamaha R3 BLU CRU World 
  Cup\nSession: Race 2
-DTEND:20260906T085500Z
+DTEND:20260906T081900Z
 DTSTART:20260906T081000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[R3 World Cup] Race 2

@@ -183,10 +183,10 @@ UID:2026-GBR-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
  n: Race 1
-DTEND:20260905T124500Z
+DTEND:20260905T121900Z
 DTSTART:20260905T120000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSSP] Race 1
@@ -194,10 +194,10 @@ UID:2026-FRA-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260904T085824Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
  n: Race 2
-DTEND:20260906T112500Z
+DTEND:20260906T105900Z
 DTSTART:20260906T104000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSSP] Race 2
