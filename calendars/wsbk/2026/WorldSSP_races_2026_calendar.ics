@@ -194,18 +194,29 @@ UID:2026-FRA-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T085824Z
+DTSTAMP:20260909T162243Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
- n: Race 2
-DTEND:20260906T105900Z
+ n: Race 2 - Red Flag
+DTEND:20260906T104500Z
 DTSTART:20260906T104000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
-SUMMARY:[WorldSSP] Race 2
+SUMMARY:[WorldSSP] Race 2 - Red Flag
 UID:2026-FRA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20260909T162243Z
+DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
+ n: Race 2
+DTEND:20260906T105000Z
+DTSTART:20260906T104500Z
+LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
+SUMMARY:[WorldSSP] Race 2
+UID:2026-FRA-SSP-102@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T162243Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Supersport\nSession
  : Race 1
 DTEND:20260926T124500Z
