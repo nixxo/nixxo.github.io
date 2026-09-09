@@ -1082,9 +1082,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
  4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto3\nSession: Free P
- ractice Nr. 1
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Moto3\nS
+ ession: Free Practice Nr. 1
 DTEND:20260918T073500Z
 DTSTART:20260918T070000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -1095,9 +1095,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto3\nSession: Practi
- ce
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Moto3\nS
+ ession: Practice
 DTEND:20260918T115000Z
 DTSTART:20260918T111500Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -1108,9 +1108,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto3\nSession: Free P
- ractice Nr. 2
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Moto3\nS
+ ession: Free Practice Nr. 2
 DTEND:20260919T071000Z
 DTSTART:20260919T064000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -1121,9 +1121,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto3\nSession: Qualif
- ying Nr. 1 
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Moto3\nS
+ ession: Qualifying Nr. 1 
 DTEND:20260919T110000Z
 DTSTART:20260919T104500Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -1134,9 +1134,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto3\nSession: Qualif
- ying Nr. 2 
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Moto3\nS
+ ession: Qualifying Nr. 2 
 DTEND:20260919T112500Z
 DTSTART:20260919T111000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -1147,8 +1147,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Moto3\nSession: Race
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Moto3\nS
+ ession: Race
 DTEND:20260920T094500Z
 DTSTART:20260920T090000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\

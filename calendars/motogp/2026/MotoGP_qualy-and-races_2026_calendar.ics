@@ -725,9 +725,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/san marino/537f71f7-25ea-
  4cb2-a259-70b0da576cc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: MotoGP\nSession: Quali
- fying Nr. 1 
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: MotoGP\n
+ Session: Qualifying Nr. 1 
 DTEND:20260919T090500Z
 DTSTART:20260919T085000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -738,9 +738,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: MotoGP\nSession: Quali
- fying Nr. 2 
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: MotoGP\n
+ Session: Qualifying Nr. 2 
 DTEND:20260919T093000Z
 DTSTART:20260919T091500Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -751,9 +751,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: MotoGP\nSession: Tisso
- t Sprint
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: MotoGP\n
+ Session: Tissot Sprint
 DTEND:20260919T134500Z
 DTSTART:20260919T130000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -764,9 +764,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: MotoGP\nSession: Gran
- d Prix
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: MotoGP\n
+ Session: Grand Prix
 DTEND:20260920T124500Z
 DTSTART:20260920T120000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\

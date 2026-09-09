@@ -135,9 +135,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/spain/86abdbde-5e3d-45b1-
  a1f0-f74044a90eb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Baggers\nSession: Rac
- e Nr. 1
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Baggers\
+ nSession: Race Nr. 1
 DTEND:20260919T145500Z
 DTSTART:20260919T141000Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
@@ -148,9 +148,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/austria/1d659e29-247a-402
  c-ba1e-33fa14670cbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRIA \nCategory: Baggers\nSession: Rac
- e Nr. 2
+DTSTAMP:20260909T162431Z
+DESCRIPTION:Round: QATAR AIRWAYS GRAND PRIX OF AUSTRIA \nCategory: Baggers\
+ nSession: Race Nr. 2
 DTEND:20260920T074000Z
 DTSTART:20260920T065500Z
 LOCATION:Red Bull Ring - Spielberg\, Red Bull Ring Str. 1\, 8724 Spielberg\
