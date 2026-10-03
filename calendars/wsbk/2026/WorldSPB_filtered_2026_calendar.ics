@@ -31,10 +31,10 @@ UID:2026-POR-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Sportbike\nSes
  sion: Race 1
-DTEND:20260328T121000Z
+DTEND:20260328T125000Z
 DTSTART:20260328T120500Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
 SUMMARY:[WorldSPB] Race 1
@@ -42,10 +42,10 @@ UID:2026-POR-SPB-101@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Sportbike\nSes
  sion: Race 2
-DTEND:20260329T111100Z
+DTEND:20260329T114500Z
 DTSTART:20260329T110000Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
 SUMMARY:[WorldSPB] Race 2
@@ -64,10 +64,10 @@ UID:2026-NED-SPB-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Sportbike\nSession
  : Race 1
-DTEND:20260418T111200Z
+DTEND:20260418T114500Z
 DTSTART:20260418T110000Z
 LOCATION:TT Circuit Assen\, Assen\, NED
 SUMMARY:[WorldSPB] Race 1
@@ -75,10 +75,10 @@ UID:2026-NED-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Sportbike\nSession
  : Race 2
-DTEND:20260419T111200Z
+DTEND:20260419T114500Z
 DTSTART:20260419T110000Z
 LOCATION:TT Circuit Assen\, Assen\, NED
 SUMMARY:[WorldSPB] Race 2
@@ -97,9 +97,9 @@ UID:2026-CZE-SPB-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Czech Round\nCategory: World Sportbike\nSession: Race 1
-DTEND:20260516T132700Z
+DTEND:20260516T140000Z
 DTSTART:20260516T131500Z
 LOCATION:Most Autodrom\, Most\, CZE
 SUMMARY:[WorldSPB] Race 1
@@ -107,9 +107,9 @@ UID:2026-CZE-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Czech Round\nCategory: World Sportbike\nSession: Race 2
-DTEND:20260517T111200Z
+DTEND:20260517T114500Z
 DTSTART:20260517T110000Z
 LOCATION:Most Autodrom\, Most\, CZE
 SUMMARY:[WorldSPB] Race 2
@@ -139,9 +139,9 @@ UID:2026-ARA-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Sportbike\nSession: Race 1
-DTEND:20260530T132500Z
+DTEND:20260530T140500Z
 DTSTART:20260530T132000Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
 SUMMARY:[WorldSPB] Race 1
@@ -149,9 +149,9 @@ UID:2026-ARA-SPB-101@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Sportbike\nSession: Race 2
-DTEND:20260531T111100Z
+DTEND:20260531T114500Z
 DTSTART:20260531T110000Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
 SUMMARY:[WorldSPB] Race 2
@@ -170,10 +170,10 @@ UID:2026-ITA-SPB-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Sportbike\
  nSession: Race 1
-DTEND:20260613T111200Z
+DTEND:20260613T114500Z
 DTSTART:20260613T110000Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
 SUMMARY:[WorldSPB] Race 1
@@ -181,10 +181,10 @@ UID:2026-ITA-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Sportbike\
  nSession: Race 2
-DTEND:20260614T105700Z
+DTEND:20260614T113000Z
 DTSTART:20260614T104500Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
 SUMMARY:[WorldSPB] Race 2
@@ -203,10 +203,10 @@ UID:2026-FRA-SPB-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T085824Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Sportbike\nSession
  : Race 1
-DTEND:20260905T111100Z
+DTEND:20260905T114500Z
 DTSTART:20260905T110000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSPB] Race 1
@@ -214,10 +214,10 @@ UID:2026-FRA-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T085824Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Sportbike\nSession
  : Race 2
-DTEND:20260906T132600Z
+DTEND:20260906T140000Z
 DTSTART:20260906T131500Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSPB] Race 2

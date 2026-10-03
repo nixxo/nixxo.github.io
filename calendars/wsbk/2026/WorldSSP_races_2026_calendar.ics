@@ -9,10 +9,10 @@ DESCRIPTION:Calendar for the 2026 season of the World Supersport championsh
 X-WR-CALDESC:Calendar for the 2026 season of the World Supersport champions
  hip.\n\nFilter applied: races-only\n\n by nixxo
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Australian Round\nCategory: World Supersport\nSession: R
  ace 1
-DTEND:20260221T034800Z
+DTEND:20260221T041500Z
 DTSTART:20260221T033000Z
 LOCATION:Phillip Island Grand Prix Circuit\, Phillip Island\, AUS
 SUMMARY:[WorldSSP] Race 1
@@ -20,10 +20,10 @@ UID:2026-AUS-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-AUS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Australian Round\nCategory: World Supersport\nSession: R
  ace 2
-DTEND:20260222T034800Z
+DTEND:20260222T041500Z
 DTSTART:20260222T033000Z
 LOCATION:Phillip Island Grand Prix Circuit\, Phillip Island\, AUS
 SUMMARY:[WorldSSP] Race 2
@@ -31,10 +31,10 @@ UID:2026-AUS-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-AUS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Supersport\nSe
  ssion: Race 1
-DTEND:20260328T131700Z
+DTEND:20260328T134500Z
 DTSTART:20260328T130000Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
 SUMMARY:[WorldSSP] Race 1
@@ -42,10 +42,10 @@ UID:2026-POR-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Portuguese Round\nCategory: World Supersport\nSe
  ssion: Race 2
-DTEND:20260329T121700Z
+DTEND:20260329T124500Z
 DTSTART:20260329T120000Z
 LOCATION:Autódromo Internacional do Algarve\, Portimão\, POR
 SUMMARY:[WorldSSP] Race 2
@@ -53,10 +53,10 @@ UID:2026-POR-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-POR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Supersport\nSession
  : Race 1
-DTEND:20260418T121800Z
+DTEND:20260418T124500Z
 DTSTART:20260418T120000Z
 LOCATION:TT Circuit Assen\, Assen\, NED
 SUMMARY:[WorldSSP] Race 1
@@ -64,10 +64,10 @@ UID:2026-NED-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Dutch Round\nCategory: World Supersport\nSession
  : Race 2
-DTEND:20260419T121800Z
+DTEND:20260419T124500Z
 DTSTART:20260419T120000Z
 LOCATION:TT Circuit Assen\, Assen\, NED
 SUMMARY:[WorldSSP] Race 2
@@ -75,10 +75,10 @@ UID:2026-NED-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Race 1
-DTEND:20260502T121800Z
+DTEND:20260502T124500Z
 DTSTART:20260502T120000Z
 LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Race 1
@@ -86,10 +86,10 @@ UID:2026-HUN-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Race 2
-DTEND:20260503T121800Z
+DTEND:20260503T124500Z
 DTSTART:20260503T120000Z
 LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Race 2
@@ -97,9 +97,9 @@ UID:2026-HUN-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Czech Round\nCategory: World Supersport\nSession: Race 1
-DTEND:20260516T104900Z
+DTEND:20260516T111500Z
 DTSTART:20260516T103000Z
 LOCATION:Most Autodrom\, Most\, CZE
 SUMMARY:[WorldSSP] Race 1
@@ -107,9 +107,9 @@ UID:2026-CZE-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Czech Round\nCategory: World Supersport\nSession: Race 2
-DTEND:20260517T121900Z
+DTEND:20260517T124500Z
 DTSTART:20260517T120000Z
 LOCATION:Most Autodrom\, Most\, CZE
 SUMMARY:[WorldSSP] Race 2
@@ -117,10 +117,10 @@ UID:2026-CZE-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CZE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Supersport\nSession: Race 
  1
-DTEND:20260530T104500Z
+DTEND:20260530T111500Z
 DTSTART:20260530T103000Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
 SUMMARY:[WorldSSP] Race 1
@@ -128,10 +128,10 @@ UID:2026-ARA-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Aragon Round\nCategory: World Supersport\nSession: Race 
  2
-DTEND:20260531T121500Z
+DTEND:20260531T124500Z
 DTSTART:20260531T120000Z
 LOCATION:Motorland Aragón\, Alcañiz\, ESP
 SUMMARY:[WorldSSP] Race 2
@@ -139,10 +139,10 @@ UID:2026-ARA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ARA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Supersport
  \nSession: Race 1
-DTEND:20260613T121800Z
+DTEND:20260613T124500Z
 DTSTART:20260613T120000Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
 SUMMARY:[WorldSSP] Race 1
@@ -150,10 +150,10 @@ UID:2026-ITA-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: World Supersport
  \nSession: Race 2
-DTEND:20260614T133300Z
+DTEND:20260614T140000Z
 DTSTART:20260614T131500Z
 LOCATION:Misano Circuit Sic 58\, Misano Adriatico\, ITA
 SUMMARY:[WorldSSP] Race 2
@@ -161,10 +161,10 @@ UID:2026-ITA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-ITA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Race 1
-DTEND:20260711T131900Z
+DTEND:20260711T134500Z
 DTSTART:20260711T130000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSSP] Race 1
@@ -172,10 +172,10 @@ UID:2026-GBR-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Prosecco DOC UK Round\nCategory: World Supersport\nSessi
  on: Race 2
-DTEND:20260712T131900Z
+DTEND:20260712T134500Z
 DTSTART:20260712T130000Z
 LOCATION:Donington Park\, Leicestershire\, GBR
 SUMMARY:[WorldSSP] Race 2
@@ -183,10 +183,10 @@ UID:2026-GBR-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T085824Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
  n: Race 1
-DTEND:20260905T121900Z
+DTEND:20260905T124500Z
 DTSTART:20260905T120000Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSSP] Race 1
@@ -205,10 +205,10 @@ UID:2026-FRA-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T162243Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: Acerbis French Round\nCategory: World Supersport\nSessio
  n: Race 2
-DTEND:20260906T105000Z
+DTEND:20260906T113000Z
 DTSTART:20260906T104500Z
 LOCATION:Circuit de Nevers Magny-Cours\, Nièvre\, FRA
 SUMMARY:[WorldSSP] Race 2
@@ -216,18 +216,29 @@ UID:2026-FRA-SSP-102@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-FRA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T162243Z
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Supersport\nSession
- : Race 1
-DTEND:20260926T124500Z
+ : Race 1 - Red Flag
+DTEND:20260926T121500Z
 DTSTART:20260926T120000Z
 LOCATION:Cremona Circuit\, Cremona\, ITA
-SUMMARY:[WorldSSP] Race 1
+SUMMARY:[WorldSSP] Race 1 - Red Flag
 UID:2026-CRE-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261003T183915Z
+DESCRIPTION:Round: EICMA Italian Round\nCategory: World Supersport\nSession
+ : Race 1
+DTEND:20260926T130000Z
+DTSTART:20260926T121500Z
+LOCATION:Cremona Circuit\, Cremona\, ITA
+SUMMARY:[WorldSSP] Race 1
+UID:2026-CRE-SSP-101@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T183915Z
 DESCRIPTION:Round: EICMA Italian Round\nCategory: World Supersport\nSession
  : Race 2
 DTEND:20260927T124500Z
