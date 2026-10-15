@@ -391,9 +391,9 @@ UID:2026-JER-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261015T191606Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
- n: Tissot Superpoile Race
+ n: Tissot Superpole Race
 DTEND:20261018T095500Z
 DTSTART:20261018T091000Z
 LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
@@ -403,14 +403,14 @@ UID:2026-JER-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261015T191606Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
  n: Race 2
 DTEND:20261018T141500Z
 DTSTART:20261018T133000Z
 LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
  ra\, ESP
-SUMMARY:[WorldSBK] Race 2
+SUMMARY:[WorldSBK] RACE 2
 UID:2026-JER-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
