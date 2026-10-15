@@ -689,9 +689,9 @@ UID:2026-CRE-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261015T191606Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Supersport\nSessio
- n: Free Practice 1st Session
+ n: Free Practice
 DTEND:20261009T110000Z
 DTSTART:20261009T102000Z
 LOCATION:Circuito Estoril\, Alcabideche\, POR
@@ -744,20 +744,31 @@ UID:2026-EST-SSP-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261015T191606Z
 DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Supersport\nSessio
- n: Race 2
-DTEND:20261011T134500Z
+ n: Race 2 - Red Flag
+DTEND:20261011T130500Z
 DTSTART:20261011T130000Z
 LOCATION:Circuito Estoril\, Alcabideche\, POR
-SUMMARY:[WorldSSP] Race 2
+SUMMARY:[WorldSSP] Race 2 - Red Flag
 UID:2026-EST-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261015T191606Z
+DESCRIPTION:Round: Tissot Estoril Round\nCategory: World Supersport\nSessio
+ n: Race 2
+DTEND:20261011T135000Z
+DTSTART:20261011T130500Z
+LOCATION:Circuito Estoril\, Alcabideche\, POR
+SUMMARY:[WorldSSP] Race 2
+UID:2026-EST-SSP-102@codeberg.org_nixxo
+URL:https://www.worldsbk.com/en/calendar/event/2026-EST
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T191606Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
- on: Free Practice 1st Session
+ on: Free Practice
 DTEND:20261016T101500Z
 DTSTART:20261016T093500Z
 LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
