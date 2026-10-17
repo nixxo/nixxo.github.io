@@ -1316,9 +1316,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/indonesia/877c27e8-70e0-4
  847-bacf-2290d7cc903c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto3\nSession: Fre
- e Practice Nr. 1
+DTSTAMP:20261017T103718Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF AUSTRALIA\nCategory: Moto3\nSessi
+ on: Free Practice Nr. 1
 DTEND:20261022T223500Z
 DTSTART:20261022T220000Z
 LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
@@ -1328,9 +1328,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
  455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto3\nSession: Prac
- tice
+DTSTAMP:20261017T103718Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF AUSTRALIA\nCategory: Moto3\nSessi
+ on: Practice
 DTEND:20261023T025000Z
 DTSTART:20261023T021500Z
 LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
@@ -1340,9 +1340,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
  455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto3\nSession: Fre
- e Practice Nr. 2
+DTSTAMP:20261017T103718Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF AUSTRALIA\nCategory: Moto3\nSessi
+ on: Free Practice Nr. 2
 DTEND:20261023T221000Z
 DTSTART:20261023T214000Z
 LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
@@ -1352,9 +1352,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
  455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto3\nSession: Qual
- ifying Nr. 1 
+DTSTAMP:20261017T103718Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF AUSTRALIA\nCategory: Moto3\nSessi
+ on: Qualifying Nr. 1 
 DTEND:20261024T020000Z
 DTSTART:20261024T014500Z
 LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
@@ -1364,9 +1364,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
  455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto3\nSession: Qual
- ifying Nr. 2 
+DTSTAMP:20261017T103718Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF AUSTRALIA\nCategory: Moto3\nSessi
+ on: Qualifying Nr. 2 
 DTEND:20261024T022500Z
 DTSTART:20261024T021000Z
 LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
@@ -1376,8 +1376,9 @@ URL:https://www.motogp.com/en/calendar/2026/event/australia/66961f05-2454-4
  455-9d65-f99c49d25b17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100300Z
-DESCRIPTION:Round: GRAND PRIX OF AUSTRALIA \nCategory: Moto3\nSession: Race
+DTSTAMP:20261017T103718Z
+DESCRIPTION:Round: RED BULL GRAND PRIX OF AUSTRALIA\nCategory: Moto3\nSessi
+ on: Race
 DTEND:20261025T004500Z
 DTSTART:20261025T000000Z
 LOCATION:Phillip Island\, Phillip Island\, Victoria\, Australia
