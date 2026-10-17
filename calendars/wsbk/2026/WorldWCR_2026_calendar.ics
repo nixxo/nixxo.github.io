@@ -339,9 +339,9 @@ UID:2026-GBR-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261017T103719Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
- nSession: Free Practice 1st Session
+ nSession: Free Practice
 DTEND:20261016T074000Z
 DTSTART:20261016T071500Z
 LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
