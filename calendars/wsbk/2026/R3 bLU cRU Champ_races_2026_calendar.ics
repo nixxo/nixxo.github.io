@@ -9,29 +9,29 @@ DESCRIPTION:Calendar for the 2026 season of the Yamaha R3 BLU CRU World Cu
 X-WR-CALDESC:Calendar for the 2026 season of the Yamaha R3 BLU CRU World Cu
  p championship.\n\nFilter applied: races-only\n\n by nixxo
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 1
 DTEND:20260502T090500Z
 DTSTART:20260502T082000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[R3 World Cup] Race 1
 UID:2026-HUN-YR3EC-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Yamaha R3 BLU CRU Worl
  d Cup\nSession: Race 2
 DTEND:20260503T085500Z
 DTSTART:20260503T081000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[R3 World Cup] Race 2
 UID:2026-HUN-YR3EC-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Aragon Round\nCategory: Yamaha R3 BLU CRU World Cup\nSes
  sion: Race 1
 DTEND:20260530T090500Z

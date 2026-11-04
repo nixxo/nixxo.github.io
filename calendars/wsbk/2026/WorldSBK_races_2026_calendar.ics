@@ -108,40 +108,40 @@ UID:2026-NED-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Superbike\nSessio
  n: Race 1
 DTEND:20260502T141500Z
 DTSTART:20260502T133000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSBK] Race 1
 UID:2026-HUN-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Superbike\nSessio
  n: Tissot Superpole Race
 DTEND:20260503T095500Z
 DTSTART:20260503T091000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSBK] Superpole Race
 UID:2026-HUN-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Superbike\nSessio
  n: Race 2
 DTEND:20260503T141500Z
 DTSTART:20260503T133000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSBK] Race 2
 UID:2026-HUN-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Czech Round\nCategory: World Superbike\nSession: Race 1
 DTEND:20260516T124500Z
 DTSTART:20260516T120000Z
@@ -379,37 +379,34 @@ UID:2026-EST-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
  n: Race 1
 DTEND:20261017T141500Z
 DTSTART:20261017T133000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSBK] Race 1
 UID:2026-JER-SBK-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T191606Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
  n: Tissot Superpole Race
 DTEND:20261018T095500Z
 DTSTART:20261018T091000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSBK] Superpole Race
 UID:2026-JER-SBK-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T191606Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Superbike\nSessio
  n: Race 2
 DTEND:20261018T141500Z
 DTSTART:20261018T133000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSBK] RACE 2
 UID:2026-JER-SBK-003@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER

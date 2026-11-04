@@ -53,29 +53,29 @@ UID:2026-NED-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20260502T114500Z
 DTSTART:20260502T110000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Race 1
 UID:2026-HUN-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
 DTEND:20260503T114500Z
 DTSTART:20260503T110000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Race 2
 UID:2026-HUN-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
  Racing\nSession: Race 1
 DTEND:20260613T104500Z
@@ -119,25 +119,23 @@ UID:2026-GBR-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20261017T104500Z
 DTSTART:20261017T100000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Race 1
 UID:2026-JER-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
 DTEND:20261018T104500Z
 DTSTART:20261018T100000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Race 2
 UID:2026-JER-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER

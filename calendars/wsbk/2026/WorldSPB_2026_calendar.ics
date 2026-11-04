@@ -489,73 +489,67 @@ UID:2026-CRE-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Free Practice
 DTEND:20261016T082000Z
 DTSTART:20261016T075500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Free Practice
 UID:2026-JER-SPB-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Tissot Superpole
 DTEND:20261016T123500Z
 DTSTART:20261016T121000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Superpole
 UID:2026-JER-SPB-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Warm Up 1
 DTEND:20261017T081500Z
 DTSTART:20261017T080500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Warm Up 1
 UID:2026-JER-SPB-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Race 1
 DTEND:20261017T114500Z
 DTSTART:20261017T110000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Race 1
 UID:2026-JER-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Warm Up 2
 DTEND:20261018T080500Z
 DTSTART:20261018T075500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Warm Up 2
 UID:2026-JER-SPB-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Race 2
 DTEND:20261018T114500Z
 DTSTART:20261018T110000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Race 2
 UID:2026-JER-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER

@@ -181,25 +181,23 @@ UID:2026-CRE-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-CRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Race 1
 DTEND:20261017T114500Z
 DTSTART:20261017T110000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Race 1
 UID:2026-JER-SPB-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Sportbike\nSessio
  n: Race 2
 DTEND:20261018T114500Z
 DTSTART:20261018T110000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSPB] Race 2
 UID:2026-JER-SPB-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER

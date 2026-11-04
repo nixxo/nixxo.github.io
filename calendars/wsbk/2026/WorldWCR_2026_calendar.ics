@@ -141,73 +141,73 @@ UID:2026-NED-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Free Practice
 DTEND:20260501T080500Z
 DTSTART:20260501T074000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Free Practice
 UID:2026-HUN-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Tissot Superpole
 DTEND:20260501T123500Z
 DTSTART:20260501T121000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Superpole
 UID:2026-HUN-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 1
 DTEND:20260502T071000Z
 DTSTART:20260502T070000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Warm Up 1
 UID:2026-HUN-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20260502T114500Z
 DTSTART:20260502T110000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Race 1
 UID:2026-HUN-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 2
 DTEND:20260503T071000Z
 DTSTART:20260503T070000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Warm Up 2
 UID:2026-HUN-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
 DTEND:20260503T114500Z
 DTSTART:20260503T110000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldWCR] Race 2
 UID:2026-HUN-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Emilia-Romagna Round\nCategory: Women's Circuit 
  Racing\nSession: Free Practice
 DTEND:20260612T072500Z
@@ -339,73 +339,67 @@ UID:2026-GBR-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-GBR
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261017T103719Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Free Practice
 DTEND:20261016T074000Z
 DTSTART:20261016T071500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Free Practice
 UID:2026-JER-WCR-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Tissot Superpole
 DTEND:20261016T115500Z
 DTSTART:20261016T113000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Superpole
 UID:2026-JER-WCR-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 1
 DTEND:20261017T072500Z
 DTSTART:20261017T071500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Warm Up 1
 UID:2026-JER-WCR-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Race 1
 DTEND:20261017T104500Z
 DTSTART:20261017T100000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Race 1
 UID:2026-JER-WCR-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Warm Up 2
 DTEND:20261018T072500Z
 DTSTART:20261018T071500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Warm Up 2
 UID:2026-JER-WCR-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: Women's Circuit Racing\
  nSession: Race 2
 DTEND:20261018T104500Z
 DTSTART:20261018T100000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldWCR] Race 2
 UID:2026-JER-WCR-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER

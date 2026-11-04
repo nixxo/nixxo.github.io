@@ -207,73 +207,73 @@ UID:2026-NED-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-NED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Free Practice
 DTEND:20260501T100000Z
 DTSTART:20260501T092000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Free Practice
 UID:2026-HUN-SSP-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Tissot Superpole
 DTEND:20260501T144000Z
 DTSTART:20260501T140000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Superpole
 UID:2026-HUN-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Warm Up 1
 DTEND:20260502T073000Z
 DTSTART:20260502T072000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Warm Up 1
 UID:2026-HUN-SSP-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Race 1
 DTEND:20260502T124500Z
 DTSTART:20260502T120000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Race 1
 UID:2026-HUN-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Warm Up 2
 DTEND:20260503T075000Z
 DTSTART:20260503T074000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Warm Up 2
 UID:2026-HUN-SSP-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261003T183915Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Motul Hungarian Round\nCategory: World Supersport\nSessi
  on: Race 2
 DTEND:20260503T124500Z
 DTSTART:20260503T120000Z
-LOCATION:Balaton Park Circuit\, Balatonfokajar\, HUN
+LOCATION:Balaton\, Balatonfokajar\, HUN
 SUMMARY:[WorldSSP] Race 2
 UID:2026-HUN-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-HUN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Czech Round\nCategory: World Supersport\nSession: Free P
  ractice
 DTEND:20260515T082000Z
@@ -766,73 +766,67 @@ UID:2026-EST-SSP-102@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-EST
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T191606Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Free Practice
 DTEND:20261016T101500Z
 DTSTART:20261016T093500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSSP] Free Practice
 UID:2026-JER-SSP-L1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Tissot Superpole
 DTEND:20261016T144000Z
 DTSTART:20261016T140000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSSP] Superpole
 UID:2026-JER-SSP-Q1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Warm Up 1
 DTEND:20261017T083500Z
 DTSTART:20261017T082500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSSP] Warm Up 1
 UID:2026-JER-SSP-W1A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Race 1
 DTEND:20261017T124500Z
 DTSTART:20261017T120000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSSP] Race 1
 UID:2026-JER-SSP-001@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Warm Up 2
 DTEND:20261018T082500Z
 DTSTART:20261018T081500Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSSP] Warm Up 2
 UID:2026-JER-SSP-W2A@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260825T100321Z
+DTSTAMP:20261104T093251Z
 DESCRIPTION:Round: Pirelli Spanish Round\nCategory: World Supersport\nSessi
  on: Race 2
 DTEND:20261018T124500Z
 DTSTART:20261018T120000Z
-LOCATION:Circuito de Jerez - Ángel Nieto\, Andalucía\, Jerez de la Fronte
- ra\, ESP
+LOCATION:Jerez\, Jerez de la Frontera\, ESP
 SUMMARY:[WorldSSP] Race 2
 UID:2026-JER-SSP-002@codeberg.org_nixxo
 URL:https://www.worldsbk.com/en/calendar/event/2026-JER
